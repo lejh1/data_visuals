@@ -1,1 +1,2 @@
 # data_visuals
+This is the start of some side projects regarding data visualizations with Python. This is to help me develop my self taught Data Science/Analyst skills to work with data using Python (pandas, numpy, seaborm, matplotlib, etc). 

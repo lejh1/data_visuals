@@ -11,7 +11,7 @@ import numpy as np
 import logging as lg
 import matplotlib.pyplot as plt
 
-# Getting current directory and the directory containing the data 
+# Getting current directory and the directory containing the data, visuals and additional paths
 working_dir = os.getcwd()
 data_dir = os.path.join(working_dir, 'data')
 csv_path = os.path.join(data_dir, 'County_MedianRentalPrice_1Bedroom.csv')
@@ -32,16 +32,16 @@ def BarPlotCA(old_df):
     df.where(df['State'] == 'CA',inplace = True)
     df.dropna(subset = ['State'], inplace = True)
 
-    # print(df)
     skip = 2
     for index, column in enumerate(df):
-        if skip:
+        if skip: # Used to iterate past the first 2 Columns - Need to optimize
             skip -= 1
             print(str(index) + ' ' + column)
 
         else:
             # df.sort_values(by=[column], inplace = True)
 
+            # Plots
             x = list(df['RegionName'])
             x_pos = np.arange(len(x))
             y = list(df[column])
@@ -51,10 +51,10 @@ def BarPlotCA(old_df):
             plt.ylabel('Monthly Median Rent')
             title = 'CA 1 Bedroom Median Monthly Rent - ' + column
             plt.title(title)
-            # plt.show()
             s_name = 'bar' + str(index) + '.png'
-            plt.savefig(os.path.join(visuals_dir, s_name),dpi=150)
+            plt.savefig(os.path.join(visuals_dir, s_name),dpi=150) # Need to figure out the dpi values
             plt.close()
+
 
 BarPlotCA(df)
 

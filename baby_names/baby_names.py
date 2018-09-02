@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import seaborn as sns
+import matplotlib.pyplot as plt
 
 working_dir = os.getcwd()
 data_dir = os.path.join(working_dir, "data")
@@ -31,8 +32,10 @@ for year in years:
     plot_df[year] = count_list
     count_list.clear()
     count_list = [0]*26
-print(plot_df)    
+plot_df.set_index("letters", inplace = True)
+new_plot_df = (plot_df[:]/plot_df[:].max()).copy()
+# print(new_plot_df)    
 
-
-# Count work; use k
 # Seaborn work
+sns.heatmap(new_plot_df)
+plt.show()

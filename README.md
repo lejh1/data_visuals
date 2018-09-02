@@ -5,8 +5,10 @@ This is the start of some side projects regarding data visualizations with Pytho
 ----------------
 Still in the works of mapping onto SVG and adding Median Income Data.
 Also need to figure out how to make higher quality GIF
-![bar plot](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar103.png)
 ![bar plot gif](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar.gif)
+![bar plot](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar103.png)
+![CA Heat Map](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/output.svg)
+
 Data: [Zillow Data](https://www.zillow.com/research/data/)
 
 

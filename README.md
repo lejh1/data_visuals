@@ -4,7 +4,7 @@ This is the start of some side projects regarding data visualizations with Pytho
 1 Bedroom Apartment Monthly Rent Plots 2010 - 2018
 ----------------
 Some visuals to show 1 Bedroom Apartment Monthly Rent from 2010 - 2018 in California per County.
-Started 8/30, needs lots of work to clean and update heatmap.
+Started 8/30 (first data visual project), needs lots of work to clean and update heat map with legend.
 Also need to figure out how to make higher quality GIF and find better apartment listing dataset :( .
 
 

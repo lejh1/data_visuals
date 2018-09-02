@@ -9,10 +9,14 @@ Also need to figure out how to make higher quality GIF and find better apartment
 
 
 ![bar plot gif](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar.gif)
+
+
 Static Bar Graph to show latest rent comparison.
 ![bar plot](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar103.png)
-![CA Heat Map](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/output.png)
+
+
 Heatmap to show latest rent comparison and to practice writing over SVG files using lxml.
+![CA Heat Map](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/output.png)
 Data: [Zillow Data](https://www.zillow.com/research/data/)
 Data: [CA SVG Map Data](https://commons.wikimedia.org/wiki/File:California_county_map_(labeled).svg)
 

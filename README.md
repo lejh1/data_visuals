@@ -4,11 +4,14 @@ This is the start of some side projects regarding data visualizations with Pytho
 1 Bedroom Apartment Monthly Rent Plots 2010 - 2018
 ----------------
 Still in the works of mapping onto SVG and adding Median Income Data.
-Also need to figure out how to make higher quality GIF
+Also need to figure out how to make higher quality GIF :( .
+
 ![bar plot gif](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar.gif)
 ![bar plot](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/bar103.png)
-![CA Heat Map](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/output.svg)
+![CA Heat Map](https://github.com/lejh1/data_visuals/blob/master/rent_comparison/visuals/output.png)
 
 Data: [Zillow Data](https://www.zillow.com/research/data/)
+Data: [CA SVG Map Data](https://commons.wikimedia.org/wiki/File:California_county_map_(labeled).svg)
+
 
 

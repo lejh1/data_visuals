@@ -40,7 +40,6 @@ for year in years:
     count_list = [0]*26
 plot_df.set_index("letters", inplace = True)
 new_plot_df = (plot_df[:]/plot_df[:].max()).copy()
-# print(new_plot_df)    
 
 # Seaborn work
 plt.figure(figsize= (16,9))
@@ -48,6 +47,6 @@ sns.heatmap(new_plot_df, vmin = 0)
 sns.set(font_scale= 2.0)
 plt.yticks(rotation=0)
 plt.title("First Letter of Baby Names from 1917-2017 - US")
-plt.annotate('Author: Justin Le\nCode:https://github.com/lejh1\nData:https://catalog.data.gov', (102,20), size = 11)
-plt.savefig(os.path.join(visuals_dir, "heatmap"),dpi=150) # Need to figure out the dpi values
-# plt.show()
+txt = 'Code: https://github.com/lejh1\nData: https://catalog.data.gov\nlejh1'
+plt.text(118,.05,txt, size = 8, alpha = 0.2)
+plt.savefig(os.path.join(visuals_dir, "heatmap"),dpi=150) 

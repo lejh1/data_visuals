@@ -1,6 +1,13 @@
 # data_visuals
 This is the start of some side projects regarding data visualizations with Python. This is to help me develop my self taught Data Science/Analyst skills to work with data using Python (pandas, numpy, seaborm, matplotlib, etc). Inspired by aaronpenne who helped introduce me to the world of data science.
 
+First Letter of Baby Names from 1917 - 2017 (100 Years) - US
+----------------
+Interesting heatmap displaying the change over 100 years of the first letter of baby names. Each year is scaled where the max of each year is 1.0, I divided each letter count by the max of each year. Used Pandas, Seaborn and Matplotlib :)
+![heatmap plot](https://github.com/lejh1/data_visuals/blob/master/baby_names/visuals/heatmap.png)
+Data: [Data.gov US Data](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+
+
 1 Bedroom Apartment Monthly Rent Plots 2010 - 2018
 ----------------
 Some visuals to show 1 Bedroom Apartment Monthly Rent from 2010 - 2018 in California per County.

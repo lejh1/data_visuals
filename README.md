@@ -3,7 +3,7 @@ This is the start of some side projects regarding data visualizations with Pytho
 
 First Letter of Baby Names from 1917 - 2017 (100 Years) - US
 ----------------
-Interesting heatmap displaying the change over 100 years of the first letter of baby names. Each year is scaled where the max of each year is 1.0, I divided each letter count by the max of each year. Used Pandas, Seaborn and Matplotlib :)
+Interesting heatmap displaying the change over 100 years of the first letter of baby names. Each year is scaled where the max of each year is 1.0, using the method: Rescaling (min-max normalization) "https://en.wikipedia.org/wiki/Feature_scaling". Used Pandas, Seaborn and Matplotlib :)
 ![heatmap plot](https://github.com/lejh1/data_visuals/blob/master/baby_names/visuals/heatmap.png)
 Data: [Data.gov US Data](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 

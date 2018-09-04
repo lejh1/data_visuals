@@ -39,7 +39,12 @@ for year in years:
     count_list.clear()
     count_list = [0]*26
 plot_df.set_index("letters", inplace = True)
-new_plot_df = (plot_df[:]/plot_df[:].max()).copy()
+max_val = plot_df.max()
+min_val = plot_df.min()
+# new_plot_df = (plot_df[:]/plot_df[:].max()).copy()
+# new_plot_df = ((plot_df[:]-plot_df[:].min())/(plot_df[:].max()-plot_df[:].min())).copy()
+new_plot_df = ((plot_df[:]-min_val)/(max_val-min_val)).copy()
+# print(max_val)
 
 # Seaborn work
 plt.figure(figsize= (16,9))

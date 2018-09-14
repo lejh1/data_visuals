@@ -7,6 +7,13 @@ Interesting heatmap displaying the change over 100 years of the first letter of 
 ![heatmap plot](https://github.com/lejh1/data_visuals/blob/master/baby_names/visuals/heatmap.png)
 Data: [Data.gov US Data](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
+Top-Level Comments freq. during the 9.13.2018 Nintendo Direct MegaThread
+----------------
+Fun line plot used to show the frequency of comments in a livethread on Reddit. I used this side project to learn about using APIs, in this case Reddit's API PRAW, to data mine. Used Pandas, PRAW, Numpy and Matplotlib. Still working on labelling the major events that occurred during the direct using illustrator!
+![line plot](https://github.com/lejh1/data_visuals/blob/master/nintendo_switch_direct/visuals/reddit.png)
+Data: [Reddit Thread Data](https://www.reddit.com/r/NintendoSwitch/comments/9fla9v/9132018_nintendo_direct_megathread/?sort=new)
+API: [Reddit API] (https://praw.readthedocs.io/en/stable/index.html)
+
 
 1 Bedroom Apartment Monthly Rent Plots 2010 - 2018
 ----------------

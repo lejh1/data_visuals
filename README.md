@@ -9,7 +9,7 @@ Data: [Data.gov US Data](https://catalog.data.gov/dataset/baby-names-from-social
 
 Top-Level Comments freq. during the 9.13.2018 Nintendo Direct MegaThread
 ----------------
-Fun line plot used to show the frequency of comments in a livethread on Reddit. I used this side project to learn about using APIs, in this case Reddit's API PRAW, to data mine. Used Pandas, PRAW, Numpy and Matplotlib. Still working on labelling the major events that occurred during the direct using GIMP 2!
+Fun line plot used to show the frequency of comments in a livethread on Reddit. I happened to be watching this livestream while on the livethread and was interested to know at what points during the stream did people comment most. I used this side project to learn about using APIs, in this case Reddit's API PRAW, to data mine. Used Pandas, PRAW, Numpy and Matplotlib. Still working on labelling the major events that occurred during the direct using GIMP 2!
 ![line plot](https://github.com/lejh1/data_visuals/blob/master/nintendo_switch_direct/visuals/reddit.png)
 ![line plot Annotated](https://github.com/lejh1/data_visuals/blob/master/nintendo_switch_direct/visuals/reddit_annotated.png)
 Data: [Reddit Thread Data](https://www.reddit.com/r/NintendoSwitch/comments/9fla9v/9132018_nintendo_direct_megathread/?sort=new)  

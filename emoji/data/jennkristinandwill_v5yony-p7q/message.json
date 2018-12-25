@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Will XuXu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1481162349435,
+      "content": "No*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1481161487452,
+      "content": "So worries :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1481161455268,
+      "content": "Not tonight \u00f0\u009f\u0098\u00ad sorry!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1481159078713,
+      "content": "Soooooo can you swipe us in tonight, little? Haha",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenn, Kristin and Will",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennKristinandWill_V5yony-P7Q"
+}

@@ -1,0 +1,148 @@
+{
+  "participants": [
+    {
+      "name": "Wing Ho"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479841341569,
+      "content": "Oh same how convenient",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479840614239,
+      "content": "I might be 5 minutes late lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479328227026,
+      "content": "Um like most of the day Tuesday Thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479327230479,
+      "content": "Don't skip\nClass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479327227860,
+      "content": "Okay when you free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479327097549,
+      "content": "I need your signature!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479326772742,
+      "content": "LOL no it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479326759471,
+      "content": "I'm willing to skip class for this interview LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479326742555,
+      "content": "How about 3 on monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479326717050,
+      "content": "Lol when are you free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479286112800,
+      "content": "I have a midterm \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479285755767,
+      "content": "Errr how about this friday at 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479279297119,
+      "content": "I am not \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279289411,
+      "content": "Are you free next wednesday at 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279235882,
+      "content": "I can schedule you for next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279229737,
+      "content": "For scheduling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279225077,
+      "content": "Ohh i think i said my this week is all fulled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479279213811,
+      "content": "I need your signature \u00f0\u009f\u0098\u00b1 when will you be free \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479279199028,
+      "content": "Reeva lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279179609,
+      "content": "Who said that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Wing Ho",
+      "timestamp_ms": 1479279177374,
+      "content": "Lol no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479269128903,
+      "content": "Hi is it true that you are gonna be too busy for interviews \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    }
+  ],
+  "title": "Wing Ho",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/WingHo_GzABUTxfHA"
+}

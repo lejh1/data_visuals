@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Derek Lee"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491496992420,
+      "content": "but if you need help with any organizing or anything else, let me know. Ill try my best :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491496978468,
+      "content": "just did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491496969449,
+      "content": "Just change it on the apo website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491496957828,
+      "content": "Oh rip lol it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491496923205,
+      "content": "\u00f0\u009f\u0098\u0082 Sorry. I would, but I don't have the time to do a great job at it. I thought it was helping out at one booth the entire time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491496867930,
+      "content": "Yeah you right. I signed up by mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491496857069,
+      "content": "\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491496830986,
+      "content": "Mmm at this point yea we would just give you an idea and you have to create it. So you need to make a poster board with information relative to your booth theme.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491495717470,
+      "content": "Just man a booth right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1491495706258,
+      "content": "What do booth leaders do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494857206,
+      "content": "I see that you signed up to be a booth leader. Is that for real or a mistake lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Derek Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DerekLee_imARTyb3Hw"
+}

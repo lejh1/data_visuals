@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Words With Friends"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525733758261,
+      "content": "You turned off all messages from Words With Friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525731197791,
+      "content": "Words With Friends: Jerry is waiting for you to start playing",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525641798886,
+      "content": "Words With Friends: Its been 71 hours since you played, remind Jerry to play!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525558111729,
+      "content": "Words With Friends: Its been 48 hours since you played, remind Jerry to play!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525460671043,
+      "content": "Words With Friends: Jerry finished your last game.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525379794467,
+      "content": "Words With Friends: Its been 16 hours since you played, remind Jerry to play!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525293810567,
+      "content": "Words With Friends: Its been 24 hours since you played, remind Jerry to play!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Words With Friends",
+      "timestamp_ms": 1525293810032,
+      "content": "You opened this conversation by playing Words With Friends.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Words With Friends",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/WordsWithFriends_jHd_pBhnHg"
+}

@@ -1,0 +1,359 @@
+{
+  "participants": [
+    {
+      "name": "Jerry Lee"
+    },
+    {
+      "name": "Crystal Lai"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524766458124,
+      "content": "Jerry sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/files/JobDescriptionforIntern_1901767319834144.pdf",
+          "creation_timestamp": 1524766457
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Crystal Lai"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353488815,
+      "content": "Exactly, but I just want to know, cause if not then I need to start thinking about what I\u00e2\u0080\u0099m going to do:/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353463692,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353458383,
+      "content": "or whoever we choose for it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353454051,
+      "content": "oh hm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353447925,
+      "content": "If he thinks the project is large enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353417505,
+      "content": "Depends on Q.V. tho.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353347125,
+      "content": "HMM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353346352,
+      "content": "because person contributes too little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353340694,
+      "content": "rarely 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353337271,
+      "content": "RIP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353274119,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353272771,
+      "content": "And lol my dads driving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524353270543,
+      "content": "so 3-4? hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524353222168,
+      "content": "Crystal sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/photos/30826155_1862796463745295_294127142_o_1862796463745295.jpg",
+          "creation_timestamp": 1524353221
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353104929,
+      "content": "how many peopl can we have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353098310,
+      "content": "GOTTA READ THE RULES MANG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1524353091633,
+      "content": "Oh wow bring back half n half",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524352461687,
+      "content": "@Jerry Lee lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524352318027,
+      "content": "idk if my boss read your stuff yet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524352306029,
+      "content": "Soooooo? Senior design?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524352305189,
+      "content": "oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524352297496,
+      "content": "Lol I\u00e2\u0080\u0099m on the way to arcadia to go to my cousins place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524352281950,
+      "content": "boba?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1524352256806,
+      "content": "Sooooooooooo....?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523952389889,
+      "content": "i would if i could gt my own...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1523951289555,
+      "content": "land me a summer internship plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523951255226,
+      "content": "Crystal sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/files/CrystalLaiResume_1858114327546842.pdf",
+          "creation_timestamp": 1523951253
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1523951241637,
+      "content": "what pile do i put the resume in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1523951230570,
+      "content": "breh that spacing...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950445621,
+      "content": "dude.. his is crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950440428,
+      "content": "lol i just fixed it tho haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950438534,
+      "content": "It's the GPA that's get them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950422106,
+      "content": "because he got an internship at both SCE and Northrop, so I thought, hey! maybbe this will get me an internship LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950406988,
+      "content": "Omg lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950398203,
+      "content": "I used thomas's resume as a template lmaooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950394926,
+      "content": "What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950386253,
+      "content": "lol.. wanna know something funny?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950359687,
+      "content": "Jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950358544,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950355652,
+      "content": "My boss @Jerry requires attention to detail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950313128,
+      "content": "This isn't lined up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950308189,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/photos/30715159_536372376757791_2891204643151413248_n_536372373424458.jpg",
+          "creation_timestamp": 1523950307
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523950056326,
+      "content": "Oh wow LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950049537,
+      "content": "I wanted to make sure you guys got it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523950044568,
+      "content": "I also emailed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1523949971936,
+      "content": "omg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523949927135,
+      "content": "Crystal sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/files/CrystalLaiResume_1858102437548031.pdf",
+          "creation_timestamp": 1523949925
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1523949915740,
+      "content": "Crystal sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/JerryandCrystal_QawAKUiw-g/files/jerryandjustin1_1858102327548042.pdf",
+          "creation_timestamp": 1523949914
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Jerry and Crystal",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JerryandCrystal_QawAKUiw-g"
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Jessica Ho"
+    },
+    {
+      "name": "Adriana Baldibia-Bejar"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485213336432,
+      "content": "Rip LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1485213317719,
+      "content": "how cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1485213302549,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485213287526,
+      "content": "This tells quite a story",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485213282634,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KristinJessicaandAdriana_PU7PxUF92A/photos/16231375_334868046908226_222705068_o_334868046908226.jpg",
+          "creation_timestamp": 1485213282
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1485213190124,
+      "content": "LOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485213110627,
+      "content": "Aw cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1485212887437,
+      "content": "https://photos.google.com/share/AF1QipNznG2E30-YA1ZcuuHvdJznZYja59kPWLrgaGZxxSSADgDVq0vCTnt4uoCBuGWqxg?key=SnZKZU9BWG5Qd21aTTFpNEg0NzRmTk9BZHI1Sndn",
+      "share": {
+        "link": "https://photos.google.com/share/AF1QipNznG2E30-YA1ZcuuHvdJznZYja59kPWLrgaGZxxSSADgDVq0vCTnt4uoCBuGWqxg?key=SnZKZU9BWG5Qd21aTTFpNEg0NzRmTk9BZHI1Sndn"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Kristin, Jessica and Adriana",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinJessicaandAdriana_PU7PxUF92A"
+}

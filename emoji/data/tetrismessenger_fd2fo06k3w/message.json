@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Tetris Messenger"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tetris Messenger",
+      "timestamp_ms": 1523950548991,
+      "content": "Tetris Messenger: Improve your highscore, and takeover your friends!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Tetris Messenger",
+      "timestamp_ms": 1523950548442,
+      "content": "You opened this conversation by playing Tetris.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tetris Messenger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TetrisMessenger_fd2Fo06K3w"
+}

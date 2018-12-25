@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Koh"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachel Koh",
+      "timestamp_ms": 1525662811063,
+      "content": "Npnp!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachel Koh",
+      "timestamp_ms": 1525662807773,
+      "content": "Rachel sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734298_1578471195721664_463747023_n_1578471192388331.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525656443526,
+      "content": "ill check it out and let you know!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525656435822,
+      "content": "omgggg youre the best!!! <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachel Koh",
+      "timestamp_ms": 1525656372525,
+      "content": "Hi Justin! Maybe https://www.facebook.com/groups/492998554404284/about/   ?? There's a page for Stanford students, but it seems that you need to be a student to join :( but I can definitely post something for you on there if you can't find anything!!",
+      "share": {
+        "link": "https://www.facebook.com/groups/492998554404284/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525589590939,
+      "content": "Hello Rachel!!! I was wondering if I can ask you a favor :) I got an internship in Palo Alto and was wondering if there is a stanford fb page or something where people post sublets for their apartment for the summer? If you could help me I will be very very grateful \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rachel Koh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RachelKoh_kw0ssqS60w"
+}

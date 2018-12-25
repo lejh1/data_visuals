@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Brian Lee"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234582683,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234561024,
+      "content": "she says thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234554786,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234547548,
+      "content": "lime hot cheetos lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234527119,
+      "content": "Does she want hot cheetos?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234525904,
+      "content": "hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234522376,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234518798,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234517071,
+      "content": "Only for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234515163,
+      "content": "Not her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234507081,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234504521,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234502860,
+      "content": "agnes wants cheetos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234500069,
+      "content": "Food LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478234491791,
+      "content": "WHY ARE YOU AT ALBERTSONS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478234470069,
+      "content": "Want anything from Albertsons?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brian Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BrianLee_sIRsfgU-KA"
+}

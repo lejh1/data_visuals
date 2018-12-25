@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sylvia Apple Chen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sylvia Apple Chen",
+      "timestamp_ms": 1511834536967,
+      "content": "Say hi to your new Facebook friend, Sylvia.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sylvia Apple Chen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SylviaAppleChen_B1hsvU9PjQ"
+}

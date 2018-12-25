@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478851265065,
+      "content": "Showcase lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1478851188520,
+      "content": "When you need them by?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478846340918,
+      "content": "Very important \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478846277868,
+      "content": "Please send me the most/any embarrassing pictures of Kristin that you have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478846234435,
+      "content": "Hi I need your guy's help",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin and Kristine",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KevinandKristine_9FqbVjgJMg"
+}

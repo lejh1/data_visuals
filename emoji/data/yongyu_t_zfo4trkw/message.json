@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Yong Yu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yong Yu",
+      "timestamp_ms": 1492974170491,
+      "content": "Just gotta leave it clean:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yong Yu",
+      "timestamp_ms": 1492974140214,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492972830981,
+      "content": "Hi! Fellow IC here\u00f0\u009f\u0098\u008a just wondering if we are allowed to bring food inside?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yong Yu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/YongYu_T_zfO4tRKw"
+}

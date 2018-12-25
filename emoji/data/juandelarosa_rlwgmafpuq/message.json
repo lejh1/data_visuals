@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Juan De La Rosa"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan De La Rosa",
+      "timestamp_ms": 1527297649480,
+      "content": "Say hi to your new Facebook friend, Juan.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Juan De La Rosa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JuanDeLaRosa_RlWGmAFpuQ"
+}

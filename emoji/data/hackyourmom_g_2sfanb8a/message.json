@@ -1,0 +1,502 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Yue"
+    },
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Michael Choi"
+    },
+    {
+      "name": "Jeff Pham"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517811096106,
+      "content": "LOLLLLLLLLLLLLLLLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517810575580,
+      "content": "https://www.juullabs.com/join-us/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517786996196,
+      "content": "u are so smart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517786990328,
+      "content": "justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517784983368,
+      "content": "Dude the group that won the health and wellness award made the anonymous mental health chat app that I pitched lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517765370321,
+      "content": "anyone still at hack?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517641704382,
+      "content": "https://www.youtube.com/watch?v=gBi8Obib0tw",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=gBi8Obib0tw"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517636133838,
+      "content": "https://join.slack.com/t/hackuciteam/shared_invite/enQtMzEwMjMxNjgwMDcwLTIwZGUxM2RjMTZkMDIxNjI5Y2VhOWIzZWVkZGQ5YzE0NzI1ODA0MWU5ZWU3YzI0MzFjYjZhNWZiODJmN2IzOWE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517634111483,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517633317924,
+      "content": "i\u00e2\u0080\u0099ll be back before everything starts i promise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517633304104,
+      "content": "wait brb guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1517633078337,
+      "content": "i can pretend to be the 5th person in ur group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1517632982351,
+      "content": "haha sucks for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517632976110,
+      "content": "WAT DO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517632970323,
+      "content": "WAT DO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632560537,
+      "content": "This hurts too mucu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632557176,
+      "content": "Somone break the news to him pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632542993,
+      "content": "Lmaoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517632521103,
+      "content": "i think he thinks we are one big team",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632515342,
+      "content": "NOOOOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632513047,
+      "content": "HAHAHAHAHAHAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632508712,
+      "content": "Is this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517632507824,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632506944,
+      "content": "Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517632505844,
+      "content": "we arent sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632505812,
+      "content": "Is he trying to work with us?!?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632498624,
+      "content": "Who is that guy next to Michael",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517632492915,
+      "content": "Wait wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517631150936,
+      "content": "for us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517631148566,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517631147374,
+      "content": "in line to get food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517631135808,
+      "content": "Where at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517627997918,
+      "content": "where u guys at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517627417290,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517627405323,
+      "content": "come find us in line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517627402221,
+      "content": "we\u00e2\u0080\u0099re just gonna go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517627396676,
+      "content": "coming rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517627394788,
+      "content": "oops sorrt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517627188672,
+      "content": "michael comenoutside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517626702580,
+      "content": "Ima shower and then drive over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517626701427,
+      "content": "i\u00e2\u0080\u0099m at flagpoles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517626526709,
+      "content": "im at gateway atm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517626524039,
+      "content": "lmk when u guys are on campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517626202953,
+      "content": "@Ryan Yue",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517626199842,
+      "content": "Me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517626193346,
+      "content": "and @Jeff Pham we aren\u00e2\u0080\u0099t 100% sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517626183260,
+      "content": "@JuJu Stinley i\u00e2\u0080\u0099m leaving now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1517625547988,
+      "content": "the uber meal prep thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1517625538984,
+      "content": "what r y'all doin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517625524572,
+      "content": "i\u00e2\u0080\u0099ll just walk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517625521777,
+      "content": "nah i\u00e2\u0080\u0099m good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517625501561,
+      "content": "Or we can walk together too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517625495251,
+      "content": "Want a ride?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517625410910,
+      "content": "tell me when u leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517625409473,
+      "content": "ooh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517625250978,
+      "content": "Michelle is gonna drop me off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517625201549,
+      "content": "okay are u gonna park on campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517624883973,
+      "content": "nah they probably have that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517624883370,
+      "content": "I'll leave in like 10min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517624873970,
+      "content": "Y'all want me pick up snacks or energy drinks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517624868622,
+      "content": "idk imcdone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517624859193,
+      "content": "Should I come soon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517624857433,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517624852581,
+      "content": "Home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517624842130,
+      "content": "@JuJu Stinley wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517623558697,
+      "content": "7ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517623518763,
+      "content": "hey when are u guys getting on campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517537292136,
+      "content": "That's super useful I bet that has never been done before",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michael Choi"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517537285356,
+      "content": "completely original",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517537280945,
+      "content": "we could call it zotdax",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1517537272216,
+      "content": "we could make a website that shows the price of bitcoin ethereum and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517524775151,
+      "content": "for more moonies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517524769800,
+      "content": "we could maybe create our website using that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517524619069,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517524526811,
+      "content": "did you guys see the email with the .tech thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517524514385,
+      "content": "Andrew named the group hackyourmom.",
+      "type": "Generic"
+    }
+  ],
+  "title": "hackyourmom",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/hackyourmom_g_2sfaNB8A"
+}

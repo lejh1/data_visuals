@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1483000327445,
+      "content": "T",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1483000326970,
+      "content": "I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1483000324191,
+      "content": "L",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482994199239,
+      "content": "me currently",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482994193901,
+      "content": "Rosalio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47203863_1134375583403365_2640803535783985152_n_144884865685780.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482994173857,
+      "content": "Don't play me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482994164243,
+      "content": "I can't lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482994159900,
+      "content": "girl I still got one more episode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1482994115515,
+      "content": "Was the ending too good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482994084129,
+      "content": "OH MY GOD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482989705149,
+      "content": "Okay! I shall try as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1482989703722,
+      "content": "Do what you gotta do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1482989659471,
+      "content": "I'm gonna finish Westworld",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rosalio and Michelle",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/RosalioandMichelle_lS6MFQtXwA"
+}

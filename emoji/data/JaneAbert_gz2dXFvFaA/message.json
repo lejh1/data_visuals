@@ -1,0 +1,184 @@
+{
+  "participants": [
+    {
+      "name": "Jane Abert"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497739035350,
+      "content": "Yeah! Would you be interested in buying just the bed or the mattress as well? I'd ideally like to sell them together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497737756663,
+      "content": "Hi! So today didn't quite go as planned and I ended up being quite busy will now. Is the bed still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497723252147,
+      "content": "Yes of course, I can do like early afternoon? There's another girl moving in in the morning but you should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497664269286,
+      "content": "I still wanna look at all the parts in person first of course if that's okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497664249708,
+      "content": "Okay! So what time Monday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497664120863,
+      "content": "Just the bed would be $50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497664097135,
+      "content": "Okay so how much for the bed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497663939463,
+      "content": "Sorry \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497663936414,
+      "content": "Idk this probably doesn't help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497663927331,
+      "content": "Jane sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JaneAbert_gz2dXFvFaA/photos/19250255_10209498767849643_1857105567_o_10209498767849643.jpg",
+          "creation_timestamp": 1497663927
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497663889870,
+      "content": "Oh no its disassembled already \u00f0\u009f\u0098\u0095 I have pictures from before though that might help!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497663832796,
+      "content": "Yes I can do Monday. Is it still assembled? I would like to look at it assembled before I buy it if that's okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497663677953,
+      "content": "If you're still interested would you want to come Monday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497602770676,
+      "content": "Okay just let me know cause I can definitely pick it up if you can't deliver it to her!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497598230392,
+      "content": "Well the one girl who messaged me wants it delivered, and I'm not sure I'd be able to do that so I'll see what I can do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497566561945,
+      "content": "Is it still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497552285443,
+      "content": "I can pick it up between 4-6 today or anytime tomorrow. And the whole thing disassembled would be preferable!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497546127768,
+      "content": "Would you be able to come pick it up? And would you want the whole thing disassembled or just the bottom half",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497512072057,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497512057412,
+      "content": "Thank you! I'll let you know tomorrow :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497512029454,
+      "content": "Okay please let me know! I'm also willing to pay more if that's an option you'd consider",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497511887829,
+      "content": "I actually have someone who messaged first who I think is going to buy it, I'll let you know if she backs out!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497510627142,
+      "content": "Okay! Is it possible if I look at it before I buy them? Also just to make sure, the bed under the loft bed isn't attached to it right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497509905961,
+      "content": "And I priced it wrong, the bed and mattress together is $65",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497509884304,
+      "content": "Yeah t is!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jane Abert",
+      "timestamp_ms": 1497509879867,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497506927155,
+      "content": "Hello! Is the bed still available?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jane Abert",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JaneAbert_gz2dXFvFaA"
+}

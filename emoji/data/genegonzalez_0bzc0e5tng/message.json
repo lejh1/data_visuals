@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Gene Gonzalez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496190248478,
+      "content": "Uh I'll be at cha night and sporadically at the tents lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496190210599,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gene Gonzalez",
+      "timestamp_ms": 1496185662672,
+      "content": "Hi Justin! I was wondering when you are free for an interview? :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gene Gonzalez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GeneGonzalez_0bzc0E5Tng"
+}

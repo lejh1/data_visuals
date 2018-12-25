@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Ung"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1493749705445,
+      "content": "She said she has an interview overlapping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493749496576,
+      "content": "What's the schedule conflict tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493749485141,
+      "content": "Jk yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493749484789,
+      "content": "Lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493749468776,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1493749436157,
+      "content": "Hi, can Sarah and I switch time slots for interviews. She requested it because she has a schedule conflict",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1493343617544,
+      "content": "Sorry, I sent you a text but I guess it didn't send lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343600164,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343597853,
+      "content": "About time lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343589689,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1493334201790,
+      "content": "Hi Justin! I signed up for an appointment with you for Tuesday 5/2 at 4:30pm and just wanted to confirm it. Looking forward to meeting you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1493333982871,
+      "content": "Daniel added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Daniel Ung",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DanielUng_nMmmtj4Luw"
+}

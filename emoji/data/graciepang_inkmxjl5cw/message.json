@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Gracie Pang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527019604751,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1527019597146,
+      "content": "Good luck with your internship!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527019580451,
+      "content": "Ahh I see okay no problem thank you for reaching out tho \u00f0\u009f\u0099\u0082.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1527019548587,
+      "content": "Actually that wouldn't work because sjsu starts school August 21st so I would need the room by then Unfortunately!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1527019470468,
+      "content": "What would be your move in date and move out date",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527019434183,
+      "content": "Hi so I got an update! My internship is from June 18th - August 31st. Do these dates work for you ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526961961298,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526961953783,
+      "content": "Okay thank you! I will keep you updated as soon as I hear something back. Thanks for reaching out to me! I hope your room viewings go well!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526961826176,
+      "content": "Yes I am holding room viewings tmr and the 31st of May so it's first come first serve for prospective renters. There is a no pets and no smoking policy in the complex & one designated parking spot.\n\nIf you have any additional questions or updates feel free to let me know!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526961702599,
+      "content": "Okay I'm definitely interested. Is there parking? Also I'm waiting for confirmation from my company about the dates which may take a week or so. So I don't want to confirm anything with you if I'm not 100% certain so I don't screw you over. Feel free to look for other people to take your room in the mean time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526960367687,
+      "content": "$850 for a single and $1225 for a double shared. utilities are included",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526960325999,
+      "content": "It is available June 1st to mid August",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526960247804,
+      "content": "what about the price and dates availiable?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526955958217,
+      "content": "It's availible as a single and also a double if you have a roommate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526955942548,
+      "content": "Hi there-- it's located one block from sjsu and 15 minutes walk from downtown San Jose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526950032118,
+      "content": "Oh hi! Thank you for messaging me! Can I have some more details about it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526950005938,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gracie Pang",
+      "timestamp_ms": 1526935997863,
+      "content": "Hi there-- I have a room availible for sublease in the summer",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gracie Pang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GraciePang_INKmxJl5Cw"
+}

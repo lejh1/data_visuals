@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Cleopatra Siagian"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495655554273,
+      "content": "Say hi to your new Facebook friend, Cleopatra.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cleopatra Siagian",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CleopatraSiagian_3mv_BA4ecA"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Aubrey Yuen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1503036201635,
+      "content": "Ooh kay, cool thanks :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503035348418,
+      "content": "Hmm okayyy well for my reveal we usually do some sort of matching game type thing. Like each person gettin paired gets an envelope and inside it has something you have to match like like Pok\u00c3\u00a9mon and their evolutions or candy to candy. This is after a whole day of games in the park so there's a lot of build up and hype",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1503034735459,
+      "content": "Hmm probably not because we're having applications due end of week 1 and holding the first reveal week 2 of school, they'd meet some but not well enough to get to know each other :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503034325074,
+      "content": "Because one of the big things about big/little reveal is that we know who is picking up/getting picked up and that's what makes the reveal exciting. If we don't know them beforehand I would think it would be a little awk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503034274101,
+      "content": "Mmm well before I say anything I wanted to know if we get to meet the potential mentees before paired?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503034173154,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1503031684008,
+      "content": "Ani and I wanted to do something creative for the mentee/mentor reveals, because you are in a fraternity, we were wondering if  you have any ideas from big/little reveals we could potentially use?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aubrey Yuen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AubreyYuen_YjgAbe5SzA"
+}

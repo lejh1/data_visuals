@@ -1,0 +1,4161 @@
+{
+  "participants": [
+    {
+      "name": "Jd Ingal"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544155714656,
+      "content": "Is my water bottle under my seat lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543981973205,
+      "content": "Look at Tristan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542773442662,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542773441491,
+      "content": "That\u00e2\u0080\u0099s fucked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1542773439524,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542773435878,
+      "content": "That\u00e2\u0080\u0099s mean dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1542773417907,
+      "content": "At8 a :10funeral",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542772424110,
+      "content": "Oh the real tho. Where\u00e2\u0080\u0099s tree at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542772390143,
+      "content": "What time is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542772387519,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1542242743835,
+      "content": "Whatafaaaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542242642442,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1542242637355,
+      "content": "Do you understand what the survey thing is cause I still don\u00e2\u0080\u0099t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542167579797,
+      "content": "That was a painful one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542167573082,
+      "content": "That hurts since I don\u00e2\u0080\u0099t know what\u00e2\u0080\u0099s going on in this lecture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1542167494875,
+      "content": "7:51",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541736512641,
+      "content": "It was clever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541736508117,
+      "content": "You have to admit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1541736340186,
+      "content": "You missed a call from Jd.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541736295129,
+      "content": "Check out this meme",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541736291273,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/45954238_270633450308287_8585538645727903744_n_270633430308289.jpg",
+          "creation_timestamp": 1541736290
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541121782898,
+      "content": "shook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1541121726353,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541121718761,
+      "content": "oh shit i didnt know there was an updated prompt lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1541121652643,
+      "content": "So yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1541121645480,
+      "content": "If you look at the updated prompt, they let us use a function called set_vertex(name, x, y)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541121637117,
+      "content": "does the user input something for the vertices",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541121596228,
+      "content": "do you remeber what kyle said on tuesday about the vertices stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539818058324,
+      "content": "Ty ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539818055283,
+      "content": "Ooohhhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539817999151,
+      "content": "In a new file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539817014107,
+      "content": "Where in the code did you put that tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539817008804,
+      "content": "Oh oh okay fosho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539816967686,
+      "content": "Oh I just did like if a=!null then did it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539816816539,
+      "content": "Like so it doesn\u00e2\u0080\u0099t post null for everything when you click an option",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539816798222,
+      "content": "What do you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539814270127,
+      "content": "Can I see how you did the different method posts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539294105102,
+      "content": "Lol don\u00e2\u0080\u0099t worry if they\u00e2\u0080\u0099re messy, I just wanna know the general topics he goes over",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539294082268,
+      "content": "Yea I\u00e2\u0080\u0099ll try to take some decent ones lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539294062958,
+      "content": "Can I see your notes for 118 for today\u00e2\u0080\u0099s lecture? I won\u00e2\u0080\u0099t be able to make it to class today cause I gotta work at this booth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539124738414,
+      "content": "The sequence of wff\u00e2\u0080\u0099s {w1, w2, \u00e2\u0080\u00a6 ,wR} is called a proof ( or a deduction ) of wn from a set of wff\u00e2\u0080\u0099s \u00e2\u0096\u00b3 iff each wi in the sequence is either in \u00e2\u0096\u00b3 or can be inferred from a wff ( or a set of wff\u00e2\u0080\u0099s ) earlier in the sequence by using the inference rules in R. If there is a proof of wn from \u00e2\u0096\u00b3, we say wn is a theorem of \u00e2\u0096\u00b3.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539124710967,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/43614843_458166614590856_2650459657352511488_n_458166611257523.png",
+          "creation_timestamp": 1539124710
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539034339271,
+      "content": "gotta learn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539034335416,
+      "content": "Omfg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539034329347,
+      "content": "for 152 b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539034326854,
+      "content": "i had free time so i wanted to recap on the class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1539034312329,
+      "content": "Why you here LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539032684438,
+      "content": "Turn around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539032680697,
+      "content": "PST",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528775820529,
+      "content": "Siiick ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528775288610,
+      "content": "the figure is there now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528775282297,
+      "content": "he reuploaded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528775279349,
+      "content": "oh yea my b LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528775265752,
+      "content": "Did he say anything about the figure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704979818,
+      "content": "noice ill just email him rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704938749,
+      "content": "Yeah I was thinking about doing that tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704924355,
+      "content": "i might email him asking about it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704860661,
+      "content": "Yeeeep rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704852952,
+      "content": "and the one covered RIP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704846478,
+      "content": "shiiiit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704841329,
+      "content": "Naw that one is fair game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704831531,
+      "content": "oh shit lol i was gonna ignore that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704818337,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704810717,
+      "content": "the last one as in the flow chart?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704788911,
+      "content": "The last one, the one with the long bar, and I think the one that\u00e2\u0080\u0099s covered lol but idk how to look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704738271,
+      "content": "which three should i look at then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704731785,
+      "content": "LOL alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704726708,
+      "content": "Figurr*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704723854,
+      "content": "Yeah I was tryna look at that fight too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528704716031,
+      "content": "LOL no I didn\u00e2\u0080\u0099t think it was gonna be covered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704699381,
+      "content": "its covered up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528704696078,
+      "content": "woudl you happen to have the picture on slide 7 of the IO Systems lecture lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528702360453,
+      "content": "i dunno, i hope so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528702353928,
+      "content": "Does he curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528702350536,
+      "content": "Oh rip lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701980784,
+      "content": "not close***",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701976342,
+      "content": "yeah close lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701967291,
+      "content": "PFFT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701963971,
+      "content": "I got like barely above the mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701958767,
+      "content": "What did you get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701951373,
+      "content": "really? i did pretty bad on the midterm so i think ima get a C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701935217,
+      "content": "I think imma get a solid C in this class tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701935104,
+      "content": "you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701926034,
+      "content": "Should\u00e2\u0080\u0099ve slacked off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701911091,
+      "content": "damn me tryna be a hard worker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701901031,
+      "content": "shouldve done that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701895848,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701894552,
+      "content": "And didn\u00e2\u0080\u0099t comment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701891976,
+      "content": "Jk I got lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701889667,
+      "content": "shiieeeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701885717,
+      "content": "Ooooo I hid mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701879257,
+      "content": "shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701878665,
+      "content": "yeah i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701875144,
+      "content": "Idk how he didn\u00e2\u0080\u0099t see mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701867449,
+      "content": "Did you write a comment for it lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701855651,
+      "content": "rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701853254,
+      "content": "Oh shit sorry LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701842509,
+      "content": "WTFFF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701778372,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701777215,
+      "content": "But I think he didn\u00e2\u0080\u0099t see my random delays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701768033,
+      "content": "Oh I got the second part too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701749451,
+      "content": "no random delays and i cant do while (readyQue != 0)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701713142,
+      "content": "Did he leave comments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701685116,
+      "content": "this is booshit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701684293,
+      "content": "Thing *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701681386,
+      "content": "Didn\u00e2\u0080\u0099t we basically have the same king",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701672921,
+      "content": "wtffff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701665497,
+      "content": "I got 95",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701661895,
+      "content": "Wahhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528701639419,
+      "content": "85",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528701508672,
+      "content": "What did you get on Project 3 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512177143,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512175973,
+      "content": "true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512174070,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512166028,
+      "content": "Your computer is telling you to stop overworking it obvs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512147868,
+      "content": "I TEST MY SHIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512141776,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512140648,
+      "content": "MAYBE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512140454,
+      "content": "and it crashed once lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512138002,
+      "content": "JESUS OKAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512133763,
+      "content": "I ran it 10 times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512122908,
+      "content": "Mine never crashed wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512118505,
+      "content": "WHAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512114750,
+      "content": "ITS NOT DONE JD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528512113070,
+      "content": "PFFTT uuhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512107481,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512106516,
+      "content": "it crashed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528512102481,
+      "content": "oh fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511843885,
+      "content": "Np np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511841424,
+      "content": "I was just throwing lock and unlock everywhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528511840059,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511832778,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528511829085,
+      "content": "Lmao I don\u00e2\u0080\u0099t understand threads",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511810284,
+      "content": "In our code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511807498,
+      "content": "And that was the only difference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511803200,
+      "content": "Yeah cause mine never broke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511798098,
+      "content": "Litty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528511794608,
+      "content": "Hasn\u00e2\u0080\u0099t *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528511784224,
+      "content": "Has or hasn\u00e2\u0080\u0099t?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528511767898,
+      "content": "I think your suggestion worked weirdly enough lol I ran it 6 times so far and it has broke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498406495,
+      "content": "oh hm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498386334,
+      "content": "Put the unlock mutex outside of the if(!occupied) loop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498363532,
+      "content": "so it just gets stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498357758,
+      "content": "like 1 of the 4 threads wont complete for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498345969,
+      "content": "like when all the threads comeplete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498338452,
+      "content": "it freezes at the very end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498326859,
+      "content": "When you think it froze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498322841,
+      "content": "How long did you wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498267106,
+      "content": "yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498264682,
+      "content": "hm maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498263801,
+      "content": "Oh your FIFO freezes too huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498257062,
+      "content": "EDF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498238055,
+      "content": "for fifo or edf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528498202669,
+      "content": "With yours it might have to do with the index part? Cause you\u00e2\u0080\u0099re not deleting the first thread in the queue?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528498005233,
+      "content": "LOL alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497994714,
+      "content": "Ima turn this in and if it freezes fuck it but ima look at it again later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497956347,
+      "content": "imma just keep testing mine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497938540,
+      "content": "WTF lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497931537,
+      "content": "So I\u00e2\u0080\u0099m boutta gym in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497923979,
+      "content": "Yeah I\u00e2\u0080\u0099m at the Arc Rn LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497904290,
+      "content": "i took a break lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497902179,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34717870_2198817536811637_1407957392787767296_n_2198817530144971.jpg",
+          "creation_timestamp": 1528497901
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497898910,
+      "content": "idk about edf yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497893454,
+      "content": "or like i know fifo did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497864712,
+      "content": "after like 5 or 6 runs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497856772,
+      "content": "randomly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497850015,
+      "content": "yea it gets stuck at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497838514,
+      "content": "I don\u00e2\u0080\u0099t think mine has frozen yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497779946,
+      "content": "So yours just freezes sometimes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497755162,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497754523,
+      "content": "fix mine now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497750922,
+      "content": "oh lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497693950,
+      "content": "I put the signal in the wrong place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497675046,
+      "content": "oh whats wrong with it :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497539904,
+      "content": "Bless okay tysm I found out why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497281637,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34800558_559060517822310_4612319474563940352_n_559060511155644.png",
+          "creation_timestamp": 1528497280
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497254345,
+      "content": "Yeah and I can work off it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497248037,
+      "content": "I mean it\u00e2\u0080\u0099s better than mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497246782,
+      "content": "so if you wanna help me figure it out ill be grateful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497236382,
+      "content": "mine doesnt work sometimes tho LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497228028,
+      "content": "yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497167632,
+      "content": "Do you mind if I see your EDF? I really don\u00e2\u0080\u0099t know why it won\u00e2\u0080\u0099t run all 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497088090,
+      "content": "weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528497024856,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497014462,
+      "content": "/?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528497012951,
+      "content": "so your program never ends then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496989914,
+      "content": "And I\u00e2\u0080\u0099m like wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496987657,
+      "content": "But then only 3 run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496983178,
+      "content": "Oh no all 4 start and go to sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528496972997,
+      "content": "like even in the beginning?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496953349,
+      "content": "I can only get 3 going for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528496699597,
+      "content": "kinda it still gets stuck sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496671801,
+      "content": "Wait so does yours work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496657893,
+      "content": "Oh what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528496614102,
+      "content": "nah all three run until thred 0 misses its deadline then only 3 run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528496564416,
+      "content": "For EDF are only 3 of your threads running?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528493210886,
+      "content": "for real lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528493204607,
+      "content": "Idk this is so lame lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528493189214,
+      "content": "JD WHATS HAPPENING AIUFHOAILWU;FLBWG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528493009129,
+      "content": "it ALMOST works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492995742,
+      "content": "yea wtf why tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492986167,
+      "content": "Oh I see what you mean shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492358320,
+      "content": "yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492335751,
+      "content": "That\u00e2\u0080\u0099s weird lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492331119,
+      "content": "then sometimes it gets stuck lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492325172,
+      "content": "Hmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492320223,
+      "content": "like it works 4/5 times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492316788,
+      "content": "I\u00e2\u0080\u0099m not home rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492311081,
+      "content": "Haven\u00e2\u0080\u0099t tried yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528492308785,
+      "content": "Fuuhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492303723,
+      "content": "idk why tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528492301883,
+      "content": "actually jk it freezes sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491287009,
+      "content": "did that work for you too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491064786,
+      "content": "im changing edf rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491049283,
+      "content": "this is my fifo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491047014,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34881811_558996351162060_3757153239246569472_n_558996347828727.png",
+          "creation_timestamp": 1528491045
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528491025769,
+      "content": "Wait where did you out occupied and  mutex parts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528491010201,
+      "content": "Where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491008470,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528491004184,
+      "content": "like usleep(MSEC(.02))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528490999511,
+      "content": "WHAAA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528490994454,
+      "content": "wait i added a small delay in my loop and it works now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528490980231,
+      "content": "This class sucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528490971405,
+      "content": "Idk how I did 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528490965573,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528490483155,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528490478894,
+      "content": "i can only ever get 1 thread working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528489063557,
+      "content": "same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528489024131,
+      "content": "I thought I was done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528489018382,
+      "content": "So annoyed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528489010188,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528489002262,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488993934,
+      "content": "so you took out the pthread_cond_wait(&a_task_done, ....) part?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488881100,
+      "content": "I put the occupied before the mutex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488868433,
+      "content": "did you have to lock the mutex when using occupied?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488864463,
+      "content": "Fr I\u00e2\u0080\u0099m so pissed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488855642,
+      "content": "this is so confusing lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488839243,
+      "content": "I just messed with placement of everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488640241,
+      "content": "how did you get more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488636659,
+      "content": "wait i only get one of the 4 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488472352,
+      "content": "Or where I put the mutex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488462961,
+      "content": "Depending on where I put the brackets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488456222,
+      "content": "It either only ran 3 of the 4 threads or only 1 of the 4 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488433120,
+      "content": "what messed up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528488414604,
+      "content": "I used if(!occupied) and it was close but not perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487978377,
+      "content": "Damn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487966806,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487965443,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487911929,
+      "content": "Wait so did it work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487464096,
+      "content": "I tested the wrong code LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487458664,
+      "content": "Wait jk I lied",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487425124,
+      "content": "Just do while(!occupied) {whole thing}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487395316,
+      "content": "Oh I did it I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487038220,
+      "content": "Yea idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487033591,
+      "content": "Just use it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487032499,
+      "content": "Imma try it in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487031963,
+      "content": "Cause he said we\u00e2\u0080\u0099re not supposed to change the value",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487026619,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528487020567,
+      "content": "Did you use occupied as a condition? For like a while or if statement?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528487003443,
+      "content": "Something with occupied I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528486968475,
+      "content": "Do each thread one at a time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528486963348,
+      "content": "Idk how else you get it to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528486951866,
+      "content": "Fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528486949385,
+      "content": "Me too hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528486944470,
+      "content": "Ima look at it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528486938570,
+      "content": "Soooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528486935560,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528486928110,
+      "content": "Wait did you use taskDoneMutex in your code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528431067840,
+      "content": "Okay ty ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528431031055,
+      "content": "Oooohhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528431026690,
+      "content": "Nah period and deadline are different",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528431026340,
+      "content": "Period and deadline equal the same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528431018532,
+      "content": "What do you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528431010433,
+      "content": "But aren\u00e2\u0080\u0099t they the same number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528431002816,
+      "content": "But use period instead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528430998229,
+      "content": "Same thing as edf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528430984791,
+      "content": "I don\u00e2\u0080\u0099t understand how it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528430980648,
+      "content": "What is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528430971362,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528430958918,
+      "content": "Did you do the RMS for 111?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528396135812,
+      "content": "He said he\u00e2\u0080\u0099ll post the slides later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528396113545,
+      "content": "Process/threads and onwards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528396082619,
+      "content": "Did he say what\u00e2\u0080\u0099s gonna be on the final?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528395931800,
+      "content": "There\u00e2\u0080\u0099s 3 images in the I/O systems slide, 1 of them will be on the final for us to fill out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528395912744,
+      "content": "Uhh I/O systems and final review",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528395886104,
+      "content": "Hey what did I miss in 111 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528386322622,
+      "content": "WAAHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528362332339,
+      "content": "the TA said it was fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528362327584,
+      "content": "you can miss one deadline for edf and rm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528362319413,
+      "content": "oh hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528263466447,
+      "content": "Oohhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528263412302,
+      "content": "visio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528263399115,
+      "content": "to make this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528263396584,
+      "content": "what did you use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528263394207,
+      "content": "niceuuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528263385202,
+      "content": "thats better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528263380935,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34476762_557829191278776_8409321089670316032_n_557829187945443.png",
+          "creation_timestamp": 1528263379
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528263107931,
+      "content": "lemme fix that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528263104559,
+      "content": "oh hm some stuff is off set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262978146,
+      "content": "ye np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262968960,
+      "content": "ty ty <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262945950,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34535826_557827687945593_5149245783052124160_n_557827681278927.png",
+          "creation_timestamp": 1528262944
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262942838,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262937436,
+      "content": "i lost internet connection lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262928025,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262927227,
+      "content": "did you get it ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262642748,
+      "content": "pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262640280,
+      "content": "yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262634412,
+      "content": "want my schematic instead? might be easier to read",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262592007,
+      "content": "can you send me a pic of what your board looks like cause our shit is broken",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262454481,
+      "content": "yea good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262439046,
+      "content": "thatll show him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262433190,
+      "content": "we drop out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262414868,
+      "content": "WHAT DO WE DO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262402311,
+      "content": "yeah same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262398292,
+      "content": "with just one missing deadline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262393165,
+      "content": "mine completes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262369303,
+      "content": "like does it check all 4 threads or only the next one in the queue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262353203,
+      "content": "how far does yours check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262325533,
+      "content": "yea idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262305419,
+      "content": "but it still didnt work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262299918,
+      "content": "yeah i tried that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262279423,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262275425,
+      "content": "oh i just did deadline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262271319,
+      "content": "yeah see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262263954,
+      "content": "i also get one missed deadline lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262263497,
+      "content": "did you do (deadline - timestamp)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528262238337,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528262223513,
+      "content": "i cant get edf to work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528260247168,
+      "content": "yeye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528260244885,
+      "content": "oh lol idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528260190093,
+      "content": "okay ty tho love you <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528260161601,
+      "content": "we cant see anything on the lcd without it whatafa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528260106854,
+      "content": "i didnt use potentioameters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528260082461,
+      "content": "for the lcd thing no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528260061976,
+      "content": "oh what are you using potentiometers for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528260047513,
+      "content": "takes up like 3/4 the board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528260042210,
+      "content": "the extensions board and adc converter and potent io meters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528259951447,
+      "content": "oh really? what did you guys put on there lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259931547,
+      "content": "but we have so lil room on the breadboard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259925463,
+      "content": "we were thinking of doing that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259920104,
+      "content": "ohyeah okay ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528259835409,
+      "content": "If that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528259817417,
+      "content": "I like connected the switch to a gpio pin and then either had it read HIGH or LOW so like the switch pulls down to GND or pulls up to 3v3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259587186,
+      "content": "cause the switch works but the lcd continues to output the temp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259556431,
+      "content": "like when you switch to light sensor, so it doesnt output temp on the lcd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259541323,
+      "content": "how did you get it to output something different",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528259534238,
+      "content": "so in your code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528258845893,
+      "content": "Yea a switch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528258521074,
+      "content": "Did you use a switch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528258516256,
+      "content": "How did you switch the modes for 113",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528251846089,
+      "content": "It\u00e2\u0080\u0099ll miss deadlines on one thread",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528251832367,
+      "content": "No not really, I still miss deadlines",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251810061,
+      "content": "did yuo get edf yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251805224,
+      "content": "welp LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528251698479,
+      "content": "Seee, Idk why but I know we do LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251661404,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251660684,
+      "content": "we need to use occupied",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251657319,
+      "content": "you were right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528097956745,
+      "content": "And the threads should all complete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528097944916,
+      "content": "It should eventually finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528097940224,
+      "content": "Just wait it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528097011662,
+      "content": "how many times is the program suppose to run for? i cant tell at what point things end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528096907157,
+      "content": "alright mines like similiar to yours so i guess it works lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096880536,
+      "content": "Like 90%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096877768,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096875520,
+      "content": "I\u00e2\u0080\u0099m pretty sure the fifo works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528096816049,
+      "content": "i cant even tell if stuff works lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096807586,
+      "content": "Which I can\u00e2\u0080\u0099t get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096803613,
+      "content": "EDF is the one not supposed to fail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096785625,
+      "content": "Cause it\u00e2\u0080\u0099s not optimal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096782289,
+      "content": "It\u00e2\u0080\u0099s okay for FIFO to fail tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528096776644,
+      "content": "It varies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528096636102,
+      "content": "in fifo does your thread 0 fail its second iteration everytime?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528062266829,
+      "content": "oh shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528061667490,
+      "content": "That\u00e2\u0080\u0099s what I got for FIFO so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528061661703,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/34302681_2193004347392956_2317905046907387904_n_2193004324059625.jpg",
+          "creation_timestamp": 1528061661
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528055160750,
+      "content": "Riiip same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528055157442,
+      "content": "And since he gives you a lot of the code, you gotta figure out what everything does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528055145463,
+      "content": "Pfft idk what the hell pthread conditional variables are so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528055119513,
+      "content": "How\u00e2\u0080\u0099s 111?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528055109434,
+      "content": "Lol the 113 is easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528054677196,
+      "content": "I can show you what I have so far lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528052870304,
+      "content": "No wayyyy whatafaaa wait help LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528052032502,
+      "content": "I finished 113 lol let\u00e2\u0080\u0099s trade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528051987763,
+      "content": "I\u00e2\u0080\u0099m just tryna get it outta the way so I can focus on 113",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528051090435,
+      "content": "I have t started lol is it due soon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1528050370304,
+      "content": "How far are you on the 111 code?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828628454,
+      "content": "you right you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1527828621771,
+      "content": "Whaddya mean, I\u00e2\u0080\u0099ve always been a good student",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828604055,
+      "content": "what changed LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1527828594043,
+      "content": "LOL ikr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828587718,
+      "content": "youre such a good student going to class and such lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828578364,
+      "content": "ooooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1527828516253,
+      "content": "He just said it\u00e2\u0080\u0099s on Disk and Main Memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828504698,
+      "content": "for 111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527828501842,
+      "content": "hey do you know which lecture our quiz is on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527007897043,
+      "content": "Rip tree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000939386,
+      "content": "Lemme know if you need help with anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000891559,
+      "content": "litty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000875992,
+      "content": "Like connecting took like an hour then the code took like 30min ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000868381,
+      "content": "kk ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000860334,
+      "content": "Once you get it connected it's hella easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000853923,
+      "content": "Good luck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000851068,
+      "content": "I bet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000843636,
+      "content": "annoying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000842421,
+      "content": "its really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000839574,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000836021,
+      "content": "Don't you just need to import a library or something idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000814635,
+      "content": "fck it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000811969,
+      "content": "me and kenny are struggling with java",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000805881,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000800355,
+      "content": "It was easier to connect lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000776289,
+      "content": "shiiiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521000746313,
+      "content": "I used Python lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1521000648832,
+      "content": "hey were you able to connect your sql to java?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520233527279,
+      "content": "idk either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221972172,
+      "content": "maybe i mixed up follower and followee idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221954461,
+      "content": "but its not right for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221935943,
+      "content": "SELECT u1.name, u2.name \nFROM user AS u1, user AS u2, follow AS f, blurt_analysis AS ba1, blurt_analysis AS ba2\nWHERE (u1.email != u2.email AND u1.email = ba1.email \n\tAND u2.email = ba2.email AND ba1.topicid = ba2.topicid\n\tAND f.followee = u2.email AND f.follower != u1.email);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221898383,
+      "content": "lemme check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221893126,
+      "content": "was busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520221891225,
+      "content": "uuh sorry for late reply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520213101684,
+      "content": "what did you do for 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520211964649,
+      "content": "LOL shiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520211963037,
+      "content": "i was gonna ask about those ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520211956221,
+      "content": "FK SAME LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1520211946735,
+      "content": "yeah but my query 6 to 9 are wrong i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520211914467,
+      "content": "did you finish the mini project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980973928,
+      "content": "lol i use it way too much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980969414,
+      "content": "nah im just a latex GOD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980944735,
+      "content": "you are a life saver",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980905986,
+      "content": "oh snap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980832592,
+      "content": "mine looks like this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980829185,
+      "content": "\\centerline{\\includegraphics[scale = .6]{Instruction_Set.PNG}}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980819084,
+      "content": "I dont use \\begin stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980637605,
+      "content": "\\section{Block Diagram}\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{EECS112LBlockDiagram.png}\n\\end{figure}\n\\newpage\n\\section{Waveform}\n\\begin{figure}\n\n\\includegraphics[width=\\textwidth]{EECS112LWaveform.png}\n\\end{figure}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980573285,
+      "content": "send me the line of code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980472179,
+      "content": "nope :C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519980409448,
+      "content": "try \\centerline{}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980369147,
+      "content": "like the \\begin figure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980358144,
+      "content": "but its in a weird spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980353869,
+      "content": "then i put the pic after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519980347215,
+      "content": "like i put \\section",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519979429274,
+      "content": "whats wrong with it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519979424467,
+      "content": "like the pic in the doc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519979185168,
+      "content": "cause when i put the png it doesnt go where i want it to lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519979176084,
+      "content": "oh wait you used a different thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519979171289,
+      "content": "okay so for putting in the png",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519979155834,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519979121258,
+      "content": "you awake?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519976152544,
+      "content": "oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519976147051,
+      "content": "uhhh idk google it lol i dont use Texmaker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519976131719,
+      "content": "sory for questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519976126472,
+      "content": "to latex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519976123838,
+      "content": "wait how do you upload the png file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975632236,
+      "content": "the aluresult can be wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975624503,
+      "content": "for branches as long as it jumps correctly its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519975616549,
+      "content": "rip okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975611454,
+      "content": "uh idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975608529,
+      "content": "and turn the flag on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519975606775,
+      "content": "but idk why my stuff doesnt work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975602761,
+      "content": "just check if the opcode matches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519975598687,
+      "content": "yee i got that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975592719,
+      "content": "like the Branch flag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975586643,
+      "content": "it was like prebuilt for us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519975582206,
+      "content": "LOL it should already be a thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519975156481,
+      "content": "do you mind if see or nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974980389,
+      "content": "using like flags from the controller",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974935421,
+      "content": "how did you choose whether it was a branch instruction or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974909541,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974846328,
+      "content": "for your alu, did you keep the 4 bit operation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974839930,
+      "content": "idk whats wronggggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974798186,
+      "content": "holy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974794341,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974761048,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974759941,
+      "content": "you got everything right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974750899,
+      "content": "idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974577964,
+      "content": "this is annoying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974575221,
+      "content": "ugghhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974567273,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974566736,
+      "content": "that might be why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974561886,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974542536,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974535485,
+      "content": "was everything correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974133212,
+      "content": "what about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519974118301,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974112747,
+      "content": "did you check your waveform",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974103400,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519974102701,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973899556,
+      "content": "im up to an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973866263,
+      "content": "whatafa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973859043,
+      "content": "38min for mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973777648,
+      "content": "cause mine is taking a long time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973773248,
+      "content": "oh btw real quick how long did synthesis take you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973672506,
+      "content": "ty ty]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973664108,
+      "content": "gl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973661473,
+      "content": "yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973605129,
+      "content": "oh okie ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973591144,
+      "content": "just copy paste it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973586259,
+      "content": "btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973582237,
+      "content": "i used this template",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973580186,
+      "content": "same folder as the latex file?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973578111,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/files/template_514800122248350.txt",
+          "creation_timestamp": 1519973577
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973564759,
+      "content": "just like coding and packages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973557727,
+      "content": "you have to add it in the same folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973550459,
+      "content": "you do \\includegraphics[]{pic.png}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973480877,
+      "content": "cause its not just copy and paste right lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973470798,
+      "content": "so how do you post an image then on latex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973447309,
+      "content": "nah latex its just like word doc lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973441786,
+      "content": "using the program",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973434028,
+      "content": "ryan used sketch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973432536,
+      "content": "i thought we had to make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973427260,
+      "content": "oh wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973426443,
+      "content": "visio*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973423237,
+      "content": "i used viso",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973420356,
+      "content": "paint?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973413220,
+      "content": "how do i code that in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973410819,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973400475,
+      "content": "you make one for your processr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973392122,
+      "content": "with all the wires connecting modules",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973385742,
+      "content": "page one of the lab manual",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973364922,
+      "content": "hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973360417,
+      "content": "its like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973351087,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973346115,
+      "content": "how do i block diagram nani tf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973345571,
+      "content": "tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973339184,
+      "content": "youve done this before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973333391,
+      "content": "its not hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519973324196,
+      "content": "wahhh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519973013227,
+      "content": "Justinnnn :C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1519968809863,
+      "content": "Do you mind if I see your report? Idk how to code in it and idk how to organize it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512640790679,
+      "content": "Yuuup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640744762,
+      "content": "Tysm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640191020,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640171337,
+      "content": "jringal@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512640157826,
+      "content": "What's your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640088529,
+      "content": "I need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640068673,
+      "content": ":((((( please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512640064863,
+      "content": "It's for the curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512640058092,
+      "content": "I'm selfish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512640055842,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512640045812,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512639956132,
+      "content": "I can't see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512639953870,
+      "content": "So then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512639939009,
+      "content": "It's mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512639933035,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512639925618,
+      "content": "When we did the quiz in lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512639920696,
+      "content": "What sheet did you look at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512639909660,
+      "content": "Wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1512639896360,
+      "content": "Hey Justin can you send me the cheat sheet you made for 170",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1507963772684,
+      "content": "I will later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507959795423,
+      "content": "You're coding rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507959785246,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1507959685980,
+      "content": "Yeah I think thanks daddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507958804089,
+      "content": "So you got it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1507958055441,
+      "content": "Oh yeah duh right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507958017485,
+      "content": "Big o is their ethical",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507958009974,
+      "content": "That's not for big o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1507957995373,
+      "content": "Yeah we have to use that time thing right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507957979504,
+      "content": "You just like measure how long a part of the code takes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507957964195,
+      "content": "What lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1507954533787,
+      "content": "How do you do the big O shit \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497165887033,
+      "content": "Idk Andrew did that part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1497165755496,
+      "content": "How did you map the levels without hard coding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223685936,
+      "content": "Help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223683781,
+      "content": "Do I do anything with this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223677020,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/18175794_382084988853198_604568499_o_382084988853198.jpg",
+          "creation_timestamp": 1493223675
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223656754,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223655136,
+      "content": "How do I make a repository",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493223382396,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/18159739_382083415520022_232173748_o_382083415520022.jpg",
+          "creation_timestamp": 1493223381
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1487797495190,
+      "content": "I'm not there rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487793652308,
+      "content": "Boothing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487793645080,
+      "content": "You nothing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487720724664,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/16833524_349648622096835_955999981_o_349648622096835.jpg",
+          "creation_timestamp": 1487720724
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1487697876271,
+      "content": "Also buy donuts tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1487697873017,
+      "content": "What's your sig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487694309476,
+      "content": "Can you sign me in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487694303136,
+      "content": "Duuude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1487647146431,
+      "content": "Come thru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487646351471,
+      "content": "I want some Krispy Kreme donuts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487091500220,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487091497643,
+      "content": "Just my name in cursive should be fine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1487091057878,
+      "content": "What's you sig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487090953494,
+      "content": "Can you sign me in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486950221765,
+      "content": "Coo I'm coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486950029257,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486949957643,
+      "content": "you home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486936530666,
+      "content": "kkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486936462808,
+      "content": "Okay lol how about around 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486936450754,
+      "content": "thats about it i think lul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486936446445,
+      "content": "today? Im gonna gym soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486936399873,
+      "content": "What's you schedule like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486936384037,
+      "content": "whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486936271131,
+      "content": "When you wanna study",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486683169185,
+      "content": "Jesus LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486683161859,
+      "content": "Trust, I'm a stats god. I've been doing all the hw for Tristan and Kenny LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486683133851,
+      "content": "Downnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486683111677,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486683101731,
+      "content": "This weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486682987478,
+      "content": "Idk whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486682774971,
+      "content": "Okay when",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1486682734252,
+      "content": "Study with me for 55, I gotchu it's ez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501745012,
+      "content": "im confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501742797,
+      "content": "yea wtf it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1485501731712,
+      "content": "its hella complicated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1485501729027,
+      "content": "doing it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501717484,
+      "content": "you do the lab report?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501710904,
+      "content": "bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485314433384,
+      "content": "void DisplayMenu() {\n\tprintf(\"              The Fruit of Chess\\n\");\n\tprintf(\"                         O\\n\");\n\tprintf(\"                        | |\\n\");\n\tprintf(\"                       /   \\\\\\n\");\n\tprintf(\"                      |     |\\n\");\n\tprintf(\"                      |     |\\n\");\n\tprintf(\"                     /       \\\\\\n\");\n\tprintf(\"                    /         \\\\\\n\");\n\tprintf(\"                    ___________\\n\");\n\tprintf(\"                   |           |\\n\");\n\tprintf(\"                   ------------- \\n\");\n\tprintf(\"---------------------Main Menu------------------\\n\");\n\tprintf(\"1. Start a new game\\n\");\n\tprintf(\"2. How to play      \\n\");\n\tprintf(\"0. Exit\\n\");\n\tprintf(\"Enter an option: \");\n\t}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484529706050,
+      "content": "just on a piece of paper then turn it in in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484529696426,
+      "content": "how do we do the 55 hw LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481235816926,
+      "content": "hey whats the point of using typedef with a struct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1481227246443,
+      "content": "I'm just reading through lecture slides lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481227215171,
+      "content": "LOL for sure. How are you studying? I don't know shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1481224261723,
+      "content": "Nah, Tristan is tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481220938812,
+      "content": "Are you studying on campus for eecs 22?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480897914966,
+      "content": "Okay same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480897904477,
+      "content": "I pretty much changed all the photo lab stuff to say movielab and that's all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480897869809,
+      "content": "Oohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480897852812,
+      "content": "I don't have one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480897116068,
+      "content": "Can I see your Makefile?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480895382577,
+      "content": "Np np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480895231426,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480895227239,
+      "content": "Lol honestly having something there is better than nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480895158986,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/15311476_1550656008294463_494891848_o_1550656008294463.jpg",
+          "creation_timestamp": 1480895158
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480895101730,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/15303921_1550654268294637_837965987_o_1550654268294637.jpg",
+          "creation_timestamp": 1480895100
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480895034848,
+      "content": "None of it works tho LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480895030911,
+      "content": "Fosho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480892777783,
+      "content": "can i see what you did for crop, fast forward and reverse LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890900981,
+      "content": "LMAO down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890637577,
+      "content": "i think about that a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890630708,
+      "content": "or like we can kill doemer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890620579,
+      "content": "do it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890618096,
+      "content": "honestly tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890538733,
+      "content": "Just upload a ton of videos and take up all the memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890522497,
+      "content": "I think about it every 10 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890511890,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890509231,
+      "content": "I wish he didn't give us such a hard lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890507724,
+      "content": "lets crash the server",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890496130,
+      "content": "i wish he gave us even more time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890484208,
+      "content": "Yeah this lab is a shit show",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890473845,
+      "content": "im not gonna comple it and just turn whatever i have in LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890452216,
+      "content": "but its something LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890451054,
+      "content": "Oh LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890449351,
+      "content": "its not right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890447062,
+      "content": "i put something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890443600,
+      "content": "like sorta have something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890431878,
+      "content": "Really??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890416985,
+      "content": "i think i have everything except for crop, fastfoward reverse and makefile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890389629,
+      "content": "damn lol i need help on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480890378704,
+      "content": "Nope lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480890363718,
+      "content": "have you gotten to the makefile?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480882956101,
+      "content": "Gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882939271,
+      "content": "OH I thought you called it in the DIP okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480882903365,
+      "content": "Yeah so you call the DIP function for every frame, but it's somewhere else in the code where you go through every frame, then call DIP.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882818024,
+      "content": "But don't you have to traverse the frame list for each one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480882751477,
+      "content": "We didn't change any DIPs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882709994,
+      "content": "Is it cool if I could see your code for one of the DIP functions? Just so I can have a reference lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882681045,
+      "content": "Hmm okay fk i did it wrong LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480882611546,
+      "content": "IENTRY *e;\nAnd then just set your current frame to e->Next",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882549591,
+      "content": "How are you going to the next frame? I dont understand it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480882475210,
+      "content": "Doing Fast Forward rn so not far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882420622,
+      "content": "hey jd how far are you in the lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480208830275,
+      "content": "Np np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480208816056,
+      "content": "Okay thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480208674965,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480208625247,
+      "content": "For the load and store we are just moving op1? We don't change it or anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480208594878,
+      "content": "Ooooo okay that's smart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480208491134,
+      "content": "We just put everything into the 1bit ALU since it's hella simplified",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480208471355,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/15233572_1539890589371005_1278528518_o_1539890589371005.jpg",
+          "creation_timestamp": 1480208470
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jd Ingal",
+      "timestamp_ms": 1480208463485,
+      "content": "Jd sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdIngal_e8NiNQHTIg/photos/15271236_1539890556037675_1903684396_o_1539890556037675.jpg",
+          "creation_timestamp": 1480208462
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207936988,
+      "content": "Hey man can I see your guy's code for the arithmetic block for the ALU? I'm trying to fix ours but I don't know what's wrong",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jd Ingal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JdIngal_e8NiNQHTIg"
+}

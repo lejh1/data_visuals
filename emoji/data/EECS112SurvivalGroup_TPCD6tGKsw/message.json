@@ -1,0 +1,4942 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Yue"
+    },
+    {
+      "name": "Steve Cho"
+    },
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Michael Choi"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1512763145654,
+      "content": "also, when and where is our final for this class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512759775313,
+      "content": "^^^^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1512755882879,
+      "content": "Was there any important announcement/information today in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512748400225,
+      "content": ":0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512697557085,
+      "content": "and then print 500 pages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512697547035,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512697508002,
+      "content": "You can ask them to refill it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512697502198,
+      "content": "The one at gw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512697355904,
+      "content": "tragedy*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512697340236,
+      "content": "what a tradgety",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512697335103,
+      "content": "paper is out of the printer :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545241149,
+      "content": "ty for cpi one tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545230460,
+      "content": "i think imma just turn in random",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545225051,
+      "content": "meh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512545175006,
+      "content": "1 + 36% idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545165550,
+      "content": "1 + 36%?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545153375,
+      "content": "where is 1.36 coming from",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512545116898,
+      "content": "We found this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512545110831,
+      "content": "CPI = CPI + (L1 Miss Rate) * (Memory Access Instruction) * (L1 Miss Penalty) + (L2 Miss Rate) * (Memory Access Instruction) * (L2 Miss Penalty)\nCPI = 1 + (0.08)(1.36)(5.62/0.66) + (0.95*0.08)(1.36)(70/0.66)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545078987,
+      "content": "something like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545075565,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545074903,
+      "content": "that was like 1 + miss cycles / l1 hit time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545045611,
+      "content": "there was another cpi definition",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545040017,
+      "content": "but obviously not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545037254,
+      "content": "cpi should be 4.18?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512545005769,
+      "content": "i did 0.64 * 1 + 0.36 * 9.85",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512544984299,
+      "content": "i dont understand how the cpi can be higher in part B than part A",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512544969479,
+      "content": "wb the cpi one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512544895396,
+      "content": "nah we guessed on the bandwidth one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512544839370,
+      "content": "were yall able to finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512543358814,
+      "content": "Various websites and yes lecture 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512543319325,
+      "content": "are u guys getting this information to do quiz from lecture 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542460558,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542449477,
+      "content": "Did you get the bandwidth one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542440190,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542426942,
+      "content": "w/e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542421579,
+      "content": "i got that as my guessed answer but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542396790,
+      "content": "Both Ryan and I separately",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542374545,
+      "content": "We got 9.85",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542364307,
+      "content": "did u do the one with AMAT in cycles?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542346927,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542341674,
+      "content": "are u guys doing it rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542319909,
+      "content": "We are pretty far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542269398,
+      "content": "and turn it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542267323,
+      "content": "i think im just gonna dgaf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512542263545,
+      "content": "did anyone finish it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512539991689,
+      "content": "dam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539886587,
+      "content": "like 5 downvotes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539880690,
+      "content": "the first one is hella wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512539757196,
+      "content": "nigr sent a link.",
+      "share": {
+        "link": "http://www.chegg.com/homework-help/questions-and-answers/suppose-cpu-write-write-allocate-cache-achieves-cpi-2-read-write-bandwidths-measured-bytes-q23407723"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512539743981,
+      "content": "omg they are all on chegg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512539723380,
+      "content": "can someone look at that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512539719908,
+      "content": "http://www.chegg.com/homework-help/questions-and-answers/3-assume-main-memory-accesses-take-70-ns-36-instructions-access-data-memory-assume-retry-c-q25688941",
+      "share": {
+        "link": "http://www.chegg.com/homework-help/questions-and-answers/3-assume-main-memory-accesses-take-70-ns-36-instructions-access-data-memory-assume-retry-c-q25688941"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512536908496,
+      "content": "just wok p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512536905077,
+      "content": "shiet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512514798109,
+      "content": "You sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24882887_476401162754913_2131533192_o_476412766087086.png",
+          "creation_timestamp": 1512514797
+        },
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24819227_476401152754914_630237642_o_476412769420419.png",
+          "creation_timestamp": 1512514797
+        },
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24826236_476401159421580_566169316_o_476412772753752.png",
+          "creation_timestamp": 1512514797
+        },
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24882735_476401166088246_1060822320_o_476412762753753.png",
+          "creation_timestamp": 1512514797
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512324703,
+      "content": "There's no time limit on this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512508895578,
+      "content": "So you guys wanna meet up to do the quiz today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161711497,
+      "content": "prolly too late to really change it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161704018,
+      "content": "i think the amount of sets is static and based on num of indexes but yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161671125,
+      "content": "hm i\u00e2\u0080\u0099m not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161495417,
+      "content": "(5a) *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161239909,
+      "content": "00 01 10 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161235363,
+      "content": "So like 4 sets is 2 bits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161225801,
+      "content": "The index value is which set it goes too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161214512,
+      "content": "For 2 way associative that means there's 2 blocks per set. For our case we have 8 blocks (5b) so 4 sets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161169088,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512161152121,
+      "content": "Wait no that's wrong I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161109646,
+      "content": "but yeah my 5 b is wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161100391,
+      "content": "then the other one is pulled into that emptied slot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161089297,
+      "content": "and rewritten to L2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161082167,
+      "content": "the LRU is ejected",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161066460,
+      "content": "then if there is a tag collision and the index is still full",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161049358,
+      "content": "it just means u can have 4 different tags for one index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161016735,
+      "content": "index would take 4 bits still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512161008565,
+      "content": "if u have a 4 way associative cache with 1 word blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160895663,
+      "content": "brb tho imma fix my hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160879611,
+      "content": "n-way associative doesn\u00e2\u0080\u0099t meant u need to index to less blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160860119,
+      "content": "hm i am not sure about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160817499,
+      "content": "So 5a is 2 bit and 5b is 1 bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160792998,
+      "content": "wait my 5b is wrong ug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160780367,
+      "content": "So 8/2(ways) = 4 = 2^2 so 2 bit index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160755328,
+      "content": "Noooo cause it's 8 blocks since we are using 2 word blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160733906,
+      "content": "5b should have 2 but index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160725196,
+      "content": "5a should have 3 but index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160588577,
+      "content": "its too big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160576384,
+      "content": "just drag it into the chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160559865,
+      "content": "how do yoj send pdfs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160341239,
+      "content": "Uh okay hold on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160323713,
+      "content": "justin send urs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160320284,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160307647,
+      "content": "Cause the tags should be different too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512160299198,
+      "content": "It looks like he did 3 index instead of teo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160263045,
+      "content": "that justin had",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160258628,
+      "content": "u didnt get any of the replacments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160163702,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/hw4_1731482400217260.pdf",
+          "creation_timestamp": 1512160161
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512160123331,
+      "content": "ur last page is empty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160098892,
+      "content": "that is with my number 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160094146,
+      "content": "someone check that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160089674,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/hw4_1731481453550688.pdf",
+          "creation_timestamp": 1512160088
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512160080527,
+      "content": "wait omg the file didnt upload",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159973950,
+      "content": "Respectively",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159963375,
+      "content": "pusy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159960898,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159956365,
+      "content": "is that for a and b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159946185,
+      "content": "PPPHPPHPHPRP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159890863,
+      "content": "PPPHPPHPHPRR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159872964,
+      "content": "Yea hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159757031,
+      "content": "can u just give me ur answers for the result",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159748123,
+      "content": "i dont wanna rewrite it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159732282,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159729400,
+      "content": "that means i literally did everything wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159727235,
+      "content": "I don't know what to store. What are you writing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159709614,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159709174,
+      "content": "UR RIGHT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159706794,
+      "content": "HO HO  HO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159703880,
+      "content": "8 blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159701145,
+      "content": "So two word blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159696379,
+      "content": "We are using 1b tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159682562,
+      "content": "and 8 is 3 bits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159679855,
+      "content": "then its 8 sets of 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159675393,
+      "content": "so if u have a 2 way set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159672089,
+      "content": "originally theres 16 rows",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159649999,
+      "content": "What no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159643948,
+      "content": "and 5 b is 2 bits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159639814,
+      "content": "for 5 a is 3 bits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159632003,
+      "content": "It's 2 bits for the index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159605449,
+      "content": "cuz i think theres still a word offset",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159599426,
+      "content": "which 3 bits did u use for the index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159586917,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159581003,
+      "content": "which",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159580312,
+      "content": "The bottom two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159577019,
+      "content": "I got 2 replacements for 5a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159570712,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159566024,
+      "content": "For 5a?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159556039,
+      "content": "I got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159550069,
+      "content": "is what i got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159547481,
+      "content": "its the last one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159545645,
+      "content": "and for 4 way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159543213,
+      "content": "the replacement is 0x0e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159540788,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159536105,
+      "content": "for 2 way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159528018,
+      "content": "Your index size is 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512159513617,
+      "content": "How?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159490233,
+      "content": "i got 1 replacement for 2 way and 4 way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159482665,
+      "content": "michael",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512159479768,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512158957986,
+      "content": "i just turned mine in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512158041612,
+      "content": "fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512158040649,
+      "content": "fucj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512158022129,
+      "content": "I'm still working on it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1512158009657,
+      "content": "did u guys finish number 5 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512122820614,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512121784783,
+      "content": "@Michael oh and 1.d should be 2-word block",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119916830,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119910486,
+      "content": "thank you sloot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119840850,
+      "content": "i see my mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119837145,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119835870,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119834819,
+      "content": "look at 0x2B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119815794,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119730529,
+      "content": "Cause it's tag and index matches 0xb4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119716683,
+      "content": "Wait isn't 0xb5 a hit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119671018,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119665967,
+      "content": "does that have ink on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119660922,
+      "content": "how about now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512119656671,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/hw4_1730901803608653.pdf",
+          "creation_timestamp": 1512119655
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119258452,
+      "content": "PPPHPRHRHRRR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119238962,
+      "content": "I got 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512119234741,
+      "content": "Wait what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512118994461,
+      "content": "I only got 2 hits for number 1c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117973305,
+      "content": "imma do anohe rproblem on nt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117967954,
+      "content": "One sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1512117949233,
+      "content": "it's blank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117850917,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/HW4_1730883596943807.pdf",
+          "creation_timestamp": 1512117835
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117822454,
+      "content": "here is what i have so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512010740064,
+      "content": "got it ty",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512010178697,
+      "content": "Hackathon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512010156142,
+      "content": "where do i sign up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512010153106,
+      "content": "btw what was the programming thing u guys were talking about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512005380900,
+      "content": "YAAAAS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512003274350,
+      "content": "Jk I'ma try to catch up tonight so I can help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512003260167,
+      "content": "Can you do it so I can copy you. K thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512002839896,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512001981794,
+      "content": "I'ma do tmr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512001323770,
+      "content": "i want to get it out of the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512001317293,
+      "content": "does anyone want to do the hw today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511996050743,
+      "content": "B/c you're fucking stupid lmao",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511996043613,
+      "content": "I know you don't know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511996037554,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995590500,
+      "content": "idk then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995588431,
+      "content": "huh.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511995539375,
+      "content": "HE SAID HIS SLIDES WERE CORRECT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995531500,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24271243_1729243907107776_1325325158_o_1729243907107776.png",
+          "creation_timestamp": 1511995530
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995515184,
+      "content": "yeah i checked online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511995511408,
+      "content": "In lecture today someone asked and he said that the equation on his slides were correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995498211,
+      "content": "dont fucking question me @Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995490313,
+      "content": "AMAT is hit ratio * hit time + miss ratio * miss time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511995484785,
+      "content": "R u sure? Did you look at the solutions?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995463699,
+      "content": "we had it corrent initially",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995458688,
+      "content": "it was the AMAT one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995454786,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511993487993,
+      "content": "I think we missed the spacial locality one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511993478938,
+      "content": "He uploaded the solutions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511993457294,
+      "content": "what did we miss :0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511992578158,
+      "content": "62 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511992468717,
+      "content": "Out of 70 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511992462296,
+      "content": "62",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992388336,
+      "content": "what about u guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992384123,
+      "content": "i got 62",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992381484,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511937394073,
+      "content": "and A[i][j], A[j][i], j is spatial locality because it access its memory location and it's nearby memory location",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511937350851,
+      "content": "so B[i][0] and i is temporary locality because it access the memory location again and again. How is j also?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511937299362,
+      "content": "fgt sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24204865_1796586990354491_1615968290_n_1796586990354491.png",
+          "creation_timestamp": 1511937299
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511936969592,
+      "content": "let me write this out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511936965578,
+      "content": "hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511936922450,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511936910877,
+      "content": "just A[i][j]?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511936905426,
+      "content": "@Steve Cho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511936901904,
+      "content": "and 3b. we got A[i][j]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511936885699,
+      "content": "for 3a. we got i,j, b[i][0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511936478970,
+      "content": "FUCKKk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511936388647,
+      "content": "i mixed them up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511936385569,
+      "content": "ah fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511936369805,
+      "content": "A[i][j], A[j][i], j*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511935895006,
+      "content": "and 3b. i got A[i][j], A[j]i[], i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511935877692,
+      "content": "for 3a. I got B[i][0] and i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1511935864884,
+      "content": "wait, what did you guys get for 3a. and 3b?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933868504,
+      "content": "i turn in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933866351,
+      "content": "okokok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933854502,
+      "content": "whereas their loop didnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933850537,
+      "content": "inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933849772,
+      "content": "u use i and j",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933847654,
+      "content": "in our loops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933845723,
+      "content": "but",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933683227,
+      "content": "read this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933681812,
+      "content": "https://cs.stackexchange.com/questions/21443/are-loop-counters-spatially-or-temporally-local",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933677429,
+      "content": "WAIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933521937,
+      "content": "we got them all?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933517565,
+      "content": "what do u guys think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933512707,
+      "content": "i think imma turn mine in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933407399,
+      "content": "slide 13*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933404777,
+      "content": "https://www.cise.ufl.edu/~wchapman/CDA3101/Week%2012/CDA3101-S13-Recitation12-SLIDES%20-%20Virtual%20Memory%20and%20Cache%20Performance.pdf",
+      "share": {
+        "link": "https://www.cise.ufl.edu/~wchapman/CDA3101/Week%2012/CDA3101-S13-Recitation12-SLIDES%20-%20Virtual%20Memory%20and%20Cache%20Performance.pdf"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933397393,
+      "content": "slide 14",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933392613,
+      "content": "like with the slides",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933357498,
+      "content": "idk i just saw it earlier while googling hw earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933339925,
+      "content": "where di u get that cpu = 1/hit time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933335187,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933330536,
+      "content": "@Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933327266,
+      "content": "yeah anmdrew asking earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511933319442,
+      "content": "thats right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933312118,
+      "content": "i just did 2^index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933306928,
+      "content": "for number of blocks in cache",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933297719,
+      "content": "btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933259851,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933075104,
+      "content": "9.48, 5.67",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933021223,
+      "content": "1.515 and 1.111 is same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511933006167,
+      "content": "just the slide definition so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932997900,
+      "content": "for 2 we should go with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932997118,
+      "content": "what about number 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932991803,
+      "content": "hmm ok imma skip that for later then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932941136,
+      "content": "temporal locality is just the idea that items accessed recently are likely to be accessed again soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932919356,
+      "content": "in the same registers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932916727,
+      "content": "but it would be stored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932891024,
+      "content": "so that wouldn't be temporal locality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932883066,
+      "content": "wouldn't I and J be stored in local registers tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932868258,
+      "content": "really quick for 3A",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932862162,
+      "content": "wait hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932833708,
+      "content": "ur answers are good for 3 i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932827887,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932827022,
+      "content": "so what do we do about #2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932815496,
+      "content": "u right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932813955,
+      "content": "fuckl me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932812451,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932801923,
+      "content": "thats temporal locality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932800957,
+      "content": "i mean in the J loop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932793448,
+      "content": "or hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932766360,
+      "content": "nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932755679,
+      "content": "why not B[I][0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932726549,
+      "content": "oh true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932689457,
+      "content": "so its not spatial locality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932686300,
+      "content": "i and j are stored in teh same register",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932674831,
+      "content": "for 3B isnt it everything except A[J][I]?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932632639,
+      "content": "3a is ABD yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932628319,
+      "content": "oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932547040,
+      "content": "b. c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932545876,
+      "content": "a. abd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932531562,
+      "content": "for 3 i got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932510682,
+      "content": "1a is 8 words",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932321104,
+      "content": "then still hit time from L1 to use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932314323,
+      "content": "u need 70 ns to pull to L1 cache",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932306453,
+      "content": "if it misses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932302417,
+      "content": "because you need the hit time no matter what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932290693,
+      "content": "i think the slides have the right formula",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932282548,
+      "content": "there are inconsistencies in google",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932275671,
+      "content": "hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932114689,
+      "content": "i dont think u do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932092776,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511932092255,
+      "content": "where do u use 36%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932036965,
+      "content": "go to slide 14",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511932034688,
+      "content": "https://www.cise.ufl.edu/~wchapman/CDA3101/Week%2012/CDA3101-S13-Recitation12-SLIDES%20-%20Virtual%20Memory%20and%20Cache%20Performance.pdf",
+      "share": {
+        "link": "https://www.cise.ufl.edu/~wchapman/CDA3101/Week%2012/CDA3101-S13-Recitation12-SLIDES%20-%20Virtual%20Memory%20and%20Cache%20Performance.pdf"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931947997,
+      "content": "https://www.cs.uaf.edu/2011/spring/cs641/lecture/04_05_modeling.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931942626,
+      "content": "i got it from that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931938955,
+      "content": "A single-level cache is pretty easy to model mathematically.  Each access is either a hit or a miss, so average memory access time (AMAT) is:\n    AMAT = time spent in hits + time spent in misses = hit rate * hit time + miss rate * miss time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931871925,
+      "content": "nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931871350,
+      "content": "hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931870163,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931853717,
+      "content": "maybe typo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511931833017,
+      "content": "Where did you get formula for amat? B/c in his slides it's hit time + miss rate * miss penalty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931801649,
+      "content": "that gets 9.40 cycles on average",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931791124,
+      "content": "multipy with frequency to get clock cycles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931773169,
+      "content": "that gives u ns",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931767722,
+      "content": "AMAT P1 = .92*.66 + .08*70",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931735883,
+      "content": "P1 frequency is 1.515151515 Ghz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931727942,
+      "content": "P1 frequency is 1 / .66 ns",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931714082,
+      "content": "AMAT = hit rate * hit time + miss rate * miss penalty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931703104,
+      "content": "frequency = 1 / hit time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931693316,
+      "content": "for 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931688595,
+      "content": "uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511931639975,
+      "content": "How'd you calculate your answers for 2 tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511931602888,
+      "content": "How'd u get 130?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511931588263,
+      "content": "B/c offset is 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511931576477,
+      "content": "I think 1a is 8 words?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931471124,
+      "content": "anyone get same as me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931456438,
+      "content": "1A i think is 130 words",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931426688,
+      "content": "i think?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931423678,
+      "content": "3B:abcd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931393248,
+      "content": "3A:ab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931346019,
+      "content": "2Ai:1.515\n2Aii:1.111\n2Bi:9.40\n2Bi:5.61",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931310328,
+      "content": "1B: 32 blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931296652,
+      "content": "so i got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931295121,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931294523,
+      "content": "sorry i just read this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511930363468,
+      "content": "pusy sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24259536_1785161484828096_1366484111_o_1785161484828096.png",
+          "creation_timestamp": 1511930361
+        },
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/24271456_1785161491494762_538751032_o_1785161491494762.png",
+          "creation_timestamp": 1511930361
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511928998670,
+      "content": ":( mne too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511928984801,
+      "content": "I'm too scurred",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511928946807,
+      "content": "has anyone started quiz yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923940690,
+      "content": "ok i am checking fb pretty frequently so ill see from here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511923350764,
+      "content": "I'll let you know when we start kamisama",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923348059,
+      "content": "my bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923345832,
+      "content": "i should have mentioned earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923339617,
+      "content": "sorry i am not coming today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511918647083,
+      "content": "MY SURFACE GOT DELIVERED IM RUNNING HOME RN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511918645073,
+      "content": "WHERE IS EVERY1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511918497432,
+      "content": "Send me the questions pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511917981933,
+      "content": "RN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511917977596,
+      "content": "EVERYONE COME TO GW RNNNNB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511917729960,
+      "content": "Quiz is open \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511380233271,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511380211596,
+      "content": "Lol wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511380205602,
+      "content": "D.N.E",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511380200936,
+      "content": "u heard it from the boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511380146442,
+      "content": "pusy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23848159_1777813962229515_1637939782_o_1777813962229515.png",
+          "creation_timestamp": 1511380145
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511380090865,
+      "content": "https://www.chegg.com/homework-help/questions-and-answers/427-problems-exercise-refer-following-sequence-instructions-assume-executed-five-stage-pip-q24804961",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511380085377,
+      "content": "do any of u have chegg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511380035044,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511380033547,
+      "content": "Tru*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511380030600,
+      "content": "Oh try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379988856,
+      "content": "not add",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379987305,
+      "content": "and rearrange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379983965,
+      "content": "but it says change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379876030,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379873743,
+      "content": "But isn't that more of a nop than mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379865307,
+      "content": "I mean yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379830484,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379828263,
+      "content": "add x17 x0 x0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379820523,
+      "content": "can i just write",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379593809,
+      "content": "\"Minimize nops\" it doesn't have to be efficient",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379581966,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511379580782,
+      "content": "Basically doesn't mean it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379573203,
+      "content": "that\u00e2\u0080\u0099s basically a no op",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511379568594,
+      "content": "wtf justin lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511379526853,
+      "content": "yeah i was gonna ask same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511362919078,
+      "content": "I didn't know how to do that one so I replaced some nops with add x17 x12 x0 or something like that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511356574933,
+      "content": "did u guys use x17 for number 4 part b on the homework?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511300649244,
+      "content": "U fucking sloot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511300022289,
+      "content": "Hahahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511300018581,
+      "content": "My bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511300013050,
+      "content": "There's no quiz lnao",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511300009451,
+      "content": "Um I messed ip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511299957625,
+      "content": "@JuJu Stinley",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511299954898,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511299898571,
+      "content": "R u guys sure there is a quiz tiday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511299739289,
+      "content": "i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511299631232,
+      "content": ":3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292341122,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292335571,
+      "content": "uggggggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511289951559,
+      "content": "yus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511289557924,
+      "content": "Quiz tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511252036057,
+      "content": "TY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511250544986,
+      "content": "pls check for w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511250540165,
+      "content": "i finished most but not all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511250539437,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/hw72797038_1720227311342769.pdf",
+          "creation_timestamp": 1511250538
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237367157,
+      "content": "sry sry :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237339258,
+      "content": "Im I'm left side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237336802,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237335461,
+      "content": "Omg oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237250641,
+      "content": "WHERE ARE U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237239929,
+      "content": "Jus heads up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511237236598,
+      "content": "Im legit just starting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511237220815,
+      "content": "Coming rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237086854,
+      "content": "wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237085723,
+      "content": "@JuJu Stinley",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237082876,
+      "content": "fuck this guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237041527,
+      "content": "@Michael Choi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511237037908,
+      "content": "@Michael Choi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511236985919,
+      "content": "????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511236898562,
+      "content": "@Michael Choi wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511233683525,
+      "content": "ok imma start it soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511233651572,
+      "content": "I have a meeting and then I'll b back around 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511233635424,
+      "content": "Okok I just left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511233434494,
+      "content": "im on left side from coming in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511233429206,
+      "content": "where are u right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511233348191,
+      "content": "im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511233256445,
+      "content": "@Michael Choi wya??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511210762459,
+      "content": "ok i\u00e2\u0080\u0099ll be at gateway around 6 or something i got some other stuff tho but yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511210516931,
+      "content": "It's before 4pm I'm impressed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511210509374,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511210499697,
+      "content": "Wow lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1511210491746,
+      "content": "ur awake wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511210476533,
+      "content": "Yeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511209890897,
+      "content": "u guys down to do some today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511209879141,
+      "content": "i\u00e2\u0080\u0099m working on the homework btw guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511209872670,
+      "content": "oh yeah haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880705612,
+      "content": "Michael is a god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880702680,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510880689269,
+      "content": "How tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880679933,
+      "content": "Then it was 7 and 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880675856,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510880661780,
+      "content": "He got 100",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880116699,
+      "content": "On quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880101945,
+      "content": "What did u get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510880089579,
+      "content": "Michael",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510801089420,
+      "content": "we have 170a midterm on friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510801083095,
+      "content": "not this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510801072176,
+      "content": "hw3 was released r u guys down to do that too later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510801052555,
+      "content": "also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510800741823,
+      "content": "maybe it was 7 8 after all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510800727194,
+      "content": "i got 100",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510721943201,
+      "content": "Idiot I tricked you haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721805672,
+      "content": "fuck i had it at first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721798531,
+      "content": "it has 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721796600,
+      "content": "from power point",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721793991,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23601987_1714033668628800_1660905009_n_1714033668628800.png",
+          "creation_timestamp": 1510721793
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721781919,
+      "content": "i thought add and sd would only have one stall cycle between",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721766564,
+      "content": "for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721758829,
+      "content": "i think it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721725902,
+      "content": "fuck me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510721724104,
+      "content": "ahhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510719378784,
+      "content": "pusy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23634130_1768959966448248_1942407376_o_1768959966448248.jpg",
+          "creation_timestamp": 1510719378
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510719099033,
+      "content": "i feel like its 7 and 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510719094519,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715663019,
+      "content": "imma turn it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715660973,
+      "content": "i think thats it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715658235,
+      "content": "9 cycles * 300 ps = 2700 ps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715643071,
+      "content": "for number 4 there is no forwarding possible b/c load so i just treated it like ld nop ld nop add",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715563532,
+      "content": "number 3 i am also almost certain it is A",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715479796,
+      "content": "im 95% sure Reg[x13], 0x14, PC, 0x28 is the right one (B)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715459884,
+      "content": "for #2 did everyone else get the same answer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715397208,
+      "content": "this is why i sleep with you at night",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715388346,
+      "content": "ok ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715385339,
+      "content": "pog champ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715384354,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715377456,
+      "content": "right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715375598,
+      "content": "ld add nop sd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715371850,
+      "content": "yeah yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715366452,
+      "content": "I got 8 for number 1 non forwarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715354514,
+      "content": "omg ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715350797,
+      "content": "Fuck you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715346486,
+      "content": "i think its 7, 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715342348,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715341696,
+      "content": "oh wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715333012,
+      "content": "in our case it doesn't so there is no data hazard in the first place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715317102,
+      "content": "even for forwarding you have to add a nop IF next instruction uses the loaded value",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715283219,
+      "content": "mm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715264330,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715262867,
+      "content": "Didn't know u have to nop after ld",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715254783,
+      "content": "which is 5 + 1 + 1 + 1 + 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715252314,
+      "content": "Oh okay okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715245072,
+      "content": "ld nop add nop sd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715237138,
+      "content": "oops i mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715226723,
+      "content": "ld takes 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715221651,
+      "content": "ld nop nop add nop nop sd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510715207476,
+      "content": "Wait how did you get 9 for non-forwarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715178003,
+      "content": "yeah i thought there was a dependency in the first step for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510715167180,
+      "content": "7 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510715163777,
+      "content": "Yea 7 o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715161931,
+      "content": "DBAA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715151614,
+      "content": "80% sure its 7, 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510715009639,
+      "content": "ohhhh wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714967918,
+      "content": "my answer was 8, 9 but there is no option for that...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714956900,
+      "content": "i dont get number 1 though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714921965,
+      "content": "the other values are irrelevant i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714912006,
+      "content": "and i assume cycles must each take 300 ps in a pipelined architecture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714894931,
+      "content": "which is 5 + 2 + 2 cycles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714874254,
+      "content": "IF ID EX ME WB\n         IF   ID   EX ME WB\n                      IF   ID   EX ME WB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714795608,
+      "content": "so for me it looks like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714789628,
+      "content": "you cant forward from EX",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714783709,
+      "content": "because the first two instructions are LD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714764761,
+      "content": "what about u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714761201,
+      "content": "i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714759962,
+      "content": "2700",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510714675975,
+      "content": "@Michael what did you get for the total time one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510714654477,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714023782,
+      "content": "(i.e. 300ps)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714017123,
+      "content": "is jkust the highest delay right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510714009677,
+      "content": "but the time it takes for the processor to complete lets say 5 cycles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713992695,
+      "content": "it gives a bunch of timings for different stages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713982992,
+      "content": "for #4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713977944,
+      "content": "quick question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713951700,
+      "content": "2 NOPS between 1, 2 and 1 NOP between 3, 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713936960,
+      "content": "#3 is A I believe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713513534,
+      "content": "that means #2 could be B or D. it has to be B because the other input of the branch adder is PC, not PC + 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713481669,
+      "content": "#2 i think its B:\nreason is because imm is 20, that is extended to 20 still with 64 bits, which is then shifted by one to make 40 (base 10). that is 0x28 in hex which is put into the branch adder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510713126088,
+      "content": "https://eee.uci.edu/17f/18105/Files/Supplementary/RISC-V%20cheat%20sheet.pdf",
+      "share": {
+        "link": "https://eee.uci.edu/17f/18105/Files/Supplementary/RISC-V%20cheat%20sheet.pdf"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510712939463,
+      "content": "im dumb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510712938092,
+      "content": "nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510712936144,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510712910311,
+      "content": "how did u do so fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712878370,
+      "content": "thats it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712876478,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23584707_1713917748640392_1392562562_n_1713917748640392.png",
+          "creation_timestamp": 1510712875
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712865639,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23627098_1713917578640409_333824293_o_1713917578640409.png",
+          "creation_timestamp": 1510712864
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712854424,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23627270_1713917455307088_1459637906_o_1713917455307088.png",
+          "creation_timestamp": 1510712853
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712839928,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23627125_1713917331973767_211295806_o_1713917331973767.png",
+          "creation_timestamp": 1510712839
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712797932,
+      "content": "alright ill message u what i get once im done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510712746103,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510712659427,
+      "content": "ghonna start quiz rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510694976020,
+      "content": "if u guys message me ill share answers tho so we can compare",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510694966875,
+      "content": "im going home early today tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510691649223,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510690085108,
+      "content": "do you guys wanna do the quiz together around 6:30 today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510610050759,
+      "content": "hmm ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510610011706,
+      "content": "tomorrow at 6pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510609986888,
+      "content": "is it today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510609984135,
+      "content": "when",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510608245331,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510607097593,
+      "content": "wtf another quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510445680007,
+      "content": "i got 75 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510440560544,
+      "content": "shold we go to office hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510440550647,
+      "content": "i got 84",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510440543923,
+      "content": "fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510440531604,
+      "content": "86",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510440436427,
+      "content": "what did u guys get on homework 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510265201974,
+      "content": "Idiot boy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510265177984,
+      "content": "low key i prolly should have reivewed my midterm too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510265155836,
+      "content": "Hell yea babby 9 points back on my midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510264926142,
+      "content": "no sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510264284625,
+      "content": "Wait @Michael Choi do u have a laser pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1510110008777,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510109999266,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510109998213,
+      "content": "If you went to today's midterm review you could've argued for points",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1510109997734,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1510109990392,
+      "content": "people who rebuttled for their grade right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510109989023,
+      "content": "got points",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510109986080,
+      "content": "probably ppl who complained about grades",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1510109972961,
+      "content": "Hey guys, I got an email from Ronak Salamat saying \"The grades for today\u00e2\u0080\u0099s midterm review have been updated\". You guys know what this means?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510092888350,
+      "content": "lower dat curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510092882547,
+      "content": "BABY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510092871918,
+      "content": "Heck yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510092787771,
+      "content": "Yeeeee boissszzs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510092783305,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510092778784,
+      "content": "We got 100% on the quiz btw. A lot of ppl didn't apparently",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510092463489,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510087711939,
+      "content": "For the C to Riscv code, if you missed one line then all the lines below it were wrong. \u00f0\u009f\u0098\u009e I put the wrong value for shift and since it affects other parts of my code it was all wrong lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510087611831,
+      "content": ":/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510087581017,
+      "content": "I just went to check my midterm. They are so savage with the grading",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510022273260,
+      "content": "and final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510022271172,
+      "content": "mt 2, 2 versions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510022265348,
+      "content": "https://eee.uci.edu/16f/18220/lecturematerials/Final+Exam.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510022228744,
+      "content": "https://eee.uci.edu/16f/18220/lecturematerials/MTEXAM2.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510022216123,
+      "content": "https://eee.uci.edu/16f/18220/hws/HW6-MIDTERM-EXAM.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510018122927,
+      "content": "I'm down. I'll be there in 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510018003366,
+      "content": "Gateway?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510018000385,
+      "content": "Where r we meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510008204027,
+      "content": "nigr sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23379441_1705476329484534_536171056_o_1705476329484534.jpg",
+          "creation_timestamp": 1510008202
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510008183082,
+      "content": "uci in a nutshell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509998693378,
+      "content": "oh my",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509997762680,
+      "content": "@Michael Choi",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509997755413,
+      "content": "Score distribution",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509997751813,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/23377177_464504743944555_885143899_o_464504743944555.jpg",
+          "creation_timestamp": 1509997751
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509997698916,
+      "content": ":0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509988026820,
+      "content": "Average was a 42 @Michael Choi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509948850745,
+      "content": "YAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509948808338,
+      "content": "then yall better go to class tomorrow :^)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509948790606,
+      "content": "I think so. The email he sent said he will explain grading tomororw or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948772526,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948768146,
+      "content": "or like a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509948766963,
+      "content": "Then you did better than me \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948763294,
+      "content": "do u think he will curve at least tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948756971,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509948749025,
+      "content": "Did you get above 50?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948729609,
+      "content": "no jk i did shit too LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509948722662,
+      "content": "dam i got 89",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509931225312,
+      "content": "fuck i did pretty poorly too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509923799141,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1509922760406,
+      "content": "And shocked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1509922758424,
+      "content": "I\u00e2\u0080\u0099m shook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1509922754289,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509922733844,
+      "content": "I did so bad on the midterm wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509845780938,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509845775373,
+      "content": "I am down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509845666663,
+      "content": "we got online quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509845659202,
+      "content": "idk how long or difficult the quiz is tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509845657432,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509845656868,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509845655963,
+      "content": "why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509845631134,
+      "content": "u guys wanna meet up on monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509134388403,
+      "content": "nope.\u00f0\u009f\u0098\u009e sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509129832200,
+      "content": "\u00f0\u009f\u0098\u009e no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509129826407,
+      "content": "i did not :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509129819841,
+      "content": "Ima go back to the lecture hall to check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509129805051,
+      "content": "Did y\u00e2\u0080\u0099all happen to see a wallet after the midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509119665606,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119650757,
+      "content": "anyone here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119388364,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509119213960,
+      "content": "No calc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119152452,
+      "content": "for this test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119150027,
+      "content": "btw does anyone know if we need a calculator",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119123820,
+      "content": "and the groupings will be tagged with MSB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509119104567,
+      "content": "the LSB are used because you need to group the output in sets of 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509118981945,
+      "content": "how do i explain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509118978780,
+      "content": "hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509118954652,
+      "content": "well the two msb are used for the final 4:1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509091914433,
+      "content": "can someone explain why for hw1 for the 16 to 1 multiplexer we use the two lsb of the selector instead of the two msb?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509085476668,
+      "content": "pusy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/22882377_1748247138519531_1149039060_o_1748247138519531.jpg",
+          "creation_timestamp": 1509085476
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509082312367,
+      "content": "pls no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509082235072,
+      "content": "@Justin Le come over u fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080390120,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080385472,
+      "content": "nvm i forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080381853,
+      "content": "oh shoot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509080321919,
+      "content": "my for is at the second bge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509080320945,
+      "content": "It is in the right spot I tjink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509080307857,
+      "content": "wait look at my solution again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080275162,
+      "content": "stack overflow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080272626,
+      "content": "it will reset to 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080269455,
+      "content": "then every time j tries to do a loop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080262327,
+      "content": "cuz if u put hte label where j resets to 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080244887,
+      "content": "but the for2 label is supposed to go one instruction down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080229939,
+      "content": "i forget who posted theirs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080225931,
+      "content": "also our #4 was incorrect after all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509080210424,
+      "content": "ah fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079883709,
+      "content": "the smallest number for single floating is 2^-127",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079860857,
+      "content": "THE TA IS TROLLING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079857882,
+      "content": "WAIT YEAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079781588,
+      "content": "wait nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079759794,
+      "content": "i think solution is wreong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079726375,
+      "content": "im kinda confused on 6b tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079489090,
+      "content": "just didnt sub",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079485105,
+      "content": "ours is technically correct too imo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079476441,
+      "content": "f = 2 * &A[0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079469372,
+      "content": "f = &A[0] + &A[0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079458836,
+      "content": "so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079458161,
+      "content": "but A[1] = &A[0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079441353,
+      "content": "which is what we wrote",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079437477,
+      "content": "f = A[1] + &A[0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079416751,
+      "content": "i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079414919,
+      "content": "last line is likethat cuz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079409472,
+      "content": "dam 6b tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509079374483,
+      "content": "?*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509079371537,
+      "content": "why is the last line like that>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079315885,
+      "content": "ug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079315483,
+      "content": "we might get some points docked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079306599,
+      "content": "shit for number 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509079293080,
+      "content": "look at 6b tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509079257407,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079220874,
+      "content": "yusss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079218489,
+      "content": "so 32 bit is shift by 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509079153913,
+      "content": "oo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509076642514,
+      "content": "@Michael Choi hw2 solutions are up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509052372620,
+      "content": "No idea. But it's not that hard I feel like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509050909399,
+      "content": "like the actual equations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509050894733,
+      "content": "do you guys know if the old chap one stuff on CPI and Clock Cycles stuff is gonna be on the midterm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509050825277,
+      "content": "im down to study too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509046516585,
+      "content": "i am studying at home for today sorry guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509046082318,
+      "content": "I'm down around 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509045973178,
+      "content": "Do y\u00e2\u0080\u0099all wanna study today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043786441,
+      "content": "oops u rite u rite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043756353,
+      "content": "lemme read it over again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043752534,
+      "content": "oh yeah huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043750899,
+      "content": "mmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509043686245,
+      "content": "I thought that for for2 it should be incrementing up and only resets when he gets to for1? Cause doesn't his for1 jump reset it to 0?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043610146,
+      "content": "j will never reset to 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043604689,
+      "content": "but it must repeat this loop a amount of times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043592069,
+      "content": "currently your for2 increments j from 0 to b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043575410,
+      "content": "for2: should be one step up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509043543349,
+      "content": "the labels are still incorrect just as a heads up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509042557933,
+      "content": "pusy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/22850488_1747683925242519_217749339_o_1747683925242519.jpg",
+          "creation_timestamp": 1509042557
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509042534654,
+      "content": "My number 4 was wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509042530291,
+      "content": "Hey friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509007329327,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/22712000_460144861047210_633853436_o_460144861047210.jpg",
+          "creation_timestamp": 1509007328
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509006058110,
+      "content": "yas pl0x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509005794099,
+      "content": "I am also now just finishing the hw I can do it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509005185086,
+      "content": "i just got home i can do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509005178678,
+      "content": "do you still need some to do the hex?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1509000654740,
+      "content": "Q1 also asks for hexadecimal machine code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508999079083,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/HW2final_1693744907324343.pdf",
+          "creation_timestamp": 1508999072
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508999078611,
+      "content": "can someone do the hex please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508995482047,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/photos/22855688_460104081051288_284971433_n_460104081051288.png",
+          "creation_timestamp": 1508995481
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508995478840,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508995401144,
+      "content": "btch set your nickname to sloot.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508995383506,
+      "content": "btch set your nickname to slut.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508995345782,
+      "content": "btch set the nickname for Ryan Yue to pusy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508995316387,
+      "content": "btch added you and Ryan Yue.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ryan Yue"
+        },
+        {
+          "name": "Justin Le"
+        }
+      ]
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508968578107,
+      "content": "Kkkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508968447015,
+      "content": "i\u00e2\u0080\u0099ll probably still be on campus just text",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508968439655,
+      "content": "just message me from phone after class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508968439414,
+      "content": "fuuuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508968053030,
+      "content": "But I'm down to meet after if you are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508968044904,
+      "content": "Today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508968041744,
+      "content": "Im not free till 8:30 :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508967763665,
+      "content": "i\u00e2\u0080\u0099d rather get it done together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508967756945,
+      "content": "tomorrow homework is due",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508967751516,
+      "content": "wait can we meet today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1508967676372,
+      "content": "I can meet around 5 ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508965484708,
+      "content": "I'm free after 6:20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508964820122,
+      "content": "what time u guys want to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1508810160033,
+      "content": "fgt: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508810138857,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508810110879,
+      "content": "also is anyone down to study on thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508810098827,
+      "content": "what\u00e2\u0080\u0099s up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508810096626,
+      "content": "no i\u00e2\u0080\u0099m doing it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508699523086,
+      "content": "Hey @Michael Choi did you do the hw yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508176853004,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1508176849305,
+      "content": "oh u right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508128526256,
+      "content": "but i think its supposed to be 2003",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508128520553,
+      "content": "you put 203",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508128517315,
+      "content": "hey michael on #1 part c of the hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507755794204,
+      "content": "nigr: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507755536144,
+      "content": "Ur hot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507754947638,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/HW1_1680122718686562.pdf",
+          "creation_timestamp": 1507754946
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507593243869,
+      "content": "Lol no worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507593043877,
+      "content": "lol i'll upload the correct one later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507593031822,
+      "content": "none of it is filled out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507593023823,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507587537779,
+      "content": "nigr sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/EECS112SurvivalGroup_TPCD6tGKsw/files/HW1_1678363682195799.pdf",
+          "creation_timestamp": 1507586208
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1507586193087,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507586146808,
+      "content": "Okie ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507586092408,
+      "content": "i upload later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507586086914,
+      "content": "hm it won't upload rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507586052080,
+      "content": "here is a solution to hw 1 for reference i think most of it is good tell me if i get one wrong please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1507565677894,
+      "content": "you're missing out on the quiz @Michael Choi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507565642492,
+      "content": "Woops I think I was confusing this class with another",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507561481306,
+      "content": "40% final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507561476648,
+      "content": "35% midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507561465970,
+      "content": "25% he",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507561463379,
+      "content": "there is no quiz component to this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507561440559,
+      "content": "why would we have a quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1507484177701,
+      "content": "if so, what day would he give it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507484156934,
+      "content": "We might have a quiz not sure tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1507484147464,
+      "content": "Don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1507483762156,
+      "content": "were we assigned anything for this class yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1507275594810,
+      "content": "fgt sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/StudentProblems/posts/1507181102741951"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1507081145086,
+      "content": "yayyyyu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506971998169,
+      "content": "fgt sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/16327852_1846060022336562_280875364916396032_n_1846060019003229.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506967668021,
+      "content": "Here is the version on his syllabus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506967659666,
+      "content": "https://drive.google.com/a/uci.edu/file/d/0B7dyek6KmOrrd0lQOFNsN2Ftb2s/view?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fa%2Fuci.edu%2Ffile%2Fd%2F0B7dyek6KmOrrd0lQOFNsN2Ftb2s%2Fview%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fa%2Fuci.edu%2Ffile%2Fd%2F0B7dyek6KmOrrd0lQOFNsN2Ftb2s%2Fview%3Fusp%3Dsharing"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506922958610,
+      "content": "tytyty <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506922698398,
+      "content": "sent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506915837942,
+      "content": "ty <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506915836490,
+      "content": "just whenever you get the chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506915833489,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506915831511,
+      "content": "amhuynh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506915824002,
+      "content": "oh can you email it to me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506915816234,
+      "content": "exceeds 25MB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506915811126,
+      "content": "i cant send it thrpugh here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506915784485,
+      "content": "but here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506915779679,
+      "content": "idk if this is the one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506915115529,
+      "content": "were you able to find the book fgt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506814245267,
+      "content": "btch set the nickname for Michael Choi to nigr.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506814219694,
+      "content": "Thank you fgt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506814183803,
+      "content": "i will send it once im back home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506814179948,
+      "content": "idk if it's the version he wants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506814175616,
+      "content": "i might",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1506813739233,
+      "content": "Does anyone have the book for this class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steve Cho",
+      "timestamp_ms": 1506813222885,
+      "content": "Oh baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1506813186769,
+      "content": "nigr named the group EECS112 Survival Group.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1506813165524,
+      "content": "nigr set the nickname for Andrew Huynh to btch.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1506813158928,
+      "content": "nigr set the nickname for Steve Cho to fgt.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1506813144268,
+      "content": "survival group",
+      "type": "Generic"
+    }
+  ],
+  "title": "EECS112 Survival Group",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/EECS112SurvivalGroup_TPCD6tGKsw"
+}

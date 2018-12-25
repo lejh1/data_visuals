@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1491161750896,
+      "content": "ty ty <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491161738415,
+      "content": "Jk you can leave lol!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1491161723494,
+      "content": "sorry guys TT^TT i would've stayed as a booth leader but i'm so busy with school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491161650300,
+      "content": "\u00f0\u009f\u0098\u009e momma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1491160468330,
+      "content": "hi guys! :) i just reaized i accidently signed up to be a booth leader \u00f0\u009f\u0098\u0085 is it too late for me to change it?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Adina",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandAdina_UF8EGRwQDQ"
+}

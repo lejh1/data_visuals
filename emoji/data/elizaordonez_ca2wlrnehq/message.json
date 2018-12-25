@@ -1,0 +1,277 @@
+{
+  "participants": [
+    {
+      "name": "Eliza Ordonez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485996202906,
+      "content": "Only on the first time you open your personal account you use setenv CVSROOT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485996079984,
+      "content": "or just setenv CVSROOT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485996074223,
+      "content": "do i have to setenv everytime?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485996055277,
+      "content": "Eliza: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485996048626,
+      "content": "im gonna comment off the log stuff for now because we can run the program on our own laptops and such.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485996025473,
+      "content": "idk how the team account works tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485996015816,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485996006949,
+      "content": "but anyway i think i fixed the problem with the log and it will only work on the team account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995984786,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995983716,
+      "content": "and those are the updated ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995978047,
+      "content": "cause the there like those wierd ,v files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995954511,
+      "content": "idk how the team account works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995949420,
+      "content": "um",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995725414,
+      "content": "lemme check again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485995703352,
+      "content": "Really? I checked and at first it wasn't there and then I updated and checked again it was there...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995420245,
+      "content": "and the record move stuff isnt on there for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485995408645,
+      "content": "im on the team account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485993199447,
+      "content": "Hm*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485993197037,
+      "content": "Him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485978576568,
+      "content": "okay now it works but the log.txt file wasn't updated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485978305537,
+      "content": "There's a way to fix that... it's on the lecture slides but maybe it's also because you changed main.c before  kenny's update",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978210128,
+      "content": "\" \"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978208236,
+      "content": "conflicts during merge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978195932,
+      "content": "idk whats up wit it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978191466,
+      "content": "im also getting warnings when i update lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485978189908,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978175191,
+      "content": "ill think about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485978172617,
+      "content": "Oh true...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978172567,
+      "content": "just dont put it in yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978166905,
+      "content": "so like i think if you try to run it on your own laptop it wont work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978149518,
+      "content": "not your own",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978145977,
+      "content": "the path is for the team's account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978139205,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485978138643,
+      "content": "cause you have to run it on the team account i think?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485978060282,
+      "content": "uhm it still gives an error...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485977858036,
+      "content": "alright, will do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485977778162,
+      "content": "if you could change it then commit that would be great!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485977767491,
+      "content": "thats the path",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485977763714,
+      "content": "I put a log.txt  into the team account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485977746695,
+      "content": "/users/ugrad2/2017/winter/team11/cvs_rep/chess/bin/log.txt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485924862412,
+      "content": "FILE *f =NULL;\n\t\tf= fopen(\"/users/ugrad/2016/fall/lejh1/chess/bin/log.txt\", \"w\");\n\t\tif (f == NULL){\n\t\t\tprintf(\"Error!\");\n\t\t\texit(1);\n\t\t}\n\t\tfclose(f);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eliza Ordonez",
+      "timestamp_ms": 1485924533327,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485924505776,
+      "content": "void RecordMove(char *in, Game *game) {\n \n\tassert(in);\n\tFILE *f = NULL;\n\n\tf = fopen(\"/users/ugrad/2016/fall/lejh1/chess/bin/log.txt\", \"a\");\n\tif (f == NULL)\n\t{\n\t\tprintf(\"Error!\");\n\t\texit(1);\n\t}\n  if(game->turn% 2==0){\n    fprintf(f, \"Player 2: \");\n\tfprintf(f, in);\n   fprintf(f, \"\\n\");\n   }\n   else if(game->turn %2==1){\n   fprintf(f, \"Player 1: \");\n\tfprintf(f, in);\n   fprintf(f, \"\\n\");\n   }\n\tfclose(f);\n\n}",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eliza Ordonez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ElizaOrdonez_CA2WLRNEhQ"
+}

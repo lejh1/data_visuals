@@ -1,0 +1,169 @@
+{
+  "participants": [
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Adam Ycneda"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1537207635534,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1537207634451,
+      "content": "driving range 2day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1537146938088,
+      "content": "Hahah ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1537146757909,
+      "content": "nah i'm chillin ty though \u00f0\u009f\u0098\u00ad\u00f0\u009f\u00a4\u0097",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1537146744424,
+      "content": "just a lil for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1537146739797,
+      "content": "Wait @Rosalio Cruz did you want them or nah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1537146683997,
+      "content": "i prolly won't eat anything lolol just ate dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1537146661441,
+      "content": "What \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1537146638100,
+      "content": "Cookies & brownies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1537146528617,
+      "content": "sprite? \u00f0\u009f\u0091\u0080\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1537146498126,
+      "content": "What about Dr Pepper or sprite?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1537146017627,
+      "content": "I don't discriminate friend \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1537146005307,
+      "content": "Adam: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1537145958728,
+      "content": "Would y\u00e2\u0080\u0099all eat veggie pizza from dominoes if I brought it home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487876178403,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1487876141851,
+      "content": "Jk im coming my wallet is too fked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1487875740859,
+      "content": "Wait sorry michelle im gonna eat with colin and brany too!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1487875390818,
+      "content": "Meet near the patio furniture in front of ics at 11! I'm meeting kevin there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1487875198816,
+      "content": "Where is it at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1487875177132,
+      "content": "Im there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1487875174898,
+      "content": "Free food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1487871694965,
+      "content": "I'm having lunch with Colin, sorry bbs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1487871658363,
+      "content": "Engineering BBQ 11-2! Free food kevin said burgers? Wanna go?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rosalio, Michelle and Adam",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/RosalioMichelleandAdam_-BktqvPd7A"
+}

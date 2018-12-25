@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Erika L Works"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erika L Works",
+      "timestamp_ms": 1494746281933,
+      "content": "Say hi to your new Facebook friend, Erika.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Erika L Works",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ErikaLWorks_1qXR667urA"
+}

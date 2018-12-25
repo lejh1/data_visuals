@@ -1,0 +1,184 @@
+{
+  "participants": [
+    {
+      "name": "Steven Wang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508524411,
+      "content": "Hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508520545,
+      "content": "$20...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486508499430,
+      "content": "If you're last left throw me $25 and I'll let you kill me \u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508464905,
+      "content": "But only if I can win",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508408775,
+      "content": "I am down for that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508404982,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508403649,
+      "content": "Hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486508383434,
+      "content": "Give me $20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508370797,
+      "content": "I'll give you two drugs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508364947,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508215194,
+      "content": "Glgl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486508197703,
+      "content": "2/10 effort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508169430,
+      "content": "Welp I tried",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508163252,
+      "content": "Got me there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508160728,
+      "content": "Damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486508157168,
+      "content": "I already have drugs???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508154902,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486508152674,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508147337,
+      "content": "I'll give you drugs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508140572,
+      "content": "Wanna just tell will I killed you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508132780,
+      "content": "I'm lazy and a terrible assassin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486508127802,
+      "content": "So like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485481391703,
+      "content": "look up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1480374555758,
+      "content": "I am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480374515768,
+      "content": "..................",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480374514679,
+      "content": "Pay attention",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477951171507,
+      "content": "No I'm in class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1477951059111,
+      "content": "Are you still at the tents?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Steven Wang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/StevenWang_gcBCXsPB_Q"
+}

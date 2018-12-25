@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Caleb Ho"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caleb Ho",
+      "timestamp_ms": 1495673003348,
+      "content": "I'll be by the tents for the rest of the week so hopefully I can catch you then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495656749381,
+      "content": "If you wanna schedule an appointment cause you're busy just let me know cause I can make time to come out when you're at the tents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495656720029,
+      "content": "Uhhhhh that's a good question. I'll probably just be swinging by the tents every so often so if you see me there just ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caleb Ho",
+      "timestamp_ms": 1495655573902,
+      "content": "hey justin! I was wondering if you were going to host interviews next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495588571701,
+      "content": "Say hi to your new Facebook friend, Caleb.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Caleb Ho",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CalebHo_IntAirpYoA"
+}

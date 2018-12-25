@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Tiffany Sekacnap Yrettub Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492713227194,
+      "content": "okeidokes sounds good (:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713196083,
+      "content": "So you can just go wherever you're free! And bring your booth stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492713188926,
+      "content": "Okiedokes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713181247,
+      "content": "I have enough drivers for the event shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713169915,
+      "content": "You can just drive yourself over early!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492711465785,
+      "content": "ok it's not that fucked up , but yah if that the case then i can either drive the second shift of 330 people over super early, or just drive by myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492711442632,
+      "content": "hi. i fucked up and i'm sorry to add to your ever growing pile of stress; i get out of my research / lab at 2 , so i wouldn't get to NYSD until like 2:45 , 3-ish. Would you like me to still bring my booth's things or give it to you or someone else?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tiffany Sekacnap Yrettub Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TiffanySekacnapYrettubNguyen_8Wvg8FtkbQ"
+}

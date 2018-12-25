@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Sunnie Mo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496891854696,
+      "content": "Am I the last one you need btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496891847797,
+      "content": "Lmao okay tell her I said hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sunnie Mo",
+      "timestamp_ms": 1496891829112,
+      "content": "Alrighty thank you! Christina said to tell you she said hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496891806834,
+      "content": "Yes! I'm running late trying to finish up a project but I'll be there possibly within the next hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sunnie Mo",
+      "timestamp_ms": 1496891733951,
+      "content": "Hello are you coming tonight Justin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sunnie Mo",
+      "timestamp_ms": 1496891713271,
+      "content": "Sunnie is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492237908248,
+      "content": "Say hi to your new Facebook friend, Sunnie.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sunnie Mo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SunnieMo_ld5KSZsvLg"
+}

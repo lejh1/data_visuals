@@ -1,0 +1,598 @@
+{
+  "participants": [
+    {
+      "name": "John Kotz"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538332027753,
+      "content": "Okay thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1538327013974,
+      "content": "I suggest looking at critical roll or Acquisitions Incorporated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1538326982623,
+      "content": "Players Handbook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538276777726,
+      "content": "John! What\u00e2\u0080\u0099s the dnd book you used to help me make a character? Also do you have any recommendations to watch some dnd games on YouTube or somewhere haha? Some of my friends wanna get into it but wanna see it first.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229728854,
+      "content": "20min Eta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229412113,
+      "content": "Ill leave in 5 min",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "John Kotz"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229406165,
+      "content": "Yea I\u00e2\u0080\u0099ll just come to the hamptons and we can pick on the way to the main st area",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1535229380600,
+      "content": "Would you mind picking me up from the Hamptons?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1535229356156,
+      "content": "Main Street Cupertino https://maps.apple.com/?address=19419%20Stevens%20Creek%20Blvd,%20Cupertino,%20CA%20%2095014,%20United%20States&auid=6454624201613581388&ll=37.323940,-122.010507&lsp=9902&q=Main%20Street%20Cupertino&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCHAgoECAoQABIkKXm6qTdZqUJAMXnzCvrBgF7AOVsqygCrqUJAQXxrFh5qgF7A&t=m",
+      "share": {
+        "link": "https://maps.apple.com/?address=19419+Stevens+Creek+Blvd%2C+Cupertino%2C+CA++95014%2C+United+States&auid=6454624201613581388&ll=37.323940%2C-122.010507&lsp=9902&q=Main+Street+Cupertino&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCHAgoECAoQABIkKXm6qTdZqUJAMXnzCvrBgF7AOVsqygCrqUJAQXxrFh5qgF7A&t=m"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1535229336575,
+      "content": "Main st Cupertino has some good options",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229261313,
+      "content": "I can drive down to Cupertino. Any suggestions to eat around there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1535229131954,
+      "content": "Sure. Where should we meet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535228490142,
+      "content": "ALRIGHT wanna get lunch then haha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534984123756,
+      "content": "No problem man! Good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1534984038134,
+      "content": "Sorry, I\u00e2\u0080\u0099m gonna be with my board game group tonight. Plus I need to get ready to present to Craig Federighi tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534983664085,
+      "content": "Me,Bernard and some mutual friends are gonna get dinner toniight in Mountain View around 7 if you\u00e2\u0080\u0099d like to join! Late notice but we just planned it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1534983578083,
+      "content": "Yeah, or near it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982216320,
+      "content": "Hey you still in the bay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534029911664,
+      "content": "Uh cart 3815 lol idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1534029880662,
+      "content": "Where you at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533347077976,
+      "content": "Walking now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533347075026,
+      "content": "Next *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533347071421,
+      "content": "I parked n fit to the leasing center",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533346924982,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533346857206,
+      "content": "But if you\u00e2\u0080\u0099re just here for the afternoon I\u00e2\u0080\u0099m sure no one will mind if you take a numbered spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533346817200,
+      "content": "Technically anywhere that is not covered or numbered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533346753426,
+      "content": "I\u00e2\u0080\u0099m here! Where can I park lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533346102505,
+      "content": "On my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341207948,
+      "content": "Yea sure that works for me!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533341186620,
+      "content": "Great. Wanna arrive then? One of us will be arriving later at 8 and the others probably at 7, but if you can get there a bit early I can get you set up beforehand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341063687,
+      "content": "Yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533341011612,
+      "content": "Would 6:30 work for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533340813109,
+      "content": "What time we meeting up for DND?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533275169883,
+      "content": "Don\u00e2\u0080\u0099t worry about it. If more say they want in then I can organize another group some other time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533275096832,
+      "content": "Oh damn I feel weird asking now loll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533275063848,
+      "content": "I can take maybe one more, so go for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533275047423,
+      "content": "Wanna see if anyone else in the group chat wants to join?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533275032751,
+      "content": "Alright sounds good! I\u00e2\u0080\u0099ll just be on standby after work haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533274997564,
+      "content": "John sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JohnKotz_aafJHEX5NQ/photos/38287538_1871509892942588_6909467524350345216_n_1871509852942592.jpg",
+          "creation_timestamp": 1533274997
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533274978245,
+      "content": "Awesome! We are playing tomorrow at 7 or 8 depending on when I can be done with this thing beforehand. 19500 Pruneridge Ave, Cupertino CA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533274911065,
+      "content": "Oooh well on that case I\u00e2\u0080\u0099m totally down :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533274706540,
+      "content": "Totally. Most of the others are noobs anyway, so you won\u00e2\u0080\u0099t be as far behind as you think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533273788273,
+      "content": "Cause I\u00e2\u0080\u0099d be down :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533273779562,
+      "content": "Ohhhh shiiit. You guys cool with adding a noobie? I don\u00e2\u0080\u0099t wanna hold anyone back lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1533273461938,
+      "content": "Did you want to join tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532922877315,
+      "content": "Also Friday if you\u00e2\u0080\u0099re just one person",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532917193625,
+      "content": "Any time I can get people for it. Probably Thursday or Tuesday",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532844320881,
+      "content": "Hey man, when\u00e2\u0080\u0099s that next D&D gonna happen lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532309789400,
+      "content": "Noice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532307838016,
+      "content": "John sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JohnKotz_aafJHEX5NQ/photos/37698893_1851846154908962_8545241338411483136_n_1851846044908973.jpg",
+          "creation_timestamp": 1532307837
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532300838961,
+      "content": "At midnight? Doesn\u00e2\u0080\u0099t John have DnD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300678995,
+      "content": "Come bake cookies tho!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300665539,
+      "content": "You\u00e2\u0080\u0099re so gross",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300655138,
+      "content": "Whattttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300650688,
+      "content": "BRUHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532300623729,
+      "content": "Like midnight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300622366,
+      "content": "I thought you\u00e2\u0080\u0099re already back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300618324,
+      "content": "when do u get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532300589850,
+      "content": "Yes lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300583886,
+      "content": "You\u00e2\u0080\u0099re in SoCal wtf??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300569748,
+      "content": "The video chat ended.",
+      "call_duration": 26,
+      "type": "Call"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300531585,
+      "content": "John sent a voice message.",
+      "audio_files": [
+        {
+          "uri": "messages/inbox/JohnKotz_aafJHEX5NQ/audio/audioclip15323005308546182_1851714234922154.aac",
+          "creation_timestamp": 1532300531
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300522060,
+      "content": "You missed a video chat with John.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532300490871,
+      "content": "Wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300330043,
+      "content": "That was Serena",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300303895,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300301245,
+      "content": "HELLOOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300298970,
+      "content": "Go to the Hamptons place where Lex\u00e2\u0080\u0099s pool thing was at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300284221,
+      "content": "Dude come bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1532300275905,
+      "content": "Hey, wanna join Serena and I? We are baking cookies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1531453355422,
+      "content": "I\u00e2\u0080\u0099ve seen that. Great opportunity for learning the rhythm of the game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531453283545,
+      "content": "It\u00e2\u0080\u0099s interesting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531453280417,
+      "content": "There\u00e2\u0080\u0099s a group of people live streaming their DnD game on twitch.tv lol I\u00e2\u0080\u0099m watching it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531453235130,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1531453222112,
+      "content": "K. I\u00e2\u0080\u0099ll keep you updating in case another opportunity works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531453182224,
+      "content": "No I\u00e2\u0080\u0099m busy Friday - Sunday \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1531453166244,
+      "content": "Would you be available tomorrow night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531453149149,
+      "content": "Ooo yea I\u00e2\u0080\u0099d be down :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1531452769281,
+      "content": "Would you still be interested in playing DnD?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1530927725527,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1530927724494,
+      "content": "*$10.38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1530927702509,
+      "content": "For the ride to Caltrain: 10.375",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1530688897685,
+      "content": "For dinner you owe: $22.90",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1530319580189,
+      "content": "Hey, it\u00e2\u0080\u0099s next time. Y\u00e2\u0080\u0099all doing anything this weekend?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529431707493,
+      "content": "Ahhh alright well maybe next time then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1529431646687,
+      "content": "I would love to, but my family is in town this weekend and we\u00e2\u0080\u0099re going to Yosemite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Kotz",
+      "timestamp_ms": 1529431626569,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529430156516,
+      "content": "Hey man a couple of us are gonna go to sf this weekend if you wanna come \u00f0\u009f\u0099\u0082. I think Bernard is gonna show us around",
+      "type": "Generic"
+    }
+  ],
+  "title": "John Kotz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JohnKotz_aafJHEX5NQ"
+}

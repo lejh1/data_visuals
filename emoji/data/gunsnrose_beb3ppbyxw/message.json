@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1498982181688,
+      "content": "Colin started a weekly tournament in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1497644171980,
+      "content": "Colin started a weekly tournament in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482107742317,
+      "content": "Okayyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1482107738368,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482107680464,
+      "content": "Guys should we get Brian a gift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1480701756505,
+      "content": "don't know, but it doesn't have to be big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480701720661,
+      "content": "How much is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1480701468880,
+      "content": "Rosalio named the group Guns n Rose.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1480701448451,
+      "content": "you guys wonna go threesies on a christmas tree?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Guns n Rose",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/GunsnRose_Beb3PpByxw"
+}

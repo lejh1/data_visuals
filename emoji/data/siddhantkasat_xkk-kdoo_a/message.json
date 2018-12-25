@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Siddhant Kasat"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542162246344,
+      "content": "oh yes thankss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1542162229823,
+      "content": "Hey\nYes I'll do that right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542161624677,
+      "content": "Dude help me lol, If you could just send me the previous buddy Series Proposals thatll be helpful lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1540521493680,
+      "content": "Oh damn\nYeah same but he should be fine as he wasn't doing much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540510718240,
+      "content": "I feel kinda bad about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540510708769,
+      "content": "He told mike. Mike just updated me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1540510695603,
+      "content": "Wtf \nDid he tell you or Mike?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540510579039,
+      "content": "Esteban quit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1540445111593,
+      "content": "yeah I know. that's the best option\nLike give him 2 chances then tell Mike once and see what he says. That's what I did with Eric and Sam",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540445063703,
+      "content": "Alright haha thanks I\u00e2\u0080\u0099ll try that. I\u00e2\u0080\u0099m trying to be nice but it\u00e2\u0080\u0099s hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1540445031671,
+      "content": "oh haha. Dude Esteban is such a fake. He should have known all this\n\nOkay do one thing, tell him to read the report and go over the code. Ask Mike what exactly needs to be done, I don't think there is much left, then you can give that piece of work to him.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540444729557,
+      "content": "I need team lead advice haha, Esteban seems to not know anything about WCB. He said he wants help but I don\u00e2\u0080\u0099t really have enough manpower or WCB to help. What should I do lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540444570745,
+      "content": "You waved at Siddhant!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Siddhant Kasat",
+      "timestamp_ms": 1526797056841,
+      "content": "Say hi to your new Facebook friend, Siddhant.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Siddhant Kasat",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SiddhantKasat_Xkk-Kdoo_A"
+}

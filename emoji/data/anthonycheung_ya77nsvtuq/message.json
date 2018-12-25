@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Anthony Cheung"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493151890931,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1493144602745,
+      "content": "HELLO INTERVIEW TOMORROW AT 4:30 SEE YOU THERE <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671750603,
+      "content": "No lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492663986949,
+      "content": "do i get an extra hour for driving to NYSD? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492663977887,
+      "content": "yikes i should do that LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492656952706,
+      "content": "Nah I chaired to fellowships when I was pledging",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492656937105,
+      "content": "LOL you're never filled one out before?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655915920,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655914743,
+      "content": "Tbh I just learned about the event log last week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655906607,
+      "content": "Lol hey man I just crossed \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492655897261,
+      "content": "Na I Can ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492655889200,
+      "content": "Wow what kinda active are you?? \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 JK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655534574,
+      "content": "Uh idk lol I can ask tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492654491490,
+      "content": "Hey I heard only one chair fills out the event log? LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492120973982,
+      "content": "Say hi to your new Facebook friend, Anthony.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anthony Cheung",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnthonyCheung_Ya77nSVtUQ"
+}

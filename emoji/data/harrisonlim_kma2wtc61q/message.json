@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Harrison Lim"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harrison Lim",
+      "timestamp_ms": 1480892910006,
+      "content": "[hongyunl@zuma ~/hw5]$ vi Makefile\n# Makefile: Makefile for Assignment 4 EECS22 Fall 2016\n# 11/14/16 Huan Chen     : updated for EECS22 Assignment 4 Fall 2016\n# 11/03/15 Guantao Liu   : updated for EECS22 Assignment 4 Fall 2015\n# 10/17/15 Tim Schmidt   : updated for EECS22 Assignment 3 Fall 2015\n# 10/21/14 Nistha Tandiya: updated for EECS22 Assignment 3 Fall 2014\n# 10/27/13 Yasaman Samei : updated for EECS22 Assignment 3 Fall 2013\n# 10/16/11 Weiwei Chen   : updated for EECS22 Assignment 3 Fall 2012\n# 10/10/11 Weiwei Chen   : initial solution version\n\nCC     = gcc\nDEBUG  = -g -DDEBUG\nCFLAGS = -ansi -Wall -c\nLFLAGS = -Wall\n\nMOVIES = out.yuv\nDESIGN = MovieLab MovieLabTest\nOBJS = MovieLab.o FileIO.o DIPs.o Advanced.o Image.o Test.o Movie.o ImageList.o\nDEBUG_OBJS2 = MovieLab_DEBUG.o FileIO.o DIPs.o Advanced.o Image.o Test.o Movie.o ImageList.o\nDEBUG_OBJS = MovieLab_DEBUG.o FileIO_DEBUG.o DIPs_DEBUG.o Advanced_DEBUG.o Image_DEBUG.o ImageList_DEBUG.o Movie_DEBUG.o Test_DEBUG.o\nDEPS = Image.h FileIO.h DIPs.h Advanced.h ImageList.h Movie.h\n\nall: $(DESIGN)\n\nMovieLab: $(OBJS)\n        $(CC) $(LFLAGS) $(OBJS) -o MovieLab\n\nMovieLabTest: $(DEBUG_OBJS)\n        $(CC) $(LFLAGS) $(DEBUG) $(DEBUG_OBJS) -o MovieLabTest\n\n########### generate object files ###########\nMovieLab.o: MovieLab.c $(DEPS)\n        $(CC) $(CFLAGS) MovieLab.c -o MovieLab.o\n\nMovie.o: MovieLab.c $(DEPS)\n        $(CC) $(CFLAGS) Movie.c -o MovieLab.o\n\nImageList.o: ImageList.c $(DEPS)\n        $(CC) $(CFLAGS) ImageList.c -o ImageList.o\n\nFileIO.o: FileIO.c FileIO.h Image.h\n        $(CC) $(CFLAGS) FileIO.c -o FileIO.o\n\nDIPs.o: DIPs.c DIPs.h Image.h\n        $(CC) $(CFLAGS) DIPs.c -o DIPs.o\n\nAdvanced.o: Advanced.c Advanced.h Image.h\n        $(CC) $(CFLAGS) Advanced.c -o Advanced.o\n\nImage.o: Image.c Image.h\n        $(CC) $(CFLAGS) Image.c -o Image.o\n\nTest.o: Test.c Test.h $(DEPS)\n        $(CC) $(CFLAGS) Test.c -o Test.o\n\nFileIO_DEBUG.o: FileIO.c FileIO.h Image.h\n        $(CC) $(CFLAGS) $(DEBUG) FileIO.c -o FileIO_DEBUG.o\nMovie_DEBUG.o: MovieLab.c $(DEPS)\n        $(CC) $(CFLAGS) Movie.c -o MovieLab.o\n\nImageList_DEBUG.o: ImageList.c $(DEPS)\n        $(CC) $(CFLAGS) ImageList.c -o ImageList.o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Lim",
+      "timestamp_ms": 1480888264632,
+      "content": "int u,v;\n        for (v = 0; v <NEW_HEIGHT- HEIGHT; y++){\n                for (u = 0; u <NEW_WIDTH- WIDTH; x++) {\n                        if ((y < border_width)||\n                                        (y > HEIGHT - border_width)||\n                                        (x < (HEIGHT*border_width)/WIDTH)||\n                                        (x > (WIDTH -(HEIGHT*border_width/WIDTH)))) {\n                                SetPixelR(image_tmp, x, y, border_r);\n                                SetPixelG(image_tmp, x, y, border_g);\n                                SetPixelB(image_tmp, x, y, border_b);\n\n                        }\n                }\n        }\n\n        DeleteImage(image);\n        image = NULL;\n        return image_tmp;\n}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Lim",
+      "timestamp_ms": 1480888250166,
+      "content": "IMAGE *Zoom(IMAGE *image, unsigned int percentage) {\n        assert(image);\n        if(percentage <= 0 || percentage > 100){\n                printf(\"Resizing percentage %d%% should be in [0, 500], operation canceled \\n\", percentage);\n                return image;\n        }\n        int border_r = 0;\n        int border_g = 0;\n        int border_b = 0;\n        int WIDTH = image->Width;\n        int HEIGHT = image->Height;\n        if (percentage == 100) return image;\n        int x, y, x1, y1, x2, y2, i, j, tmpR, tmpG, tmpB;\n        const int NEW_WIDTH = image->Width * percentage / 100;\n        const int NEW_HEIGHT = image->Height * percentage / 100;\n        IMAGE *image_tmp = CreateImage(NEW_WIDTH, NEW_HEIGHT);\n        if (!image_tmp) return image;\n        if (percentage < 100) {\n                for(x = 0; x < NEW_WIDTH; x ++){\n                        for(y = 0; y < NEW_HEIGHT; y++){\n                                x1 = (int)(x / (percentage / 100.00));\n                                y1 = (int)(y / (percentage / 100.00));\n                                x2 = (int)((x + 1) / (percentage / 100.00));\n                                y2 = (int)((y + 1) / (percentage / 100.00));\n                                tmpR = tmpB = tmpG = 0;\n                                for(i = x1; i < x2; i ++){\n                                        for(j = y1; j < y2; j ++){\n                                                tmpR += GetPixelR(image, i, j);\n                                                tmpG += GetPixelG(image, i, j);\n                                                tmpB += GetPixelB(image, i, j);\n                                        }\n                                }\n                        SetPixelR(image_tmp, x, y, tmpR / ((x2 - x1) * (y2 - y1)));\n                        SetPixelG(image_tmp, x, y, tmpG / ((x2 - x1) * (y2 - y1)));\n                        SetPixelB(image_tmp, x, y, tmpB / ((x2 - x1) * (y2 - y1)));\n                }\n                }\n        }\n        else {\n                for(x = 0; x < NEW_WIDTH; x ++){\n                        for(y = 0; y < NEW_HEIGHT; y++){\n                                x1 = (int)(x / (percentage / 100.00));\n                                y1 = (int)(y / (percentage / 100.00));\n                                SetPixelR(image_tmp, x, y, GetPixelR(image, x1, y1));\n                                SetPixelG(image_tmp, x, y, GetPixelG(image, x1, y1));\n                                SetPixelB(image_tmp, x, y, GetPixelB(image, x1, y1));\n                        }\n                }\n        }",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480886685980,
+      "content": "int counter= 0;\n                for (int g = 0; g<(FrameNum/15);g++){\n                        srand(time(NULL));\n                        int Leny = rand()/HEIGHT;\n                        int Lenx = rand()/WIDTH;\n                        for(int w = 0; w <15; w++){\n                                IENTRY *e;\n                                e = movie->frames->first;\n                                IENTRY *n;\n                                n = e->next;\n                                Watermark(image, filename, Lenx, Leny);\n                                e=n;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480886003410,
+      "content": "for(int w = 0; w <FrameNum; w++){\n                                IENTRY *e;\n                                e = movie->frames->first;\n                                IENTRY *n;\n                                n = e->next;\n                                HFlip(image)\n                                e=n;\n                }",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480885804050,
+      "content": "int counter = 0;\n                for(int w = 0; w <FrameNum; w++){\n                                IENTRY *e;\n                                e = movie->frames->first;\n                                IENTRY *n;\n                                n = e->next;\n                                Aging(image}\n                                e=n;\n                }",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Lim",
+      "timestamp_ms": 1480885538957,
+      "content": "/*Add a watermark to an image*/\nIMAGE *Watermark(IMAGE *image, const IMAGE *watermark, unsigned int topLeftX, unsigned int topLeftY){\n        assert(image);\n        int x, y;\n        unsigned char r, g, b;\n        unsigned char wr;\n        unsigned char wg;\n        unsigned char wb;\n        for (y = 0; y < image->Height; y ++) {\n                for (x = 0; x < image->Width; x ++) {\n                        wr = GetPixelR(watermark, topLeftX+x, topLeftY+y);\n                        wg = GetPixelG(watermark, topLeftX+x, topLeftY+y);\n                        wb = GetPixelB(watermark, topLeftX+x, topLeftY+y);\n                        r = GetPixelR(image, x, y);\n                        g = GetPixelG(image, x, y);\n                        b = GetPixelB(image, x, y);\n                        if(wr == 0 && wg == 0 && wb == 0){\n                                if(r*1.45 > 255){\n                                        r = 255;\n                                }\n                                else{\n                                        r = r*1.45;\n                                }\n                                if(g*1.45 > 255){\n                                        g = 255;\n                                }\n                                else{\n                                        g = g*1.45;\n                                }\n                                if(b*1.45 > 255){\n                                        b = 255;\n                                }\n                                else{\n                                        b = r*1.45;\n                                }\n\n                        }\n                        SetPixelR(image, x, y, r);\n                        SetPixelG(image, x, y, g);\n                        SetPixelB(image, x, y, b);\n                }\n        }\n    return image;\n\n\n}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480874063972,
+      "content": "IMAGE *Spotlight(IMAGE *image, int centerX, int centerY, unsigned int radius){\n    assert(image);\n    const int OUTER_RADIUS_SQUARE = radius *radius;\n\n    const int BLACK = 0;\n    int x, y;\n    for (y = 0; y < image->Height; y++) {\n        for (x = 0; x < image->Width; x++) {\n            int distanceSquare = (x - centerX) * (x - centerX) + (y - centerY) * (y - centerY);\n            if (distanceSquare >= OUTER_RADIUS_SQUARE) {\n                SetPixelR(image, x, y, BLACK);\n                SetPixelG(image, x, y, BLACK);\n                SetPixelB(image, x, y, BLACK);\n            }\n        }\n    }\n    const int SIDE_LENGTH = 2 *radius + 1;\n    const int X_OFFSET = centerX -radius;\n    const int Y_OFFSET = centerY -radius;\n    IMAGE *outputImage = CreateImage(SIDE_LENGTH, SIDE_LENGTH);\n    if (!outputImage) return image;\n    int i, j;\n    for (i = 0; i < outputImage->Width; i++) {\n        for (j = 0; j < outputImage->Height; j++) {\n            SetPixelR(outputImage, i, j, GetPixelR(image, X_OFFSET + i, Y_OFFSET + j));\n            SetPixelG(outputImage, i, j, GetPixelG(image, X_OFFSET + i, Y_OFFSET + j));\n            SetPixelB(outputImage, i, j, GetPixelB(image, X_OFFSET + i, Y_OFFSET + j));\n        }\n    }\n    DeleteImage(image);\n    image = NULL;\n    return outputImage;\n}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480837004592,
+      "content": "hi i need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harrison Lim",
+      "timestamp_ms": 1465193642195,
+      "content": "Kinda?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188520995,
+      "content": "Is our 3d final cumulative?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harrison Lim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HarrisonLim_kmA2WTc61Q"
+}

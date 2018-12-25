@@ -1,0 +1,4680 @@
+{
+  "participants": [
+    {
+      "name": "Kenny Yu"
+    },
+    {
+      "name": "Linda Diec"
+    },
+    {
+      "name": "John Tran"
+    },
+    {
+      "name": "Johnson Chang"
+    },
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Thomas Huang"
+    },
+    {
+      "name": "Justin Huynh"
+    },
+    {
+      "name": "Steven Wang"
+    },
+    {
+      "name": "Al Limb"
+    },
+    {
+      "name": "Hector Vega"
+    },
+    {
+      "name": "Derek Lee"
+    },
+    {
+      "name": "Jessica Che"
+    },
+    {
+      "name": "Anson Chong"
+    },
+    {
+      "name": "Chelsea Kim"
+    },
+    {
+      "name": "Peter Lam"
+    },
+    {
+      "name": "Ken Liu"
+    },
+    {
+      "name": "Erica Aguilar"
+    },
+    {
+      "name": "Anthony Jr Galicia"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Che",
+      "timestamp_ms": 1485126380306,
+      "content": "Jessica: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485126151018,
+      "content": "Yay glad you safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485126116704,
+      "content": "My car made it home safe yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Che",
+      "timestamp_ms": 1485123172063,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Che",
+      "timestamp_ms": 1485123169066,
+      "content": "Hope everyone is ok.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1485123102038,
+      "content": "Request from your passengers. Lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1485122828886,
+      "content": "Hello everyone! I'm glad everyone is safe and sound. I think to make everything easier, you should Venmo your respected driver. I think $10 is a good amount. Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485079723325,
+      "content": "Chelsea: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485079715222,
+      "content": "made it to the bottom of the mountain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485079022008,
+      "content": "Chee chees car got home safely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485078085136,
+      "content": "My car safe too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485075387118,
+      "content": "Got off mountain. On freeway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485074407952,
+      "content": "John: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485074259182,
+      "content": "Fog just cleared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485074246441,
+      "content": "Were on 330",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485074213519,
+      "content": "How far down are you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485074078652,
+      "content": "My car is safe as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485073379941,
+      "content": "Omg its so foggy.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485073340060,
+      "content": "My car is safe and sound",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485072851989,
+      "content": "Were still going down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485072373737,
+      "content": "My car is all in irvine and home!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485072373061,
+      "content": "We just got off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485072297602,
+      "content": "Thanks guys. Is everyone off the mountain?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485072274560,
+      "content": "We will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485072261395,
+      "content": "Stay safe guys.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485072207310,
+      "content": "Got chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485072201351,
+      "content": "We are now heading back to irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1485071795421,
+      "content": "Ok. Will do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485071740526,
+      "content": "At a faster speed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485071732779,
+      "content": "We took off our  chains early on the 18 and drove carefully all the way down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485071709343,
+      "content": "Stay safe anson how far are you on the road",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485071681057,
+      "content": "Just made it back to Irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485071645941,
+      "content": "How are all the other cars?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485071639979,
+      "content": ":( nuu. Stay safe. Try calling people. Or getting help if you can.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1485070671379,
+      "content": "We can't make it to that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485070651085,
+      "content": ":( are you guys going back to the cabin or can't even make it to that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1485069347801,
+      "content": "We're going to have to stay the night because the left chain broke and the storm is going to hit around 1 am.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485069191909,
+      "content": "We are back in Irvine.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485068043324,
+      "content": "We are going back to but chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485067431578,
+      "content": "Be careful. There are no stores or anything along the way on the 38.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485067336439,
+      "content": "How are the road conditions?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485067303449,
+      "content": "We are on the 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485067295367,
+      "content": "Barely starting our way down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485067294243,
+      "content": "Where are you guys?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485067284091,
+      "content": "How far are you down the mountain?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485067256897,
+      "content": "We lost a chain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485066581688,
+      "content": "Icy. Road was slippery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485066569533,
+      "content": "*is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485066561602,
+      "content": "Is iylt icy or snowy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485066542463,
+      "content": "If your chains are good take the 18",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066527574,
+      "content": "Then to 330",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066524963,
+      "content": "18",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485066506139,
+      "content": "We dont know if we want to take the 38 or 18",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485066496984,
+      "content": "What highway  are you guys taking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485066423391,
+      "content": "Nope. You are good to go :)))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066410139,
+      "content": "Was just wondering if we would have to put it back on later. :P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066398692,
+      "content": "Okay. Yea thats what we're doing now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485066394581,
+      "content": "Towards the end of the 18.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485066374937,
+      "content": "As soon as we stopped seeing snow we took off the chains because everyone was driving super fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485066365509,
+      "content": "We aren't on the highway yet - jenn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066351594,
+      "content": "There doesn't seem to be anymore ice.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066344392,
+      "content": "Did you guys take off your snow chains around here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485066333958,
+      "content": "Linda sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=34.249188%2C+-116.989769&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485063343050,
+      "content": "Did anyone else go on the 38 and see if it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485063154199,
+      "content": "The stuff are opl from johnsons car. Theyre going to get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1485063133493,
+      "content": "Hey, Justin H. Just wanted to give a PSA. Make sure your chains are tight and centered. Tighten from inside then out. Also, the 18 is very slippery so anyone with mangled chains should drive the other route.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485063067695,
+      "content": "What do they look like??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485063018916,
+      "content": "There's 3 boxes of food, 2 sleeping bags, 2 blankets, and a pillow. \n\nOur car can't fit that much stuff. If we can't fit everything, we're leaving the blankets+pillows+sleeping bag behind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485062858811,
+      "content": "And socks..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485062851834,
+      "content": "Someone also left blankets and pillows",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485062730933,
+      "content": "You added Jenn Ngu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jenn Ngu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485062323031,
+      "content": "2 bags of trash, 1 box of trash\n\n2 bags of food, 1 box of food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485062302806,
+      "content": "Is there still a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485062119351,
+      "content": "If anyone is still here, can someone please help take the trash..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485055118768,
+      "content": "Meet you soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485055114811,
+      "content": "Soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485055108782,
+      "content": "Okay I'm coming from cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485055065566,
+      "content": "It's a all a bad joke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485055063974,
+      "content": "I found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485055060860,
+      "content": "He found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054922686,
+      "content": "Forsure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054922235,
+      "content": "6vrx160",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054920115,
+      "content": "Oh they have it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054915962,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054911043,
+      "content": "And I can't pick it up till tomorrow morning, I called big bear towing already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054910371,
+      "content": "Do you know your license plate number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054888721,
+      "content": "I think my car got towed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054885426,
+      "content": "Today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054882924,
+      "content": "We moved it there toda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054877935,
+      "content": "Did it get towed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485054872090,
+      "content": "Omg what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054418415,
+      "content": "I called 911 already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485054396053,
+      "content": "Fuck my car isn't at the lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485053368466,
+      "content": "You need those industrial zip ties though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485053063977,
+      "content": "www.instructables.com/id/How-to-Make-Zip-Tie-Snow-Chains/?ALLSTEPS",
+      "share": {
+        "link": "http://www.instructables.com/id/How-to-Make-Zip-Tie-Snow-Chains/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485053063480,
+      "content": "Last resort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485052171173,
+      "content": "I think some are leaving soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485052168687,
+      "content": "Derek: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485052152519,
+      "content": "If you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485051883052,
+      "content": "Sooo can we park outside the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485051532645,
+      "content": "Can someone stop by to get some for him bc it would not be a good idea to go down the mountain with loose chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485051397799,
+      "content": "i don't think that'd work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485051384971,
+      "content": "Peter sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16196909_1545176098844655_1257954791_o_1545176098844655.jpg",
+          "creation_timestamp": 1485051383
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485051365286,
+      "content": "I only got zip ties",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485051296992,
+      "content": "Park there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485051290780,
+      "content": "If you can get up siskyou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485051290624,
+      "content": "like after the first hill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485051279716,
+      "content": "Nope. No idea.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485051278810,
+      "content": "park at the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485051226031,
+      "content": "So any Info on where to park?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485051010985,
+      "content": "both of my cables broke and i'm using rex's chains but we lost one of the tension things and another broke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485050972753,
+      "content": "i need them for my chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485050966966,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485050965304,
+      "content": "like the rubber ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485050755482,
+      "content": "Anyone who is still snowboarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485050736543,
+      "content": "Can anyone bring tension cables for hectors chains?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485048001793,
+      "content": "By the way where can I park after I come back?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485047990867,
+      "content": "Possibly I think we're leaving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485046516452,
+      "content": "From snow boarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485046497292,
+      "content": "Do you guys need Hector to pick up people again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485039351426,
+      "content": "Peters car was able to park infront of the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485039341285,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485039227647,
+      "content": "Did they plow driveway yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485033920447,
+      "content": "The American pioneer spirit is strong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ken Liu",
+      "timestamp_ms": 1485033899746,
+      "content": "Blessed day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ken Liu",
+      "timestamp_ms": 1485033896555,
+      "content": "Guys I've dug my way through the hot tub",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1485029783975,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1485029770295,
+      "content": "Erica joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1485029770189,
+      "content": "Erica started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485029365128,
+      "content": "Are you guys renting yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485027987279,
+      "content": "So we can look out for them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485027982048,
+      "content": "Who are we missing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485027489748,
+      "content": "Where is everyone...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485026148374,
+      "content": "Anyways you could do it without all the forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485026132849,
+      "content": "ETA 20-25 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485026108539,
+      "content": "Near the tickets above the tickets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485026104839,
+      "content": "Is where we are waiting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485026026299,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485026018213,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485026003557,
+      "content": "Photo zone HQ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485026002541,
+      "content": "When the ppl that are snowboarding get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485025008086,
+      "content": "Oh did you pass the checkpoint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485024978360,
+      "content": "Peter car currently 40 miles away \u00f0\u009f\u0098\u009e going at like 10 mph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485024541653,
+      "content": "Anyone wanna pick up me and Justin from the shuttle stop?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485024041737,
+      "content": "okay , in actually going to ferry some snowboard people then i'll meet you guys up here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485023811909,
+      "content": "Could*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485023806228,
+      "content": "I. Old drive to village too. Just wait for us then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485023783007,
+      "content": "because i could wait here and we could drive to the village",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485023766453,
+      "content": "With the shuttle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485023755500,
+      "content": "But there is a long line to get back to the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485023749690,
+      "content": "are we going to go anywhere?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485023737176,
+      "content": "If you want it's free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485023732467,
+      "content": "i'm about to head out there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485023714252,
+      "content": "should i park my car there ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485023697998,
+      "content": "Peter? How far are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485023697430,
+      "content": "Bc no where else to park his. We gonna take the shuttle back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485023677095,
+      "content": "Yeah we parked galicia car there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485023656334,
+      "content": "You can just tell them you're dropping off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485023648657,
+      "content": "If you're dropping ppl off Hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485023642315,
+      "content": "And you take the shuttle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485023637194,
+      "content": "Follow where they direct you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485023576943,
+      "content": "are you going to park there ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485023045298,
+      "content": "We might just walk back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022975484,
+      "content": "There is a huge parking lot on on the right if you follow moonridge but the issue is that it is really far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1485022906114,
+      "content": "where should i park?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022869362,
+      "content": "Wait can someone pick galicia and I up at the parking lot where the shuttle is bc it's ridiculously long otherwise we gonna walk back. Also are they towing stuck cars or just in general.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022448377,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022432308,
+      "content": "Idk LOL I'm not there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022422891,
+      "content": "Are they towing where the cabin is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022415654,
+      "content": "Fuuuuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022406123,
+      "content": "Idk if they will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022403630,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022400605,
+      "content": "No not there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022398511,
+      "content": "I parked at the bottom of there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022393474,
+      "content": "Yknow where chee chee was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022382757,
+      "content": "Idk where you parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022377244,
+      "content": "It's where he parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485022374048,
+      "content": "Are they towing where I parked my car?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485022367737,
+      "content": "Where are they towing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022246425,
+      "content": "Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022244785,
+      "content": "IF anyone sees this tell him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022233618,
+      "content": "THEY ARE TOWING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485022230426,
+      "content": "HECTOR MOVE YOR CAR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485021914854,
+      "content": "Wait guys Thomas needs a ride",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485020943779,
+      "content": "So we should go soon before we get towed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485020933263,
+      "content": "Me and hector parked kind of illegally and are walking back up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485020922901,
+      "content": "Can you guys get everyone who wants to board ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485020912345,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485019967540,
+      "content": "Fir sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485019224487,
+      "content": "Keep me updated cause I wanna board too! Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485019084491,
+      "content": "Wssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485019068351,
+      "content": "Peter Lam added Kenny Yu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Kenny Yu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1485019000212,
+      "content": "If anything, drop Kenny off there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018978057,
+      "content": "Be there ib like 1.5 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018961569,
+      "content": "He's boarding too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018953361,
+      "content": "Cuz Kenny is here with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485018948921,
+      "content": "Rides stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485018942263,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018936794,
+      "content": "Are you guys boarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1485018933985,
+      "content": "So who's driving to snowboard and how we gonna do all this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485018922348,
+      "content": "So apparently there is parking all the way at the bottom of the moonridge and there is a shuttle that takes you up the mountain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018910876,
+      "content": "Peter: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485018750597,
+      "content": "I did already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485018697019,
+      "content": "Make sure you take all the boards out of your car anthony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485017915091,
+      "content": "Whoever is this car we need you here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485017904724,
+      "content": "Anthony sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16231304_1306017496129034_1047675906_o_1306017496129034.jpg",
+          "creation_timestamp": 1485017903
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485017832864,
+      "content": "Allen Lim get to your car we are waiting for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485017497528,
+      "content": "Nvm Hector and Allen left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485017452156,
+      "content": "Shud I get allen and Hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485017436056,
+      "content": "Steven is heading towards ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485017422994,
+      "content": "Where yall at tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485017285261,
+      "content": "But gotta move cars in general if we wanna go to places",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485017259409,
+      "content": "Either way locals hella pissed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1485016779954,
+      "content": "police were called earlier they said they don't care",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016684144,
+      "content": "Oh lmao there is a sign that says no parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016641586,
+      "content": "Bc sounds like this lady might call police lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016617887,
+      "content": "Come fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485016601782,
+      "content": "I'm coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016576118,
+      "content": "Rally people quick lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016570364,
+      "content": "Oh there's an angry lady now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016544449,
+      "content": "It's obstructing traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016536201,
+      "content": "Cars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1485016534412,
+      "content": "If yall parked on this we gotta move card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1485016465598,
+      "content": "Why what's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485016450795,
+      "content": "Can people ask the drivers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485016439373,
+      "content": "Is this anyone's?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485016437630,
+      "content": "Thomas sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16231460_10212068035760794_1314523173_o_10212068035760794.jpg",
+          "creation_timestamp": 1485016436
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485016128859,
+      "content": "Ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485016111628,
+      "content": "Keep the broken chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485016102268,
+      "content": "Gonna get zip ties as last resort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485016087672,
+      "content": "We gonna this last target",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485016055770,
+      "content": "It's all good you tried thank you Peter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485015985693,
+      "content": "Sorry Johnson no dice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485015526348,
+      "content": "Sorry if you can't find it there it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485015435889,
+      "content": "I'm here at another oriely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485015424943,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485015420285,
+      "content": "Any luck?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485014645439,
+      "content": "2010",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485014387440,
+      "content": "What year is your car Johnson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485013731924,
+      "content": "thank you so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485013682709,
+      "content": "We're going to orielly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485013649859,
+      "content": "Just checked out another Walmart nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485012434955,
+      "content": "Were you at Walmart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485012406101,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485012395780,
+      "content": "Me and Erica are gonna try to walk to the cabin right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1485012374002,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485012346889,
+      "content": "Is anyone in the cabin awake?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485012326006,
+      "content": "Um",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485012224711,
+      "content": "Don't think it will fit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485012217353,
+      "content": "There's a 4 inch difference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485012211238,
+      "content": "I checked the diameter difference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485012004069,
+      "content": "Ugh so he doesn't know if it would work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011954393,
+      "content": "I asked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011952470,
+      "content": "Hats all they got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485011858685,
+      "content": "P245 55R19",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485011833345,
+      "content": "Toyota venza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011813842,
+      "content": "What is your car Johnson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485011745559,
+      "content": "Would that work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485011737923,
+      "content": "Can you try asking the employees there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011678794,
+      "content": "Not 245-55",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011671650,
+      "content": "Johnson I found one, closest one I found is 245-45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485011668145,
+      "content": "Thank the lord",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011645595,
+      "content": "I have one for anthony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485011279728,
+      "content": "Me too peter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011028907,
+      "content": "Walmart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011021679,
+      "content": "Checking out one that's 24 hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485011011639,
+      "content": "Oriely is open at this hour?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485010755397,
+      "content": "If there's none at Walmart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485010743577,
+      "content": "You can try oriely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485010611111,
+      "content": "I'll try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485010604540,
+      "content": "Thx man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1485010589605,
+      "content": "Johnson sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16244573_10211508709210899_1026309103_o_10211508709210899.jpg",
+          "creation_timestamp": 1485010588
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485010472328,
+      "content": "I need tire specs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485010462003,
+      "content": "So I should stop by a Walmart on the way?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485009335503,
+      "content": "Can you also buy a set of chains for johnsons car too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1485009317778,
+      "content": "Peter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485008142857,
+      "content": "Where would I get chabins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485008141914,
+      "content": "Idk if anything is open at the moment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485007663991,
+      "content": "8082325894",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485007660344,
+      "content": "If you want you can call me when you get close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485007647695,
+      "content": "We still up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1485007644957,
+      "content": "Thomas: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485007611676,
+      "content": "My size is 205/ 55R16",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1485007569639,
+      "content": "If your coming can you bring me chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1485006813698,
+      "content": "So anyone up? Should I leave for the cabin now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1484996603644,
+      "content": "Were gonna follow dereks map",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1484996589086,
+      "content": "We got out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484996559376,
+      "content": "Pin your spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1484996439572,
+      "content": "We cant back out or move forward",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1484996428352,
+      "content": "Ppl are shoveling infront of us. And a car is behind us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484996378650,
+      "content": "Where are all of you stuck st?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1484996310317,
+      "content": "I think alans car is stuck.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484996145371,
+      "content": "Derek sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16197070_1580743878606688_1280676827_o_1580743878606688.jpg",
+          "creation_timestamp": 1484996144
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484996142176,
+      "content": "Use this path",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484996140259,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995971120,
+      "content": "Ummm as to where to go....hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995955200,
+      "content": "Park on street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995951110,
+      "content": "No parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484995944519,
+      "content": "And park",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484995942220,
+      "content": "Where do we go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484995921723,
+      "content": "Do you guys need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995920219,
+      "content": "Took us forever to find cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484995918138,
+      "content": "We parked lassen and siskiyou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995913287,
+      "content": "You will see a black lexus in front",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484995906709,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484995901379,
+      "content": "We walking to cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484995882814,
+      "content": "And some 4 wheel drives were stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484995879177,
+      "content": "Can I help where are y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484995869946,
+      "content": "Hector Justin where are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484995867333,
+      "content": "Just park and walk. There is no way up. It is too snowed in. I tried all routes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484995841169,
+      "content": "A guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484995835836,
+      "content": "How did you get unstuck?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484995814323,
+      "content": "But idk where to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484995809884,
+      "content": "I'm no longer stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1484994793137,
+      "content": "Al Limb added Chelsea Kim.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Chelsea Kim"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484994178301,
+      "content": "I think this is accurate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484994171535,
+      "content": "Anthony sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16196588_1305653036165480_1207122257_o_1305653036165480.jpg",
+          "creation_timestamp": 1484994171
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484994146491,
+      "content": "I dont have shovels :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484994132143,
+      "content": "Tighten chains will help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993960539,
+      "content": "A lot of people are getting stuck where we are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993879197,
+      "content": "No we don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993781931,
+      "content": "I'm stuck forrealsies \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993770741,
+      "content": "Hey does anyone have a shovel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484993717863,
+      "content": "If the hills are too steep you guys need to get out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993714956,
+      "content": "And now I'm stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993711375,
+      "content": "Problem is there are a lot of cars stuck with us too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993710140,
+      "content": "I had to hit the reverse full gas to avoid this dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993699999,
+      "content": "Fucking intense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484993692412,
+      "content": "Wow almost got snow plowed just now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484993636049,
+      "content": "Do you want justin to pick you guys up after he drops us off? Then we can take you back to the car in the morning?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993493957,
+      "content": "Me and Erica are gonna stick it out in the car for the night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993477197,
+      "content": "We are kinda far from the cabin too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993466171,
+      "content": "Yeah we're stuck and I tried calling towing but they won't be up till 8:30am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484993302419,
+      "content": "Is there anything we can do to help? We don't have extra chains or anythin...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993283728,
+      "content": "Triple doesn't cover snow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993283516,
+      "content": "Welll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484993282621,
+      "content": "Justin's car is 12-15min away from the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484993027111,
+      "content": "I'm calling triple A",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992969768,
+      "content": "I tried getting out but we are stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992928221,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484992889951,
+      "content": "Fuhh. Are u still in the same spot?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992854376,
+      "content": "Idk if I can tighten the left one because I'm deep in snow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992839103,
+      "content": "Like my right chains got warped so they are totaled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484992819668,
+      "content": "Tighten it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992721851,
+      "content": "My left chain might go out too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992565207,
+      "content": "So they can drive past it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992553882,
+      "content": "But we only turned it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484992544482,
+      "content": "Some people helped me move my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992451732,
+      "content": "I'm coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992443151,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484992432425,
+      "content": "That's what we were planning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484992426286,
+      "content": "First",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484992424936,
+      "content": "Drop off the people it's a lot of ppl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484992419286,
+      "content": "If there's a hill that you can't get up, come back down and find another way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484992417556,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992373893,
+      "content": "Stuck*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992326846,
+      "content": "I was sick for a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992323503,
+      "content": "Yea my car has no grip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992309711,
+      "content": "We can't really make it past that hill to get to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484992096866,
+      "content": "Are you still in the same spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484991569806,
+      "content": "Anthony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484991566606,
+      "content": "Be there in like12 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484991509237,
+      "content": "Wait what. Why are u so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484991458628,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484991455463,
+      "content": "Says I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484991451912,
+      "content": "Anthony sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=34.224491154465%2C+-116.85826599185&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484991410696,
+      "content": "That's the easiest one. \n\nThere's 3 routes to get there. All of them have hills. The one we took is the smallest one.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484991397677,
+      "content": "We are pretty close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484991393018,
+      "content": "Anthony where are you rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484991376190,
+      "content": "Should we still take that route that you drew on Linda?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484991193719,
+      "content": "Are you still stuck or sideways? You can't move at all?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484991177273,
+      "content": "we might have an extra pair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484991160395,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484991079954,
+      "content": "Where did u lose ur chain Anthony?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484990775260,
+      "content": "We can try to dig you out but we are like 20 min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484990754638,
+      "content": "I'm with Erica",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484990749157,
+      "content": "Anthony who are you with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484990727480,
+      "content": "I lost my right chain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484990701314,
+      "content": "Anthony is prob like 1min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484990693234,
+      "content": "How far are you from the cabin Anthony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484990676684,
+      "content": "Can u back up or go forward, Anthony?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484990654436,
+      "content": "Yea. When ur on big bear blvd, turn on starvation instead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484990649352,
+      "content": "Sideways on a hill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484990643570,
+      "content": "I got stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484989983444,
+      "content": "when we get there you said not to turn on division right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484989972679,
+      "content": "kk good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989965652,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484989962695,
+      "content": "did you get in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989928007,
+      "content": "It's 43382",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484989801516,
+      "content": "There's traffic now going to the cabin people are getting stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484989662174,
+      "content": "I KNEW THOSE BITCHES WERE LYING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484989652226,
+      "content": "ITS MOVINF AFAIN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484989612249,
+      "content": "did you find the cabin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484989602010,
+      "content": "ah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989245005,
+      "content": "That blue circle is a hill. It's a smaller hill than the others. You might be able to make it up.\n\nIf you can't make it up. Change your snow chains to your front wheel. That should work. But be careful cuz you'll be more likely to slide (since ur back wheels don't have the chains)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484989225159,
+      "content": "Do I just take moon ridge all the way?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989131131,
+      "content": "Linda sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16245039_10210524513161510_2052993501_o_10210524513161510.png",
+          "creation_timestamp": 1484989129
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989081065,
+      "content": "Oops I colored the street names lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989074090,
+      "content": "Linda sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16245007_10210524501881228_1618730201_o_10210524501881228.png",
+          "creation_timestamp": 1484989072
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484989052048,
+      "content": "Linda sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16231244_10210524499601171_198537471_o_10210524499601171.png",
+          "creation_timestamp": 1484989049
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484988943739,
+      "content": "show us too if you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484988939912,
+      "content": "Cool thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484988930659,
+      "content": "Anthony, I'll give u a map rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1484988886605,
+      "content": "We stuck from 20 miles away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484988880526,
+      "content": "We can't go up the hill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484988873053,
+      "content": "We're stuck on bow canyon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1484988871722,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484988865215,
+      "content": "okay good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484988846030,
+      "content": "Chee chees car is here with us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484988831395,
+      "content": "can anyone get in contact with chee chees car and johnsons car we haven't heard anything from them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484988709762,
+      "content": "ohhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484988459483,
+      "content": "I mean 43382 and 43392*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484988430860,
+      "content": "wait it's 43392 linda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484988416733,
+      "content": "we are 2 miles away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484988080290,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484988078407,
+      "content": "If that doesn't work out I don't think my first retreat is gonna happen anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484988059717,
+      "content": "And I might stay til morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484988051489,
+      "content": "I'm gonna guess that it's not true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987874222,
+      "content": "Wtff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987854006,
+      "content": "Idk if you guys can come down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987850319,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484987845709,
+      "content": "Holy shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484987842078,
+      "content": "So no one is going up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987839263,
+      "content": "They said its closed til Tuesday morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987832626,
+      "content": "Nuuuu what??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987827527,
+      "content": "SUPER BAD NEWS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987825010,
+      "content": "There's SO MUCH SNOW AND really deep snow around the cabins.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987823637,
+      "content": "OKAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987746698,
+      "content": "We found 13382 but can't find 13392",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987717366,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987699322,
+      "content": "-_-",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484987697129,
+      "content": "Derek's car did but we can't find the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987684971,
+      "content": "Did anyone make it to the cabin yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987405293,
+      "content": "*nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987393830,
+      "content": "And Erica needs to pee really badly. Itching is open",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987385050,
+      "content": "*station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987380127,
+      "content": "At a gas ration",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484987376982,
+      "content": "I'm in big bear city ready guy now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484987342519,
+      "content": "Oh I see. Lemme know if they finally let you through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484987220382,
+      "content": "I'm playing in the snow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484987015199,
+      "content": "So you're turning back Steven?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484986886056,
+      "content": "dang sorry guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986857517,
+      "content": "FOOOOK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986855249,
+      "content": "if I was a little faster I would be through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986848345,
+      "content": "IM LIKE RIGHT FUCKIG THERE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986843834,
+      "content": "I had to walk to the front to ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986831999,
+      "content": "Holy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986829848,
+      "content": "I think most people don't know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986823300,
+      "content": "Some are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986819791,
+      "content": "But I don't wanna wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986818128,
+      "content": "*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986816140,
+      "content": "Back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986813868,
+      "content": "Turning. Sick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986809388,
+      "content": "So like is everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986805169,
+      "content": "I don't really wanna go back to Irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986799919,
+      "content": "Idk what to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986792307,
+      "content": "They don't seem that bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484986718588,
+      "content": "Fudge. Is the weather that bad? Are the streets really bad?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986705820,
+      "content": "He said that they didn't inform caltran before everyone started going up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986683360,
+      "content": "Don't know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484986678819,
+      "content": "Wth...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484986677999,
+      "content": "why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484986661757,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986644660,
+      "content": "He said he doesn't think it'll open again till noon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986632040,
+      "content": "Officer stopped everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986624198,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986622572,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986162645,
+      "content": "Good luck!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484986110833,
+      "content": "Damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484986107966,
+      "content": "We're changing the chains to our front wheels and gonna try this hill again. Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484986088334,
+      "content": "Derek's car is trying to get to the cabin. We're literally 1min away. But 2 out of the 3 routes we tried so far have steep hills that we can't make up. So we're just trying to figure things out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985598075,
+      "content": "same with hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484985577759,
+      "content": "But I'm on Verizon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484985574354,
+      "content": "I didn't have signal only for a little bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985527318,
+      "content": "where is everyone else prob no signal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985497471,
+      "content": "it's john hector's driving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985470391,
+      "content": "the reason there's a line is for the chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985457142,
+      "content": "no we are moving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484985447445,
+      "content": "Hector are you in the line too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484985422700,
+      "content": "we are almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484985269838,
+      "content": "10/10 recommend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484985265374,
+      "content": "I decided to have a mini snowball fight earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484985016870,
+      "content": "We still on 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484984796017,
+      "content": "yeah I'm talking to the people in the my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484984727222,
+      "content": "And Peter, i checked the weather. It's gonna be snowing all night. The weather will clear up early morn tomorrow. You should try coming then. :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484984547478,
+      "content": "Where is everyone? Did anyone make it to big bear Blvd yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484984019905,
+      "content": "Just says 10 miles til there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484984014656,
+      "content": "Idk exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484984004779,
+      "content": "Where are you Steven?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983956380,
+      "content": "Steven: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484983950184,
+      "content": "Tbh I think it's gonna be like this all night. I feel like it's best if you leave super early tomorrow.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983921228,
+      "content": "or wait a bit longer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983917611,
+      "content": "so uh should i leave?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983910643,
+      "content": "Still in irvine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983887150,
+      "content": "Snow plow is making another lane rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983880827,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484983825462,
+      "content": "There's a lot of cars that are stuck in the snow so the plow truck still needs to come through maybe that's why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484983774748,
+      "content": "10 miles away from the cabin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983752065,
+      "content": "Someone said the road is closed again I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983740853,
+      "content": "It's completely stopped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484983738222,
+      "content": "I'm 10 miles out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484983723878,
+      "content": "If you don't have chains they'll send you back. We're going up but super slow. We still have 25 miles left to reach the cabin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983653664,
+      "content": "down the mountain*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983646829,
+      "content": "I wanna know if they're still senting people back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484983645080,
+      "content": "Make a left on Lassen Drive on Moonridge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983637086,
+      "content": "and are there any other drivers trying to get up there right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484983622643,
+      "content": "wait anthony are you still in traffic?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484983600919,
+      "content": "Don't go on Siskiyou Drive because it's a steep hill and it's really snowy. Keep going on Moonridge Rd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484983596642,
+      "content": "Which hill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484982606664,
+      "content": "Turn on starvation flats instead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484982434660,
+      "content": "Don't turn on Division Drive. The hill is too steep and icy. Can't make it up the hill. You'll get stuck. \u00f0\u009f\u0098\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484978035859,
+      "content": "Thomas: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484978011369,
+      "content": "Linda sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16231140_10210523319211662_1248227562_o_10210523319211662.jpg",
+          "creation_timestamp": 1484978009
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484977356647,
+      "content": "I think around that area.... maybe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484977083316,
+      "content": "I dont know where exactly it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484976993462,
+      "content": "Can you pin the location of the checkpoint?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484976992688,
+      "content": "Anthony: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484976986654,
+      "content": "Yeah I heard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484976946463,
+      "content": "So like they're letting people through the mountain now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484976204723,
+      "content": "Steven: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484976177749,
+      "content": "Like a few miles right after the checkpoint where they check if you have chains or not before they allow you to go farther",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484976134795,
+      "content": "When does it start getting icy and stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484976123408,
+      "content": "Slide*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484976119758,
+      "content": "If you're too close to the snow (too far right), you're more likely to side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484976087360,
+      "content": "It gets really snowy and the road is snowy and icy. Be careful on the road! Make sure you have your chains on for that. And be careful not to slide. Drive in the middle -ish of tthe road until a car from the opposite side comes. :P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972796538,
+      "content": "Remember to ask the office for shovels",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972786920,
+      "content": "When you get to the cabin there's probably going to be snow on the driveway that you have to plow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484972344090,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484972342655,
+      "content": "Anson: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972337829,
+      "content": "see y'all in 2 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972316320,
+      "content": "Thomas: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972313830,
+      "content": "yeah passed down to announce",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972305411,
+      "content": "there's checkpoints",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484972299454,
+      "content": "But beware there is still traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972298764,
+      "content": "Awesome.  The cop said that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972289202,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972282299,
+      "content": "Yeah???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972273641,
+      "content": "road is open come up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972268674,
+      "content": "38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972265402,
+      "content": "Cop just passed said we need them up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972264854,
+      "content": "Which route r u taking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484972260018,
+      "content": "You're gonna mess them up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1484972253979,
+      "content": "Don't put chains on yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972246082,
+      "content": "we need chains now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484972242538,
+      "content": "road is open",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484972139696,
+      "content": "Let us know how it goes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484971960583,
+      "content": "Erica sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=34.087411626274%2C+-117.0414162242&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Erica Aguilar",
+      "timestamp_ms": 1484971922266,
+      "content": "we're going up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484971920569,
+      "content": "Where you guys going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484971635712,
+      "content": "Literally no cars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484971621325,
+      "content": "I was thinking of climbing the mountain a bit and pulling over again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484971533277,
+      "content": "Bc ppl are turning around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484971505776,
+      "content": "So traffic died downed a little from where we are at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484971333123,
+      "content": "627 orange st.redlands, ca 92374",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484971241638,
+      "content": "Where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484971231824,
+      "content": "My car and hectors is there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484971223038,
+      "content": "Are we still meeting at the Starbucks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484971206387,
+      "content": "Bernardino",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484971205585,
+      "content": "We are in San bending now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484971204845,
+      "content": "Highland",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484971079588,
+      "content": "Where are you guys Justin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484970940902,
+      "content": "Anthony: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969914228,
+      "content": "Anthony sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16196399_1305429466187837_1352481545_o_1305429466187837.jpg",
+          "creation_timestamp": 1484969913
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969908518,
+      "content": "At least we got a nice view though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969870282,
+      "content": "Dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969822576,
+      "content": "we were like 4-5 miles ahead of you guys when they told us to turn back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969679799,
+      "content": "Anthony sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=34.07275730051%2C+-117.07384146216&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969651293,
+      "content": "I have LTE now though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969641983,
+      "content": "Traffic is horrendous",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969630517,
+      "content": "*garnet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969624276,
+      "content": "Literally halfway between Bryant and garner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969602087,
+      "content": "No we stopped on the side with other cars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969539788,
+      "content": "did you pass the chains checkpoint ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969503249,
+      "content": "Between Bryant and garnet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969503179,
+      "content": "I'm halfway in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969486947,
+      "content": "welll from the start of traffic to top of big bear its is eta of 5 hours according to caltrans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1484969449591,
+      "content": "So what are the chances of actually getting to the cabin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969443215,
+      "content": "once they told us to go back down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969428996,
+      "content": "we went to a starbucks in redlands",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969417641,
+      "content": "Where are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969385249,
+      "content": "we were just there like 15 minutes ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969374378,
+      "content": "oh what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969361864,
+      "content": "But we saw a maintenance vehicle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969351014,
+      "content": "you have to show id",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969347376,
+      "content": "they are only letting residents of big bear in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969323902,
+      "content": "No we didn't get turned yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969282395,
+      "content": "once we got to the checkpoint they told us to go back down the mountain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484969266325,
+      "content": "did you get turned around ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969217764,
+      "content": "Anthony Jr Galicia added Erica Aguilar.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Erica Aguilar"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969189960,
+      "content": "I'm on the 38 still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484969178585,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484968689765,
+      "content": "627 orange st.redlands, ca 92374 this is the location to meet up and regroup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484968556722,
+      "content": "Anson Chong added Linda Diec.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Linda Diec"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484968336874,
+      "content": "Jk still traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ken Liu",
+      "timestamp_ms": 1484968308936,
+      "content": "Alright Stevens car is going there too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484968167983,
+      "content": "Kk!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484968116319,
+      "content": "whoever left pass 5'oclock meet up at this starbucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ken Liu",
+      "timestamp_ms": 1484968103712,
+      "content": "What is this address?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484968094081,
+      "content": "Hey that's my home town cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484968075301,
+      "content": "627 orange st.redlands, ca 92374",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484968023047,
+      "content": "We're going to regroup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967923617,
+      "content": "On the 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967923601,
+      "content": "Ok my car is gonna wait out the accident",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484967872633,
+      "content": "We are hoping that by the time we get there the 38 opens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484967848977,
+      "content": "We (I am with Justin) are taking the 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967786332,
+      "content": "Justin which route you gonna take",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967775345,
+      "content": "So how we getting to big bear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967763060,
+      "content": "Both routes closed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484967742670,
+      "content": "Well my car is leaving irvine now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967629879,
+      "content": "We going back down mountain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484967628295,
+      "content": "Hey 38 just closed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ken Liu",
+      "timestamp_ms": 1484966960406,
+      "content": "Will there be dinner when we get there ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484966889426,
+      "content": "Steven Wang added Ken Liu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ken Liu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484966860619,
+      "content": "38 is kinda flowing now maybe the road opened up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484966842823,
+      "content": "I'm at mentone and it's a 2 hour drive to big bear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484966842750,
+      "content": "Jk I meant 38 is hella packed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484966842265,
+      "content": "38 is closed isn't it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484965976873,
+      "content": "Hi guys!! The 18 and the 38 are closed but someone said the 38 will open in an hour or so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484965366719,
+      "content": "Justin Huynh added you.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Justin Le"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484965358408,
+      "content": "Adding the other justin so he can update me on the chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964932064,
+      "content": "I just saw.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484964922736,
+      "content": "Hector sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DriversforBDC_kLCNEjytXQ/photos/16229910_1355955201083851_1383947346_o_1355955201083851.jpg",
+          "creation_timestamp": 1484964921
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484964877858,
+      "content": "closed due to accident",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484964864024,
+      "content": "it's on the cal trans twitter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964846663,
+      "content": "It's probably slow bc chain checkpoints",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964837003,
+      "content": "Is it I just checked the report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964830964,
+      "content": "38 not closed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484964580357,
+      "content": "38 is also closed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964569702,
+      "content": "I think. According to road report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484964560206,
+      "content": "18 is shut down or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484964417595,
+      "content": "You should take 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484964251484,
+      "content": "Guys hella traffic on the 18",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1484956444726,
+      "content": "https://www.bigbearmountainresort.com/winter/mountain-information/mountain-info/road-conditions",
+      "share": {
+        "link": "https://www.bigbearmountainresort.com/winter/mountain-information/mountain-info/road-conditions"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1484952369906,
+      "content": "https://twitter.com/Caltrans8?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor from Winnie",
+      "share": {
+        "link": "https://twitter.com/caltrans8"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484952153532,
+      "content": "I'm heading out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484952149925,
+      "content": "Anthony: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484952141899,
+      "content": "Derek: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484952111687,
+      "content": "Hey drivers the 18 free is closed so you might need to go around the other free way with the 38",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484942351643,
+      "content": "And it's going to continuously snow throughout the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484942294061,
+      "content": "The likely hood of getting up the mountain without chains is zero.  it snowed 6-10 inches today according to snow report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484941754141,
+      "content": "i don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484941742456,
+      "content": "Who doesn't have chains yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941735010,
+      "content": "Only one left is in huntington beach",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941720728,
+      "content": "The many have it inorder but not in stock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484941713324,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941708720,
+      "content": "I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941706729,
+      "content": "Out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941705233,
+      "content": "Irvine ones ran put",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1484941701395,
+      "content": "Ask if they have any left in stock in their other stores",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941687188,
+      "content": "In tustinrn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941680210,
+      "content": "Only ones left are the $94",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484941668808,
+      "content": "All ran out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1484940182490,
+      "content": "Johnson: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1484940179986,
+      "content": "Yea call before you go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484940159297,
+      "content": "Just call o'reilly in irvine or Tustin and give them your tire size",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484940141871,
+      "content": "They sell snow chains down here in irvine too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Johnson Chang",
+      "timestamp_ms": 1484940115260,
+      "content": "For those of you who hasn't bought snow chains yet: I went to big bear last week so I tried to look for snow chains at Walmart but they were sold out so I went to O'riley. They actually sell snow chains at the checkpoint before going up to the mountain but it will be more expensive. That will be your last alternative if you really can't find snow chains here in Irvine. But I would really recommend getting it before heading to big bear because they won't let you pass if you don't have them on if it is snowing...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Che",
+      "timestamp_ms": 1484935404672,
+      "content": "Jessica: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484934121394,
+      "content": "Derek: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484934096443,
+      "content": "Thank you for reading and responding guys, Much Appreciated \u00f0\u009f\u0098\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484934087243,
+      "content": "Probably a good idea to test put them on before you leave irvine in the snow as well so you have experience and a general idea.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484934046539,
+      "content": "I watched them how-to vids :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484933831756,
+      "content": "John Tran I love you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484932821776,
+      "content": "I hope that silence means you guys read this cuz its very important to be safe...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484902000089,
+      "content": "Read it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484901890390,
+      "content": "tl; dr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901802566,
+      "content": "Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901795185,
+      "content": "this is of course just in case we need chains which looks like we have a high possibility",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901781646,
+      "content": "I know this is a lot to read but please read it all, its important for the safety of yourself and the safety of others",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901753136,
+      "content": "so you dont necessarily have ot put it on right away when you hit the mountain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901743460,
+      "content": "There will be a point if it is snowing hard enough that they will stop ppl and have a checkpoint for snow chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901716697,
+      "content": "better to be safe than sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901713109,
+      "content": "but just gauge it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901709451,
+      "content": "my friend said not to go above 35+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901701661,
+      "content": "Make sure to not go fast with chains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901689777,
+      "content": "so make sure to find out which is which",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901684268,
+      "content": "also you will be putting the chains on whatever Wheel drive your car is which most cars are FRONT wheel drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901664989,
+      "content": "because you will probably put it on in snow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484901657671,
+      "content": "JOHN TRAN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901657237,
+      "content": "For chains please please make sure that you watch a video or something before hand so you know how exactly to put it on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901638267,
+      "content": "It looks like it will snow and I just want to make sure all of yall are safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Tran",
+      "timestamp_ms": 1484901624882,
+      "content": "Hi Everyone some of you may know me as John Tran but yes I am john Tran, the reason I was added was because i need to give you guys information on chains and driving up in snow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1484897027280,
+      "content": "Justin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484896997509,
+      "content": "If I don't show up saturday morning, it was nice knowing you guys :X",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484896962333,
+      "content": "Steven: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484896953384,
+      "content": "Just as a word of precaution, late drivers should make a pitstop if conditions are dangerous or worsen.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484876844989,
+      "content": "People who are driving before 4pm do you mind taking some food with you bc there's barely enough room? Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484812400108,
+      "content": "Anthony: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484811606859,
+      "content": "Just as a heads up there's supposed to be a storm coming in this weekend so be careful while driving and put chains on!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484724422610,
+      "content": "Ohhh okay cool beans thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484724218837,
+      "content": "I'll upload it. I don't have internet access on my computer at the moment.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484724176049,
+      "content": "Where???? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484724118424,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484723672097,
+      "content": "Is there an excel sheet or something so I know who I'm driving or wanting to drive???? I though I was gonna drive my line but they all driving too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derek Lee",
+      "timestamp_ms": 1484723557903,
+      "content": "Derek: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484722497373,
+      "content": "Just as a reminder, please leave early if you can bc there will be traffic and purchase snowchains because it is likely to snow. Take your time to drive up and be safe just like you will anywhere. Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484722054492,
+      "content": "For those who I just added, Ivy will give back $35 dollar you paid for BDC.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484720984207,
+      "content": "i got costco card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484720806637,
+      "content": "Tmr*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484720798681,
+      "content": "Uh I have lab until 530 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484720733044,
+      "content": "For BDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484720727205,
+      "content": "Cus I want to buy food either tomorrow or day after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter Lam",
+      "timestamp_ms": 1484720658455,
+      "content": "I got a Costco card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484719843908,
+      "content": "Does anyone have Costco membership?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484608506937,
+      "content": "Due to the budget we have, Ivy will reimburse drivers $35. Thanks guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484606146356,
+      "content": "is 1 too early?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484606040512,
+      "content": "Like 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Jr Galicia",
+      "timestamp_ms": 1484606024127,
+      "content": "Probably 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1484605912462,
+      "content": "probably 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484605667550,
+      "content": "What time are you leaving on Friday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484550528293,
+      "content": "Essentially, you guys are just paying for the rentals/lift tickets. Otherwise, it's a free trip.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484550303530,
+      "content": "Chains are kind of expensive though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484550298745,
+      "content": "Oh yea you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484550243223,
+      "content": "Along with the snowchains. You can get them at Walmart from what I've heard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484550196756,
+      "content": "Yeah. That's why the passengers are paying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1484550168661,
+      "content": "I thought they were also getting reimbursed for gas and snow chains (if necessary) as well.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484550031553,
+      "content": "LITTTTTT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484550019774,
+      "content": "Ok, i just made the decision that people who are driving won't have to pay. If you already did, you can ask Ivy for a full refund. And you can also ask your passengers to pay for gas in your cars. Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484461726798,
+      "content": "As a friendly reminder to y'all, drivers will get first priority on beds and will be reimbursed for gas/snow chains if it's snowing. Thank you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484290717509,
+      "content": "I understand. If you guys know any drivers who are willing to drive please tell me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1484290247221,
+      "content": "My car can't handle it either. It's really old :((( sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1484289825227,
+      "content": "Sorry, I don't feel comfortable driving my car through the snow. Don't think my little car can handle!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484289442748,
+      "content": "Ah fuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1484289411259,
+      "content": "So I definitely don't feel safe driving for long periods of time through snow with a full car :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484289403614,
+      "content": "We only have three drivers by the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1484289390251,
+      "content": "I am still, I guess a relatively new driver? I just got my car at the end of summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484289383113,
+      "content": "Oh I still would rather not lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484289371381,
+      "content": "I assumed you guys have cars and are willing to drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1484289368980,
+      "content": "How many drivers do you have rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484289358723,
+      "content": "Asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1484289355949,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484289342149,
+      "content": "Are we already drivers or are you asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484289320565,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1484289306196,
+      "content": "Steven: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484289301312,
+      "content": "Please drive to Big Bear cus we need more drivers \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1484289277264,
+      "content": "Anson named the group Drivers for BDC.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Drivers for BDC",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/DriversforBDC_kLCNEjytXQ"
+}

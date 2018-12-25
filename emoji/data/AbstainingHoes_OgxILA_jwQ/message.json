@@ -1,0 +1,3700 @@
+{
+  "participants": [
+    {
+      "name": "Jesseca Lam"
+    },
+    {
+      "name": "Al Limb"
+    },
+    {
+      "name": "Sherman Tieu"
+    },
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1490201809146,
+      "content": "Jesseca sent a photo from Disney Gif.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/16507781_476173682770583_1448445701_n_10154543231414506.gif",
+          "creation_timestamp": 1490201808
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1490159456516,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48602120_1960950807354556_4891282062910160896_n_629262667190050.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1490154924718,
+      "content": "Miss you all \u00e2\u009d\u00a4 hope you're all doing well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490153000922,
+      "content": "Thank you!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1490150158720,
+      "content": "Thank you!! \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0092\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1490148290600,
+      "content": "Good luck on finals my abstaining hoes \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484335836790,
+      "content": "Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484335776703,
+      "content": "SHERMAN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484335451438,
+      "content": "Actually I'll be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484335149820,
+      "content": "I'm on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484334231944,
+      "content": "\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484334229121,
+      "content": "Ok I might be a little late but go ahead order first if I am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484333016127,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484328437212,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484328410747,
+      "content": "I think so LOL?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484327790981,
+      "content": "Okk so today 11:30 rigjt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484259722530,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484249291828,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1484249053555,
+      "content": "yeah that sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484247457530,
+      "content": "I am free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484247232173,
+      "content": "I have class at 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484247228901,
+      "content": "Is 11;30 ok??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1484246930189,
+      "content": "what time??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484246802284,
+      "content": "I'm down!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484246636914,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484246635709,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484246620242,
+      "content": "Ya if you guys down for Friday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484245068144,
+      "content": "How about Friday lunch??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484245060389,
+      "content": "blaze pizza this weekend then!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484245024348,
+      "content": "Monday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484209930619,
+      "content": "Leaving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484209928845,
+      "content": "When r unlesvijg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484209925017,
+      "content": "I was gna go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484209920652,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1484209917936,
+      "content": "OMFG Sherman completely forgot about your thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1484209867916,
+      "content": "aww man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1484200411724,
+      "content": "Nothing was ever planned \u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1484197995421,
+      "content": "Did you guys end up going to Blaze or no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1482840396938,
+      "content": "Jesseca sent a photo from Disney Gif.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13689458_10206727677651681_1095150215_n_10154305819784506.gif",
+          "creation_timestamp": 1482840396
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482823569840,
+      "content": "That's all we ever go to IM DOWN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1482823538020,
+      "content": "We can go to Blaze again HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482823515641,
+      "content": "When the quarter starts!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1482823475586,
+      "content": "We should also hangout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1482822166468,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15723934_1340664365956793_376610087_n_1340664372623459.gif",
+          "creation_timestamp": 1482822162
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482822125412,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851558_324210774388666_1893448737_n_324210771055333.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482822121274,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851546_324210817721995_1191337423_n_324210814388662.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482822120495,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851576_324210811055329_1502653714_n_324210807721996.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1482822095492,
+      "content": "Happy holidays! Hope you guys are enjoying your break!!!! \u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480736268176,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574684_823242091028102_1185278483_n_823242087694769.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480735948991,
+      "content": "\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1480735410687,
+      "content": "Sherman sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47237866_1134374253403498_3445075027119046656_n_144885069019093.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1480735403152,
+      "content": "Sherman sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47295093_1134361523404771_2510379041295433728_n_144885315685735.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1480735400718,
+      "content": "Sherman sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1480735395484,
+      "content": "You guys almost done!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1480735390725,
+      "content": "Yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480397415045,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1480397325586,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15271421_1408728682471785_1737083879_o_1408728682471785.jpg",
+          "creation_timestamp": 1480397324
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479803166235,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479802442450,
+      "content": "P. Sherman 42 Wallaby Way Sydney",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479802401558,
+      "content": "You got it all wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479802394863,
+      "content": "You sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13652430_1746160745601889_417246130_n_302785666783131.gif",
+          "creation_timestamp": 1479802394
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479802387867,
+      "content": "^^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479802375766,
+      "content": "14795 Sherman is lame st south",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479802305274,
+      "content": "What's the address again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479802284442,
+      "content": "Jesseca sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "https://origincache-prn.fbcdn.net/v/t34.18173-12/13705038_139962419766831_275615362_n.gif?fallback=1&_nc_ad=z-m&_nc_cid=0&_nc_ht=origincache-prn&oh=bf3807bd5e76160320067e916cbad1df&oe=5C23B7FC",
+          "creation_timestamp": 1479802284
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479802227200,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13735494_10206948284681988_672596857_n_1299429046746992.gif",
+          "creation_timestamp": 1479802226
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479801950664,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479801916575,
+      "content": "Like this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479801916088,
+      "content": "You sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13713509_10154382955184637_1748800327_n_302783886783309.gif",
+          "creation_timestamp": 1479801915
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479801802504,
+      "content": "How do you guys feel now you have no more quizzes??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479801749712,
+      "content": "\u00f0\u009f\u00a4\u0097\u00f0\u009f\u00a4\u0097",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479801743503,
+      "content": "\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479801735702,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11409228_1659202000991700_505781195_n_1659201994325034.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479801717618,
+      "content": "I got all the names\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479793507308,
+      "content": "We got snaps tho \u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479793231230,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734291_1604283999801373_876505030_n_1604283993134707.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479793231060,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734291_1604283999801373_876505030_n_1604283993134707.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479793230588,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10956903_1604283969801376_545713655_n_1604283963134710.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479793228743,
+      "content": "We forgot to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479793054624,
+      "content": "Did we take a picture\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479791435478,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791431855,
+      "content": "Stfu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479791425645,
+      "content": "1776 Pennsylvania Mo 6382874829",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791410500,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791408113,
+      "content": "I think I got that right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479791374974,
+      "content": "Do you know the address",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479791371094,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791353895,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791351692,
+      "content": "And then wrote careful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791346825,
+      "content": "Crossed t out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791343994,
+      "content": "I wrote cheerful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791340244,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479791338094,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479790873601,
+      "content": "It wasn't that bad right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479790870069,
+      "content": "Yay you all finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479773671445,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479773655273,
+      "content": "Fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479773653680,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479773652524,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479773589704,
+      "content": "Orrr you go and we quiz you on the final \u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479773549638,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479773538978,
+      "content": "I actually might not go because I feel so not prepared for the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479768904444,
+      "content": "Idm haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479768871658,
+      "content": "wherever you guys want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479768854583,
+      "content": "Or mesa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479768852582,
+      "content": "Or brandywine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479768850499,
+      "content": "Wait r we going to pippins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479767816083,
+      "content": "I just need one too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479767138277,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13695673_896214193822128_816690578_n_1298894933467070.gif",
+          "creation_timestamp": 1479767137
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479767113028,
+      "content": "Loooool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479767095674,
+      "content": "Just 1 to meet reqs\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479767078419,
+      "content": "How many alums do you guys need \u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479767060774,
+      "content": "Yayy okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479767052790,
+      "content": "Yas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479766262216,
+      "content": "So tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479766044340,
+      "content": "Lets meet there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479766041781,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479765646569,
+      "content": "Or tents in general? \u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479765639570,
+      "content": "If we do commons we can do tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479765218917,
+      "content": "So meet at flagpole?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479763637329,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11409228_1659202000991700_505781195_n_1659201994325034.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479763204590,
+      "content": "I can swipe y'all in if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479762682129,
+      "content": "Utc,???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479754508743,
+      "content": "panic timeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479754505946,
+      "content": "yea same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479754463619,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479754460711,
+      "content": "Needa study too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479754450909,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479753407372,
+      "content": "so 4:30 where??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479749987817,
+      "content": "Eat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479749657597,
+      "content": "Eat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479743005900,
+      "content": "I neee you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479743003484,
+      "content": "Sherman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479712148156,
+      "content": "so where are we eating ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479712032709,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479712015971,
+      "content": "Lmao blaze jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479712002300,
+      "content": "But what should we eat too \u00f0\u009f\u008e\u0085\u00f0\u009f\u008f\u00bf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711976444,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711975309,
+      "content": "See you tomorrow \u00f0\u009f\u0092\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711962465,
+      "content": "\u00f0\u009f\u0098\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711951231,
+      "content": "okay im down for dinner if i can get an interview sherman LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711929728,
+      "content": "UHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711913365,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711880672,
+      "content": "like is it due LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711877357,
+      "content": "wait omg do we have to turn in our alum tomorrow then???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711869739,
+      "content": "It's just a refresher if you've passed your quizzes too \u00f0\u009f\u0099\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711851727,
+      "content": "Ayeeee gotta think like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711819260,
+      "content": "if you do all the extra credit then a 75%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711801815,
+      "content": "you only need an 85%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711746418,
+      "content": "omg im scared for it tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479711674232,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851594_567099313388565_240260102_n_567099310055232.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711667227,
+      "content": "We'll still have time to study after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711666496,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14528238_625058554334360_113775828_n_1298195220203708.gif",
+          "creation_timestamp": 1479711665
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711649885,
+      "content": "but our final :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479711642804,
+      "content": "Downs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711641954,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479711639798,
+      "content": "gee thanks Sherman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711632834,
+      "content": "wait tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711622836,
+      "content": "...Paola*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711622514,
+      "content": "pablo lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711597238,
+      "content": "PAOLO OMGG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711592296,
+      "content": "Are you guys free at like 430 to grab dinner with Pablo and I? \u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479711569287,
+      "content": "My fellow hoes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479683243922,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10333116_567099273388569_1302585704_n_567099270055236.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479681835418,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13652761_1202268936479716_1222147933_n_1297935943562969.gif",
+          "creation_timestamp": 1479681833
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479679246355,
+      "content": "We should !!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479679025652,
+      "content": "YESS!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479678780286,
+      "content": "We should do one more hangout before your last meeting \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479674475873,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479672996257,
+      "content": "TFTI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479672821668,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479672780714,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15133723_1400857833258870_2100457120_o_1400857833258870.jpg",
+          "creation_timestamp": 1479672779
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1479512199805,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48336336_1960958757353761_4636313021600235520_n_629262030523447.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479507031419,
+      "content": "Jesseca sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13819836_220547035012419_796052860_n_10154186597904506.gif",
+          "creation_timestamp": 1479507031
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479506478187,
+      "content": "Sherman sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10540977_1554246434804404_362935018_n_1554246431471071.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479506454150,
+      "content": "Of course",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479506413429,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10935999_805935242813496_2080298709_n_805935236146830.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479506409077,
+      "content": "Coming to showcase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479506406567,
+      "content": "Are our guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479157585793,
+      "content": "Okay \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1479153832546,
+      "content": "Doing it now!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479153448817,
+      "content": "Do yo appointment interviews gais! Easyyyy freebies and don't be lazy about it too cause you guys got like a few weeks left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478981237664,
+      "content": "Al sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1478981236_1392685080742812.mp4",
+          "creation_timestamp": 1478981235,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/15066420_1392685087409478_2866764234832740352_n.jpeg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478979299556,
+      "content": "I'm dead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478978940622,
+      "content": "Troop leader down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478978936157,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15034397_297971810597850_1661287176_o_297971810597850.jpg",
+          "creation_timestamp": 1478978935
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478978268500,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13643772_1130322003672880_556258306_n_1290123997677497.gif",
+          "creation_timestamp": 1478978267
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478966936719,
+      "content": "Graces fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478966932788,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478961967524,
+      "content": "Hahahaha oh jesseca",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939206222,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939203832,
+      "content": "At a nerdy party",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939198533,
+      "content": "I'm with grace grace and Peter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939139287,
+      "content": "Down to drink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939134034,
+      "content": "Guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939130083,
+      "content": "Guys are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478939126089,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478938628179,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13714419_303479706654816_501545015_n_1289598944396669.gif",
+          "creation_timestamp": 1478938627
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478931686956,
+      "content": "Yess!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478931669936,
+      "content": "Are we allowed to pie you guys with love?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478919767855,
+      "content": "Aww \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478919717364,
+      "content": "Sherman sent a photo from Disney Gif.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13643845_1320389811304823_623082932_n_1289443377745559.gif",
+          "creation_timestamp": 1478919716
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478919710825,
+      "content": "I will give you all love if I am the favorite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478919700779,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478919677145,
+      "content": "That's why Sherman is my fav",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478919610461,
+      "content": "And still would've been nice to be invited but whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478919589352,
+      "content": "But it's not mandatory...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478919290797,
+      "content": "Y'all have practice though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478919277508,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11891340_1659201700991730_1409836405_n_1659201697658397.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478919264205,
+      "content": "Hahaha I'm so sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478915206456,
+      "content": "Tfti",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478915184492,
+      "content": "Woowww tfti to Joshua tree Allen\u00f0\u009f\u0099\u0083\u00f0\u009f\u0099\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478840470333,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478837982791,
+      "content": "5/5 would recommended Thomas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478837969492,
+      "content": "Are you trying to replace me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478837849912,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478833249133,
+      "content": "Jesseca sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1478833248_10154164737909506.mp4",
+          "creation_timestamp": 1478833247,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/14992591_10154164737919506_4195393942440640512_n.jpeg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478647865754,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15033841_1388776757800311_2109749753_o_1388776757800311.jpg",
+          "creation_timestamp": 1478647865
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478642182068,
+      "content": "I'll\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478642179140,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478642177335,
+      "content": "Be there soon haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478641997208,
+      "content": "We're inside blaze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478639239574,
+      "content": "Okk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478639181399,
+      "content": "We can do in front of blaze again lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478639036880,
+      "content": "Where r we meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478635658431,
+      "content": "Nuhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478635571096,
+      "content": "lol what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478635181949,
+      "content": "I'll kill you with legs day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478635154269,
+      "content": "Too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478635151031,
+      "content": "Kill me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478635108931,
+      "content": "Wow Justin if you were my kid I'd kill you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478634671275,
+      "content": "Haha we had an interview before troop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478634642070,
+      "content": "Ahh Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478634630504,
+      "content": "Um we didn't cross off yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478634618142,
+      "content": "Lol sign me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478634448448,
+      "content": "Hi y'all am I still on the interview sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478628097564,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478628089614,
+      "content": "yeaaaaaaaaa okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478627991698,
+      "content": "2 at UTC then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478627184753,
+      "content": "Ok sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478626353879,
+      "content": "Are we meeting at 2 lol? I need interviews \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478626179443,
+      "content": "What time??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478585814960,
+      "content": "Play board games...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478585707103,
+      "content": "UHHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478583343538,
+      "content": "We can do UTC...go off campus...go to someone's place...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478583145513,
+      "content": "What do you guys want to do tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478550883550,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13672525_1225219170830399_1794273210_n_1285403441482886.gif",
+          "creation_timestamp": 1478550881
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478545767250,
+      "content": "\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478537193825,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47266644_1134364763404447_2078918334820122624_n_144884815685785.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478537128639,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/15007848_10154155542719506_1862357320_o_10154155542719506.jpg",
+          "creation_timestamp": 1478537127
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478509311053,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13910693_1057971367612845_1454734096_n_1057971357612846.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478503903586,
+      "content": "No promises",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478502078077,
+      "content": "Don't kill me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478502075048,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478500285284,
+      "content": "Next time!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478499518876,
+      "content": "I have to be somewhere at 4 tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478499083658,
+      "content": "I mean I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478499055945,
+      "content": "Heheheh gotta start the gains sometime soon \u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478498988329,
+      "content": "Right after???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498950154,
+      "content": "And then go arc right after \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478498891351,
+      "content": "Down down!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478498884664,
+      "content": "Okay, sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478498875184,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478498863060,
+      "content": "Omg \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498842496,
+      "content": "And get like late lunch/boba!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498831994,
+      "content": "Maybe like 230/3ish!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498820365,
+      "content": "Let's do Tuesday afternoon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498801546,
+      "content": "\u00f0\u009f\u0099\u0083",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1478498800_1284818814874682.mp4",
+          "creation_timestamp": 1478498797,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/14926468_1284818824874681_3971149898870423552_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478498710898,
+      "content": "I'm down to hangout Tuesday and Thursday, just let me know the details\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478498429818,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13679800_1057965387613443_123850205_n_1057965377613444.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498324159,
+      "content": "You won't even be able to get out of bed ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478498307450,
+      "content": "Sounds right. If you all workout with me I'll make sure to destroy your legs!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497856397,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13911029_1057949240948391_409893149_n_1057949227615059.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497842897,
+      "content": "I couldn't walk for a week...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497837784,
+      "content": "Last time I did 100 squats with bar only",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497830321,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478497329635,
+      "content": "Join us! You'll squat two plates and get a big booty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478497227083,
+      "content": "Do it! Hahaha it's fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478497216847,
+      "content": "Hahahaha just trying to get closer with everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497204025,
+      "content": "I want to workout with u guys now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478497194172,
+      "content": "THIS IS A PRIVATE MOMENT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497178027,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478497175682,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497175297,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734307_1562225647326338_1671333604_n_1562225643993005.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478497172680,
+      "content": "Wtf \u00f0\u009f\u0098\u0092\u00f0\u009f\u0098\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497168720,
+      "content": "Omg Sherman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497161394,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u0081\u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478497157031,
+      "content": "Ty for the drinks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478497139671,
+      "content": "Al sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1478497134_1386974934647160.mp4",
+          "creation_timestamp": 1478497123,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/14926558_1386975034647150_213312110556348416_n.jpeg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478485723447,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10935994_1604284189801354_1743736779_n_1604284183134688.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478485720646,
+      "content": "Tuesday!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478485718303,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478485426113,
+      "content": "If you're not too cool for us \nWe can do Thursday too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478485416699,
+      "content": "Okee Tuesday then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478483805985,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478483800244,
+      "content": "I think I've something to do Thursday afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478483788696,
+      "content": "Can we do Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478483787343,
+      "content": "I'm down for that!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478483774854,
+      "content": "We can do like Tuesday/Thursday after 2 then!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478479768378,
+      "content": "I have class until 2 everyday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478477296147,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478477213865,
+      "content": "nothing just letting you noe \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478477178926,
+      "content": "What you trying to say about tonight huh? \u00f0\u009f\u0092\u00a9\u00f0\u009f\u0092\u00a9\u00f0\u009f\u0092\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478477163274,
+      "content": "So probably Thursday again haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478476924561,
+      "content": "Uhhhhhhhhhh same haha noon Tuesday Thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478476864793,
+      "content": "btw we have practice tonight \u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478476832259,
+      "content": "im free tues-thurs noon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478473643801,
+      "content": "So what day is everyone free?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478473636843,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473607527,
+      "content": "I too have spam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473597176,
+      "content": "Down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478473563357,
+      "content": "We can make spam musubi!!! I got spam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478473553481,
+      "content": "Be down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473546133,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48566425_1960937944022509_7227449203385958400_n_629261710523479.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473543228,
+      "content": "Ahaha Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473530390,
+      "content": "MYbe not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473525030,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48560813_1881524775290984_7224291822602813440_n_832506660192806.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473499691,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48336336_1960958757353761_4636313021600235520_n_629262030523447.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478473495262,
+      "content": "Let's workout together too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478473477890,
+      "content": "lol down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473470646,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48653455_1881528101957318_5475416122180239360_n_832506643526141.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473464981,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48563807_1881523155291146_7549034991343108096_n_832506693526136.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473462299,
+      "content": "Lets hangout this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473457047,
+      "content": "Jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478473453107,
+      "content": "HAHA bye Sherman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478468904575,
+      "content": "Thanks!! Of course not, Yeah let's hangout!!\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478468511870,
+      "content": "Yay congrats on getting your bigs!! Don't forget about us!!! \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad hangout with us still!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478238524365,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478238122055,
+      "content": "I like the last one \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237615950,
+      "content": "Aldrich Park with Slenderman...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237478523,
+      "content": "There;s da seaside....McDonalds....some late night boba shop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237399822,
+      "content": "Jesseca sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14194341_195867740826394_511353478_n_10154146780179506.gif",
+          "creation_timestamp": 1478237399
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478237377750,
+      "content": "What did you have in mind ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1478237317847,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237262196,
+      "content": "I mean if you guys want to do something late night i down!!! but you need to study for da midterms!'",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237137594,
+      "content": "Jesseca sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14915037_1007656576027900_406038104_n_10154146775664506.gif",
+          "creation_timestamp": 1478237137
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237105962,
+      "content": "you guys are funny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237090915,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14628199_1296911620353973_2078164959_n_1281785351844695.gif",
+          "creation_timestamp": 1478237090
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237036846,
+      "content": "haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478237035871,
+      "content": "come thru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237035737,
+      "content": "jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237030975,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14958801_10155320547288765_694731684_n_1281783825178181.gif",
+          "creation_timestamp": 1478237030
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478237030760,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237030361,
+      "content": "im at gateway fyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478237026378,
+      "content": "oh dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478237018639,
+      "content": "oh dangit like nothing was going to happen tonight... ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478237004350,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478236996037,
+      "content": "wait so you guys dont have practice?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478236988811,
+      "content": "oh ya! GOOD LUCK!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478236986788,
+      "content": "yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478236981674,
+      "content": "studying yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478236968228,
+      "content": "What are you guys doing?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478236964484,
+      "content": "Psssssst",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478048969379,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734307_1562225647326338_1671333604_n_1562225643993005.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478048477430,
+      "content": "Or take the derivative",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478048396970,
+      "content": "The mitochondria is the powerhouse of the cell.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1478048391525,
+      "content": "When in doubt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478048365985,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574689_1560931347455768_1782523688_n_1560931344122435.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478048358696,
+      "content": "Thanks !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478045256660,
+      "content": "We can always hangout another time \u00e2\u0098\u00ba\u00ef\u00b8\u008f study hard!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478044728022,
+      "content": "It's okay. Study hard, you got this\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478044590890,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734291_1604283999801373_876505030_n_1604283993134707.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1478044588385,
+      "content": "I might not be able to go cuz I have two midterms on Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1478044283300,
+      "content": "What time are we hanging out on Thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477974628305,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14881453_1381255521885768_525353381_o_1381255521885768.jpg",
+          "creation_timestamp": 1477974627
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477974624144,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14895683_1381255281885792_218042343_o_1381255281885792.jpg",
+          "creation_timestamp": 1477974622
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477974619523,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14907732_1381255198552467_1801626682_o_1381255198552467.jpg",
+          "creation_timestamp": 1477974618
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477974614755,
+      "content": "Al sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14881430_1381255135219140_1874148134_o_1381255135219140.jpg",
+          "creation_timestamp": 1477974613
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477967826044,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48563807_1881523155291146_7549034991343108096_n_832506693526136.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477965379292,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477965376438,
+      "content": "Dw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477964665675,
+      "content": "It's okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477964560738,
+      "content": "Sorry guys I don't have a costume for tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477881122196,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477880044638,
+      "content": "I think so hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477878629872,
+      "content": "Helllloooo! I totally forgot what the theme is tomorrow but I think it's halloween costumes???!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477678479088,
+      "content": "Its ok \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad we still love you all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477671387901,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477671379102,
+      "content": "I completely forgot, I've been forgetting a lot of stuff lately",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477645289079,
+      "content": "LOL same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477645171216,
+      "content": "Omg I forgot about hanging out today sorry!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477467368858,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477467045053,
+      "content": "^allen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477467033240,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13652647_10154360796428656_822278496_n_1273256062697624.gif",
+          "creation_timestamp": 1477467032
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477458758499,
+      "content": "Yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477454891043,
+      "content": "Lemme check my schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477454866654,
+      "content": "Do you guys want to do another hangout Thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477378485439,
+      "content": "Thank youuu\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477378483949,
+      "content": "Dun die from pledging \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477378472364,
+      "content": "Yeee no problem!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477378443867,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477378438779,
+      "content": "^^^^:D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477378255517,
+      "content": "Thanks for the food!\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477369954743,
+      "content": "It's ok we're all so badass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367884744,
+      "content": "Photo bombed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367880126,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14803241_10154119657119506_1504320533_o_10154119657119506.jpg",
+          "creation_timestamp": 1477367879
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367019501,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14800160_10154119636039506_492867158_o_10154119636039506.jpg",
+          "creation_timestamp": 1477367019
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367018565,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14813085_10154119635984506_627228829_o_10154119635984506.jpg",
+          "creation_timestamp": 1477367018
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367017058,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14807938_10154119635929506_272141216_o_10154119635929506.jpg",
+          "creation_timestamp": 1477367016
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477367013316,
+      "content": "LOLLLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477366953102,
+      "content": "Sherman sent a video from Boomerang.",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1477366753_1272271189462778.mp4",
+          "creation_timestamp": 1477366750,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/14768005_1272271209462776_736039991603363840_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477357826516,
+      "content": "You just need an 80%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477357601566,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574680_1498876713686792_1615555166_n_1498876710353459.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477357186582,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477356939237,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477356937733,
+      "content": "I think I'm gna fail it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477356465142,
+      "content": "Study, you still have time. Y'all got this!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477356447925,
+      "content": "Noooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477356397212,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477356395619,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477356394387,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477356252900,
+      "content": "Are you guys ready for the quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477356238137,
+      "content": "True",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477354576816,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477354335931,
+      "content": "Sherman feed us, your troopies are dying of hunger LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477352487063,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_555288347892353_74555550_n_554423831312138.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477352045287,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13735196_10154252335318376_262827683_n_1272123286144235.gif",
+          "creation_timestamp": 1477352045
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477352019286,
+      "content": "Sherman sent a photo from Disney Gif.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13664562_10101918751174178_1832763587_n_1272122909477606.gif",
+          "creation_timestamp": 1477352018
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477348363095,
+      "content": "me neither",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348204077,
+      "content": "I havent even opened the quiz answers lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477348098212,
+      "content": "Anita Hu!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477348089923,
+      "content": "Omg you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477344905230,
+      "content": "gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477344903134,
+      "content": "i completely forgot about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477344890185,
+      "content": "i dont wanna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477344881055,
+      "content": "But also study for your quiz!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477336991126,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477336990826,
+      "content": "Yeah Jesseca please bring one for me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477336763613,
+      "content": "Don't forget the onsies if we are still doing that \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477101943599,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477101942723,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477080068193,
+      "content": "Lemme borrow one!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477079018423,
+      "content": "LO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477079017776,
+      "content": "I have extras!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477068342762,
+      "content": "Thank you Sherman!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477036404971,
+      "content": "Sherman sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14302651_2111651469060467_678898020_n_1268757019814195.gif",
+          "creation_timestamp": 1477036404
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477034747370,
+      "content": "Lemme borrow one LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477034742626,
+      "content": "Whaaat I don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477034635615,
+      "content": "And Justin do you got a onesie for Monday? We gonna try to be cool and make people jealous",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477034607179,
+      "content": "YAS! Good luck on your midterm Paola!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477001132411,
+      "content": "Yeah dude don't worry, we're gonna hangout again sometime soon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477001045108,
+      "content": "I'll for sure go to the next one!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477001019318,
+      "content": "Oh noooo aw okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477001006639,
+      "content": "Focus on your lab! We'll have more hangouts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477001000707,
+      "content": "It's ok \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00adwe all left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000915544,
+      "content": "I'm almost done!!! I'll see if I can come soon if you're still gonna stay \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000822145,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477000581773,
+      "content": "Send a pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477000576511,
+      "content": "But we'll hang out again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477000573319,
+      "content": "We'll photoshop you in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477000569580,
+      "content": "It's ok dun worry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000552956,
+      "content": "Omg I'm missing out \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1477000489141,
+      "content": "Yeahhhhh sort of!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000425088,
+      "content": "Are you guys still hanging out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000213840,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_401768489958716_1619568077_n_401768486625383.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477000195295,
+      "content": "Al sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_387545841371300_452076801_n_387545838037967.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477000180912,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574694_1498876600353470_2000250134_n_1498876593686804.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000179950,
+      "content": "Sherman pick up my shift please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000169883,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000167229,
+      "content": "I'm doing my lab still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477000159448,
+      "content": "Haha no thanks i ate a couple hours ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1477000140112,
+      "content": "Hey Justin want some pizza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477000136669,
+      "content": "What r u doing noww",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477000130643,
+      "content": "Hey Justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476998001726,
+      "content": "You can take some of da pizza if ya hungry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476997868387,
+      "content": "I'll try to come when I finish \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476997835368,
+      "content": "Justin we're gonna be inside blaze if you wanna stop by!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476997656583,
+      "content": "Wru guys??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476997303731,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476997300566,
+      "content": "Drive safely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476997296924,
+      "content": "Haha it's ok take your time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476997261056,
+      "content": "Sorryyy traffic \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476997126274,
+      "content": "\u00f0\u009f\u0091\u00b8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476997123191,
+      "content": "Sherman set the emoji to \u00f0\u009f\u0091\u00b8.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476997056199,
+      "content": "Cominggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476997054060,
+      "content": "I'm gna be a bit latee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476997038787,
+      "content": "I'm almost der",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1476997038583,
+      "content": "On my way \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476997013502,
+      "content": "I'm right in front of blaze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1476996577240,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476995954946,
+      "content": "Let do in front of blaze! Or just anywhere with open seating if it's packed!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476995887044,
+      "content": "where are we meeting guys??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476989755512,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13695927_10208034638201690_1524774544_n_1268272459862651.gif",
+          "creation_timestamp": 1476989755
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476989358954,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476989293965,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851558_387545571371327_1957413610_n_387545568037994.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476989293372,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851543_748882738517492_1770908491_n_748882735184159.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476989213041,
+      "content": "It's ok! School first! Let's just stick to 2 and if you can come then come and if not we'll have more hangouts! ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476989040180,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11891347_973617412690315_979318446_n_973617406023649.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476988581909,
+      "content": "Sherman sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851586_392309960866316_254467729_n_392309957532983.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476988472245,
+      "content": "or should we meet at night??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476988462626,
+      "content": "4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476988454363,
+      "content": "What time is work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476988450583,
+      "content": "Noooooo!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476988445398,
+      "content": "I have to finish up a lab before going to work \u00f0\u009f\u0098\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476988415095,
+      "content": "Oh man I might not be able to hangout \u00f0\u009f\u0098\u0094 I can come to take a picture tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476937219706,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13714494_302608613417576_778168276_n_1267732956583268.gif",
+          "creation_timestamp": 1476937219
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476937203929,
+      "content": "Yasss!!! So eggciting!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476937178314,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476937124693,
+      "content": "Let's meet in front of blaze at the tables tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476920428789,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13672148_523262397881665_1097681864_n_1267483963274834.gif",
+          "creation_timestamp": 1476920428
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476919754662,
+      "content": "It's perfectly fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476919743599,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476919742892,
+      "content": "Why not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476919728960,
+      "content": "Hey all don't use the condom whoever has it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476888157535,
+      "content": "\u00f3\u00be\u00ae\u009f\u00f0\u009f\u008f\u00bb\u00f3\u00be\u00ae\u009f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476861485240,
+      "content": "Yes!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476859804750,
+      "content": "Sherman sent a photo from Disney Gif.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13734720_10153497490046371_697902344_n_1266806673342563.gif",
+          "creation_timestamp": 1476859803
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1476859692373,
+      "content": "Yeah! \u00f3\u00be\u008c\u00b5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476859676295,
+      "content": "I would love that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476859669596,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476859655659,
+      "content": "Everyone is still down for lunch/hangout at 2 on Thursday yeah?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476777017502,
+      "content": "No no no!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476777015150,
+      "content": "Whenever in doubt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476776197995,
+      "content": "I tried to be there in spirit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476776134863,
+      "content": "That video \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476773472105,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13689311_314071482262163_1719825606_n_1265637843459446.gif",
+          "creation_timestamp": 1476773471
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476771515801,
+      "content": "Jessecal!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1476771513149,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476771200063,
+      "content": "Sherman changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476770349894,
+      "content": "Eat all da pizza!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476770345990,
+      "content": "Good luck with the rest of yo meeting!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476770325755,
+      "content": "\u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f\u00f3\u00be\u008c\u00ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476770308565,
+      "content": "@allenrlim for insta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476770295740,
+      "content": "@tieutastic for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476770271422,
+      "content": "Looool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476769858401,
+      "content": "Al sent a photo from Legend.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/13695835_1232597623418092_927353776_n_1367956319882355.gif",
+          "creation_timestamp": 1476769857
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476769824916,
+      "content": "My snapchat is the same name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476769775616,
+      "content": "@justinle4 \u00f3\u00be\u008c\u00b5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476769735005,
+      "content": "Y'all can add us on snapchat and Instagram!!!! \u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476769609371,
+      "content": "Sherman sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14793855_1265575203465710_1643436135_n_1265575210132376.gif",
+          "creation_timestamp": 1476769606
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476765407837,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476764265181,
+      "content": "Sherman sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/photos/14724107_1265495100140387_1363248085_o_1265495100140387.jpg",
+          "creation_timestamp": 1476764264
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476764262871,
+      "content": "Sherman sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/video1476764261_1265495026807061.mp4",
+          "creation_timestamp": 1476764254,
+          "thumbnail": {
+            "uri": "messages/inbox/AbstainingHoes_OgxILA_jwQ/videos/thumbnails/14768886_1265495046807059_6753372568679350272_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476764225126,
+      "content": "Sherman named the group Abstaining Hoes \u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00bd\u00e2\u009b\u008f.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476764198868,
+      "content": "Sherman named the group Abstaining Hoes \u00e2\u009b\u008f.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Al Limb",
+      "timestamp_ms": 1476764139834,
+      "content": "I miss you all already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1476764120146,
+      "content": "HELLO ABSTAINING HOES",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abstaining Hoes \u00f3\u00be\u0086\u00b4\u00f0\u009f\u008f\u00bd\u00e2\u009b\u008f",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AbstainingHoes_OgxILA_jwQ"
+}

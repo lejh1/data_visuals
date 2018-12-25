@@ -1,0 +1,85 @@
+package com.example.justin.assignment4.Model;
+
+/**
+ * Created by Andrew on 6/6/2017.
+ */
+
+public class Levels {
+    public int [][] Level1 = new int[40][20];
+    public int [][] Level2 = new int[40][20];
+    public int [][] Level3 = new int[40][20];
+
+    public Levels(){
+        for(int i = 0; i < 20; i++){
+            for(int j = 0; j < 40; j++){
+                Level1[j][i] = 0;
+                Level2[j][i] = 0;
+                Level3[j][i] = 0;
+            }
+        }
+
+        for(int i = 0; i < 2; i++){
+            for(int j = 0; j < 40; j++){
+                Level1[j][i] = 1;
+                Level2[j][i] = 1;
+                Level3[j][i] = 1;
+            }
+        }
+
+        int count = 3;
+        for(int i = 25; i < 31; i++){
+            for(int j = 2; j <count; j++){
+                Level1[i][j] = 1;
+            }
+            count++;
+        }
+
+    }
+
+}
+
+
+
+
+
+package com.example.justin.assignment4.Model;
+
+/**
+ * Created by Andrew on 6/6/2017.
+ */
+
+public class Mario extends MovingObject {
+    boolean fire;
+    boolean big;
+    boolean smol;
+
+
+
+}
+
+
+
+
+
+package com.example.justin.assignment4.Model;
+
+/**
+ * Created by justin on 6/6/2017.
+ */
+
+public class MovingObject {
+    protected int x, y;
+    protected boolean alive;
+
+    public int getX(){
+        return x;
+    }
+
+    public int getY(){
+        return y;
+    }
+    public boolean getAlive(){
+        return alive;
+    }
+
+}

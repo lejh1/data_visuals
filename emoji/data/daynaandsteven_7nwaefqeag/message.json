@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Dayna Dongwen Lu"
+    },
+    {
+      "name": "Steven Wang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516755921745,
+      "content": "It has a lot of DSP and CA ppl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516755910844,
+      "content": "Yea I invited you :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1516755090453,
+      "content": "Is there like an event page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516753740439,
+      "content": "yall wanna do me a favor lol. Theres some bday surprise thing for kelly tonight and I was told to invite APO ppl BUT i realized that i dont know who kelly is close too. so can you guys invite apo ppl :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dayna and Steven",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/DaynaandSteven_7nWaEFQEAg"
+}

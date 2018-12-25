@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Emely Gonsalez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479459691702,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emely Gonsalez",
+      "timestamp_ms": 1479459612829,
+      "content": "It's ok! You'll cross dw!!! Lol \nAnd yes of course we will have an interview later on :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479458732950,
+      "content": "Thanks again for the help! And I would still love to have an unofficial interview with you one day after (if) I cross if that's okay with you!\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479458686883,
+      "content": "I need 40 more signatures \u00f0\u009f\u0098\u0085 I stress out a lot lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emely Gonsalez",
+      "timestamp_ms": 1479458397564,
+      "content": "Ok sounds good, don't stress too much!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479458299743,
+      "content": "Wow thank you so much \u00f0\u009f\u0098\u00ad!!!!!!!!!! Ill try to catch you tomorrow but if not ill see you tuesday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emely Gonsalez",
+      "timestamp_ms": 1479458146455,
+      "content": "Hey Justin! lol I just saw your group message, but I told your big I could just sign you bc she told me you were really stressed out, just find me and I'll sign you, I'm usually at tents Thursdays and Tuesday from 11-12:30 or after 3:30 on Tuesdays I might also come out tomorrow for a bit",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emely Gonsalez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EmelyGonsalez_FzXYVz0gpQ"
+}

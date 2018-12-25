@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "UNO Now"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "UNO Now",
+      "timestamp_ms": 1525459313535,
+      "content": "UNO Now: JuJu , time to start a UNO\u00e2\u0084\u00a2 game with your friends!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525114629684,
+      "content": "You turned on all messages from UNO Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525114628778,
+      "content": "You turned off all messages from UNO Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "UNO Now",
+      "timestamp_ms": 1525113797281,
+      "content": "UNO Now: JuJu, friends are missing you in UNO\u00e2\u0084\u00a2!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "UNO Now",
+      "timestamp_ms": 1525027262624,
+      "content": "UNO Now: JuJu, friends are missing you in UNO\u00e2\u0084\u00a2!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "UNO Now",
+      "timestamp_ms": 1525027261270,
+      "content": "You opened this conversation by playing UNO.",
+      "type": "Generic"
+    }
+  ],
+  "title": "UNO Now",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/UNONow_On02p3ZJhg"
+}

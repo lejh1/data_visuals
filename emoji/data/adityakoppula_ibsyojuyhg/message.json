@@ -1,0 +1,142 @@
+{
+  "participants": [
+    {
+      "name": "Aditya Koppula"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249957594,
+      "content": "Ah i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523249794745,
+      "content": "make the exact same post",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523249789559,
+      "content": "just",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249776675,
+      "content": "Idk face book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249765706,
+      "content": "How can I share a post",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523249202890,
+      "content": "https://www.facebook.com/groups/IEEE.UCI/?ref=br_rs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249188737,
+      "content": "I can't find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249186067,
+      "content": "Uci ire?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249181517,
+      "content": "What is it lool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523249165052,
+      "content": "join it boi wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523249161752,
+      "content": "?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249034326,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523249032364,
+      "content": "I'm not part of the ieee page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523248801383,
+      "content": "the mm comp one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1523248794749,
+      "content": "could you crosspost your post to ieee page as well please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1478203943437,
+      "content": "Lol k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478203811914,
+      "content": "tell him to check fb lol i need his help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1478203477800,
+      "content": "Np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478203449834,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Koppula",
+      "timestamp_ms": 1478203400864,
+      "content": "Cedric Conde",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478203351940,
+      "content": "whats that one guys name I met at wendys that one day",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aditya Koppula",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AdityaKoppula_IbsYOjUYhg"
+}

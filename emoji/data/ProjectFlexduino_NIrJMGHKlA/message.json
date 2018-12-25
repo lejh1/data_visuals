@@ -1,0 +1,7044 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Yue"
+    },
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Danny Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    },
+    {
+      "name": "Danny Nguyen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521237660044,
+      "content": "maybe joshua sanchez is tappin dat ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521237642958,
+      "content": "or drugs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521237640761,
+      "content": "I think the cto is tappin it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521237638604,
+      "content": "like cannabilsm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521237633006,
+      "content": "no lol ppls hand can be shaky for many reasons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521237600001,
+      "content": "just cuz shes old",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521237597840,
+      "content": "wow man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521237588133,
+      "content": "I think her hands are just shaky lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521237490151,
+      "content": "is shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521237489227,
+      "content": "susan's camera",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521235708671,
+      "content": "nice nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521235705484,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/29257911_153687968781375_8632339826315624448_n_153687965448042.png",
+          "creation_timestamp": 1521235704
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521235274151,
+      "content": "I wanna get sponsored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521235247439,
+      "content": "Thales sponsors one of the senior design projects here lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521235216647,
+      "content": "Too lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521235196505,
+      "content": "Cool right lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521235032399,
+      "content": "Holyyy wait really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521235003122,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521234980371,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/video1521234980_521849298210099.mp4",
+          "creation_timestamp": 1521234978,
+          "thumbnail": {
+            "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/thumbnails/27600715_1666489930063415_7797635781551098015_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521234978967,
+      "content": "Lmaooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521161898966,
+      "content": "https://www.dropbox.com/s/kdvbfbvs9fuh936/Team%20Flexduino.mp4?dl=0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521158965275,
+      "content": "For sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521158955253,
+      "content": "We coming @Danny Nguyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157741118,
+      "content": "Ty:3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521157731200,
+      "content": "Just stay we will pick you up :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157701304,
+      "content": "Okay I\u00e2\u0080\u0099m at home, should I go to campus rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521157649245,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157622985,
+      "content": "Are you outta class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521157615015,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521157612769,
+      "content": "Uhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157172897,
+      "content": "We meeting rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157172830,
+      "content": "Wasssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157172763,
+      "content": "So like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521157165422,
+      "content": "Yo guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521151398276,
+      "content": "I'll come back to campus and test it outside 148 somewhere lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521151369033,
+      "content": "I'm going home rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521150471094,
+      "content": "jk i\u00e2\u0080\u0099ll wear a polo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521148422358,
+      "content": "You sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/gifs/21126182_1501867109907266_2456780366292189184_n_521385534923142.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521148296652,
+      "content": "i\u00e2\u0080\u0099m just wearing a white t-shirt and jeans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521148273165,
+      "content": "I'll bring letters for everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521148221996,
+      "content": "and wear zeta gear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521148218689,
+      "content": "can we all just borrow andrews clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521147889078,
+      "content": "ill wear navy blue too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521147714423,
+      "content": "ima try to blend in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521147713283,
+      "content": "Just normal clothes lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521147710526,
+      "content": "like the thales one lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521147705176,
+      "content": "im wearing a navy blue polo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521147672104,
+      "content": "what are yall wearing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521146682000,
+      "content": "okay hopefully they dont ask :')",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521146672127,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521146611588,
+      "content": "because it\u00e2\u0080\u0099s aids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521146611411,
+      "content": "we should not show them the code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521146524312,
+      "content": "we should probably have that ready in case they want to see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521146511127,
+      "content": "also does anyone have our arduino code? i might have it but im not sure if its the final version",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521146490954,
+      "content": "no fires happening today lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521146113195,
+      "content": "and our hardware is actually totoally fine LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521146098012,
+      "content": "also i read a bunch of datasheets and docs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521146089220,
+      "content": "i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521145888667,
+      "content": "too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521145841673,
+      "content": "i\u00e2\u0080\u0099ll go get my laptop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521145618844,
+      "content": "will that work? :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521145605352,
+      "content": "we dont have a extra 9v but i think i have extra AA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521145556335,
+      "content": "if not we can grab some on the way there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521145549560,
+      "content": "also we have extra batteries right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521145528424,
+      "content": "shine the laser in his eyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521145521980,
+      "content": "its fine we can test like during 148 lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521145497830,
+      "content": "..............",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521145494130,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521145471572,
+      "content": "i havent tested if i can connect to the scout car btw lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521143145604,
+      "content": "oh shoot, for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521143129826,
+      "content": "oh also bring the extra magnet strip @Danny Nguyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521143092800,
+      "content": "okok nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521143088743,
+      "content": "1234",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521143087472,
+      "content": "yeah its 1235",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521143082042,
+      "content": "wait did we ever figure out the password to our bluetooth module?? :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521143065842,
+      "content": "hmmm not sure if we have time beforehand, but im down for after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521143027169,
+      "content": "haha yeah we can do dat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142709697,
+      "content": "I'm craving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142707784,
+      "content": "What about boba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521142700581,
+      "content": "ryan says thales got foods",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142692836,
+      "content": "Wait are we getting food?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142680259,
+      "content": "@Ryan Yue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142676800,
+      "content": "I think I can make it back to clap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521142569362,
+      "content": "yea probably LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521142564608,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521142507884,
+      "content": "Isn't it just building 53 on the map?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521142168617,
+      "content": "okie okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521142153178,
+      "content": "uh i think i remember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521142148992,
+      "content": "hopefully there are signs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521142129958,
+      "content": "i know but idk which building",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521141949945,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/29249272_521322544929441_4032516215502012416_n_521322531596109.jpg",
+          "creation_timestamp": 1521141949
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521141935020,
+      "content": "u inconsiderate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141931363,
+      "content": "im not sure where the actual showcase is tho. doesnt say on the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521141924762,
+      "content": "no u have to be there to clap",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521141915395,
+      "content": "Imma just drive home and get the car during 148",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1521141906209,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141826702,
+      "content": "okay for sure my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141780787,
+      "content": "yea 6 for tour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141778021,
+      "content": "okie just let us know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141768169,
+      "content": "5:30 is like meet and greet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141761738,
+      "content": "yeah the tour starts at 6 right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141751511,
+      "content": "or at my apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141746071,
+      "content": "i'll be on campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141735729,
+      "content": "where will you be @ 5 danford?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141722010,
+      "content": "its a 17 min drive from campus so we kinda gotta go quickly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141604031,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141585538,
+      "content": "yep and your good looks ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141574271,
+      "content": "i'll bring my laptop too in case we need a backup computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1521141558640,
+      "content": "okay i just gotta bring the tobii right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141536989,
+      "content": "uhhh meet up at 5 after 148. go to juju's house and test that everything is working. make sure we bring backup batteries and anything else we need. then i can drive us all to thales",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141484230,
+      "content": "oh fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521141479515,
+      "content": "The Scout car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1521141468184,
+      "content": "how do you forget a car lmao",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521141457725,
+      "content": "I forgot the car at home lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521141450230,
+      "content": "What's the plan tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988850969,
+      "content": "instead of using ur education from uci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988843924,
+      "content": "and make a living off that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988840134,
+      "content": "then you could blackmail him for money",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988825183,
+      "content": "infect his computer and hack all his personal accounts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988813217,
+      "content": "send him a virus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988792949,
+      "content": "yo nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520988786353,
+      "content": "I sent data to some random dudes pc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520988779464,
+      "content": "Yea I tested it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988741493,
+      "content": "we're setttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988739288,
+      "content": "import bluetooth works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988735655,
+      "content": "sooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520988732366,
+      "content": "oh nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520988477929,
+      "content": "i got pybluez working i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520926738345,
+      "content": "Later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520926736643,
+      "content": "Or actually I used 3.5 lemme try 3.4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520926725834,
+      "content": "I tried that too \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520925957456,
+      "content": "or i was able to pip install it on my computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520925950683,
+      "content": "so @JuJu Stinley do u wanna try that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520925945847,
+      "content": "but it works if you install python 3.4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520925936447,
+      "content": "i ran into the same error",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520925933471,
+      "content": "so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520919603515,
+      "content": "\"could not find the Windows Platform SDK\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520919574005,
+      "content": "do you have an error?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520919562246,
+      "content": "@JuJu Stinley",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520919542283,
+      "content": "and what was the error justin had",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520919530992,
+      "content": "pybluez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520919512509,
+      "content": "what was the package",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520740664219,
+      "content": "https://drive.google.com/drive/folders/1FxsVb8LvHLmkkOcAQiafkOG0pThj7bfE?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520736415306,
+      "content": "Okay coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735905229,
+      "content": "Come thru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735905077,
+      "content": "Hes here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735899369,
+      "content": "Yo ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735897956,
+      "content": "Are we not meeting rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735891443,
+      "content": "I thought rn means rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735884765,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520735863481,
+      "content": "are you there?!?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520735861479,
+      "content": "wait justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735753858,
+      "content": "Wait wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735703350,
+      "content": "one sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735696643,
+      "content": "i have a pass you can use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735694009,
+      "content": "Oh where do I park",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735692211,
+      "content": "wait actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735686343,
+      "content": "i dont want ur car to get cucked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735683716,
+      "content": "can you park on the side of the street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735677284,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735674898,
+      "content": "okkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735674560,
+      "content": "In the parking lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735670719,
+      "content": "Im outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735670535,
+      "content": ":^)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735667856,
+      "content": "oops i mean stanford court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520735663777,
+      "content": "455 Danford Court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520735647879,
+      "content": "Danford what's your\nAddress",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520734405129,
+      "content": "ihy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734399854,
+      "content": "miscommunication",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734394077,
+      "content": "uhh i think im dropping her off tmr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520734393098,
+      "content": "wait what about your friend @Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734386882,
+      "content": "okay siq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520734379134,
+      "content": "Yeah let\u00e2\u0080\u0099s do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520734341277,
+      "content": "are we meeting rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520734327762,
+      "content": "home lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520734310813,
+      "content": "Justin wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520734300740,
+      "content": "I mean you can drop your friend off at 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520734290782,
+      "content": "Oh you\u00e2\u0080\u0099re tryna meet before so that we can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734261568,
+      "content": "but we can go to danfords since its raining",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734251011,
+      "content": "ryan and i are already at business school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520734237247,
+      "content": "are we meting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520721314581,
+      "content": "and then i go drop her off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520721309990,
+      "content": "if anything we can meet before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520721305126,
+      "content": "hmmm ill see if i can go earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520720848486,
+      "content": "thats so late :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1520718945200,
+      "content": "I think I have to drop someone off in Westminster at 8:30 but I'm free after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520717730174,
+      "content": "Alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520717437851,
+      "content": "all my roommates are gone my place is avail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520717424946,
+      "content": "whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520717337192,
+      "content": "When we meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520715076977,
+      "content": "You won\u00e2\u0080\u0099t step on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520714995144,
+      "content": "Say I won't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520714973631,
+      "content": "I dare u to do it for 0 retweets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520714908611,
+      "content": "50 Retweets and I break it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520714894602,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/29066780_518904511837911_5756200605588652032_n_518904498504579.jpg",
+          "creation_timestamp": 1520714894
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1520626796727,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520626232402,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1520626225746,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/29062991_149553189194853_6434050971516534784_n_149553179194854.jpg",
+          "creation_timestamp": 1520626225
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1519339046419,
+      "content": "We can just use Justins surface. I think I also installed Iris so mine is probably expired too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519338059439,
+      "content": "MARCH 15 SMH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519338056207,
+      "content": "FUCK THALES",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519337894701,
+      "content": "Fk Thales LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519337275766,
+      "content": "how to bypass this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519337265967,
+      "content": "My IRIS demo expired",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519337257433,
+      "content": "we're FAWKED",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519337248554,
+      "content": "guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068796929,
+      "content": "lets bring home these fucking giftcards!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519068756994,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068747362,
+      "content": "and buy a poster board from walmart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519068744246,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068744190,
+      "content": "get some batteries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068739914,
+      "content": "lets pull out the old robo car and see if things are still working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068725142,
+      "content": "next week is march",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519068718439,
+      "content": "I thought it got moved to march",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1519068704414,
+      "content": "hey guys the competition is next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958535984,
+      "content": "Danny Nguyen added Danny Nguyen.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Danny Nguyen"
+        }
+      ]
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958499894,
+      "content": "Yeah smh u don\u00e2\u0080\u0099t see anyone else using EYe \u00f0\u009f\u0091\u0081 DetEctIon techNology with a MiliTary gRade Scout CaAr for Recognizance MiSssions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517958400918,
+      "content": "It doesn't even matter if other groups are there. There is clearly only one winner \u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517958363985,
+      "content": "Omfg... These nigguhs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958304927,
+      "content": "Should I bring Joshua some flowers and chocolate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958293789,
+      "content": "Valentine\u00e2\u0080\u0099s Day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958289199,
+      "content": "WOT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958286207,
+      "content": "There\u00e2\u0080\u0099s a career fair next Wednesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517958280488,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517958279026,
+      "content": "Suggest December or some shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517958273519,
+      "content": "they\u00e2\u0080\u0099re gonna be at thecareer fair next wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958256631,
+      "content": "Y u do dis thales",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517958235491,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/27907426_1566988893376650_1035798788_o_1566988893376650.jpg",
+          "creation_timestamp": 1517958235
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517617916444,
+      "content": "Still down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517614633579,
+      "content": "ay but I\u00e2\u0080\u0099m single though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517613786267,
+      "content": "ay but ur gf in that class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517613780782,
+      "content": "fuk that class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517613778749,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517613536197,
+      "content": "Ryan and I have a class but I\u00e2\u0080\u0099m pretty sure we can get out of it ezpz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517613513536,
+      "content": "Smh they\u00e2\u0080\u0099ve been putting this off far asffff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517613504473,
+      "content": "Lol r u guys all still down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517609031293,
+      "content": "oh i just saw the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517609003531,
+      "content": "hes the homie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1517608998358,
+      "content": "LOL YOU CANT SAY THAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1517608865121,
+      "content": "fuck JOSHUA SANCHEZ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516845950511,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516845908807,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516845554067,
+      "content": "MAYDAY MAYDAYYY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516845550326,
+      "content": "WHAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516845548770,
+      "content": "WHAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516845211453,
+      "content": "GRILLLLLLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516845207767,
+      "content": "danny is talking to a grill in our cse class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516837734991,
+      "content": "Yeah sure I\u00e2\u0080\u0099ll reply to the homie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516836445183,
+      "content": "@Danny Nguyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516836444131,
+      "content": "With our head count?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516836437713,
+      "content": "Can someone reply to the homie Sanchez?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516835383983,
+      "content": "Yea make that board we were talking about. Find the correct measurements for things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516835349974,
+      "content": "yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516835344984,
+      "content": "should we do like testing shit for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516835336329,
+      "content": "yupppp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516835313698,
+      "content": "i guess justin and andrew skipping class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516835304282,
+      "content": "I can make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516835301750,
+      "content": "yea im down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516835294672,
+      "content": "We all going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516835171485,
+      "content": "Lol it's fineee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516835076546,
+      "content": "We gonna miss class \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1516834884712,
+      "content": "niceeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1516834735119,
+      "content": "Showcase is Feb 22",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510915616956,
+      "content": "ignore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510915615122,
+      "content": "woops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510915611925,
+      "content": "https://www.dropbox.com/s/kdvbfbvs9fuh936/Team%20Flexduino.mp4?dl=0",
+      "share": {
+        "link": "https://www.dropbox.com/s/kdvbfbvs9fuh936/Team%20Flexduino.mp4?dl=0"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809506681,
+      "content": "i think so?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809504224,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809497140,
+      "content": "Can I show the video to ppl lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809397875,
+      "content": "Okay email him lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809394305,
+      "content": "so i'll just send him a link why not lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809386413,
+      "content": "he just to email him after we email \tprojectarduino@thalesgroup.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809370338,
+      "content": "Are we suppose to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809365150,
+      "content": "sure why not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809348761,
+      "content": "should i email joshua a link to our video too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809324266,
+      "content": "yeah i dont know my schedule either i'll just send 6pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510809313545,
+      "content": "but yea later lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809311869,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510809308946,
+      "content": "uhhh idk my schedule yet for next quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809308820,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809304629,
+      "content": "6pm would probably make more sense though huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809289427,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809286192,
+      "content": "also this is next quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809282624,
+      "content": "wait why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809279907,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809239909,
+      "content": "wbu guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809238538,
+      "content": "and ya for time preference i was thinking 3pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809231356,
+      "content": "i gotta also send one to joshua for a receipt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809220241,
+      "content": "No i sent an email to \tprojectarduino@thalesgroup.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809199766,
+      "content": "for the showcase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510809197631,
+      "content": "did u send him the time preference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809189868,
+      "content": "SENTTT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809032237,
+      "content": "FIT BITS HERE WE COME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809024569,
+      "content": "then submit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809023133,
+      "content": "all i gotta do is add this link to the email template i made",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510809020885,
+      "content": "Yayy!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510809011624,
+      "content": "NIEC mang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510808999565,
+      "content": "TIME TO SUBMIT!!!!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510808995073,
+      "content": "@Danny Nguyen https://www.dropbox.com/s/kdvbfbvs9fuh936/Team%20Flexduino.mp4?dl=0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510807657567,
+      "content": "i want that trip to the research facilities in london lolz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510807619085,
+      "content": "That's a good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510807606642,
+      "content": "wanna get an infrared sensor to sense human presence",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510807584337,
+      "content": "We still have some time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510807582383,
+      "content": "Hmm yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510807577817,
+      "content": "I think we should go back to the drawing board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510807569146,
+      "content": "Wait honestly I'm kinda disappointed with our project :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510807556968,
+      "content": "YEYEYEYETEYEYEYEYEYEET",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510806794292,
+      "content": "AIGHt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510806786564,
+      "content": "in t minus 30 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510806781716,
+      "content": "be ready to submit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510806760769,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510806682181,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510806680999,
+      "content": "how else are we gonna get internships",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510806658472,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510806265574,
+      "content": "wait am i leaving that part in too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510806017127,
+      "content": "joshua with the internships lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510805997398,
+      "content": "And then u can let our main hoe Joshua know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510805990416,
+      "content": "Upload",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510805985798,
+      "content": "@Danny Nguyen lemme did the credits and I\u00e2\u0080\u0099ll link u To another uplof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510805971195,
+      "content": "Lol ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510799417935,
+      "content": "Which is what I choose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510799404046,
+      "content": "My vote is whatever Justin chooses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510798947121,
+      "content": "my vote is whatever danny chooses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510798528972,
+      "content": "Hmmmm i personally think it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510798379529,
+      "content": "About the intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510798377202,
+      "content": "What do I do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510798374440,
+      "content": "So",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510796945126,
+      "content": "Gucci :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510796219816,
+      "content": "Hahahaha that's so good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510795749406,
+      "content": "Cause it seems like those fags took home the vouchers :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510795728861,
+      "content": "Is it the winners of 2017?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510795720299,
+      "content": "Who\u00e2\u0080\u0099s video is this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510795717822,
+      "content": "Lol the credits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510795402648,
+      "content": "and lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510795399354,
+      "content": "watch this shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510794703683,
+      "content": "https://www.dropbox.com/s/0u5ss2c2647v2uq/final%20sample.mp4?dl=0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510794070571,
+      "content": "Danny sent a voice message.",
+      "audio_files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/audio/audioclip1510794069000192052_1487116648030542.mp4",
+          "creation_timestamp": 1510794069
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510794045418,
+      "content": "\"Bummin on Tremelo\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510794038167,
+      "content": "http://incompetech.com/music/royalty-free/index.html?genre=Pop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793960420,
+      "content": "so ryan can render",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793957260,
+      "content": "lets find it right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510793935981,
+      "content": "and relace it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510793930916,
+      "content": "i mean we can always just find any royalty free music online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793881898,
+      "content": "i can look up free soundcloud music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793875810,
+      "content": "idk if you wanna be safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793861114,
+      "content": "i doubt anyone will know what a naruto intro is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793843124,
+      "content": "just do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793841397,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510793810176,
+      "content": "one sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510793736565,
+      "content": "also what shoul dwe do about the naruto intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510793719832,
+      "content": "20 min to upload",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510793716345,
+      "content": "gonna take like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792737140,
+      "content": "And then u guys can see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792729550,
+      "content": "And the. Upload",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792726526,
+      "content": "Lemme compile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792724009,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510792719438,
+      "content": "I don't think it's that big of a deal anyways lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510792714663,
+      "content": "So does that mean it's all done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510792705993,
+      "content": "Kks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792704835,
+      "content": "\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792697339,
+      "content": "I don\u00e2\u0080\u0099t wanna re edit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510792692465,
+      "content": "Nah I think it\u00e2\u0080\u0099s fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510792674239,
+      "content": "I'll redo audio in a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510792646094,
+      "content": "No I just woke up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510792641823,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510789473335,
+      "content": "I think Andrews gay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510789086340,
+      "content": "i think that andrew is in a addy induced mental state and wont be joining us in real life for awhile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510788903850,
+      "content": "http://play.typeracer.com/?rt=266hg1ydbk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510788867015,
+      "content": "too hard gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510788728665,
+      "content": "ryan is putting it up his butt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510788705645,
+      "content": "http://play.typeracer.com/?rt=2k7sff8t8s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510785644578,
+      "content": "`no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510785638189,
+      "content": "Is the final video on drop box?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510784019031,
+      "content": "Danny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/UCIArduinoTeamRegistrationForm_1487007974708076.pdf",
+          "creation_timestamp": 1510784017
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510781586435,
+      "content": "We can also control the movement of the car using keyboard inputs specifically w a s d. \n\nCombining these two functionalities, we built our scout car.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510780791740,
+      "content": "You sent a voice message.",
+      "audio_files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/audio/audioclip151078075547817065_468027593592270.mp4",
+          "creation_timestamp": 1510780790
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510780384094,
+      "content": "Here I am tracking my eye moments and sending the gaze data to the scout car. We have the laser pointer align with the direction the user is looking at on the screen.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510776657053,
+      "content": "for ryans video^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510776648744,
+      "content": "Danny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/UCIQuadcopter_1486938434715030.zip",
+          "creation_timestamp": 1510776645
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510776644184,
+      "content": "Danny sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/video1510776643_1486938194715054.mp4",
+          "creation_timestamp": 1510776624,
+          "thumbnail": {
+            "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/thumbnails/23496762_1390354481090899_6551918899614009640_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510776602389,
+      "content": "Outside tables",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510776599962,
+      "content": "Business school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510776282994,
+      "content": "Where should I go?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510776233092,
+      "content": "just the car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510775844816,
+      "content": "Or just the car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510775841114,
+      "content": "Do you need tools",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510775836927,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510775832395,
+      "content": "so i can easily transporterino",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510775828007,
+      "content": "can i get ur bag too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510775810411,
+      "content": "Sure due patna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510775798934,
+      "content": "Want it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510775794385,
+      "content": "I'm about to be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510775602129,
+      "content": "Hey Justin are you on campus wit the car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510765588958,
+      "content": "And just bring it when u come to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510765578572,
+      "content": "Hahahha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510765577132,
+      "content": "I\u00e2\u0080\u0099m walking rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510765574748,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510764253869,
+      "content": "I think I\u00e2\u0080\u0099m gonna skip eecs 112 lOl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510764238296,
+      "content": "Bring it later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510764233532,
+      "content": "Or should I just",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510764230799,
+      "content": "Should I bring the tobi to class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510755096893,
+      "content": "Oh fuck I can just redo my clip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510739397587,
+      "content": "Also Andrew says \"defense security and aerospace \" in the conclusion and I say \"defense aerospace and transportation\" in the relevance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510737861491,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510737846124,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737841895,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737839751,
+      "content": "C y\u00e2\u0080\u0099all in 112",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737835424,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510737830999,
+      "content": "yeah i got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737822254,
+      "content": "Tobi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737819668,
+      "content": "Yo I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737817036,
+      "content": "Also @Danny Nguyen can u bring the Toni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737805440,
+      "content": "Uh sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510737803153,
+      "content": "Let's do our jumping outdo LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510737785056,
+      "content": "Oh nice yea lol want me bring it tmr?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737777805,
+      "content": "And then I need to film in the white space lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510737766284,
+      "content": "Also do you think that had enough demo stuff to showcase our project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737761980,
+      "content": "Also maybe we can get some more footage of the car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510737752590,
+      "content": "Oh yea idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510737726680,
+      "content": "That was pretty good lol. The part where you talk about the Bluetooth module is showing how we send like a bunch of characters tho lol are we gonna change that so they don't know we hardcoded?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510737164656,
+      "content": "A1a1a1a1a1a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510737143732,
+      "content": "That was A1 top tier quality my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510736835236,
+      "content": "okay ima watch it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510736829939,
+      "content": "dang you got it down to 3:!1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510736763582,
+      "content": "https://www.dropbox.com/s/u1mty0nba926wdu/My%20Movie.mp4?dl=0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510734897263,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510734892340,
+      "content": "do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510734822306,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23660505_1486472261428314_430594788_o_1486472261428314.jpg",
+          "creation_timestamp": 1510734821
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510734817543,
+      "content": "Do a one frame of this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734786331,
+      "content": "GIVE US INTERNSHIPS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734783138,
+      "content": "that says",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734781459,
+      "content": "should i put a 1 frame clip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510734765210,
+      "content": "\u00e2\u0080\u009cLibraries\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510734759472,
+      "content": "Hahahhaa u mean my technology snippet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734748522,
+      "content": "@ @Danny Nguyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734745844,
+      "content": "i took out a lot of bullshit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510734743732,
+      "content": "Woooot wooott",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734733294,
+      "content": "ill upload and yall can watch it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510734728889,
+      "content": "im like kinda done editing the video",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510720674416,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23600822_467762170285479_1896746150_o_467762170285479.jpg",
+          "creation_timestamp": 1510720674
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510712529540,
+      "content": "we're on the left sidewe have our own table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510712529381,
+      "content": "we're on the left side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711904623,
+      "content": "You may be onto something here. Memes used to be simple. Relatable. Worth a chuckle. Then they evolved. New formats, new tag lines, new content that was then turned into a new meme. Then memes became increasingly meta and self reflective. They parodied themselves and the users who both made them and consumed them. They built off of one another. They grew. They morphed into something entirely novel. This progressed to the point where even that wasn't enough. They had to become something more than themselves. They became surreal. They became deep fried and nuked. Each flavor building off of the last and transforming into a nearly intangible, unknown entity.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711879329,
+      "content": "right side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711875235,
+      "content": "come come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711870854,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510711083269,
+      "content": "are u in gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711061232,
+      "content": "come come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510711058656,
+      "content": "we ahave table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510711048417,
+      "content": "we're in gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510710999039,
+      "content": "Kk we done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510708744304,
+      "content": "i have an example",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510708736621,
+      "content": "https://docs.google.com/document/d/1bigsKP2HT7NLzmrCQANcPbqp6U-XaX-YsL1kzsBYGhI/edit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510708735573,
+      "content": "and put it here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510708722528,
+      "content": "can you guys like add video clips you want to be synchronized with your script?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510708718316,
+      "content": "My videos are untrimmed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510708710466,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510708676659,
+      "content": "hey guys ima work with geoffrey on the video in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705262240,
+      "content": "which caused the upload to fail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705255094,
+      "content": "they forgot about the 0-based indexing for their adjacency matrix",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Andrew Huynh"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510705230287,
+      "content": "Oh lol wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705230151,
+      "content": "it was just down temporarily i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705225923,
+      "content": "nohting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510705221571,
+      "content": "What did you change?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510705217793,
+      "content": "Okay it worked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705200322,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510705197543,
+      "content": "i'll upload it for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510705195010,
+      "content": "just drag and drop into this chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510705190779,
+      "content": "you just have an audio file right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705184007,
+      "content": "try again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705182540,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510705181845,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510705110121,
+      "content": "It won't let me upload stuff the the drive anymore \u00f0\u009f\u0098\u009e?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704465922,
+      "content": "but its HD so whatevs haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704456611,
+      "content": "btw whatever i recorded with put a retarded watermark in the video",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704438690,
+      "content": "aight i also uploaded a vid of me using the eye tracking system and then another vid of idle printing out the coordinates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510704411612,
+      "content": "Oh lol okay that's fine idc lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510704405130,
+      "content": "LmaaoooooooooooooOooOOOo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704404154,
+      "content": "you can do either paragraph if you want it to be your voice haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704395403,
+      "content": "i uploaded it to the drive already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510704391125,
+      "content": "oh i thought you wanted me to record it all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510704375768,
+      "content": "Do you want the first or second paragraph of the tech section??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510704375187,
+      "content": "Danny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510703832523,
+      "content": "I go record now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510703829244,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510702857429,
+      "content": "upload ur audio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510702852595,
+      "content": "hey fuks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510684546602,
+      "content": "ill finish my voice recordings when im off work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510684524635,
+      "content": "so cringe omg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677945671,
+      "content": "im gonna upload some more files to the drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677681714,
+      "content": "ay u did a fantastic job editing @Ryan Yue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677676173,
+      "content": "the transition from 1punchman to gucci gang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677670633,
+      "content": "im dead lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677632835,
+      "content": "LOL that video is great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510677619302,
+      "content": "oh the one in the team drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510645855370,
+      "content": "Haha that\u00e2\u0080\u0099s not the intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645830743,
+      "content": "intro^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645821691,
+      "content": "that video LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510637558714,
+      "content": "technology\n\nOur project utilizes many different emerging technolgies. For example, we use bluetooth in conjunction with the arduino \nsoftware serial module to send and recieve data between our laptop and the scout car. We also took advantage of the\npython programming language and its powerful libraries. Using this, along with the adruino-oriented c++ libraries, we\nwere able to create synergistc code. Lastly we used an eyetracking device to gather gaze data, which is a set of precise\ncoordinates located where user is looking on his or her screen. \n\nThe servos are remotely controlled by an algorithm we created. The algorithm takes the user's real time gaze data as input, processes it, and then\nmaps this input to servo angles. For example, if the user is looking at the top left region of the screen, the servos will move the laser\npointer up and to the left. All of this done simutaneously while the user is able to navigate the scout car.\n\nconclusion:\nIn conclusion, this was just a simple proof of concept to demonstrate various technogolies capabilites and their applications in\ndefense, security, and even aerospace. There is of course a lot of potential improvements to be made to our project\nin order to exapand its functionality and practicality. Thank you for this opportunity to develope useful technical skills.\nWe hope you liked our video :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510636079617,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23600684_1747817628575945_78989651_o_1747817628575945.jpg",
+          "creation_timestamp": 1510636079
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510630308856,
+      "content": "Wait where did you guys go??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510619561051,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510619115790,
+      "content": "ITS STILL HERE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510618624363,
+      "content": "Ryan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510618611000,
+      "content": "Leaving parking structure rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510618609577,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510618606275,
+      "content": "On our way too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510618580505,
+      "content": "@JuJu Stinley wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510618491987,
+      "content": "We\u00e2\u0080\u0099re heading over now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510615160258,
+      "content": "579",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510614942386,
+      "content": "What room number?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510613871335,
+      "content": "how about Go!!!!!!!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613772714,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613772070,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613769910,
+      "content": "i suggest unravel its the intro to tokyo ghoul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510613769003,
+      "content": "Gucci gang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613760178,
+      "content": "anyone have an anime song they want to do it too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613747285,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510613708856,
+      "content": "Lmao are we really doing an anime intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510613627365,
+      "content": "Anime intro is gonna take awhile tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510613585275,
+      "content": "All the engineering is done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510613581402,
+      "content": "We just gotta make our script and video and choose the appropriate angles to film and then I move it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510613568993,
+      "content": "Just film",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613517500,
+      "content": "I don't think there is much to do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510613511648,
+      "content": "Hopefully",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510613483964,
+      "content": "Do u guys think we\u00e2\u0080\u0099ll be done by 7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510601722593,
+      "content": "Ima wear my bape hoodie",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510601167968,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510601141407,
+      "content": "Imma be nude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510600543889,
+      "content": "What kind of street clothes r u guys gonna wear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510594175822,
+      "content": "https://drive.google.com/open?id=0B0ls9po4-q5DRVRhU1p0OU5scmM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510594138528,
+      "content": "Lol yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510594124379,
+      "content": "Http://porn.com/students+gets+fucked+eecs112",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510594083095,
+      "content": "@Danny Nguyen can you link the pass Years winners vid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510555908253,
+      "content": "They thing is they just showed how cool their project is they didn\u00e2\u0080\u0099t need to explain too much about how they did things",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510555875334,
+      "content": "Closer to 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510555869954,
+      "content": "3-4 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510555834920,
+      "content": "danny do u know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510555833095,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510555747631,
+      "content": "Wait how long was last years winners? We should just use their length as reference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510555722708,
+      "content": "Can we do like an anime style intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510555696165,
+      "content": "They said no limit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510555678359,
+      "content": "Any longer and we risk losing the attention of our audience",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510555665304,
+      "content": "I feel like we can do a really dense and clear video that\u00e2\u0080\u0099s 3-4 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510555310702,
+      "content": "Long^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510555306870,
+      "content": "How are videos usually?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510555284070,
+      "content": "Wow nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510555202698,
+      "content": "INTRO\n\t-introduce everyone\n\t-introduce team flexduino\n\t-introduce our project\n\t\t-scout car that uses eyetracking technology to control multiple servos. send movement data via bluetooth\n\nRELEVANCE\n\t-talk about how our car is relevant to defense/transportation/aerospace applications\n\t-replace laser with camera, weapons\u00e2\u0080\u00a6etc.\n\t-expand to more accurate controllers, more accurate cameras\n\t-cheap unmanned vehicale\n\t-space + defense\n\t\t-explore dangerous/unknown territories without risking human lives. Eyetracking and servos allow the human better understanding of environment and more control of vehicle and surroundings\n\t-transportation\u00e2\u0080\u00a6??? IDK i feel like it could somehow be related\n\nDEMO\n\t-demo of our car \n\t-sending data through bluetooth (WASD)\n\t-demo the pan tilt servos with the tobii eyetrackerx\n\t-demo the distance sensor\n\nTECH\n\t-talk about the different technology we used\n\t-ANDREW + DANNY\n\t\t-eyetracking\n\t\t-software serial\n\t\t-converting coordinates into the servo angles\n\t\t-sending data over bluetooth\n\n\t-RYAN + JUSTIN\n\t\t-talk about servos\n\t\t-talk about motor controller\n\t\t-talk about HC 05 Bluetooth module\n\t\t-talk about RC Car\n\t\t-distance sensor\n\nCONCLUSION\n\t-talk about how this is just a simple proof of concept and theres a lot of expansion that can be done to this concept to improve/customize it\n\t-thank you for watching our video.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510552482168,
+      "content": "i have a tobii eyex sticker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510552476173,
+      "content": "Make it clout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510552469292,
+      "content": "Like put decals and shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510552466260,
+      "content": "Are we gonna customize our car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510549133906,
+      "content": "Down",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510549128570,
+      "content": "So we can experiment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510549120538,
+      "content": "There\u00e2\u0080\u0099s 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510549116834,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510549094929,
+      "content": "Ooo okay that's good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510547425308,
+      "content": "The battery wears more than the pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510547417050,
+      "content": "It\u00e2\u0080\u0099s not heavy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510547404965,
+      "content": "Looks heavy \u00f0\u009f\u0098\u009e will it stay on the servos?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510547401559,
+      "content": "We can take it out of it\u00e2\u0080\u0099s metal casing to reduce weight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510547383956,
+      "content": "It actually looks strong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510547383290,
+      "content": "Yea same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510547379970,
+      "content": "NICE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510547366976,
+      "content": "Wow that's a lot bigger than I thought it'd be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510547342447,
+      "content": "Ryan sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23585175_1766825159995062_90013274_o_1766825159995062.jpg",
+          "creation_timestamp": 1510547342
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510517340207,
+      "content": "It\u00e2\u0080\u0099s arriving by 8 pm today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510515939572,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510495916042,
+      "content": "did the laser pointer come in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510438417948,
+      "content": "i luv u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432989148,
+      "content": "I rewired shit last night so we have max voltage efficiency",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432869253,
+      "content": "ok whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432866745,
+      "content": "Ryan sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_1765395136804731.ino",
+          "creation_timestamp": 1510432866
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432795876,
+      "content": "Idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432751702,
+      "content": "why is it ino.ino",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432738011,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432736879,
+      "content": "twait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432734064,
+      "content": "Ryan sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_1765393256804919.ino",
+          "creation_timestamp": 1510432733
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432707221,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432706250,
+      "content": "like we wont keep clicking w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432704527,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432700454,
+      "content": "and then we'll just press reverse or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432691561,
+      "content": "cuz ew just have to show in the video that it stops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432684626,
+      "content": "like how we had it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432681454,
+      "content": "i was thinking we could just write it at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432674797,
+      "content": "also @JuJu Stinley for the distance sensor part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510432323094,
+      "content": "haha i got you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432286916,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432285408,
+      "content": "so u better change urs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432281654,
+      "content": "danny im changing it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432269221,
+      "content": "True",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432265764,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432264312,
+      "content": "than lowercase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432261856,
+      "content": "is different ascii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432259145,
+      "content": "capital",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510432253078,
+      "content": "We can't use wasd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432247576,
+      "content": "so much easier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432245569,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432244920,
+      "content": "can we just do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432234819,
+      "content": "Ryan sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23584241_1765387633472148_610856735_o_1765387633472148.jpg",
+          "creation_timestamp": 1510432234
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510432223048,
+      "content": "Ryan sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23514873_1765387510138827_425300360_o_1765387510138827.jpg",
+          "creation_timestamp": 1510432222
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431877748,
+      "content": "and lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431868052,
+      "content": "so change those to something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431864192,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431863021,
+      "content": "$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431862123,
+      "content": "#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510431858765,
+      "content": "$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431858158,
+      "content": "just U right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431836182,
+      "content": "the last row",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431834622,
+      "content": "where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431824463,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431821359,
+      "content": "some characters are repeated twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431820602,
+      "content": "as long as we have the same shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431817085,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431814942,
+      "content": "but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431813808,
+      "content": "wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431797870,
+      "content": "its a Z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431764738,
+      "content": "or what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431763554,
+      "content": "or a Z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431759618,
+      "content": "an exclamation mark",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431755332,
+      "content": "is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431735034,
+      "content": "Yo did u guys see the last few character of andrew's sheet lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510431727549,
+      "content": "wATCHU mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510431692896,
+      "content": "@Danny Nguyen wtf is 71, 75",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510389186756,
+      "content": "i'll change the Python code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510389181681,
+      "content": "btw Andrew I can read the paper you sent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510389069656,
+      "content": "Ryan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510388877045,
+      "content": "Yea we just don't need to use the car battery anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510388869948,
+      "content": "YE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510388859378,
+      "content": "So it\u00e2\u0080\u0099s good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510388857472,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510388603070,
+      "content": "The 9 volt battery has enough voltage to power everything. It's way better than the car's battery lol you guys need to see how much faster the motor spins it's actually kinda crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510388544133,
+      "content": "So like it works but we aren't using the car's battery anymore lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510387259376,
+      "content": "if its good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510387257610,
+      "content": "lemme know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510387254321,
+      "content": "Ryan sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/Porn_1764744753536436.ino",
+          "creation_timestamp": 1510387253
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510387202700,
+      "content": "The motor driver isn't working anymore idk why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510387176291,
+      "content": "Oh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510387170665,
+      "content": "Can you send it to me when you get a chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510387155316,
+      "content": "@Ryan Yue did you change the arduino sketch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510386092611,
+      "content": "Let me know if you can't read anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510386084719,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23484580_1744745542216487_640572130_o_1744745542216487.jpg",
+          "creation_timestamp": 1510386084
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510375678328,
+      "content": "Don't be a bitch lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375660824,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23484786_1744640848893623_577451778_o_1744640848893623.jpg",
+          "creation_timestamp": 1510375660
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375659527,
+      "content": "Oh go in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375651715,
+      "content": "Wait I'm like at the front door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375637532,
+      "content": "I\u00e2\u0080\u0099m inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375634531,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375537767,
+      "content": "Okokok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510375515755,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375509957,
+      "content": "Wait is it the building right as you're entering Norte ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375488165,
+      "content": "Deconds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375483461,
+      "content": "Ok my dude I\u00e2\u0080\u0099ll be there eta 60 scolds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375471154,
+      "content": "Foot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375466574,
+      "content": "Are you in your car or on foot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375459706,
+      "content": "Yes pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510375422732,
+      "content": "Want me to go there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510375414691,
+      "content": "Hey I think im at vdc Norte clubhouse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373860410,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510373768175,
+      "content": "Is that on the right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510373755845,
+      "content": "Uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373744858,
+      "content": "Just go to the Stanford pool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510373730175,
+      "content": "I'm stuck at a red light by jack",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373708420,
+      "content": "Ryan and I are by the street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373703861,
+      "content": "Are you entering the Stanford area yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510373658601,
+      "content": "Where do i go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510373646859,
+      "content": "I'm close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373608859,
+      "content": "On my way my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510373586829,
+      "content": "I\u00e2\u0080\u0099m outside hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373581265,
+      "content": "455",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510373541244,
+      "content": "What number is ur apt again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373526420,
+      "content": "Ill show y\u00e2\u0080\u0099all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373522494,
+      "content": "Can u scoop me from outside my apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373514891,
+      "content": "Sorry I\u00e2\u0080\u0099ll meet up with u guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373510852,
+      "content": "Apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373509234,
+      "content": "I am just leaving my",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510373505193,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510373505075,
+      "content": "i was working out a mapping algorithm from coordinate to servo angle i think i got one actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510373500023,
+      "content": "@Danny Nguyen where is ot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510373486250,
+      "content": "also sorry im leaving now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510373479425,
+      "content": "okay ill just go to your apt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510372588748,
+      "content": "Text me when ur here and I\u00e2\u0080\u0099ll show u guys if ur lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510372580597,
+      "content": "Walking distance from my apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510372571287,
+      "content": "It\u00e2\u0080\u0099s like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510372476642,
+      "content": "just in case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510372473545,
+      "content": "i asked geoffrey if he can film tonight too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510372420896,
+      "content": "where exactly are the study rooms?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510372416438,
+      "content": "ok ill leave my aunts house in like 5 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510372172948,
+      "content": "Pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510372171500,
+      "content": "Just pick me up in front of jack in the box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510372091095,
+      "content": "I'm getting food rn I'll be there asap! ETA 20 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510372066351,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510372059653,
+      "content": "@Ryan Yue I'll pick you up!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510371928942,
+      "content": "Does someone wanna pick me up again hehehehehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371533914,
+      "content": "Parking on the side of the street is free rn too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371508880,
+      "content": "I\u00e2\u0080\u0099ll go over there rn to reserve a space",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371501557,
+      "content": "It\u00e2\u0080\u0099s pretty nice and I doubt anyone is there on a Friday night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371490463,
+      "content": "I\u00e2\u0080\u0099m down for that",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371488479,
+      "content": "Stanford has a studyroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510371481748,
+      "content": "I\u00e2\u0080\u0099d be down for that but my roommates are home and i can\u00e2\u0080\u0099t work efficiently when they\u00e2\u0080\u0099re here lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510371410787,
+      "content": "I'm down for Danny's place if it's okay with him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510371397178,
+      "content": "Hmmmm we can try a classroom in sst maybe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510371394776,
+      "content": "Danny\u00e2\u0080\u0099s place ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510371371622,
+      "content": "Let's pick a spot and then I'll drive on over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510370753825,
+      "content": "So where we meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368584658,
+      "content": "im gonna ask hieu of ICS classrooms are open today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368554073,
+      "content": "okay gateway isn't an option either wa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510368532489,
+      "content": "It's not open on Veterans Day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368526128,
+      "content": "its opened till 9pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510368525074,
+      "content": "its kinda cold outside lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368514501,
+      "content": "just state ur personal preference or else i'll try to find ssomeplace indoors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510368512462,
+      "content": "hmmm do you know if gateway is open today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368487108,
+      "content": "so like if you guys wanna still work outdoors im down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510368482535,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368482415,
+      "content": "I didn't account for it getting dark so fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510368470553,
+      "content": "okok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510368464873,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510368463472,
+      "content": "do you guys wanna meet up at 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510368457701,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510353094461,
+      "content": "noooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510353083451,
+      "content": "Are there plugs out side?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510353002267,
+      "content": "I'll let you guys know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510352994940,
+      "content": "Probably sometime after 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510352395862,
+      "content": "so after 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510352390485,
+      "content": "Andrew: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510352344435,
+      "content": "Okay I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510352122111,
+      "content": "Yeah definitely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510352100466,
+      "content": "Do you get wifi out there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510351469516,
+      "content": "business school outdoor tables?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510351224651,
+      "content": "Yea probs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510351068294,
+      "content": "do you think they lock the classrooms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510350980358,
+      "content": "Where we gonna meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510287615511,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510287598600,
+      "content": "Gonna eat with mi madre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510287592102,
+      "content": "After like 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510287387278,
+      "content": "Probably after 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510287383984,
+      "content": "Based on Andrews schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510287377860,
+      "content": "So what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510287365735,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510286917219,
+      "content": "then in that case I\u00e2\u0080\u0099m down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510286904614,
+      "content": "Veterans Day is Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510286902272,
+      "content": "Danny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/18601695_139084263316885_5288538521718489088_n_139084259983552.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510286856967,
+      "content": "I can\u00e2\u0080\u0099t I\u00e2\u0080\u0099m celebrating Veterans Day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510286684182,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510286650306,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510286170977,
+      "content": "Meet up tmr?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510248517346,
+      "content": "powersavor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510248471667,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510223373238,
+      "content": "does that control the power?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510223257977,
+      "content": "Btw that took me like an hour to do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510222600949,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/video1510222600_465464747181888.mp4",
+          "creation_timestamp": 1510222598,
+          "thumbnail": {
+            "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/videos/thumbnails/23473665_1653736247980678_7119453897552823102_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510222390126,
+      "content": "I just made the biggest improvement to our car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510222357469,
+      "content": "Idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510220081034,
+      "content": "for like not full price",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510220074085,
+      "content": "also anyone know where i could get lightning headphones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510220035509,
+      "content": "i ffeel liike the cat ones are really shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510219379595,
+      "content": "Jk idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510219364621,
+      "content": "Who would own a switch laser pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510219125987,
+      "content": "I don't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510219111529,
+      "content": "someone should have one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510219108183,
+      "content": "i feel like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510219097904,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510218917729,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510218906447,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510218878133,
+      "content": "Should I buy a laser pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510210075989,
+      "content": "Danny sent some attachments.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_coordinates_1481034411972099.py",
+          "creation_timestamp": 1510210075
+        },
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_servo_control_1481034408638766.py",
+          "creation_timestamp": 1510210075
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510209586968,
+      "content": "https://www.amazon.com/Rechargeable-Function-Aluminum-Flashlight-Counterfeit/dp/B074C4RL89/ref=sr_1_2?ie=UTF8&qid=1510209482&sr=8-2&keywords=laser+pointer+switch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510207418368,
+      "content": "https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SoftwareSerial",
+      "share": {
+        "link": "https://github.com/arduino/Arduino"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510205501146,
+      "content": "https://arduino.stackexchange.com/questions/4163/bluetooth-hc-05-module-returns-encoded-data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510202880660,
+      "content": "Danny sent some attachments.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_coordinates_1480981268644080.py",
+          "creation_timestamp": 1510202880
+        },
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flexduino_servo_control_1480981271977413.py",
+          "creation_timestamp": 1510202880
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510187863568,
+      "content": "Ryan sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/bluetooth_1762315890445989.py",
+          "creation_timestamp": 1510187862
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510187275805,
+      "content": "30-3A-64-24-C6-E8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510186248550,
+      "content": "Is anyone here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510186225756,
+      "content": "What room?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510185383686,
+      "content": "Getting food from student center  then I'll come over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510184825323,
+      "content": "FK U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510184823693,
+      "content": "It\u00e2\u0080\u0099s cool dawg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510184809055,
+      "content": "Imma be a little late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510184791092,
+      "content": "Danny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/18853622_139091843316127_6578514554454540288_n_139091839982794.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510184785432,
+      "content": "Danny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/20483508_163174260907885_6038215146155802624_n_163174254241219.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510184748553,
+      "content": "Room 6 in gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510180188609,
+      "content": "Can we trade our fitbits for mvmt watches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510180160121,
+      "content": "It's our ticket to fitbits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510180150147,
+      "content": "Don't get it stolen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510178838867,
+      "content": "I\u00e2\u0080\u0099m gonna bring the tobii to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1510178830848,
+      "content": "Gateway at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510118057610,
+      "content": "Noice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117926446,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510117883451,
+      "content": "Um I have a gateway room at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510117877342,
+      "content": "Yeaaa target is right there so we can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117846119,
+      "content": "at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117843805,
+      "content": "do we have a CSL room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117827783,
+      "content": "also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117593005,
+      "content": "should we just buy some tomrorow then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117588440,
+      "content": "hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510117580307,
+      "content": "No sorry \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1510117558746,
+      "content": "anyone have super glue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509867346023,
+      "content": "Okok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509867085486,
+      "content": "Imma just reserve room 6 from 4-6 rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509866745678,
+      "content": "http://spaces.lib.uci.edu/booking/Gateway",
+      "share": {
+        "link": "http://spaces.lib.uci.edu/booking/Gateway"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509866705310,
+      "content": "What time are we meeting ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509866532856,
+      "content": "How do I reserve?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509866527099,
+      "content": "I down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509865214712,
+      "content": "You guys wanna reserve a study room for Wednesday? Between the four of us we can reserve it for 8'hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509863655957,
+      "content": "00:14:14:03:06:0A:9B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509862145695,
+      "content": "48-51-B7-EC-19-CD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509861546144,
+      "content": "https://github.com/karulis/pybluez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509861293359,
+      "content": "http://blog.kevindoran.co/bluetooth-programming-with-python-3/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509857821444,
+      "content": "https://drive.google.com/drive/folders/1V3Gt9Kz9rgYUF7Kud0NkPXLOxYFVwORT?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509856287753,
+      "content": "http://www.instructables.com/id/Arduino-AND-Bluetooth-HC-05-Connecting-easily/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509856164040,
+      "content": "http://hp.vector.co.jp/authors/VA002416/ttermv14.zip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509856125881,
+      "content": "https://www.arduino.cc/en/Reference/SoftwareSerial",
+      "share": {
+        "link": "https://www.arduino.cc/en/Reference/SoftwareSerial"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509854887271,
+      "content": "https://github.com/mikethrussell/EyeXMouse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509853491892,
+      "content": "http://developer.tobii.com/community/forums/topic/how-to-get-the-gaze-coordinate/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509852831755,
+      "content": "Where are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852810301,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509852797748,
+      "content": "Wait I\u00e2\u0080\u0099ll just show u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509852790871,
+      "content": "Ur gay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852769806,
+      "content": "I can't find parking lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852336944,
+      "content": "I went to Taco Bell instead lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509852323156,
+      "content": "Don\u00e2\u0080\u0099t forget to scarf down those yellow peppers man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852292405,
+      "content": "I'm scarfing down my food rn by there in 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509852264571,
+      "content": "I\u00e2\u0080\u0099m on the odd (left) side if u know what that means",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509852261999,
+      "content": "Coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509852252828,
+      "content": "Hey if you guys need help finding my place just HMU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509852195678,
+      "content": "RYAN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509852189604,
+      "content": "I'm here ryan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852007100,
+      "content": "Maybe like the extra parts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509852001646,
+      "content": "I have mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509851870101,
+      "content": "do yall need me to bring my Ardu EENO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509851782677,
+      "content": "@Andrew Huynh how close are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509850618470,
+      "content": "i just had it 2 days ago im good hehe:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509850612755,
+      "content": "ooo in n out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509850609104,
+      "content": "SEE YOU ALL SOON",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509850605661,
+      "content": "nice okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509850598574,
+      "content": "yeh i got u boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509850585621,
+      "content": "also @Danny Nguyen would you happen to have like a really skinny screwdriver? like one you use for glasses or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509850549075,
+      "content": "oooo i need to get food lol imma go to in n out in like 10 min anyone want something?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Ryan Yue"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509850444988,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509850439645,
+      "content": "Ryan do you actually need me to pick you up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509850429528,
+      "content": "Okay I'm leaving my house now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509850166181,
+      "content": "skateboard over here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509850154634,
+      "content": "I\u00e2\u0080\u0099m fat and lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509850152119,
+      "content": "Someone pick me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509850149440,
+      "content": "Yea I\u00e2\u0080\u0099m ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849664269,
+      "content": "but andrews task will probably take longer so you call the shot @Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849645314,
+      "content": "whenever ryan is done eating dinner and whenever andrew is back in irvine and settled in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509849587833,
+      "content": "wait so what time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849531716,
+      "content": "455 Stanford Court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509849464595,
+      "content": "Whats ur address Danny?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509849457473,
+      "content": "Okay sounds good to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509849446215,
+      "content": "They don\u00e2\u0080\u0099t check parking on weekends I feel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849420645,
+      "content": "my roommates are gone so i also got a parking spot open",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509849399532,
+      "content": "So Danny\u00e2\u0080\u0099s ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509849388674,
+      "content": "I was cooking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509849386396,
+      "content": "Oh sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849331745,
+      "content": "alrighty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509849053466,
+      "content": "Just lemme know and I'll leave Yorba Linda. Takes about 30 min to get to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509849030332,
+      "content": "I'm down for either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509849014411,
+      "content": "its cool if we do it at my place too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848919409,
+      "content": "Can we do meet at your place Ryan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848885054,
+      "content": "jk LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848877276,
+      "content": "it'll take me at least an hour to walk there so lmk the time we meetin up so i can get ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509848812357,
+      "content": "off campus near DJ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848801566,
+      "content": "where do you live?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509848773767,
+      "content": "not very ergonomical",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509848762001,
+      "content": "i could ask my roommates if its cool to do it at my place but i dont have like a table or anything to work on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848672569,
+      "content": "peets coffee open till 12am but idk if thats an ideal place to do our nerduino project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509848603173,
+      "content": "rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848579220,
+      "content": "\u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848577555,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848571123,
+      "content": "hmmm does berkely have study rooms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848546986,
+      "content": "Oh darn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848516413,
+      "content": "Gateway open till 9pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509848498174,
+      "content": "I can check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848461351,
+      "content": "Idk how late gw is open",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848452275,
+      "content": "Maybe someone place?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848421629,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848420490,
+      "content": "Gateway?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848403780,
+      "content": "Yea I think it's easier if we meet somewhere near campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848368548,
+      "content": "Me and Danny r both near campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848306793,
+      "content": "Where do you guys wanna meet tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509848299962,
+      "content": "I am just about to leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848282198,
+      "content": "What time are we actually meetimg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509848277440,
+      "content": "So",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509840642287,
+      "content": "Until like 3am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509840638124,
+      "content": "And then by that time we have to start drinking",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509840611425,
+      "content": "Then he falls asleep so realistically 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509840590374,
+      "content": "10 actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509840568626,
+      "content": "So that means 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509840460821,
+      "content": "Should be back in Irvine around 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509840449467,
+      "content": "haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509839685958,
+      "content": "Andrew is gay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509839454826,
+      "content": "We can meet once Andrew is free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834958776,
+      "content": "but someone in the community was able to get gaze data through C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834938845,
+      "content": "its just that the python sdk isn't compatible with the EyeX version that we have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834911663,
+      "content": "nah man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834757025,
+      "content": "Wait so we have to create a whole new algorithm to track eyes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834367670,
+      "content": "camaro is chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834360736,
+      "content": "close enough:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834296175,
+      "content": "No just camaros and mustangs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834266368,
+      "content": "would there be a mercedes E class by any chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834253411,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509834245735,
+      "content": "No e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834244381,
+      "content": "Camaro*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834234929,
+      "content": "I got us a canary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834230472,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23262141_463799170681779_1343137695_o_463799170681779.jpg",
+          "creation_timestamp": 1509834230
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834220852,
+      "content": "Down*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509834217887,
+      "content": "Okay I'm done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834066698,
+      "content": "if we can get the coordinates and save it to a .txt file, we can open the .txt file from the arduino and do our thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509834036402,
+      "content": "So you guys wanna get together this weekend and figure out how to use the C/C++ api?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509833937000,
+      "content": "R I p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509833393917,
+      "content": "we might be able to use it for C/C++ though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509832901169,
+      "content": "the python sdk isn't made to work with the EyeX i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509832882242,
+      "content": "we're fucked though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509832665777,
+      "content": "THIS shit is so cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509832661339,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509832096697,
+      "content": "damM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509832046332,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509832045244,
+      "content": "Pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509832030277,
+      "content": "Ryan Yue added Danny Nguyen.",
+      "type": "Subscribe"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509832019631,
+      "content": "fuck u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509832013825,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509832013178,
+      "content": "Can you add him back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509832009379,
+      "content": "Uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831996012,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831995069,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831989415,
+      "content": "You removed Danny Nguyen from the group.",
+      "type": "Unsubscribe"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831984603,
+      "content": "I got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831978946,
+      "content": "Shit...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509831973374,
+      "content": "FAKE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831966405,
+      "content": "we forgot to remove danny from the groupchat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831961532,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509831712312,
+      "content": "im down for a tdye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831706118,
+      "content": "team sexduino",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831659075,
+      "content": "someone make a design",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831655857,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831627786,
+      "content": "Let's do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831624332,
+      "content": "I wasn't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831611212,
+      "content": "i was just kdiding u fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831601243,
+      "content": "How do we make a team shirt with tie dye shirt lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831574815,
+      "content": "tiedye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831567752,
+      "content": "White?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831565568,
+      "content": "What color",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831561668,
+      "content": "Alright alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831549681,
+      "content": "so we can make our own team shirt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831546032,
+      "content": "buy some plan tshirts too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509831478277,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831470733,
+      "content": "Imma go to Walmart to get an RC car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509831460959,
+      "content": "Yuh yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509830692435,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23270018_1477217629020444_2139650227_o_1477217629020444.jpg",
+          "creation_timestamp": 1509830691
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509827833514,
+      "content": "Yuh yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509827821730,
+      "content": "Ryan sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23335780_1757765977567647_1406944177_o_1757765977567647.jpg",
+          "creation_timestamp": 1509827821
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509810978907,
+      "content": "The tobii is coming today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509784195391,
+      "content": "JuJu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509784191435,
+      "content": "I like it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509771257990,
+      "content": "I'm going home Saturday, but I'll be back at night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509770363734,
+      "content": "Retarded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509770361428,
+      "content": "Why is ur name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509769761212,
+      "content": "Wait so are we meeting tomororw or Sunday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509749657081,
+      "content": "My boi Joshua wit the Afro gave it to me from the information session",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509749632115,
+      "content": "Where did you get that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509749606052,
+      "content": "Danny changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509743865100,
+      "content": "but im down for anywhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509743840003,
+      "content": "LOL NO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509743759646,
+      "content": "At the zeta house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509743712969,
+      "content": "like do you actually wanna do it at my place cause i can ask my roomates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742244797,
+      "content": "I\u00e2\u0080\u0099m down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509742235369,
+      "content": "michelles bedroom is my bedroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509742176099,
+      "content": "Ryan I\u00e2\u0080\u0099m still at Ics are you done with class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509742118878,
+      "content": "How\u00e2\u0080\u0099s that worth $2500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509742112793,
+      "content": "Let\u00e2\u0080\u0099s see if we can get the gaze data somehow cause it just outputs x and y coordinates and a time stamp of those coordinates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742078669,
+      "content": "Michelle\u00e2\u0080\u0099s bedroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509742064847,
+      "content": "where we meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509742060719,
+      "content": "Im free this weekd to work on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742033113,
+      "content": "Cuz there was that gesture lock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742025060,
+      "content": "That should be pretty easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742018196,
+      "content": "With gestures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509742015395,
+      "content": "I think we can make it work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509742005664,
+      "content": "Kkkkkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741981380,
+      "content": "And see what we can do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741977741,
+      "content": "But yea let\u00e2\u0080\u0099s meet this weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741971145,
+      "content": "Jk idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741963923,
+      "content": "face is gay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741961347,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741957611,
+      "content": "Or maybe face",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741948485,
+      "content": "With gestures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741944847,
+      "content": "the same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741942324,
+      "content": "DID",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741941135,
+      "content": "WHAT IF WE JUST DOD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741939414,
+      "content": "But I'm gonna look online to see if we can maybe modify the eyex or somehow bypass the upgrade key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741937191,
+      "content": "I can return those too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509741929846,
+      "content": "Cause we already order the rc car parts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509741927084,
+      "content": "Fuck hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509741920469,
+      "content": "Back to the drawing board then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741903425,
+      "content": "Let's play around with it this weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741897805,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509741893645,
+      "content": "Return it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741887075,
+      "content": "Rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741884894,
+      "content": "so what can we do with it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509741881648,
+      "content": "Cause python outputs the x,y coordinates in the terminal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741881512,
+      "content": "Yea...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741878423,
+      "content": "Wtf nigga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741871122,
+      "content": "For anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509741851541,
+      "content": "For python?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509741847455,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741844797,
+      "content": "$2250",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741842185,
+      "content": "Close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509741837214,
+      "content": "$69",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741833065,
+      "content": "And guess how much it costs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741824921,
+      "content": "And in order to access to gaze datawe need an upgrade key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741811615,
+      "content": "So I just got off the phone with the guy from tobii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509741802529,
+      "content": "FUCKKKKKK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667691956,
+      "content": "Massive wrist clout",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667686254,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23192499_1475535762521964_1790255152_o_1475535762521964.jpg",
+          "creation_timestamp": 1509667685
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667682705,
+      "content": "Ur weed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667679652,
+      "content": "Or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667676977,
+      "content": "Could it be the Tobii Pro????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667671357,
+      "content": "I got a package today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667638916,
+      "content": "MehH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667620537,
+      "content": "HOW DOES THAT FEEL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667617133,
+      "content": "FOR UR PRIME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667616327,
+      "content": "Absoltely!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667612111,
+      "content": "WERE JUST USING U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667608566,
+      "content": "JUST KNOW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667603664,
+      "content": "He has our thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667602972,
+      "content": "Danny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48735953_1878322898956211_8582492586202103808_n_460938480694667.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667597647,
+      "content": "We need Danny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667594937,
+      "content": "Waitnjk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667576724,
+      "content": "Yo lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667556914,
+      "content": "Danny ur kicked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509667551947,
+      "content": "You sexist ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509667548227,
+      "content": "It's a guy LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509667547858,
+      "content": "Are you assuming gender",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667543477,
+      "content": "U fucking sexist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509667540802,
+      "content": "How do u know it\u00e2\u0080\u0099s a girl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509667525747,
+      "content": "She\u00e2\u0080\u0099ll be pretty useful tbh if we encounter problems",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Ryan Yue"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509667049035,
+      "content": "Are there any questions you guys want to ask?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509667048804,
+      "content": "He called me today but I was sleeping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509667004832,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23224728_1736453449712363_1001755686_o_1736453449712363.png",
+          "creation_timestamp": 1509667003
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509651816529,
+      "content": "Yeah lol fairly odd parents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509651795546,
+      "content": "Is your pic on venmo like a cartoon character lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509642522156,
+      "content": "Thnx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509642511657,
+      "content": "Can you guys venmo @danford $21.28",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509642491127,
+      "content": "Danny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/photos/23158164_1475259645882909_1597694764_o_1475259645882909.jpg",
+          "creation_timestamp": 1509642490
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509642487551,
+      "content": "I placed the order for the Tobii just now and it\u00e2\u0080\u0099s gonna come Saturday so we can actually work on this on the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509584265620,
+      "content": "https://www.tobiipro.com/product-listing/tobii-pro-sdk/#Download",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509584234474,
+      "content": "https://www.google.com/amp/www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/%3famp_page=true",
+      "share": {
+        "link": "http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509583894526,
+      "content": "http://developer.tobii.com/tobii-sdk-guide/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509581109493,
+      "content": "http://www.instructables.com/id/The-EyeWriter-20/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509578138015,
+      "content": "Which part of gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509578043489,
+      "content": "Share the abgs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509578021726,
+      "content": "Alright omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509577996449,
+      "content": "In a studying room at gateway with a bunch of fuccbois and abgs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509577943421,
+      "content": "Wait Justin are you guys posted up on campus somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509577794504,
+      "content": "@Ryan Yue?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509577704145,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509577582821,
+      "content": "I\u00e2\u0080\u0099m on campus rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509577339455,
+      "content": "Justin and I are free whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509577327643,
+      "content": "Hey when do you guys wanna meet today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509509322485,
+      "content": "Or like for crosswalks without lights. We put an arduino there and if it detects someone walking it\u00e2\u0080\u0099ll somehow contact an arduino in the car and tell it that there is a pedestrian 50ft ahead or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509509163979,
+      "content": "Just writing down my ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509509150373,
+      "content": "So like for cars exiting a plaza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509509141280,
+      "content": "What if we built an application that detects movement/walking and if it does it\u00e2\u0080\u0099ll shine like a red light",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509508328369,
+      "content": "https://hackaday.io/project/27731/gallery#c823ba0bbb6ca9a7a6e8dc654d25b52d",
+      "share": {
+        "link": "https://hackaday.io/project/27731-windows-pc-lockunlock-using-rfid"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509505617688,
+      "content": "https://www.hackster.io/gadget-programmers/online-attendance-system-without-ethernet-c07682",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509503467427,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1I8QPRrrze6mL24ECFXGV6E3w_-TeHskzdsf-yzdoqA0/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509499868464,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509499706968,
+      "content": "We on our way back now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509499703677,
+      "content": "Gateway?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509499472094,
+      "content": "Andrew and I are out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509499468283,
+      "content": "Where should we meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509493973752,
+      "content": "We can do 6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509492638318,
+      "content": "Okay it\u00e2\u0080\u0099s cool then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509492349089,
+      "content": "We have class till 6:20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509491697458,
+      "content": "Can we do 6 then so Ryan and I can just go right after clas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509491510044,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509491406547,
+      "content": "I end at 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509491404021,
+      "content": "Waitnjk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509491365656,
+      "content": "Cuz Ryan has class till then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509491361216,
+      "content": "I think 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509488378666,
+      "content": "are we still doing 6:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509467829927,
+      "content": "Yea that\u00e2\u0080\u0099s cool for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509440161714,
+      "content": "Can we meet tmr? You guys free around 6:30pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509310539553,
+      "content": "We could do that plus maybe even use a wifi module, sonar module and motors to make a portable data tracking robot. I.e. A toy car with shit on\nTop",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Danny Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509306259206,
+      "content": "Or at least that was my intentions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509306250889,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509306232270,
+      "content": "Oh it is an infrared sensor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509306204720,
+      "content": "Hmmm that's an interesting idea. We can probably optimize it to have more accurate data if we use infrared instead of thermal and maybe even use multiple arduinos to track movement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509305874211,
+      "content": "Danny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flex_1471774156231458.pdf",
+          "creation_timestamp": 1509305872
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509305864084,
+      "content": "Danny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ProjectFlexduino_NIrJMGHKlA/files/flex_1471773896231484.pptx",
+          "creation_timestamp": 1509305862
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509305860340,
+      "content": "this is sort of a quick explanation of the idea i had in mind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509152081079,
+      "content": "I\u00e2\u0080\u0099ll email him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509151979909,
+      "content": "I haven't emailed him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509150043788,
+      "content": "Have you emailed Joshua the team name? I can send him a message",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509148366778,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509148236568,
+      "content": "You actually wanna keep Project flexduino?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1509147922542,
+      "content": "I\u00e2\u0080\u0099ll brainstorm tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509147778045,
+      "content": "Yea we should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509147769327,
+      "content": "Should we get matching T-shirt\u00e2\u0080\u0099s too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1509147750738,
+      "content": "Just the name of this chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509147624746,
+      "content": "Also we need a team name lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509147597868,
+      "content": "Hey guys let's try to confirm our idea by sunday! Once we get the idea we can start buying the materials we need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1508998016174,
+      "content": "Ryan Yue added Danny Nguyen.",
+      "type": "Subscribe"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508998007549,
+      "content": "I can't find Danny on fb lol idk his last name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508997987383,
+      "content": "You named the group Project Flexduino.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Project Flexduino",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ProjectFlexduino_NIrJMGHKlA"
+}

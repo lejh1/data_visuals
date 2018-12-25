@@ -1,0 +1,1298 @@
+{
+  "participants": [
+    {
+      "name": "Derrell Record"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544479858283,
+      "content": "I need my A's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544479854597,
+      "content": "its for the curve, you understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544479846639,
+      "content": "please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544479845270,
+      "content": "stop studying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544479842845,
+      "content": "Hey man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544087013647,
+      "content": "Still gotta study that wire stuff \u00f0\u009f\u0098\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544086999187,
+      "content": "Ima probably say fuck it to thoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544086988541,
+      "content": "I feel like it has to be strips because you can only do certain actions if the preconditions are met, so order matter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544086845062,
+      "content": "Idk if it\u00e2\u0080\u0099s strips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544086837728,
+      "content": "Online looks a little different from what he did in class tho Idk man I\u00e2\u0080\u0099m done with this haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544086799518,
+      "content": "He wants us to use STRIPS for that huh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544086788296,
+      "content": "I think u just gotta look it up online. That\u00e2\u0080\u0099s what I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544085563923,
+      "content": "i didnt take notes so i dont know the inital state of the problem or the prepositions haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544085482827,
+      "content": "Ima give up and go to sleep by 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544085473293,
+      "content": "Honestly probably not worth the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544085158003,
+      "content": "i think imma just leave the monkey one blank lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544079190163,
+      "content": "I havent gotten to it yet but ill letcha know if i got an idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544079115126,
+      "content": "i dont understand the monkey one at all bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544079102954,
+      "content": "alright nicee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544078946595,
+      "content": "I missed I2 -> I3, had the other ones tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544078932493,
+      "content": "I got a different answer too but I only had 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544078921718,
+      "content": "ahh good catch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544078789342,
+      "content": "There\u00e2\u0080\u0099s 5 answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544078783374,
+      "content": "Your buddy did number 2 wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544078779788,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/photos/47396540_336247546958399_5134361384909275136_n_336247473625073.jpg",
+          "creation_timestamp": 1544078779
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544077987988,
+      "content": "you a homie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077293377,
+      "content": "Derrell sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/files/ScannableDocumentonDec52018at4_06_03PM_285437502110060.pdf",
+          "creation_timestamp": 1544077291
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077279963,
+      "content": "but its better than nothin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544077279947,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077272241,
+      "content": "so might be wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544077269444,
+      "content": "Yea bro send that overrr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077269223,
+      "content": "well its lw someone elses homework lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077258291,
+      "content": "yeaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544077227343,
+      "content": "The strips ones?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544077210386,
+      "content": "think i found the solutions if u want it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544047692046,
+      "content": "Damn hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544044449326,
+      "content": "I went IN on the evaluation mann! They need to get a new professor for this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544044412025,
+      "content": "Haha I feel so bad for them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544044384804,
+      "content": "They just say anything to make sheu happy haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544044376824,
+      "content": "He said he might idk tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544044355265,
+      "content": "Did the TA say they are doing extra office hours or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544044340910,
+      "content": "Damnit lol I think I got the first two but stuck on that as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544044303335,
+      "content": "Not the strips stuff haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1544044202728,
+      "content": "Do u know how to do this hw :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543539805888,
+      "content": "I lowkey feel bad for the TA's. I would be mad af if I had to work for him lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543535504132,
+      "content": "This shit is wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543378085019,
+      "content": "It\u00e2\u0080\u0099s cool lol I might leave it like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543377773339,
+      "content": "I can send u a pic of how I did it later if u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543377761421,
+      "content": "Hmm that\u00e2\u0080\u0099s hella weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543377745897,
+      "content": "its messing it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543377742191,
+      "content": "nah i mean like my data stays on the page even tho i refresh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543377717727,
+      "content": "Its new data each time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543377706966,
+      "content": "Yeahh you don\u00e2\u0080\u0099t need to save the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543345280713,
+      "content": "I\u00e2\u0080\u0099m having trouble with the field storage thing haha does your clear when you refresh your page?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543345258885,
+      "content": "Python",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543345208404,
+      "content": "Wbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543345199184,
+      "content": "Python",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543345095566,
+      "content": "You\u00e2\u0080\u0099re using python cgi or jsp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543342602918,
+      "content": "Yeah I\u00e2\u0080\u0099ve been doing the website the whole time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543306970522,
+      "content": "have you done your website yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543284181940,
+      "content": "Uh kinda lol I have a bunch of circles and triangles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543283844257,
+      "content": "is urs similar?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543283366747,
+      "content": "Derrell sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/photos/46729558_2144936445727034_6589218867086622720_n_2144936442393701.jpg",
+          "creation_timestamp": 1543283366
+        },
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/photos/47012237_1939329153042293_3104630291168231424_n_1939329149708960.jpg",
+          "creation_timestamp": 1543283366
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543283299653,
+      "content": "What does your problem set look like btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543283281750,
+      "content": "Thanks b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543282573072,
+      "content": "haha I feel yaa, but lmk if u got some questions later broo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543275969794,
+      "content": "Oh yea haha? Idk man I\u00e2\u0080\u0099m really over it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543275392029,
+      "content": "Yours is probably fine for all valid inputs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543275367390,
+      "content": "Yeah I know whatcha mean, some inputs actually arent allowed so I created a function that verifies the values and prints which values are not allow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543275299924,
+      "content": "I might just accept it and turn it in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543275290388,
+      "content": "Haha I just don\u00e2\u0080\u0099t know how far to go with the geometry problem. Like it works for certain inputs and others it doesn\u00e2\u0080\u0099t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543275252970,
+      "content": "Yea exactly lol 119 is lk tough, i need to get this 118 stuff out the way so I can study for that final. I'm pretty much done with the geometry problem for 118 so lmk if u need help with anything, i gottcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543275132130,
+      "content": "Idk ha it works ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543275121710,
+      "content": "For real lol 119 is being a bitch too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543274393704,
+      "content": "hows the geo problem going for you tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543274383795,
+      "content": "I started writing it and tbh idk if ima even hit 5 pages lol this paper is just a waste of time in my opinion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543274348963,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266652212,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/files/Dis1119_304636477056945.pdf",
+          "creation_timestamp": 1543266650
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543256127218,
+      "content": "I\u00e2\u0080\u0099m thinking like 1 page for each section the TA wants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543256111385,
+      "content": "Idk lol im trying to get like 5 at least hopefully 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543256090517,
+      "content": "Lmao alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543256019822,
+      "content": "& I only wrote like 1 page so far. How long do u think ur paper will be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543255991135,
+      "content": "Hell yea I do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543255957885,
+      "content": "And geo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543255953346,
+      "content": "And yea I started",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543255950176,
+      "content": "He\u00e2\u0080\u0099s just going over questions not the hw tho. I have the hw solns from last week if you wanna see them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543255622498,
+      "content": "Also are u doing geo or graph problem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543255603656,
+      "content": "Have u started that term paper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543255583624,
+      "content": "Damnit lol fuck it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543255569811,
+      "content": "For 118 lol? I ain\u00e2\u0080\u0099t going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1543255542241,
+      "content": "got to campus and realized I left my skateboard remote at home so going back to get it lol can u get pics of discussion for me ? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542319214791,
+      "content": "thats so dumb lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1542318758694,
+      "content": "This is what the TA just send me:\n\"Please conduct research(survey) on existing geometry problem solvers, and you should focus on papers. Then write a summary of what you find in this area. \"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542317588901,
+      "content": "i just said i didnt find shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542317570576,
+      "content": "not really lol someone told me we are suppose to look on the internet for other geometery solvers and comment on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1542317494556,
+      "content": "Do u know what we are suppose to do for the survey?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916746759,
+      "content": "oh rip haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541916726189,
+      "content": "well he didnt tell me haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916707656,
+      "content": "the ta told me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541916673261,
+      "content": "where does it say that in the questions? haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916586170,
+      "content": "nade a layout for the osc and made a schematic using the inverter symbols also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916562231,
+      "content": "oh both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541916540456,
+      "content": "wait you talking about schematic or layout?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916361605,
+      "content": "So we made a layout one and then another one just using the inverter symbol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541916346150,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541915643851,
+      "content": "yo for 119 part 3 do we also got to design the layout of the oscillator with 5 inverters?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541912973626,
+      "content": "Okay*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541912971559,
+      "content": "Lmao I\u00e2\u0080\u0099m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541912948682,
+      "content": "nvm got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541912744180,
+      "content": "yo did u have any issues setting ur initial condition for part 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541715859040,
+      "content": "I just wanna get it over with lmao I\u00e2\u0080\u0099m tired of studying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541715810994,
+      "content": "Good shit, sounds like u ready broo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541715793218,
+      "content": "That\u00e2\u0080\u0099s my shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541715773635,
+      "content": "Be ready for Answer Extraction too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541709527298,
+      "content": "I know man, I\u00e2\u0080\u0099m just hoping he gives us some of the obvious ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541709292703,
+      "content": "there's so many definitions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666766246,
+      "content": "gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666747090,
+      "content": "bet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666721293,
+      "content": "if thats on there ill buy you a beer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666701619,
+      "content": "be ready for that one,watch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666689638,
+      "content": "Yuuppp exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666673086,
+      "content": "yea i just see it as an xnor if that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666630495,
+      "content": "(A = B ) -> (~A v B ) ^ (A v ~B)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666549510,
+      "content": "A = B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666537122,
+      "content": "For example if he said, \"A if true, if and only if B is true\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666498004,
+      "content": "i think i get it thoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666494458,
+      "content": "Yeahh l feel uu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666484372,
+      "content": "im not good at translating into predicate logic hah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666464976,
+      "content": "that stuff is so confusing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666454417,
+      "content": "i feel like he will have that on there cause most ppl probably wont do it right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666419700,
+      "content": "yeaahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666415014,
+      "content": "three lines",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666410668,
+      "content": "uh the equvilance thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666348499,
+      "content": "uhh i dont think thats what it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666175467,
+      "content": "is that when we have to use the double implications",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666060952,
+      "content": "hes the type",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666058784,
+      "content": "I feel like thats gonna be on there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541666049189,
+      "content": "Like HW3 16.12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541666032758,
+      "content": "what do you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541665842299,
+      "content": "I got a feeling hes gonna put one of those \"if and only if\" problems on there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541651900843,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541651899532,
+      "content": "makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541651896270,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541651884315,
+      "content": "And need to prove S(Mary)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541651877213,
+      "content": "So we are given P(Mary)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541651866720,
+      "content": "It\u00e2\u0080\u0099s messed up tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541651862303,
+      "content": "I'm confused about why they are using P(Mary) and ~S(Mary)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541651859185,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541651836115,
+      "content": "Do u understand #3 though?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541648495107,
+      "content": "lmao alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541648174000,
+      "content": "nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541648004132,
+      "content": "u know how to do #7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541627862014,
+      "content": "I gotchu bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541627465103,
+      "content": "Haha jk but help me find some of these definitions of u can, or if I\u00e2\u0080\u0099m missing some terms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541627010287,
+      "content": "oh fuck LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541626997552,
+      "content": "Add something bish before i unshare u lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541626414298,
+      "content": "damn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541625979295,
+      "content": "I don\u00e2\u0080\u0099t know the definitions of all tbh tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541625970686,
+      "content": "Right lol I been writing down everything I can find",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541625898069,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541625896633,
+      "content": "damn thats a lot of terms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541624721632,
+      "content": "hell yea LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541624216700,
+      "content": "Poppin*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541624209644,
+      "content": "Haha just shared it! Help out and get this term list pippin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541624181695,
+      "content": "hahaha its all good im just messing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541624167121,
+      "content": "I know I just didn\u00e2\u0080\u0099t wanna look it up lol my b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541624148416,
+      "content": "lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541624143046,
+      "content": "bruuh we are in the same senior design you have my email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541624091293,
+      "content": "Whats ur email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541623906687,
+      "content": "make a google doc, ill try to add stuff too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541623869235,
+      "content": "Ima try to put a term list together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541623861061,
+      "content": "Fuckk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541623847102,
+      "content": "nahi wish lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1541623230044,
+      "content": "Bro do you have a list of terms for EECS 118",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541446239295,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/files/SampleMidterm_115872129317817.pdf",
+          "creation_timestamp": 1541446238
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539633876029,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/photos/44119773_254216081952177_8625989369276137472_n_254216061952179.jpg",
+          "creation_timestamp": 1539633875
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539633874060,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DerrellRecord_XZVhzoHcEw/photos/44131131_339574859921708_577881046448603136_n_339574846588376.jpg",
+          "creation_timestamp": 1539633873
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539569130985,
+      "content": "Yea might do the same lol I can only get it to work in Eclipse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539561095968,
+      "content": "Oh I put everything in one file cause I\u00e2\u0080\u0099m lazy haha idk if I can help you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539560779801,
+      "content": "I\u00e2\u0080\u0099m having issues calling the functions and classes defined in the setup.java file from index.jsp, so either I\u00e2\u0080\u0099m importing it wrong, or the files need to be arranged a specific way in the directory.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539560728363,
+      "content": "Yeah it\u00e2\u0080\u0099s under web apps, in gallery folder.\nSay for example I have my index.jsp file, and I want to be able to call java functions that I defined in another file called setup.java.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539560481247,
+      "content": "What exactly do you mean by having issues linking them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539560470892,
+      "content": "Did you make the new file in the web apps folder?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539560288473,
+      "content": "Okay I\u00e2\u0080\u0099ve been using notepad but currently having issues linking my .jsp and .java files. I know some ppl used Eclipse to make it a lil easier. I\u00e2\u0080\u0099m trying to out if there\u00e2\u0080\u0099s a certain location that files need to be located in order to link the java package and the jsp files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539560108479,
+      "content": "I use vs code as my text editor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539560078154,
+      "content": "Are you using something like Eclipse/Netbean or just notepad ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539499157818,
+      "content": "Alright nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539496626362,
+      "content": "I think I got it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539486685195,
+      "content": "alright just let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539486661021,
+      "content": "I\u00e2\u0080\u0099m going to try something to figure it out. If this doesn\u00e2\u0080\u0099t work, I\u00e2\u0080\u0099ll hit u back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539486617441,
+      "content": "I think my only issue is whichthe software",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539486588273,
+      "content": "I can try to help you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539486577831,
+      "content": "yea mine is all setup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539486564319,
+      "content": "Was trying to see if u figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539486556649,
+      "content": "Yeah, my workbench is tripping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539485816374,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539485813657,
+      "content": "for 118>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1539485775847,
+      "content": "Did you get the database set up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534357395552,
+      "content": "Haha alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534357393256,
+      "content": "Hm okay, and you have a camera also right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1534357385593,
+      "content": "I\u00e2\u0080\u0099ll post this there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1534357266821,
+      "content": "Yea, was the group chat on google hangout? I dont remember. \n\nThe main features it has are Motor, \nBumpers to sense if it ran into something, \na reflectance sensor that can be used to detect and follow a line,\nTwo switches,\nA bunch of GPIO pins, and an Analog to Digital converter, so a lot of other stuff can be added on to it, such as a distance sensor, camera, or even the soil sensor that yall were talking about.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534356324161,
+      "content": "Wanna message the group chat actually and we can plan some things out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534356239945,
+      "content": "Oh nice alright, what features does the RSLK have exactly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1534355135983,
+      "content": "Wassup Justin, I've been working on the RSLK project with QV and I can use it to test some of the things we discussed last time. I should have things ready within the next two weeks so was thinking about giving you a call soon when you have time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Derrell Record",
+      "timestamp_ms": 1530205638443,
+      "content": "Say hi to your new Facebook friend, Derrell.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Derrell Record",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DerrellRecord_XZVhzoHcEw"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Justin Burba"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Burba",
+      "timestamp_ms": 1525894257485,
+      "content": "Say hi to your new Facebook friend, Justin.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin Burba",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JustinBurba_cGw1X9Re9g"
+}

@@ -1,0 +1,978 @@
+{
+  "participants": [
+    {
+      "name": "Dayna Dongwen Lu"
+    },
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Thomas Huang"
+    },
+    {
+      "name": "Laura Soeun"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Francis Angeles"
+    },
+    {
+      "name": "Jenn Chore"
+    },
+    {
+      "name": "Justin Huynh"
+    },
+    {
+      "name": "Steven Wang"
+    },
+    {
+      "name": "Elaine Chen"
+    },
+    {
+      "name": "Tina Gee"
+    },
+    {
+      "name": "Tiffany Sekacnap Yrettub Nguyen"
+    },
+    {
+      "name": "Vanessa Comia"
+    },
+    {
+      "name": "Anna Young"
+    },
+    {
+      "name": "Chelsea Kim"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487205973058,
+      "content": "if u do I'll applaud u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1487205153975,
+      "content": "I think we have to now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1487204866535,
+      "content": "should we cosplay for this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204657358,
+      "content": "\u00f0\u009f\u0090\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204655357,
+      "content": "PLEASE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1487204615154,
+      "content": "Huynh sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KNITTINGNARUTO_1LNl9qUvTA/photos/16780465_10207432184553184_1830343432_n_10207432184553184.png",
+          "creation_timestamp": 1487204614
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1487204613805,
+      "content": "catch me with those knitting needles like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204371817,
+      "content": "PLS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204368522,
+      "content": "HER!!!!KUNAI!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204362737,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1487204340953,
+      "content": "Her kunai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1487204336991,
+      "content": "I think you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1487204326621,
+      "content": "Ima go home this weekend possibly and steel my sisters knitting stuff because she don't use it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204174612,
+      "content": "Idk if they'll snap tho haha. But I mean ya get what ya paid for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1487204160678,
+      "content": "Lol they might be fine for just this one time!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1487203810080,
+      "content": "LMAO I thought about buying some from there once but I didn't know if it was good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1487203785311,
+      "content": "The chopstick is mightier than the sword",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1487203755616,
+      "content": "Better than Steven's chopstick but probably not great hahaha \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1487203699228,
+      "content": "But is it good ? D:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1487203687328,
+      "content": "$1.50 at Daiso.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1487203676082,
+      "content": "Jenn sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KNITTINGNARUTO_1LNl9qUvTA/photos/16776929_10212153498135317_1545342543_o_10212153498135317.jpg",
+          "creation_timestamp": 1487203675
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1486970136930,
+      "content": "Norman Zelada left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Norman Zelada"
+        }
+      ]
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1486969826558,
+      "content": "Agnes Tang left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Agnes Tang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Tina Tran",
+      "timestamp_ms": 1486969726107,
+      "content": "Tina Tran left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tina Tran"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1486967049989,
+      "content": "Melanie Young left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Melanie Young"
+        }
+      ]
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1486964701357,
+      "content": "Caitlin Audrey left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Caitlin Audrey"
+        }
+      ]
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964687992,
+      "content": "Jk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964629367,
+      "content": "She told me she doesn't like any of you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964618489,
+      "content": "Lies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1486964617012,
+      "content": "Caitlin sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10935994_1604284189801354_1743736779_n_1604284183134688.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1486964606525,
+      "content": "LOL I can't make the day. Have fun everyone!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964551299,
+      "content": "!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964547272,
+      "content": "Everyone look at her leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964534830,
+      "content": "PSA!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486964528035,
+      "content": "Caitlin wants to leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cathy Ly",
+      "timestamp_ms": 1486879494367,
+      "content": "Cathy Ly left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Cathy Ly"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mora S. Ung",
+      "timestamp_ms": 1486876222503,
+      "content": "Mora S. Ung left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mora S. Ung"
+        }
+      ]
+    },
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1486874837711,
+      "content": "Nat Yaj left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nat Yaj"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1486872533903,
+      "content": "Kevin Loc left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kevin Loc"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1486872512460,
+      "content": "Gina Vu left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Gina Vu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Connie Ooi",
+      "timestamp_ms": 1486872076537,
+      "content": "Connie Ooi left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Connie Ooi"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486871937855,
+      "content": "\u00f0\u009f\u0090\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486871934712,
+      "content": "LOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486871932966,
+      "content": "i ran out of yarn so yeah i'll just do urs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486871921868,
+      "content": "if u bring it i'll help u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486871919991,
+      "content": "I know Anna ahead of the game already LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486871906764,
+      "content": "We should knit during gbm as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1486871786448,
+      "content": "Either or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1486871355301,
+      "content": "Night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870917068,
+      "content": "Night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vanessa Comia",
+      "timestamp_ms": 1486870911555,
+      "content": "Mid day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870897366,
+      "content": "Uhh night I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870737814,
+      "content": "2/25",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870732040,
+      "content": "ok so mid day or night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870531379,
+      "content": "Imma bout to knit myself a ninja headband",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870503536,
+      "content": "Knit a scarf that's what ya boi do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870490955,
+      "content": "I'm tryna blaze like fireball jutsu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870479204,
+      "content": "Everyday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870476056,
+      "content": "4:20 finals week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870463711,
+      "content": "Finals week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870459663,
+      "content": "3am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870408620,
+      "content": "uhh whatever everyone wants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vanessa Comia",
+      "timestamp_ms": 1486870383994,
+      "content": "Wait is this gonna be earlier in the day? Like noonish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870354761,
+      "content": "Or if I was a taijutsu master",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870335219,
+      "content": "Damn.....if only I had a shadow clone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870256052,
+      "content": "Lmaooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486870248338,
+      "content": "you can make an arm blanket in 45 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870233831,
+      "content": "if u practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486870158199,
+      "content": "Do you think I'll be able to make a scarf in a week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870142162,
+      "content": "2/25 Sat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vanessa Comia",
+      "timestamp_ms": 1486870122545,
+      "content": "Vanessa sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13176360_1031369320279388_136518715_n_1031369316946055.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486870089924,
+      "content": "\u00f0\u009f\u0090\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870082330,
+      "content": "actually weekend. we'll have it weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870075713,
+      "content": "ya girl needs to sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870070165,
+      "content": "lol tuesday night is gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870058930,
+      "content": "lol no drum sticks. they don't have pointed tips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486870035837,
+      "content": "lol keep in mind they're all different sizes in first that set so each person may have a different scarf tightness",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870023925,
+      "content": "Or Tuesday night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486870019133,
+      "content": "Weekend pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1486870016585,
+      "content": "Thomas sent a link.",
+      "share": {
+        "link": "https://www.amazon.com/dp/B000UB5BYO/ref=tsm_1_fb_lk"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869968478,
+      "content": "Anyone want ins?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869958999,
+      "content": "HeroNeo\u00c2\u00ae 14 pcs 7 Sizes Plastic Handle Single Pointed Crochet Knitting Needles 4.0-10.0mm https://www.amazon.com/dp/B00FNFX9KA/ref=cm_sw_r_fm_apa_Yw9NybCV6YQXT",
+      "share": {
+        "link": "https://www.amazon.com/dp/B00FNFX9KA/ref=tsm_1_fb_lk"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869936578,
+      "content": "y'all can come to do any type of knitting u want but im only teaching the one i know lawl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869925529,
+      "content": "LOLOL thomas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1486869919224,
+      "content": "Helen Tran left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Helen Tran"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869900566,
+      "content": "I can host at my place, but it may be squishhed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Huang",
+      "timestamp_ms": 1486869896284,
+      "content": "https://www.etsy.com/listing/475806116/supper-chunky-yarn-merino-wool-diy-arm?utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_a-craft_supplies_and_tools-fiber_and_textile_art_supplies-yarn_and_roving&utm_custom1=634bd8ec-6129-4d5e-b4a5-cdda095565af&gclid=CKHh1-7NidICFU6Cfgod0F4MTQ",
+      "share": {
+        "link": "https://www.etsy.com/listing/475806116/supper-chunky-yarn-merino-wool-diy-arm?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869864240,
+      "content": "Y'all wanna do a weekday or weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1486869853649,
+      "content": "Juliane Ignacio left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Juliane Ignacio"
+        }
+      ]
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486869837788,
+      "content": "Dw that's the only type of chopstick I have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486869837033,
+      "content": "Occur*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486869830515,
+      "content": "When will this event of epic battles and needle finesse ovcur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869823142,
+      "content": "LOOOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869821496,
+      "content": "but make sure they're long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869816934,
+      "content": "^^^^^this boy a genius!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869813518,
+      "content": "yea!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869812432,
+      "content": "u could",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1486869802017,
+      "content": "Can I use chopsticks to knit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869786230,
+      "content": "this is the yarn i use cuz it's mad soft, but feel free to choose whatever u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869771585,
+      "content": "https://www.michaels.com/bernat-blanket-yarn/M10346027.html",
+      "share": {
+        "link": "https://www.michaels.com/bernat-blanket-yarn/M10346027.html?productsource=FB-Product-Share"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869723699,
+      "content": "LOOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869714628,
+      "content": "Alright I'll be using 2mm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869713748,
+      "content": "Anna set your nickname to Bushy Brows.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869697305,
+      "content": "but i believe the thicker the needles, the easier it is for beginners",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869680019,
+      "content": "i think i use 8mm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486869573702,
+      "content": "Justin set his own nickname to Huynh.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486869548780,
+      "content": "You set the nickname for Justin Huynh to Justin 2.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486869545130,
+      "content": "I drove your ass to bdc LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869535880,
+      "content": "Cuz I'm about to buy bulk from amazon if yall wanna share that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Huynh",
+      "timestamp_ms": 1486869535860,
+      "content": "Fuck off Justin.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869531989,
+      "content": "no ur just bushy brows my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486869516707,
+      "content": "Since I was here first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486869510150,
+      "content": "Can I be justin 1 and the other justin be justin 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869493078,
+      "content": "arm knitting guys!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869481907,
+      "content": "the size of your arm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869470312,
+      "content": "What size needle is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869467758,
+      "content": "i wasnt FVP for nuuuuthinnn justin le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869449520,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869438216,
+      "content": "of course. i don't play.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486869423004,
+      "content": "Omfg this is actually happening LOL?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869383642,
+      "content": "\u00f0\u009f\u0090\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869316921,
+      "content": "no needles needed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486869314027,
+      "content": "https://www.youtube.com/watch?v=cMYRrOG27C0&t=298s",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=cMYRrOG27C0"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869308051,
+      "content": "either or is fine, i use steel cuz it's cheaper and does the same job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1486869287741,
+      "content": "Wooden or steel knitting needles?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869263054,
+      "content": "Everyone will need to buy knitting needles (~$10) and yarn (~$5-7 depending on the type you buy). Michaels always has dealz so there's definitely a chance to get discounts on the entire purchase :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486869165157,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vanessa Comia",
+      "timestamp_ms": 1486869128810,
+      "content": "LOL your message so formalish, but yes yes I'm downs\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486869038074,
+      "content": "BELIEVE IT!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486867122419,
+      "content": "Anna changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486867062711,
+      "content": "\u00f0\u009f\u0090\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1486867035340,
+      "content": "I second this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tina Gee",
+      "timestamp_ms": 1486867028537,
+      "content": "You're so cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486867019277,
+      "content": "oh i meant diggity down*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486866994233,
+      "content": "Anna set the emoji to \u00f0\u009f\u0090\u008d.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486866977712,
+      "content": "Anna named the group KNITTING&NARUTO.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1486866944769,
+      "content": "Thank you for expressing interest in my session of knitting&naruto. If you have changed your mind, please take this next opportunity exit this chat. If you're still dignity down, we'll talk about buying supplies and location :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "KNITTING&NARUTO",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KNITTINGNARUTO_1LNl9qUvTA"
+}

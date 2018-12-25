@@ -1,0 +1,208 @@
+{
+  "participants": [
+    {
+      "name": "Sergey Arzumanyan"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498012139069,
+      "content": "Ah okay I'm in the next parking lot over. I'm coming rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1498012121604,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498012105339,
+      "content": "The big parking lot right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498012063146,
+      "content": "Left side facing the office?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1498011935132,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498011829284,
+      "content": "ETA 5min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498011825030,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1498011815486,
+      "content": "Come to the parking lot on the left side from the office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498011670386,
+      "content": "On my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1498011448493,
+      "content": "You can come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498009419945,
+      "content": "Sounds good! Just let me know when I can come over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1498009291998,
+      "content": "7:30? Stuck in traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497986261696,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497984845090,
+      "content": "Puerta del sol apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497984814469,
+      "content": "10000 Adobe circle Irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497982527680,
+      "content": "Okay sounds good! What's the address?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497981973173,
+      "content": "Either cash or venmo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497981957398,
+      "content": "7 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497967272804,
+      "content": "Good morning! Let me know when it is most convenient to pick it up. Also do accept venmo or would you rather have cash?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497949808795,
+      "content": "ok. the earlier the better.  keep in touch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497949756249,
+      "content": "Ok.  I'll let you know about picking it up in the morning!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497949563743,
+      "content": "the thing is it is already disassembled and it is at my friends place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497949393270,
+      "content": "Is there any way I can see it assembled before I buy it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497949251772,
+      "content": "Ok. Let's meet tomorrow then. It has to be in the evening though. I'm currently not in Irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497949080551,
+      "content": "I'm leaving town Wednesday \u00f0\u009f\u0098\u009e is there anyway I can get it before?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497948975834,
+      "content": "Does Thursday  afternoon work for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497948889647,
+      "content": "Awesome! I would like to buy it! When would be a convenient time to pick it up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497948850906,
+      "content": "Hi \nYes it is still available",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sergey Arzumanyan",
+      "timestamp_ms": 1497948823881,
+      "content": "Sergey added you on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497948600846,
+      "content": "You added Sergey Arzumanyan on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497948479087,
+      "content": "Hey! I'm interested in the loft bed! If it's still available I would like to buy it from you",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sergey Arzumanyan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SergeyArzumanyan_0zwUiLYIlA"
+}

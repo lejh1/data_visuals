@@ -1,0 +1,196 @@
+{
+  "participants": [
+    {
+      "name": "Sabrina Lai"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191512571,
+      "content": "Idk what that is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191505611,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191498198,
+      "content": "You sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191496163,
+      "content": "You're welcome lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191385113,
+      "content": "ty for your time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191380669,
+      "content": "okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191322564,
+      "content": "I'm not even sure when I'll be at my grandmas lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191299294,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191295837,
+      "content": "Uh idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191287654,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474191286443,
+      "content": "Lol Patrick doesn't need to wake up to help me move in if that's what you're talking about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191279767,
+      "content": "for him to acquire some mema's eggrolls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191241351,
+      "content": "What time does Patrick must wake up later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1474191228662,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326447522,
+      "content": "Haha no worries Justin!! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326340731,
+      "content": "Well sorry Sabrina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326336141,
+      "content": "Okay thanks lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326328153,
+      "content": "haha alrighties",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326319752,
+      "content": "Sorry. When you see Patrick let him no I had nothing to do with it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326312498,
+      "content": "Oh dang LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326301287,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326299650,
+      "content": "My mother changed last minute and we couldn't wake Patrick up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326281990,
+      "content": "And we just finished eating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472326276228,
+      "content": "You'll see lol. So apparently we changed to lunch instead of dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326121409,
+      "content": "what's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326117760,
+      "content": "but I'm heading over soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326109925,
+      "content": "I'm actually home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472326104793,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472324421149,
+      "content": "Hi! Are you with Patrick?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Lai",
+      "timestamp_ms": 1472322958586,
+      "content": "Say hi to your new Facebook friend, Sabrina.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sabrina Lai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SabrinaLai_9tkVHya0YA"
+}

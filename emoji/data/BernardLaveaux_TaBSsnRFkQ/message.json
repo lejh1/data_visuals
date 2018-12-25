@@ -1,0 +1,2904 @@
+{
+  "participants": [
+    {
+      "name": "Bernard Laveaux"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544043845631,
+      "content": "Hahaha I guess",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544037348165,
+      "content": "Well at least you look hard working!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544037337988,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544035774830,
+      "content": "I\u00e2\u0080\u0099m the only one awkwardly doing work",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544035765535,
+      "content": "There\u00e2\u0080\u0099s a hackathon going on at my work rn but I\u00e2\u0080\u0099m not participating cause i have class later haha rip",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544035742184,
+      "content": "Well best of luck to you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544035329601,
+      "content": "Haha well at least for a little bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544035173479,
+      "content": "You don\u00e2\u0080\u0099t wanna stay at yelp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544035166987,
+      "content": "Hahaha I like the plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544034821341,
+      "content": "I\u00e2\u0080\u0099ll have been at yelp for a year starting January, so when I start in June I will have technically been employed for over a year \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544034783238,
+      "content": "Then maybe interview some places as an industry hire rather than new grad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544034770885,
+      "content": "At this point I think I\u00e2\u0080\u0099m just gonna show up in June and work for a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544034755252,
+      "content": "Haha nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544033984718,
+      "content": "Any other interviews lined up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544033933589,
+      "content": "Haha well we\u00e2\u0080\u0099ll see I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544033869482,
+      "content": "Ahhh damn well I\u00e2\u0080\u0099m sure you did great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544028966026,
+      "content": "You and Bernard waved at each other!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544028964362,
+      "content": "But it's aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544028962379,
+      "content": "Not the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1544028956777,
+      "content": "Eh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544028786163,
+      "content": "How\u00e2\u0080\u0099d your google interview go btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544028776186,
+      "content": "You waved at Bernard!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542646538814,
+      "content": "LOL Thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542646528684,
+      "content": "Bernard sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11891340_1659201717658395_2037114072_n_1659201710991729.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542598563267,
+      "content": "Of course haha I loved your part of the video",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542598426325,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542598424322,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542591965037,
+      "content": "I see you with the feature",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542591960218,
+      "content": "HEEEYYYOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542591956939,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BernardLaveaux_TaBSsnRFkQ/photos/46459366_255489705141693_6556645525876113408_n_255489695141694.jpg",
+          "creation_timestamp": 1542591956
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340442110,
+      "content": "\u00f0\u009f\u00a4\u0099\u00f0\u009f\u00a4\u0099 Radical",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340427261,
+      "content": "Got start sounding like a surfer now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340416737,
+      "content": "Hahaha true well I\u00e2\u0080\u0099m definitely stoked!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340343770,
+      "content": "\u00f0\u009f\u0098\u0082 well there\u00e2\u0080\u0099s at least some luck involved with everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340299995,
+      "content": "Right place right tome haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340295670,
+      "content": "Hahaha nah it was kinda lucky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340291818,
+      "content": "Honestly congrats!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340286976,
+      "content": "Data science position is great man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340277124,
+      "content": "Doin\u00e2\u0080\u0099 work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340270233,
+      "content": "Solid \u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340256291,
+      "content": "This man right here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1542340253382,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340249088,
+      "content": "I see you creeping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542340245751,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BernardLaveaux_TaBSsnRFkQ/photos/46440668_726099107747311_7743110222553546752_n_726099087747313.jpg",
+          "creation_timestamp": 1542340245
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882096562,
+      "content": "Haha ah, makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541882087804,
+      "content": "Yea haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882084189,
+      "content": "You mentioned your friend was going to yelp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882073688,
+      "content": "Haha is he your friend from school?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541882057151,
+      "content": "Yea he is hahaha! Wow small world \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882054869,
+      "content": "Like a big guy in general (not fat or anything)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882031470,
+      "content": "Haha he\u00e2\u0080\u0099s huge!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882028281,
+      "content": "Ohhh yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541882001508,
+      "content": "Ryan Yue? Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541881979332,
+      "content": "Oh dang that\u00e2\u0080\u0099s cool! Did you happen to meet a Ryan Yue?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881955069,
+      "content": "It was a good time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881951381,
+      "content": "Yeah! Finished on Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541881289026,
+      "content": "Oh nice I forgot about that! Did you already have the hackathon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881262958,
+      "content": "Heading back tomorrow though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881256860,
+      "content": "Here for Yelp hackathon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881247261,
+      "content": "Just for now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541881244787,
+      "content": "I am haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880836441,
+      "content": "You\u00e2\u0080\u0099re back in sf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880830373,
+      "content": "Bernard: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880825216,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880736400,
+      "content": "Turns out I'm just sitting down facing the wrong direction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880726662,
+      "content": "I thought I was going back up to SF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880714860,
+      "content": "Oh wait nevermind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880688453,
+      "content": "I'm on the Caltrain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880680441,
+      "content": "Wait wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880677098,
+      "content": "Hahaha you can learn how to surf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880391627,
+      "content": "Huntington Beach",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880386177,
+      "content": "I don\u00e2\u0080\u0099t know how to surf so it\u00e2\u0080\u0099ll be an interesting experience hahah i start Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880297279,
+      "content": "Where's the office?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880292965,
+      "content": "That's literally the most LA thing I've ever heard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880282725,
+      "content": "LOL omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880229115,
+      "content": "They love surfing so much apparently they like to surf on their lunch breaks since we have a beach front office  \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880186090,
+      "content": "So it\u00e2\u0080\u0099s a surfing analytics company called Surfline Wavetrak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880153517,
+      "content": "Thanks! It\u00e2\u0080\u0099s not too impressive haha I think I just worked well with their schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880127670,
+      "content": "Where at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880123040,
+      "content": "CONGRATS!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541880119314,
+      "content": "OHHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541880107376,
+      "content": "Thanks man haha it\u00e2\u0080\u0099s a really struggle since I don\u00e2\u0080\u0099t know what I wanna do as a career. On the bright side a local company just hired me as a part time Data Science Intern so I got something going for me \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541879976352,
+      "content": "You got this man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541879703305,
+      "content": "True \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541879692970,
+      "content": "Yea I am haha just trying to finish school and get a job",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541873766152,
+      "content": "At least long enough for me to get paid and maybe go somewhere else in a couple of years \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541873747872,
+      "content": "Haha yeah, yelp will still be around for a while.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541873722517,
+      "content": "You back in LA right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541872344511,
+      "content": "Oh nice! That\u00e2\u0080\u0099s exciting, I hope it goes well!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541872333563,
+      "content": "Dang haha well I don\u00e2\u0080\u0099t see yelp disappearing anytime soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541865993576,
+      "content": "Oh, and my Google interview is November 29th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541865965787,
+      "content": "It's a bit of a shame because I think Yelp's engineering is great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541865923631,
+      "content": "I think the bulk of the issue is Yelp's focus on revenue from ads, so they have a lot of sales people who contact businesses non-stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541865848851,
+      "content": "I'm not a big fan of Yelp's business practices, but it does always seem overblown",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541865817417,
+      "content": "Yeah it's pretty rough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1541864815166,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541849034127,
+      "content": "How\u00e2\u0080\u0099d your google interviews go btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541849019129,
+      "content": "Yikes \u00f0\u009f\u0098\u00af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541849005456,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://www.reddit.com/r/news/comments/9vl50l/yelp_craters_30_as_advertisers_abandon_the_site/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539649128300,
+      "content": "Maybe I shall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539649125278,
+      "content": "Ohh buddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539645892477,
+      "content": "Oh nice! Maybe you\u00e2\u0080\u0099ll see my friend there haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643938784,
+      "content": "Yelp hackathon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643925287,
+      "content": "Yeah buddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643630966,
+      "content": "yelp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643629151,
+      "content": "why you going to sf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643623446,
+      "content": "oh yea damn im back in la",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643359109,
+      "content": "You\u00e2\u0080\u0099re back in LA right? Heading to SF nov 4th - 11th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643331485,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643328286,
+      "content": "Pz*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643324907,
+      "content": "ez plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643321451,
+      "content": "OH yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643318812,
+      "content": "its quite easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643316924,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643312093,
+      "content": "63360 inches in a mile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643302942,
+      "content": "5280 feet in a mile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539643289557,
+      "content": "hahaha nah its not that hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643060917,
+      "content": "Oh god, that just sounds brutal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643054932,
+      "content": "I can\u00e2\u0080\u0099t even imagine doing any measurement precise tasks in imperial measurements",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643034833,
+      "content": "Sounds about right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1539643031244,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539642193162,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BernardLaveaux_TaBSsnRFkQ/photos/44106558_605231223225766_4059340794526433280_n_605231216559100.jpg",
+          "creation_timestamp": 1539642192
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538797389392,
+      "content": "Ohhh my I spent so much on the keys ahaha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796495601,
+      "content": "I think you could find one for $60 - $80 USD though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796474868,
+      "content": "Well I mean, I don\u00e2\u0080\u0099t think you\u00e2\u0080\u0099re gonna find a mechanical keyboard for that cheap anywhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796438585,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538796320087,
+      "content": "Oh man congrats! How do you like it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538796312990,
+      "content": "Like $25 or something haha the keys were $40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796188152,
+      "content": "Oh boy this thing is expensive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796181110,
+      "content": "Also I finally got an iPhone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538796171115,
+      "content": "Haha well what\u00e2\u0080\u0099s \u00e2\u0080\u009ccheap\u00e2\u0080\u009d in your eyes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538796007589,
+      "content": "Oh my lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538796002880,
+      "content": "I need a cheap one \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538795998805,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538795997528,
+      "content": "I\u00e2\u0080\u0099d check out mass drop if you\u00e2\u0080\u0099re cool waiting another 4 months haha. Alternatively you can check out the mechanical keyboard subreddit hah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538795552937,
+      "content": "Hahaha well luckily there\u00e2\u0080\u0099s a huge market for mechanical keyboards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538795494121,
+      "content": "Yea haha any advice on how to get a keyboard haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538793511700,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538793508160,
+      "content": "That\u00e2\u0080\u0099s actually hilarious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538793492410,
+      "content": "Haha haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538793491037,
+      "content": "Oh nooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538793479293,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538793477589,
+      "content": "But little did I know that it wasn\u00e2\u0080\u0099t a keyboard but just the keys itself \u00f0\u009f\u0098\u0082 so now I only keys and no key board haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538793451152,
+      "content": "So I saw something like it on massdrop and ordered it in July and just got it today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538793433220,
+      "content": "So you know your keyboard with the blank keys?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538614308252,
+      "content": "Haha it really is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538613893678,
+      "content": "Hahaha dang good stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538613434510,
+      "content": "But half my searches I just forward through to google",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538613419286,
+      "content": "I still use it on my personal laptop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538613411773,
+      "content": "Savage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538613410336,
+      "content": "Oof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538612502814,
+      "content": "I actually stopped using duck duck go a couple days ago, their search results arent that good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538612462851,
+      "content": "Haha no idea. Never heard of that until today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538612228465,
+      "content": "is it ducked or duck duck goed haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538611901160,
+      "content": "I ducked it earlier today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538611893946,
+      "content": "Is that a verb now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538611867548,
+      "content": "I Duck Duck Goed it before and it didnt make sense haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538611819999,
+      "content": "But it's the same work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538611817193,
+      "content": "In Canada they use software developer more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538611805067,
+      "content": "Haha neither do I honestly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538610911146,
+      "content": "I\u00e2\u0080\u0099m not even quite sure the difference between a software engineer and a software developer haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538610887578,
+      "content": "Yea it\u00e2\u0080\u0099ll be interesting for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610853562,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610852124,
+      "content": "Part time is nice then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610847151,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538610797294,
+      "content": "Haha I think it\u00e2\u0080\u0099s more of a developer position so that\u00e2\u0080\u0099s why the pay is low plus it\u00e2\u0080\u0099s for a part time during the school year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610748615,
+      "content": "But yeah, there's no harm in not taking it! When would it be?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610728464,
+      "content": "The salary I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610720943,
+      "content": "Oh wow, haha for a software engineering job? Interesting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538610704264,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538593855227,
+      "content": "And yea it sounds like a nice culture lol very independent work tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538593840967,
+      "content": "Haha pay is okay ($17), but it\u00e2\u0080\u0099s local so it\u00e2\u0080\u0099s nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538593714117,
+      "content": "I'm hoping it would be an environment where you could really learn in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538593695432,
+      "content": "Hahaha fair enough. Do you know how the pay is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538593596621,
+      "content": "I know right hahahaha but their HQ is in Irvine so it works out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538593568445,
+      "content": "But sounds like great experience!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538593563187,
+      "content": "That's not what I expected",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538593558041,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538593510994,
+      "content": "Oooo hmm maybe! I just got an interview with Taco Bell for a software engineering internship lol so we will see how that goes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538591200985,
+      "content": "Smart small. Take a Udemy course on web dev or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538591189736,
+      "content": "You should! I think you can do it for sure if you put your mind to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538591068312,
+      "content": "haha i should beleive in myself more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538590270095,
+      "content": "You could build this now if you're interested though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538590257541,
+      "content": "Come now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538590255796,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538587128741,
+      "content": "hahaha i dont think i have the skills to get in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538587115815,
+      "content": "If you do let me know and I can also refer you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538587109159,
+      "content": "Are you planning on applying?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538587098941,
+      "content": "YESSSS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1538587096912,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538587084428,
+      "content": "Oooooh boy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538587075444,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BernardLaveaux_TaBSsnRFkQ/photos/43085189_288882121720668_2570055215281602560_n_288882115054002.jpg",
+          "creation_timestamp": 1538587074
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306761940,
+      "content": "10min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306759631,
+      "content": "Or as your Canadians say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306742889,
+      "content": "Be there soon 10min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535306720973,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306703243,
+      "content": "are you at the restaurant?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306685630,
+      "content": "Why you sorry haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535306513930,
+      "content": "Oh Manz sorry about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535306360710,
+      "content": "Just got off the train. Gonna grab an Uber pool and be on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535305970437,
+      "content": "And my roommate I guess",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535305905277,
+      "content": "So is it just you, me and saif haha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535302349879,
+      "content": "That was a close one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535302342993,
+      "content": "Congrats!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535302338361,
+      "content": "Oh man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535302326067,
+      "content": "On the train tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535302323098,
+      "content": "WOW I misread the Caltrain schedule and almost missed the train haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535300931010,
+      "content": "Ahh no don\u00e2\u0080\u0099t feel bad haha this will be fun!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535300929025,
+      "content": "If you want to take a nap in SF let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535300919804,
+      "content": "I\u00e2\u0080\u0099m 100% sure because she told me she wasn\u00e2\u0080\u0099t going too",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535300915474,
+      "content": "I feel so bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535300909133,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535300905172,
+      "content": "Haha I\u00e2\u0080\u0099m incredibly tired",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535300899614,
+      "content": "I'm like 99% Serena isn't gonna make it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535300879152,
+      "content": "You're a swell fella Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535300798819,
+      "content": "Didn\u00e2\u0080\u0099t think I would make it but somehow I am on an Uber to the station rn!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535236686569,
+      "content": "Near the dropoff area",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535236682709,
+      "content": "Just got off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535236650406,
+      "content": "O Brother",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535236625846,
+      "content": "Where art thou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535236622215,
+      "content": "We are here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535236465732,
+      "content": "Bernard: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535236123646,
+      "content": "Oh the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535231053814,
+      "content": "Is when I'll arrive to Sunnyvale",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535231046592,
+      "content": "3:34pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535230954392,
+      "content": "Hokay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535230898459,
+      "content": "Uh Sunnyvale I believe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535230841214,
+      "content": "What station is closest to you guys?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535230836085,
+      "content": "I'm on the Caltrain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229459294,
+      "content": "What an interesting day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229452800,
+      "content": "Haha alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535229447363,
+      "content": "I'll let you know if I make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535229441584,
+      "content": "#close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535229439569,
+      "content": "But it's gonna be close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535229436115,
+      "content": "I'm gonna try and catch the one that leaves at 2pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229357417,
+      "content": "Just let me know when you\u00e2\u0080\u0099re gonna come and I can pick you up from the station. Not sure what we are even doing today lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229230437,
+      "content": "Imma get lunch with John rn then",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535229180090,
+      "content": "Hahaha alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535229159997,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535228451988,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535228443857,
+      "content": "Wait so are you still coming down haha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535224243007,
+      "content": "True",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535224234965,
+      "content": "We can do something else haha you just gotta suggest it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535224216637,
+      "content": "I'm down to just hang out though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535224206795,
+      "content": "I didn't really wanna do a pool party",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535224197163,
+      "content": "Haha I guess he says",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535224121578,
+      "content": "I guess lol are you going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1535224097898,
+      "content": "Yo Justin, you going to John's place today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989892702,
+      "content": "Behind you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989880577,
+      "content": "Where is that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989874311,
+      "content": "I saw it go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989865682,
+      "content": "By the roundabout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989865655,
+      "content": "And there it goee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989859175,
+      "content": "There if you're at the right station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989853433,
+      "content": "The train should still be thee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989838552,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989838409,
+      "content": "But where tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989832382,
+      "content": "I\u00e2\u0080\u0099m at the station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534989810605,
+      "content": "Just got off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989805263,
+      "content": "You on the train stilll?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534982555885,
+      "content": "I know right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982101611,
+      "content": "Very rare",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982099321,
+      "content": "WOW Bernard coming to South Bay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534982073120,
+      "content": "Might get home a little late, but it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534982066512,
+      "content": "Sure, that works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534981760321,
+      "content": "That still works haha so you gonna do it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534981706830,
+      "content": "7:02 is when I could get there if I leave at 6:15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534981689591,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534981053070,
+      "content": "I can pick you up from the station if needed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534981036604,
+      "content": "Up to you haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534980948907,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534979896321,
+      "content": "Mountain View I believe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534979745445,
+      "content": "I could check when the closest bullet to that time would get me there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534979730999,
+      "content": "Where at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534979728811,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534976902747,
+      "content": "We are thinking maybe 7? Or is that too late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534969607267,
+      "content": "Hahaha very true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534969544198,
+      "content": "(haha just kidding! Of course)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534969537334,
+      "content": "This ain't SSL, I gotta work you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534969525512,
+      "content": "Like right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534969523005,
+      "content": "Haha wait, when?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534969497807,
+      "content": "There\u00e2\u0080\u0099s bullet trains here lol just saying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534969487161,
+      "content": "I\u00e2\u0080\u0099ll ask haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534968374830,
+      "content": "And where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534968371694,
+      "content": "What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534968368826,
+      "content": "Ohh man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534960462035,
+      "content": "Tonight yea haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534960451106,
+      "content": "Today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534960442411,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534959810654,
+      "content": "You should come to the South Bay and get dinner with Stefan and I today lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534036052448,
+      "content": "Bernard missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534035962025,
+      "content": "Help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534035883037,
+      "content": "We outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534035047072,
+      "content": "Let me know when you're here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534035040079,
+      "content": "Nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034961246,
+      "content": "CoMig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034957804,
+      "content": "We just got here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034945486,
+      "content": "It should be pretty close to the train station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034936670,
+      "content": "I'm here right now with my friend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034924410,
+      "content": "GitHub\n88 Colin P Kelly Jr St, San Francisco, CA 94107\n(877) 448-4820\n\nhttps://goo.gl/maps/ApouQ8fnNA72",
+      "share": {
+        "link": "https://www.google.com/maps?cid=5268335215565582133&hl=fr&gl=ca&shorturl=1"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034898797,
+      "content": "Yeah!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034891632,
+      "content": "Like check out the office?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034869250,
+      "content": "Oh wanna come to GitHub?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034807386,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034205213,
+      "content": "Gonna arrive at 6pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034192392,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034187981,
+      "content": "You're on Caltrain right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534034187492,
+      "content": "Alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034183121,
+      "content": "Of the Caltrain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034180542,
+      "content": "The last stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534034178506,
+      "content": "Haha yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534033836994,
+      "content": "That\u00e2\u0080\u0099s finance district right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534033669410,
+      "content": "Idk what that means lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534033470670,
+      "content": "Downtown SF I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534033460591,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534033003978,
+      "content": "What stop should we get off of",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534025909662,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534025908140,
+      "content": "Hnm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534025905861,
+      "content": "Oh man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534024019190,
+      "content": "Oh dang I won\u00e2\u0080\u0099t make it to that lol ends at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534023983208,
+      "content": "I'm heading to this https://sf.funcheap.com/sfs-transit-center-block-party/",
+      "share": {
+        "link": "https://sf.funcheap.com/sfs-transit-center-block-party/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534023625295,
+      "content": "What are you guys up to rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533882352937,
+      "content": "Bernard: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533882282930,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533882057381,
+      "content": "I think it's created",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881941478,
+      "content": "Justinhle4@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881934777,
+      "content": "Ah I can do that too",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881928134,
+      "content": "That'll be better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881923615,
+      "content": "I can do Google photos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881918625,
+      "content": "I'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881916032,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881761769,
+      "content": "Haha*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881758751,
+      "content": "Just send it thru Facebook Gaga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881746730,
+      "content": "This is kinda getting extreme huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881636101,
+      "content": "Unless you know another solution",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881627093,
+      "content": "I'll email you actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881622779,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881087664,
+      "content": "Jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881086056,
+      "content": "Cause I exclusively use bing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533881068131,
+      "content": "As in a gmail account? Or access to google",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881052622,
+      "content": "Do you have Google?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533881042582,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533880698312,
+      "content": "I mean up to you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533880690740,
+      "content": "I don't know if text is the approach",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533880677097,
+      "content": "Haha I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533880671130,
+      "content": "Nah I need that high quality stuff haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533880656078,
+      "content": "I can send them here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533880655727,
+      "content": "Ya dude fb lowers the quality lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533880638632,
+      "content": "Haha is that a phone number?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533878080385,
+      "content": "Hey man can you send me the pics haha 19093621177",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533860737971,
+      "content": "I need to use the washroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533860707320,
+      "content": "Yea sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533860699519,
+      "content": "Wanna come up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533860694751,
+      "content": "Omw down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533860598986,
+      "content": "I\u00e2\u0080\u0099m outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533860364703,
+      "content": "5min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533859477994,
+      "content": "A mile lol imma just walk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859465825,
+      "content": "Oh how far away is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533859242566,
+      "content": "Hm I\u00e2\u0080\u0099m debating if I wanna walk haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533859205634,
+      "content": "Yea I\u00e2\u0080\u0099m down!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859180547,
+      "content": "If that's cool with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859176886,
+      "content": "Well*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859174612,
+      "content": "There's a bunch of good food places close by so we can grab something to eat nearby as wekkt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859159573,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533859024545,
+      "content": "Yea sure are you at work rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859007531,
+      "content": "Want to meet up at Yelp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533859001392,
+      "content": "How about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533858943342,
+      "content": "Hahaha it\u00e2\u0080\u0099s all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533858745307,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533858742846,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533858741070,
+      "content": "Oh shoot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533858475095,
+      "content": "Where should I go after I get to the station lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533858023994,
+      "content": "Oh aight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533857465366,
+      "content": "On the train rn btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533847521157,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533846626260,
+      "content": "If you're taking the Caltrain I think you should get off at the last stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533842244799,
+      "content": "What stop should I get off and also where should I meet you guys?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533789916245,
+      "content": "yea i might just come at 5 haha its more convenient for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533788675108,
+      "content": "Whichever time you're free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533788629155,
+      "content": "Haha I mean I'm good for whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533787879124,
+      "content": "yea, i can come earlier too lol i think i can make it by 5 if yall wanna grab some grub before we go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784987021,
+      "content": "I'm guessing before is best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784981881,
+      "content": "Whenever works for everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784977604,
+      "content": "We can do this as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784972914,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533784788708,
+      "content": "Just wondering, are we planning to get some food before or nah haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533784359753,
+      "content": "hha i dont think its day off",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784350299,
+      "content": "Nevermind. I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784345592,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784343699,
+      "content": "Or no wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784324906,
+      "content": "But I think it's only day of?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784319178,
+      "content": "Yeah I'd do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784311486,
+      "content": "Haha it is!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533784308529,
+      "content": "Oh yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533783878247,
+      "content": "shoukd i buy a tix online lmao its 10% cheaper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533782164033,
+      "content": "yea ill still go lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533781879332,
+      "content": "So if you still want to go let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533781871485,
+      "content": "It's almost a sure thing. If anything I'd still go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533781856448,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533781090728,
+      "content": "okay well keep me updated haha i gotta plan my day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533780761884,
+      "content": "Indeed :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533780051557,
+      "content": "Sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533779912674,
+      "content": "Hmm, he hasn't responded yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533779867800,
+      "content": "Any updates ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533746353851,
+      "content": "Ohh yeah, it should be. Let me ask Ben",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533746173071,
+      "content": "So is tmr still happening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533529893188,
+      "content": "\u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533529455520,
+      "content": "Oh no reason lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533523466904,
+      "content": "Why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1533523463617,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533522912822,
+      "content": "Does John have his phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531204432009,
+      "content": "Just kidding",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531204425178,
+      "content": "Haha it really is isn't it",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531203877503,
+      "content": "damn your keyboard is so cool tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531203821616,
+      "content": "Haha well it seems to be working so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531203735419,
+      "content": "thats how i get through life haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531203717441,
+      "content": "Well that's one way of doing it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531203680710,
+      "content": "yea haha i have a bad habit of looking at my keyboard when i tyoe so i was thinking about brute forcing my learning lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531203617887,
+      "content": "There's a lot of sites out there that sell those style of keyboards though. Honestly Amazon works pretty well if you know which keyboard you're looking for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531203589598,
+      "content": "I bought it from a site called massdrop, but I wouldn't recommend it unless you're cool with waiting like 3 months",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1531203546297,
+      "content": "Haha, have I piqued your interest?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1531203217240,
+      "content": "Hey man, where\u00e2\u0080\u0099d you buy your keyboard from?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857602345,
+      "content": "Alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529857560145,
+      "content": "It's on the way to market for me anyhow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857076042,
+      "content": "Idk whatever is easiest haha I don\u00e2\u0080\u0099t know the area so idk where to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529856998557,
+      "content": "I haven't heard from my buddy yet today, but he'll probably be good for that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529856968115,
+      "content": "Hmm, sure we can do that if that works for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852715144,
+      "content": "Will we meet you guys at the station?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529852673618,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529849184051,
+      "content": "That\u00e2\u0080\u0099s what Serena wants to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529849175408,
+      "content": "Then we can uber or walk to the civic center actually and we shouldn\u00e2\u0080\u0099t miss too much since that\u00e2\u0080\u0099s where it ends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529848988588,
+      "content": "Actually there\u00e2\u0080\u0099s one that\u00e2\u0080\u0099ll arrive at 10:57 bug we will miss a bit of the parade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529824196170,
+      "content": "Yeah, express should be a bit faster, but that might not be convenient since it's so early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529813649723,
+      "content": "Yea the one at 9:48 is express. Both the 9:48 and 10:22 I would leave the San Jose station around 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529813610717,
+      "content": "Express as in it skips over stations?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529812988780,
+      "content": "Are any of those express?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529812980503,
+      "content": "How about 10:22?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529812969122,
+      "content": "Hmm, I get later is better for everyone else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529808926114,
+      "content": "how early are you wiling to meet lol. looks like I can get to the last train stop by either 9:17am, 9:48am or 10:22am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773476434,
+      "content": "Haha sounds good! I'm down to chill regardless",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529773277181,
+      "content": "Yea that\u00e2\u0080\u0099ll be cool! Im down to go still if no one else goes haha so if still wanna hangout in sf I\u00e2\u0080\u0099m down. I feel like this would be my only chance to see gay pride in sf conveniently lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773199859,
+      "content": "Haha fair enough. I could see if my friends in sf are down to join",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529773147387,
+      "content": "Yea true. And I know Serena and maybe shivani lives in San Jose. I already messaged Serena but she said she wants other people to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529772589329,
+      "content": "Do you know if anyone lives close by to you? Would you be willing to car pool to the Caltrain if that's convenient for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529772543175,
+      "content": "I think the best we can do is get a confirm/deny from as many people so we're at least on the same page on when/where to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529772491367,
+      "content": "Haha yeah unfortunately. Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529772484476,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529772465717,
+      "content": "No one is responding haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529772459030,
+      "content": "You waved at Bernard!",
+      "type": "Share"
+    }
+  ],
+  "title": "Bernard Laveaux",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BernardLaveaux_TaBSsnRFkQ"
+}

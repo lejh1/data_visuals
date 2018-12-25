@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Emily Mo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emily Mo",
+      "timestamp_ms": 1496387954749,
+      "content": "okay i'll be at the tents then too! thanks for telling me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496383426103,
+      "content": "Uh I'll be at the tents hopefully Tuesday after 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496383404757,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Mo",
+      "timestamp_ms": 1496381743723,
+      "content": "Thank you and I hope you have a great rest of your day!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Mo",
+      "timestamp_ms": 1496381727489,
+      "content": "next week ill be free on\nmonday 12:05-3:20 pm\ntuesday 1:30-4:50 pm\nwednesday anytime before 3:20 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Mo",
+      "timestamp_ms": 1496381727020,
+      "content": "but my availability is friday anytime before 1 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Mo",
+      "timestamp_ms": 1496381722798,
+      "content": "Hi Justin! I am one of the pledges from Alpha Theta pledge class and I was wondering if you would be free for an interview anytime soon? I know you'll be gateway until 2 am but I didn't see that message until now and the buses will stop running soon :(",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emily Mo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EmilyMo_x0KqrbNGCg"
+}

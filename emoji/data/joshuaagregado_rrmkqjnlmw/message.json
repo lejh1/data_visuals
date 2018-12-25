@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Joshua Agregado"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joshua Agregado",
+      "timestamp_ms": 1507148295699,
+      "content": "Smh tell him to open his eyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507148195210,
+      "content": "Kenny just called me josh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507148191179,
+      "content": "Bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506564592994,
+      "content": "Yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joshua Agregado",
+      "timestamp_ms": 1506563747710,
+      "content": "You sold your bed already didn\u00e2\u0080\u0099t you \u00f0\u009f\u0098\u0092",
+      "type": "Generic"
+    }
+  ],
+  "title": "Joshua Agregado",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JoshuaAgregado_RRMkQjnLMw"
+}

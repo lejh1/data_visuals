@@ -1,0 +1,448 @@
+{
+  "participants": [
+    {
+      "name": "Ellie Baez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1484006325991,
+      "content": "Thank you \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484006195355,
+      "content": "Hi happy birthday \u00f0\u009f\u0098\u008a!!!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476315810850,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476315117059,
+      "content": "Welllll let me know what you think!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476314972271,
+      "content": "Idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476314940816,
+      "content": "my knowledge only contains utc and DJ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476314926839,
+      "content": "okay like where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476314903851,
+      "content": "We were thinking somewhere new",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476313389897,
+      "content": "Um utc somewhere around there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476313376334,
+      "content": "Yeah where tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476313223873,
+      "content": "We are still getting lunch riiight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476313217621,
+      "content": "Lol I will!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312609239,
+      "content": "you have saturday to make it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312594182,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312579429,
+      "content": "I just did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312557560,
+      "content": "omg you can not just - me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312544876,
+      "content": "N^3-J",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312535129,
+      "content": "besides im not being me mean...Im just being me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312529410,
+      "content": "N^3 <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312523655,
+      "content": "i kid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312515700,
+      "content": "im hurt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312511759,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312501683,
+      "content": "WOWOWOWOWOWOW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312482060,
+      "content": "jk im still excited",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312465296,
+      "content": "it is just another shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312463257,
+      "content": "i am working that shift lol but youre being mean and i no longer look forward to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312380779,
+      "content": "are you not working that shift anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312372828,
+      "content": "you said was looking forward..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312345903,
+      "content": "what do you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312338516,
+      "content": "are you not working anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312327045,
+      "content": "Ellie sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EllieBaez_7BG4a7Q2wg/photos/13705252_10157109397140484_910864120_n_1394798850531889.gif",
+          "creation_timestamp": 1476312326
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312307520,
+      "content": "I WAS LOOKING FORWARD TO WORKING WITH YOU SATURDAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312282944,
+      "content": "only by you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312273673,
+      "content": "and thats why you get questioned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312253518,
+      "content": "jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312249863,
+      "content": "im from nor cal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312237860,
+      "content": "Cause you say hella",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312232362,
+      "content": "hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312225077,
+      "content": "heellllaaa questioning me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312196343,
+      "content": "doing what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312187598,
+      "content": "why do you do this to me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312158141,
+      "content": "\"nyquil\" thats for the night you can work in the morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312152972,
+      "content": "ahh you never know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312135203,
+      "content": "idk maybe youre such a goof liar I've never realized",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312124106,
+      "content": "\"nyquil\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312120494,
+      "content": "ill send you my reciept from albertsons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312112954,
+      "content": "mmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312106126,
+      "content": "do i ever lie to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312101266,
+      "content": "ama need some documentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312095013,
+      "content": "idk if i believe you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312090997,
+      "content": "WOW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312088031,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312085951,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312085002,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312079978,
+      "content": "i am feeling sick lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312067998,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312062049,
+      "content": "you just call the office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312048873,
+      "content": "kk yay yeah don't do it unless you really have to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312048090,
+      "content": "i actually dont know how to call out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312031397,
+      "content": "but okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476312028407,
+      "content": "I havent called out my whole time working lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476312002736,
+      "content": "just make sure you don't call out 3 times in a quarter if not you'll get suspended",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311983725,
+      "content": "lol DO I THO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476311955002,
+      "content": "but you know I love you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311917180,
+      "content": "youre so mean to me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311889224,
+      "content": "imma call out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311884103,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476311881943,
+      "content": "sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311869126,
+      "content": "i hate lot u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ellie Baez",
+      "timestamp_ms": 1476311845341,
+      "content": "I have class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476311822665,
+      "content": "take my shift \\pls",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ellie Baez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EllieBaez_7BG4a7Q2wg"
+}

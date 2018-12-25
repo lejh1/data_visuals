@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "William Lin"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507956341587,
+      "content": "Say hi to your new Facebook friend, William.",
+      "type": "Generic"
+    }
+  ],
+  "title": "William Lin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/WilliamLin_OFX3lnrrBQ"
+}

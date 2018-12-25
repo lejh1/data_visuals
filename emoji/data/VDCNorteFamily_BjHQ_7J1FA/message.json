@@ -1,0 +1,325 @@
+{
+  "participants": [
+    {
+      "name": "Brian Ligh"
+    },
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1503792463597,
+      "content": "7-8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1503792438595,
+      "content": "What time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1503792417170,
+      "content": "Yo if anyone is going to be at the apt tonight. I'm coming with family to move the rest of my stuff out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478196810080,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1478191218657,
+      "content": "it's all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1478191201061,
+      "content": "I'm sorry for the kitchen mess guys. I'll clean the apartment as soon as I get back from class. Which should be around 4pm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477596725148,
+      "content": "No sorry :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1477595482255,
+      "content": "It's okay biebs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1477595447303,
+      "content": "I have mine with me \ni'm sorry :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1477595324126,
+      "content": "Does anyone have an iPhone charger in the apartment that I can use???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1476491367622,
+      "content": "Thanks man \u00f3\u00be\u00ac\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1476491347509,
+      "content": "Ya I'll get to that tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1476488423162,
+      "content": "Hey Brian the freezer is really full, do you mind clearing some of the old stuff out? Thanks man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1475513799083,
+      "content": "Hey Brian, I don't want to nag or anything, but do you think you can clean and put away your dishes sometime today? Thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475301213671,
+      "content": "Booooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1475301205714,
+      "content": "I gotta do DSP stuff with Zach and Cory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475301169270,
+      "content": "We should get some dinner as a fam together tomorrow? Maybe some damu??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1475125590793,
+      "content": "Ok lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475125573062,
+      "content": "Okay just remember no girls allowed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1475125555360,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1475125544257,
+      "content": "Can you guys leave the door unlocked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1474839412596,
+      "content": "Thanks man I might be able to join but I might have plans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1474835217232,
+      "content": "Hey Brian, there's gonna be a few guests over for dinner. You're welcome to join us.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1474325713167,
+      "content": "no problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1474325309699,
+      "content": "Honestly, I don't think I can contribute. I don't see the need to do so if one of you guys are going to keep it. Don't mean to be difficult but I'm not comfortable with pitching in to a non-consumable purchase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1474324701113,
+      "content": "Hey Brian, we're looking at tvs,\nhow much would you be willing to split one at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474230460499,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1474230154707,
+      "content": "I'll be coming in later tonight. Probs after dinner time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474230116689,
+      "content": "Hey Brian! Just wondering, what time will you be moving in today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473801177904,
+      "content": "Shower curtain, i have some pots and pans. Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473801088414,
+      "content": "Brian what can you bring to the apartment??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473795675692,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473795660715,
+      "content": "We were thinking of waiting till Black Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473795652562,
+      "content": "We don't know yet. We were waiting for you to go out and look for tv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473795594569,
+      "content": "What kind of tv cause I'm not sure if I can afford a cost like that right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473795124239,
+      "content": "Okay nice. The three of us are moving in on Saturday. So for the TV we thought about splitting 4 way and whoever wants to keep it is gonna pay us back the money at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473794965250,
+      "content": "I'll be back on Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473723680359,
+      "content": "Hey Brian when are you coming back to UCI?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1473225595265,
+      "content": "Well thanks Colin! Lemme know if you want me help pay for some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473225580287,
+      "content": "Maybe I'll switch from energy drinks and soda to coffee lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473225564737,
+      "content": "Someone asked for a coffee machine.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473225557966,
+      "content": "Oh wow thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1473225552967,
+      "content": "I thought you don't drink coffe lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473225478668,
+      "content": "Okay so I just bought these.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473225471041,
+      "content": "Colin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/VDCNorteFamily_BjHQ_7J1FA/photos/14273380_282503562129677_793993014_o_282503562129677.jpg",
+          "creation_timestamp": 1473225470
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473192694394,
+      "content": "Okay sounds good! \u00f3\u00be\u00ae\u0097\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473192653541,
+      "content": "I don't drink coffee. Needless to say, there isn't one at the apt rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473192617430,
+      "content": "Colin named the group VDC Norte Family.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1473192581246,
+      "content": "Do we need a coffee maker at the apartment?",
+      "type": "Generic"
+    }
+  ],
+  "title": "VDC Norte Family",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/VDCNorteFamily_BjHQ_7J1FA"
+}

@@ -1,0 +1,139 @@
+{
+  "participants": [
+    {
+      "name": "Lindsay Barnhart"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491923268838,
+      "content": "Nopeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491923213285,
+      "content": "I thought the girl at the end of your row was her lol. To your right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491923190959,
+      "content": "Ooooh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491923094195,
+      "content": "Yeah she's sick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491923073251,
+      "content": "Did crystal ditch you today \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857173643,
+      "content": "Oh I'm so dumb rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491857135470,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857001899,
+      "content": "Doing *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491856999083,
+      "content": "Is what he is going right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491856981287,
+      "content": "Help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491856979327,
+      "content": "I don't get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491856153696,
+      "content": "I already finished the problem. You pay attention",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491856080299,
+      "content": "Pay attention to class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491855875859,
+      "content": "WHERE ARE YOU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491855869529,
+      "content": "You look lost af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491855852911,
+      "content": "Nvm this isn't hw lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1491855843332,
+      "content": "What homework?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491855748527,
+      "content": "Is this hw due?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491855743390,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13065868_1578105085814266_430652892_n_1578105075814267.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lindsay Barnhart",
+      "timestamp_ms": 1489678961165,
+      "content": "Say hi to your new Facebook friend, Lindsay.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lindsay Barnhart",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LindsayBarnhart_t8-HehdaMw"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526592734795,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526592721644,
+      "content": "\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1481222896278,
+      "content": "Accident. Too excited about dogs and holidays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481222869282,
+      "content": "Why did you make a new chat LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1481188641494,
+      "content": "kinda seems like you want a dog AHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1481184007095,
+      "content": "Jenn sent a link.",
+      "share": {
+        "link": "https://www.buzzfeed.com/greenies/14-reasons-having-a-dog-during-the-holidays-is-the-best"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Jenn and Kristin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennandKristin_CryMOlv1hw"
+}

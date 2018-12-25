@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Engineer Memes"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Engineer Memes",
+      "timestamp_ms": 1476665067659,
+      "content": "Hey!\n\nI see that you and your friends may be interested in our engineering ugly christmas sweater, so we're offering a group discount for you! To get the discount go to this link https://teespring.com/engineeringchristmas?pr=discount :) cheers!",
+      "share": {
+        "link": "https://www.facebook.com/EngineeringWTFAQ/photos/a.353353814719631/1127714820616856/?type=3&comment_id=1146543195400685"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Engineer Memes",
+      "timestamp_ms": 1476665067023,
+      "type": "Generic"
+    }
+  ],
+  "title": "Engineer Memes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EngineerMemes__9ySd1FB9A"
+}

@@ -1,0 +1,177 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Echeverria"
+    },
+    {
+      "name": "Hector Vega"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Agnes Tang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479915389975,
+      "content": "Parking at ssps rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479915379244,
+      "content": "3 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479915264242,
+      "content": "eta?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479845467549,
+      "content": "Wowww niceeeee (y)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479845456969,
+      "content": "yeah , hes covering fr micheal and has a 7 seater",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479845453639,
+      "content": "Wait all of us?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479845445643,
+      "content": "Does David have enough spots tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479845437307,
+      "content": "David?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479845414364,
+      "content": "Cool so we can all ride with david, make sure to meet at jack in the box at 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479845389257,
+      "content": "Cos I'm driving up north tmrw night I don't wanna drive but I would drive if I had to:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nelson Echeverria",
+      "timestamp_ms": 1479845013918,
+      "content": "I don't have a license so if anyone is willing to drive my car I don't mind \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nelson Echeverria",
+      "timestamp_ms": 1479844959720,
+      "content": "I need a ride too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479844936782,
+      "content": "I'm going to wait on david and nelson to see how many cars we have and then i'll assign people to cars",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1479844690456,
+      "content": "Michael Monh left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michael Monh"
+        }
+      ]
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479844679960,
+      "content": "If anything id be me and david driving then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479844671840,
+      "content": "Can I call not middle seat first LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1479844607107,
+      "content": "Take me please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479844603852,
+      "content": "I need a ride",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479844594716,
+      "content": "I can take 4 people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1479844584366,
+      "content": "Michael Monh added a participant.",
+      "type": "Subscribe"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1479844571540,
+      "content": "David covering me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479844568501,
+      "content": "I needa ride too plz!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479844560283,
+      "content": "I need ride fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1479844528614,
+      "content": "Hey guys so im sending this message to figure out rides for tomorrow",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nelson, Hector, Amberly and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/NelsonHectorAmberlyand3others_ZM6_OSr11g"
+}

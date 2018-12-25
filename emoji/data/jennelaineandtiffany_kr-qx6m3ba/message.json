@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Chore"
+    },
+    {
+      "name": "Elaine Chen"
+    },
+    {
+      "name": "Tiffany Sekacnap Yrettub Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1481923244988,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1481911098776,
+      "content": "O awks I didn't know this was gonna make a group chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481903771411,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1481881377181,
+      "content": "LOL what boyfriend?",
+      "share": {
+        "link": "http://en.chocolatests.com/newyear/Jennifer/10211544347553765/f/1/f7/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Jenn, Elaine and Tiffany",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennElaineandTiffany_kR-qx6m3BA"
+}

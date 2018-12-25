@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Michaelangelo Lam"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506364509282,
+      "content": "yay cool thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michaelangelo Lam",
+      "timestamp_ms": 1506364477849,
+      "content": "Hey man of course! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506364417447,
+      "content": "i cant go anymore can you cover?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506364407290,
+      "content": "hi i see youre on the waitlist for a flyering shift tmr 11-12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493614620393,
+      "content": "Sounds good see you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493614612476,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michaelangelo Lam",
+      "timestamp_ms": 1493613741464,
+      "content": "Hi Justin, I signed up for your interview slot at 2pm for this Friday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michaelangelo Lam",
+      "timestamp_ms": 1492747027466,
+      "content": "Oh I see ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492746109066,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492746107338,
+      "content": "Message your pmoms or the SVPs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492746099018,
+      "content": "Hellloooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492746095484,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michaelangelo Lam",
+      "timestamp_ms": 1492742930233,
+      "content": "Hi Justin, I wanted to sign up for the nysd event by there's a lock on it, is there anyway I can possibly still participate?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michaelangelo Lam",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelangeloLam_pAFNr-k5eQ"
+}

@@ -1,0 +1,1030 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Troy De Guzman"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519627518331,
+      "content": "Alright thanks \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519627330530,
+      "content": "That will simplify the expression",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519627322063,
+      "content": "type in Limit[.....]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519627295822,
+      "content": "oh and also for Avo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519627264373,
+      "content": "Oh shit ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519626888455,
+      "content": "I can't get the outputs to simplify but should be the right answer anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519626850201,
+      "content": "Kevin Troy sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/KevinTroyDeGuzman_6V3utoVZ5Q/files/Hw1_2167366279960226.nb",
+          "creation_timestamp": 1519626849
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519625361835,
+      "content": "lol alright I'm just finishing it up rn hah a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519622732620,
+      "content": "Yes please lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519599873998,
+      "content": "I can send it over.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519599867487,
+      "content": "But I have some of the code done haven\u00e2\u0080\u0099t finished it yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1519599854596,
+      "content": "Lol nah dude \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519599790518,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519599786193,
+      "content": "Hey man I heard you're good at mathematica",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508352703684,
+      "content": "Damn alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1508352695209,
+      "content": "I\u00e2\u0080\u0099m bout to leave for class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508352671835,
+      "content": "You still at the booth?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1508352665019,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1508352659993,
+      "content": "Yeah just venmo @ainakin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508352635279,
+      "content": "Hey do you guys accept venmo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1493104535768,
+      "content": "If you thought APO pledging was a lot hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1493104514418,
+      "content": "Dude it's hella work, but I feel like it will be worth it in the long run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493104320372,
+      "content": "tell me how it is cause i was interested in joining lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493104307712,
+      "content": "oh shit theta tau",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1493103069260,
+      "content": "I have pledge meetings for Theta Tau every Monday at 8 and I told Pledge parents this past weeekend that me and Qasim were dropping but they never got it :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493103025736,
+      "content": "What happened LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1493102992667,
+      "content": "Lmao sorry bruh \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493092356195,
+      "content": "Hurry I gotta study for 70b lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1489816429353,
+      "content": "lol it's okay I figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489816322792,
+      "content": "Want the answers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489816310499,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1489814911937,
+      "content": "hey bro did you do the eecs 55 quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1488917548048,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinTroyDeGuzman_6V3utoVZ5Q/photos/17175974_355830558145308_111706504_o_355830558145308.jpg",
+          "creation_timestamp": 1488917547
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1488916688316,
+      "content": "Lol yes please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1488916670659,
+      "content": "Still need it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1488912996811,
+      "content": "Hey do you think you can send me the answer to the first hw problem for EECS 55?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1488525552656,
+      "content": "Fuuuuuu lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1488525523791,
+      "content": "i also didnt know we had a quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1488525516941,
+      "content": "oh shit i didnt either LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1488525080522,
+      "content": "Hey dude do you think I can get the answers for the eecs 55 quiz today I didn't go to lecture lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712308811,
+      "content": "Dude yeah, I'm seriously praying for the curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712291807,
+      "content": "Let's just pray for the curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712277676,
+      "content": "So I'm pretty scared that I'm going to fail this \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712266126,
+      "content": "Yup I got a 15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712257120,
+      "content": "I got a 17 on the midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712256984,
+      "content": "Same here bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712251418,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712250716,
+      "content": "I'm lowkey failing this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712239849,
+      "content": "Thank you so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712171644,
+      "content": "Kevin Troy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinTroyDeGuzman_6V3utoVZ5Q/photos/16880679_1566238560073004_1428119099_o_1566238560073004.jpg",
+          "creation_timestamp": 1487712170
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712161897,
+      "content": "Kevin Troy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinTroyDeGuzman_6V3utoVZ5Q/photos/16910741_1566238246739702_1147233359_o_1566238246739702.jpg",
+          "creation_timestamp": 1487712160
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712131328,
+      "content": "Kevin Troy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinTroyDeGuzman_6V3utoVZ5Q/photos/16930570_1566236890073171_1204938766_o_1566236890073171.jpg",
+          "creation_timestamp": 1487712130
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712105956,
+      "content": "i totally forgot about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712100049,
+      "content": "LOL yes please\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1487712080515,
+      "content": "Yeee do you need it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487712063389,
+      "content": "dude did you do the 55 hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485405432707,
+      "content": "Lol nah I'm still electrical engineering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485402041442,
+      "content": "Did you switch majors lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485401495539,
+      "content": "Yeah engineering sucks lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485401375435,
+      "content": "lol alright idk man I wanna do it but you know that engineering life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485400635979,
+      "content": "Which is not a bad thing lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485400626159,
+      "content": "But it is a time commitment hanging out with people and all of that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485400606850,
+      "content": "You just have to attend every meeting and all that stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485400588089,
+      "content": "There are no real requirements like APO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1485400578435,
+      "content": "Hmmmm I wouldn't say so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485399662508,
+      "content": "Is being staffer a lot of time commitment?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484811899539,
+      "content": "Damn okay maybe LOL just so much time\nCommitment for idk what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1484811833591,
+      "content": "lol I'm going to tell everyone to basically apply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484811791022,
+      "content": "Hmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484811787222,
+      "content": "LOL fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1484811756438,
+      "content": "Nah you don't get paid being a staffer BUTTTT I HIGHLY HIGHLY RECOMMEND APPLYING STILL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484811717447,
+      "content": "Bro do you get paid being a Spopper?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480549357019,
+      "content": "Noooo it wouldn't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480548782042,
+      "content": "what that make a difference?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480548779942,
+      "content": "what if  you seperate it out and make another if statement with else begin for the temp 6'b11111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480548694920,
+      "content": "/* if (RST | temp 6'b111111) begin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480548671206,
+      "content": "Do you think our counter is wrong because of the if statement in the beginning after alwas=ys_ff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480444569536,
+      "content": "8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480444561741,
+      "content": "How many more interviews do you need ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479712319287,
+      "content": "Oh okay cool!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711762016,
+      "content": "that and the instruction mem is built",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479711694530,
+      "content": "Did we just convert the ALU to 32-Bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479711685131,
+      "content": "Oh lol, okay at least we started",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711659208,
+      "content": "we started it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479711656603,
+      "content": "lol we left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479711645860,
+      "content": "Are y'all getting stuff done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479338348528,
+      "content": "Lol damn everyone canceled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479338329623,
+      "content": "nah I am not sorry lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479338313377,
+      "content": "Hey you still having study hours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479028463857,
+      "content": "i know lol i might skip class to go to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479028454605,
+      "content": "You need these in order to cross lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479028442465,
+      "content": "Bro these are important ones to go to though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479028401503,
+      "content": "Hey I don't think I can make it to any of the parliamentary procedures courses. Will you be hosting make up ones at all?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1478021517683,
+      "content": "Yeah just go to the back \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477980961603,
+      "content": "okay lol do i just go to the back??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477980935117,
+      "content": "Yeah you're fine man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477979137793,
+      "content": "I was told I had to ask SAAs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477979119823,
+      "content": "Hey can I get permission to do hw durukbg GBMs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477535844799,
+      "content": "Heading to lab rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477535327061,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477535317941,
+      "content": "Wait justin are you going to your showcase practice?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477522816739,
+      "content": "Am I gonna miss anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477522787707,
+      "content": "Gonna be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477522771975,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477377611630,
+      "content": "No we don't need it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477377536686,
+      "content": "hey man do you know if we need scantrons??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477370280794,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477368687655,
+      "content": "hey can our cheat sheet be front and back?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477349198189,
+      "content": "I'm persuading her right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477349114799,
+      "content": "lol she doesnt wanna go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477349099337,
+      "content": "people usually just sign on first day of checkpoint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477349084756,
+      "content": "Kristine only has 5 more people to interview",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477349065075,
+      "content": "lmao you're fine man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477349055838,
+      "content": "i did 15 the first week and 2 last week lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477349046767,
+      "content": "17",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477349027381,
+      "content": "how many interviews do you have so far?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477349010821,
+      "content": "i dont wanna be a hypocrite lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477349003164,
+      "content": "dude im taking the L on those too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348985155,
+      "content": "you should tell her to go do interviews right now so that she can pass first checkpoint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348960470,
+      "content": "Kristine is taking the L on this pledge quiz and for checkpoints",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348942010,
+      "content": "haha alright for sure man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348929843,
+      "content": "nvm csl is far LOL imma go to phoenix grill after class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348296221,
+      "content": "Same, or maybe wake up early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348234616,
+      "content": "Yeah I'm bout to just stay up all night for physics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348223344,
+      "content": "alright cool lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348216717,
+      "content": "alright for sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348205925,
+      "content": "Lol we'll get EECS 31 done don't worry haha we just have to save that for the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348183021,
+      "content": "in csl? ill come for a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348169586,
+      "content": "dude honestly that saves me from so much stress lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348084332,
+      "content": "it ends at 5 haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348078743,
+      "content": "Don't worry about the EECS Midterm project because I have the files for it and we just need to convert it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348067630,
+      "content": "im in class lol when does it end?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348053085,
+      "content": "You can do it man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348029638,
+      "content": "come through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477348026724,
+      "content": "she's at my study hours rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477348000993,
+      "content": "and yes lol but i might be able to stick through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477347998059,
+      "content": "lol Kristine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477347990568,
+      "content": "wow who told you that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477347933518,
+      "content": "are you thinking of de pledging though? :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477347920696,
+      "content": "lol yeah it's okay though haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477347892523,
+      "content": "also kristine just told everyone youre very sad no one asks you for interviews LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477347863600,
+      "content": "lol study man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477347858664,
+      "content": "not til really late because of my pledge meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477347820072,
+      "content": "I didn't know that it was tomorow wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477347798784,
+      "content": "are you studying for physics 7E tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475727055380,
+      "content": "Alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475726927630,
+      "content": "Haha nah my first name is Kevin Troy and then De Guzman is my last name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475722553956,
+      "content": "Your last name is Troy de Guzman?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475719535569,
+      "content": "Alright for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475719316619,
+      "content": "My email is ktdeguzm@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475719304768,
+      "content": "It's 13312939",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475719207735,
+      "content": "Oh for sure. What's your student ID?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475719194009,
+      "content": "I actually have an interview right now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475719187770,
+      "content": "Yeah I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475719170176,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475719092799,
+      "content": "Alright yea wanna be in our group?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475717801848,
+      "content": "Oh damn lmao alright I'll ask them in lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475716469824,
+      "content": "I asked my other 3 friends and they just joined haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475716459740,
+      "content": "lmao no man I got no other choices haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475716436965,
+      "content": "If i can't get you in the group do you have another one you could join Lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475716272151,
+      "content": "The other guys in my group are in our lab too so I'll talk to them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475716252681,
+      "content": "Yea I'll let you know in lab. I think there's another guy who wants to join too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475715926378,
+      "content": "Lol alright yeah if you still have room in your group could you accept me?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Troy De Guzman",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KevinTroyDeGuzman_6V3utoVZ5Q"
+}

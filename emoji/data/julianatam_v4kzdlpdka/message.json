@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Juliana Tam"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1493503586979,
+      "content": "See you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493503569805,
+      "content": "Alright you are confirmed for 1:30 on Friday. See you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493503542994,
+      "content": "Oh yayy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1493503527570,
+      "content": "Juliana: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1493503510816,
+      "content": "1:30 is good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1493503365767,
+      "content": "Juliana added you on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1493503361998,
+      "content": "Juliana added you on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493503249956,
+      "content": "You added Juliana Tam on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493502564315,
+      "content": "hellllo it looks like you signed up for my interview for friday. Well i messed up my spreadsheet a little and i am not available for time you signed up for lol sorry. if you want tho I can move you to 1:30 or 2pm",
+      "type": "Generic"
+    }
+  ],
+  "title": "Juliana Tam",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JulianaTam_V4KZDlpdKA"
+}

@@ -1,0 +1,199 @@
+{
+  "participants": [
+    {
+      "name": "Keely Ganivet"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485286382363,
+      "content": "And it might not be done anytime soon LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1485286256748,
+      "content": "Yayyy\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485272061161,
+      "content": "Not done lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1485246129244,
+      "content": "Awww yay\u00f0\u009f\u0098\u008a\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089 but where's the unedited version???? Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1485245714579,
+      "content": "I have to sign into YouTube with my UCI email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485244209243,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485244206626,
+      "content": "Uci email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485244203101,
+      "content": "You have to login with your uci if",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1485244149916,
+      "content": "I can't see it, it says \"video is private\" haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485242179218,
+      "content": "https://www.youtube.com/watch?v=EgTrEmhpnQQ",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=EgTrEmhpnQQ"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1465726190464,
+      "content": "Are you back from UCLA??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465712929206,
+      "content": "Hi my address is. 919 Kensington dr, Redlands CA 92374",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464907269614,
+      "content": "\"Advanced Automotive Director and Accountant\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464907152854,
+      "content": "How do i make it sound better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464907137508,
+      "content": "im a mechanic of parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1464906972137,
+      "content": "You make it sound like you're a mechanic!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1464906971026,
+      "content": "Lolol I thought it was that but I wasn't sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904842439,
+      "content": "duh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904839930,
+      "content": "I have to sound good on my resume",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904819635,
+      "content": "parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1464904808472,
+      "content": "Advanced vehicle management??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904573309,
+      "content": "Sincerely,\n\nJustin Le\nUCI Undergraduate Computer Engineering \nViento Resident \nAdvanced Vehicle Management",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1464904422704,
+      "content": "Cordially yours, Keely Nicole Ganivet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keely Ganivet",
+      "timestamp_ms": 1464904408819,
+      "content": "Thank you Mr. Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904294155,
+      "content": "and my favorite disney character is mushu and cricket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904264163,
+      "content": "My birthday is July 18",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904253814,
+      "content": "anyway my name is Justin Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904243786,
+      "content": "oops i wanted to put a newline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904230542,
+      "content": "oh i didnt mean to send that yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464904198031,
+      "content": "Dear Ms. Ganivet,",
+      "type": "Generic"
+    }
+  ],
+  "title": "Keely Ganivet",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KeelyGanivet_A_tl3ektGA"
+}

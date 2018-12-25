@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Lai Chao"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lai Chao",
+      "timestamp_ms": 1492798271349,
+      "content": "Okay ty!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492798240446,
+      "content": "Yup! I'll just add you to another car if that's okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lai Chao",
+      "timestamp_ms": 1492797149820,
+      "content": "Hey Justin! Just wanted to tell u that I just looked at the spreadsheet. I won't be going with Gina for set up (told her to switch my shift cuz I have a Client/Consultant meeting then). So do I just catch a ride with one of the drivers (that has available space) for the event times?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lai Chao",
+      "timestamp_ms": 1491869366450,
+      "content": "Sorry... I'm so disappointed in myself... I haven't flaked an event since pledging \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491862583124,
+      "content": "Hi Wya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lai Chao",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LaiChao_1QvHoJt0cg"
+}

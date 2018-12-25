@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Jeff Pham"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506040530328,
+      "content": "fshoo it's chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506039460495,
+      "content": "Alright the other person confirmed sorry man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506039274320,
+      "content": "sounds good just tell me asap cuz i got on someone else on hold too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037674052,
+      "content": "Alight someone messaged me first so I'll lyk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506037486064,
+      "content": "i'm down to cop just lmk whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506037470295,
+      "content": "that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037443099,
+      "content": "It's pretty wobbly tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037436921,
+      "content": "Uh sound? No sound not that I've had",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506037390029,
+      "content": "how much sound does it make?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506037372572,
+      "content": "for sure just lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037316193,
+      "content": "And no mattress sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037311507,
+      "content": "Yea it is. I'm just waiting for someone to confirm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506037110243,
+      "content": "also u selling the mattress too? lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506036907586,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506035079890,
+      "content": "bed still up for grabs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Pham",
+      "timestamp_ms": 1506035073613,
+      "content": "yo justin",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeff Pham",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JeffPham_k7xWNn67Ow"
+}

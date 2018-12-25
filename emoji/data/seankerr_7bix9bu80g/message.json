@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sean Kerr"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sean Kerr",
+      "timestamp_ms": 1529376110922,
+      "content": "Say hi to your new Facebook friend, Sean.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sean Kerr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SeanKerr_7BiX9bu80g"
+}

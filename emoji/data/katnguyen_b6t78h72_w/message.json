@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Kat Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kat Nguyen",
+      "timestamp_ms": 1528960735629,
+      "content": "Say hi to your new Facebook friend, Kat.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kat Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatNguyen_B6T78H72_w"
+}

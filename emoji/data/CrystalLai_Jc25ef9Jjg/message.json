@@ -1,0 +1,877 @@
+{
+  "participants": [
+    {
+      "name": "Crystal Lai"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1542502102187,
+      "content": "aiyah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501948680,
+      "content": "i winnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501567695,
+      "content": "inv me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501559641,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501558829,
+      "content": "wut lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1542501246188,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1542501093403,
+      "content": "Do classic mode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1542501089581,
+      "content": "\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501084708,
+      "content": "tghe game is easy\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501076347,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1542501071752,
+      "content": "You\u00e2\u0080\u0099ve been practicing lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542501058080,
+      "content": "i win",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538159225755,
+      "content": "Okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538154942270,
+      "content": "Hold on I need to take a new pic of it lol it got updated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538103331460,
+      "content": "What\u00e2\u0080\u0099s urs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538103328192,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538091321435,
+      "content": "Crystal sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CrystalLai_Jc25ef9Jjg/photos/42631846_1911457158902062_4621097807896379392_n_1911457145568730.jpg",
+          "creation_timestamp": 1538091320
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538079046393,
+      "content": "whats your class schedule this quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538074283802,
+      "content": "Thanks you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538073930937,
+      "content": "Crystal sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/CrystalLai_Jc25ef9Jjg/files/homework_1414885735309277.zip",
+          "creation_timestamp": 1538073910
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538073778640,
+      "content": "Omg you\u00e2\u0080\u0099re the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072979160,
+      "content": "lemme download and then ill zip and send to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072973071,
+      "content": "i figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072580887,
+      "content": "If it\u00e2\u0080\u0099s too much trouble you don\u00e2\u0080\u0099t need to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072576916,
+      "content": "i need to set up the script",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072571920,
+      "content": "lemme try tto pull it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072568948,
+      "content": "It\u00e2\u0080\u0099s okay haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072559602,
+      "content": "aiyah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072557829,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072542187,
+      "content": "They changed that like a couple years ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072513808,
+      "content": "yeah but they dont lock our accounts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072502775,
+      "content": "No cause it\u00e2\u0080\u0099s on your account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072489692,
+      "content": "if i give u the path could u look at it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072478453,
+      "content": "I used to do it using mobaxterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538072459925,
+      "content": "yeah its all on my server",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538072180325,
+      "content": "Like download?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538071722967,
+      "content": "Do u remember how to pull for the server?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538068532838,
+      "content": "Can I see pls :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538063078289,
+      "content": "I have my answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1538063069588,
+      "content": "I dont think i did:/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538028869691,
+      "content": "did you save the EECS 22 solns lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1535778927293,
+      "content": "What lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1535775586157,
+      "content": "i didnt know what this was lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1535775561044,
+      "content": "Crystal has started a game with you. It's your turn!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830089874,
+      "content": "yas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534830086866,
+      "content": "alright fine im down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534830080635,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830080488,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830079794,
+      "content": "so i need to play something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830076626,
+      "content": "and dont wanna think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830073329,
+      "content": "i drank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534830063974,
+      "content": "are you bored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830057837,
+      "content": "lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534830056565,
+      "content": "play tetris?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534830027875,
+      "content": "what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534829984052,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1534829983131,
+      "content": "tetris",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520622298265,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/CrystalLai_Jc25ef9Jjg/files/Final2016ProblemVoltageRegulator_518375405224155.nb",
+          "creation_timestamp": 1520622297
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520622149649,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/CrystalLai_Jc25ef9Jjg/files/Final2016ProblemVoltageRegulator_518374798557549.pdf",
+          "creation_timestamp": 1520622148
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1499669918387,
+      "content": "Was planning to go back soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1499669913087,
+      "content": "Cause I've been gone for like a few weeks now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499664498865,
+      "content": "Aw lol okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1499663609923,
+      "content": "Inneed to get on my directors good side first too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499663562618,
+      "content": "Yea take your time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1499655914425,
+      "content": "Ummm yeah but can I send u the stuff next week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499639564048,
+      "content": "Hiii is there a way to apply for your research place again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1497037582756,
+      "content": "Crystal is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1497037406546,
+      "content": "Crystal is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486535180060,
+      "content": "Yea you do LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486535133920,
+      "content": "lol i always miss ur messages. lmaoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486532657874,
+      "content": "Omg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532108685,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532107730,
+      "content": "714-723-2056",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532103621,
+      "content": "here is my number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532100397,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532099810,
+      "content": "i do not check my fb messenger very often",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486532094119,
+      "content": "i was most likely not awake..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486372384570,
+      "content": "hi are you awake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486190093967,
+      "content": "LOL nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486190078929,
+      "content": "and was productive during that 1hr 20 mins haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486190061496,
+      "content": "its okay, i got the notes and got a 4 on the quiz lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486190000150,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486189966443,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486189965186,
+      "content": "i hate that class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486189961300,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486189960508,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1486189959930,
+      "content": "lol just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486073510147,
+      "content": "Oooo did you skip class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485538933609,
+      "content": "lol I was asleep, whatsup?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501595336,
+      "content": ":( i feel really annoying rn but i am confused once again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485501527338,
+      "content": "Crystal: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501271455,
+      "content": "Thanks friend <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501173279,
+      "content": "okay cool!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485500966326,
+      "content": "we did like procedures and analysis and then question for the two experiment stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485500950276,
+      "content": "no we separated them and put them in the different sections to make it flow better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485500918543,
+      "content": "Where did you put the questions? in the conclusion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485500909430,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485500904434,
+      "content": "ooo can i ask another question?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485500896192,
+      "content": "i was just being extra lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485500889528,
+      "content": "nah its okay!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485500839493,
+      "content": "sorry just got home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485500836837,
+      "content": "oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485500623693,
+      "content": "its okay!! i just made something real fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485497859965,
+      "content": "I'm not home right now but I can probably send it to you later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485494851520,
+      "content": "okay and i know this is asking alot but can i see what your cover page looks like lol? im really confused on the format",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485494824408,
+      "content": "okay cool thanks!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1485494815483,
+      "content": "No there's no pre-lab for the slab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485494739702,
+      "content": "HEY! Quick question, is there a prelab for this lab??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480498422257,
+      "content": "No problem good luck! Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498420106,
+      "content": "i really appreciate all the help <3 :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498405483,
+      "content": "Okay imma let you study now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498376254,
+      "content": "thank you so much!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498370599,
+      "content": "oooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480498294785,
+      "content": "But when it's store, you need the reg file to send the info and store it into the data memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480498265528,
+      "content": "So if it's store and nop then we don't need to enable the ref file, because all you're loading what's in the data memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498190534,
+      "content": "i think it is definetly our controller thats the problem now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498156878,
+      "content": "i dont understand yiur we1 line of code. um if its not too much trouble could you explain it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480498052806,
+      "content": "ooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497739633,
+      "content": "lol hi michelle:D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497734981,
+      "content": "https://drive.google.com/a/uci.edu/file/d/0B6ZHiqdtCrQbOFpXSHYydGNpdGc/view?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497717164,
+      "content": "Also Michelle says hi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497698051,
+      "content": "Yea sure! If that's okay with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497685631,
+      "content": "Do u want to see ours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497671674,
+      "content": "Fml I did that part I suck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497661086,
+      "content": "What do you mean it's not enabling the right thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497628480,
+      "content": "I'm pretty sure the problem is your controller because when it's load it's not enabling the right thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497232754,
+      "content": "Or like with everything..?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497227237,
+      "content": "Forrrrr what part?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497212238,
+      "content": "I'm confused...:/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497159331,
+      "content": "Our code is so shitty I apologize in advance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497145990,
+      "content": "Oh okay good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497113892,
+      "content": "I think for load and store opsel I changed it so it just moves the same values",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480497079122,
+      "content": "Uhhh yea we did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Crystal Lai",
+      "timestamp_ms": 1480497033982,
+      "content": "Did you guys change any functions for your ALU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480496921577,
+      "content": "You really dont have to look to much into if at all! I know you need to study to so honestly it means a lot that you even offered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480496859089,
+      "content": "controller.sv is the controller file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480496848927,
+      "content": "https://drive.google.com/open?id=0B78M_FDJRqnjY2diR0REVFBFc1E",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480496845706,
+      "content": "Here's our google drive for the sv files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480496828395,
+      "content": "Hey sorry for the late response!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Crystal Lai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CrystalLai_Jc25ef9Jjg"
+}

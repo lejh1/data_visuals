@@ -1,0 +1,327 @@
+{
+  "participants": [
+    {
+      "name": "Jerry Lee"
+    },
+    {
+      "name": "Ryan Yue"
+    },
+    {
+      "name": "Thomas Dolan"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1541276294521,
+      "content": "We haven\u00e2\u0080\u0099t bought our tickets yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1541274572664,
+      "content": "how much was ur flight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1541099415615,
+      "content": "\u00f0\u009f\u009a\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541098369797,
+      "content": "oooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1541098279785,
+      "content": "Coming in 4 weeks so I\u00e2\u0080\u0099m good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1541098264787,
+      "content": "Just applied for my passport",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960223615,
+      "content": "Yea it\u00e2\u0080\u0099s literally one of the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960218230,
+      "content": "Jason told me about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960214755,
+      "content": "OH SHIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960212541,
+      "content": "I\u00e2\u0080\u0099ll look it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960211623,
+      "content": "OP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960210087,
+      "content": "The reserve you get lounge access and tsa pre check tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960193158,
+      "content": "I forgot the numbers tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960186662,
+      "content": "Yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960182114,
+      "content": "Something to pay t off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960177792,
+      "content": "Is there a reward for spending a certain amount initially",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960167835,
+      "content": "Oh fucj LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540960153404,
+      "content": "Mine is 95 the reserve is 450",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960128833,
+      "content": "What\u00e2\u0080\u0099s the annual fee on that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540960124014,
+      "content": "Oh shot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540959686540,
+      "content": "I applied for the chase sapphire preserve card lol if you wanna be\nOP you could try to get the reserve card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540959468929,
+      "content": "How do I do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540959466360,
+      "content": "I should get some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540957148723,
+      "content": "Got approved a travel rewards card \u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4 I\u00e2\u0080\u0099m ready for this trip",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Jerry Lee"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540769932311,
+      "content": "Yah if that works. I haven\u00e2\u0080\u0099t gotten my ticket yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540769717899,
+      "content": "Sounds good lol ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540769564180,
+      "content": "thats a cheap day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540769561897,
+      "content": "maybe the friday the week after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540769494185,
+      "content": "And coming back when?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540769185176,
+      "content": "cuz its cheaper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540769177151,
+      "content": "i was thinking leave 17tg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540769124042,
+      "content": "@Jerry Lee what days are we going to Taiwan and coming back?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ryan Yue",
+      "timestamp_ms": 1540577899944,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577814254,
+      "content": "Only one flag I know and that\u00e2\u0080\u0099s Murcia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540577797127,
+      "content": "Jerry Lee added Ryan Yue.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ryan Yue"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540577786637,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577781581,
+      "content": "Lol you\u00e2\u0080\u0099re messing with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540577770063,
+      "content": "That\u00e2\u0080\u0099s kinda messed up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1540577766819,
+      "content": "That\u00e2\u0080\u0099s mainland China",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577758767,
+      "content": "Did I get the flag right lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577748936,
+      "content": "Thomas named the group Taiwan xD \u00f0\u009f\u0087\u00b9\u00f0\u009f\u0087\u00bc.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577704809,
+      "content": "Should be good though and it should only take 4-6 weeks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577690859,
+      "content": "I\u00e2\u0080\u0099m gonna collect all my documents this weekend and apply Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540577690043,
+      "content": "You set the emoji to \u00f0\u009f\u009a\u0080.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577671981,
+      "content": "I\u00e2\u0080\u0099m down to go but I need to see how long my passport is gonna take",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540577671528,
+      "content": "You changed the chat colors.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540577667430,
+      "content": "Hell yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577655460,
+      "content": "Taiwan group chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas Dolan",
+      "timestamp_ms": 1540577654988,
+      "content": "Thomas created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Taiwan xD \u00f0\u009f\u0087\u00b9\u00f0\u009f\u0087\u00bc",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/TaiwanxD_iGKrwq7GHA"
+}

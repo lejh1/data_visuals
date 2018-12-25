@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Calvin Gao"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517628843413,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517628839582,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Calvin Gao",
+      "timestamp_ms": 1517628690419,
+      "content": "Hi Justin lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Calvin Gao",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CalvinGao_Wm8pDLbGnA"
+}

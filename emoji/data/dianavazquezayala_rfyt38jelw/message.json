@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Diana Vazquez Ayala"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487793741679,
+      "content": "Oh awesome thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diana Vazquez Ayala",
+      "timestamp_ms": 1487793726877,
+      "content": "Thanks she just messaged me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diana Vazquez Ayala",
+      "timestamp_ms": 1487793720438,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487792722043,
+      "content": "You added Diana Vazquez Ayala on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487792713388,
+      "content": "Her*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487792709630,
+      "content": "Hey! So I know that person who lost their license and they asked me to message you so I can get it for them lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Diana Vazquez Ayala",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DianaVazquezAyala_rFyT38jelw"
+}

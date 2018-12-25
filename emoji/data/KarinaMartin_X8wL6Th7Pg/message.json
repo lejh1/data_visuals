@@ -1,0 +1,144 @@
+{
+  "participants": [
+    {
+      "name": "Karina Martin"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492974191675,
+      "content": "where are you sitting??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492967002483,
+      "content": "Did Reeva forget her tie dye shirt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965865832,
+      "content": "Karina missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492965691514,
+      "content": "Lol ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965681755,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965679895,
+      "content": "Here's proof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965678997,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KarinaMartin_X8wL6Th7Pg/photos/18110384_380374359024261_173078000_o_380374359024261.jpg",
+          "creation_timestamp": 1492965678
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965663904,
+      "content": "Not my fault!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492965611101,
+      "content": "Sorry! We are waiting for reeva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492965450585,
+      "content": "Hi. Are you coming to jack any time soon? I don't want to leave graciela here alone lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492575234352,
+      "content": "I do lol. Is there something else you'll be doing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492575156104,
+      "content": "If you really need it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492574833872,
+      "content": "Can you drive people back \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492573471545,
+      "content": "Okay :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492573457427,
+      "content": "Driving myself bc I just realized the thing says we have to be there 40 minutes before our shift. But my class ends at 3\u00f0\u009f\u0098\u00acso to not make anyone else late, I'll just drive myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492573392003,
+      "content": "\u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492573388788,
+      "content": "Are you driving yourself or going with jenn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492573379500,
+      "content": "What is up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karina Martin",
+      "timestamp_ms": 1492573367562,
+      "content": "Helllo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492573256446,
+      "content": "Hellllo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karina Martin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KarinaMartin_X8wL6Th7Pg"
+}

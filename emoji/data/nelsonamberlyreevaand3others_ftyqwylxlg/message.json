@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Echeverria"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Yuuki Aotake"
+    },
+    {
+      "name": "Kevin Loc"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1478650598236,
+      "content": "At this rate I'm going tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478650490357,
+      "content": "Ok gotcha!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1478650443912,
+      "content": "Im going to come after class! I told kristin already :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478650214790,
+      "content": "Hey guys photoshootttt today!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nelson, Amberly, Reeva and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/NelsonAmberlyReevaand3others_ftyQWyLxlg"
+}

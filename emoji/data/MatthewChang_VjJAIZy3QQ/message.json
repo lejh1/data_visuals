@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Matthew Chang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matthew Chang",
+      "timestamp_ms": 1496428116683,
+      "content": "that explains\nwhy i was like\nconfused on whether or not to fb message you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Chang",
+      "timestamp_ms": 1496428086304,
+      "content": "so sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Chang",
+      "timestamp_ms": 1496428080760,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496427841600,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496427840751,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/MatthewChang_VjJAIZy3QQ/photos/18901869_398794980515532_1991553886_o_398794980515532.jpg",
+          "creation_timestamp": 1496427840
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496427830744,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Chang",
+      "timestamp_ms": 1496427294339,
+      "content": "Hey Justin! I'm Mattew Bahk from the pledge class and I was wondering what your availability was for an interview.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Chang",
+      "timestamp_ms": 1496427258434,
+      "content": "Matthew added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matthew Chang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MatthewChang_VjJAIZy3QQ"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tania Tan Wu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533940774400,
+      "content": "Say hi to your new Facebook friend, Tania.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tania Tan Wu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TaniaTanWu_xEqRI7N8hg"
+}

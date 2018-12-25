@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Evie Ta"
+    },
+    {
+      "name": "Peter V. Nguyen"
+    },
+    {
+      "name": "Grace Nacho-dip"
+    },
+    {
+      "name": "Aaron Buzon"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grace Nacho-dip",
+      "timestamp_ms": 1480215127123,
+      "content": "okayy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1480199314602,
+      "content": "Tyty \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480199279312,
+      "content": "Gotchu cuzzo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1480199242530,
+      "content": "Hi guys! I just paid for toll road. It was 10$ in total. May you pls venmo me 2$ each tyty",
+      "type": "Generic"
+    }
+  ],
+  "title": "Evie, Peter, Grace and Aaron",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/EviePeterGraceandAaron_XpCq4Zr6dQ"
+}

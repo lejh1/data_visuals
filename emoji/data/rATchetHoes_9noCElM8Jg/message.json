@@ -1,0 +1,6728 @@
+{
+  "participants": [
+    {
+      "name": "Terri Tsui"
+    },
+    {
+      "name": "Thomas D Nguyen"
+    },
+    {
+      "name": "Xiaohui Chen"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527884426275,
+      "content": "thats not me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1527884411408,
+      "content": "wow not saying this to my face",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1527884399655,
+      "content": "Sassy ass hoe sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/videos/video1527884402_2136713099677438.mp4",
+          "creation_timestamp": 1527884398,
+          "thumbnail": {
+            "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/videos/thumbnails/30817949_2136713129677435_482612910928337963_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527884351673,
+      "content": "Congrats on picking up everyone!!!! Sorry for being so late with this LOL <33333333333333333333333333333",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1497417480272,
+      "content": "Sassy ass hoe sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/17760741_10213589301149457_1861255083_n_1737315212950564.gif",
+          "creation_timestamp": 1497417480
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1497417308614,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497417002058,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1497164950210,
+      "content": "WHEN ARE WE GOING TO HANG!@?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1497164689758,
+      "content": "THANKS FOR ALL THE SUPPORT IT REALLY HELPED :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1497163264426,
+      "content": "OUR LITTLE BABIESSSSSSSSSSSS YAAAAAY <3 congrats on crossing again! Justin and I are SOOO proud of you guys. We are super lucky to have you guys and it's really heartwarming to see you guys happy with one another. We connected as hoes and yall CROSSED AS HOES! eheh. LOVE YALL hope you have fun being on da active side ;)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Terri Tsui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497163246745,
+      "content": "Sorry I couldn't go hoes I am still finishing up a project \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497163126448,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1497163119438,
+      "content": "Aw cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1497163103829,
+      "content": "Fake Hoe sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19074844_424143854639670_1072449047_o_424143854639670.jpg",
+          "creation_timestamp": 1497163102
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19074726_424143861306336_1527358940_o_424143861306336.jpg",
+          "creation_timestamp": 1497163102
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19074808_424143851306337_1816603698_o_424143851306337.jpg",
+          "creation_timestamp": 1497163102
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19074509_424143857973003_955764919_o_424143857973003.jpg",
+          "creation_timestamp": 1497163102
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1497068954253,
+      "content": "Fake Hoe sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19105004_423588478028541_1156556989_o_423588478028541.jpg",
+          "creation_timestamp": 1497068952
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/19048417_423588481361874_1587701669_o_423588481361874.jpg",
+          "creation_timestamp": 1497068952
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496877260658,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734305_830546366966585_614968961_n_830546363633252.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496877190680,
+      "content": "O OK den i meet at 830 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496877174805,
+      "content": ":) wait for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496877165811,
+      "content": "Uhm I will not be there at 6:30 lol maybe like 8:30 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496876861890,
+      "content": "same! \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496876004725,
+      "content": "YASSS BBS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496876000329,
+      "content": "i be dhere at 6:30 then ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496874031938,
+      "content": "I'll start at 6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496874024304,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496873839729,
+      "content": "Let's hangout or take one last picture!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496873765285,
+      "content": "When will you all be at cha night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496724130305,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496724097591,
+      "content": "i hope this final is curved",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496723967316,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496723965694,
+      "content": "It was okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496723961698,
+      "content": "You set the nickname for Terri Tsui to Sassy ass hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496723917099,
+      "content": "bye it was nice knowing u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496723914578,
+      "content": "pass? :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496723886830,
+      "content": "im deceased",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496723610266,
+      "content": "HOW DID FINALS GO?????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496723604162,
+      "content": "HELLO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496698427515,
+      "content": "let us know pls ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496698301467,
+      "content": "i didnt specifically ask yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496698294793,
+      "content": "uhhh idk LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496698278359,
+      "content": "did you plan anything with your bigs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496698275458,
+      "content": "but if i dont have anything im down to hangout \u00e2\u0099\u00aa(\u00e0\u00b9\u0091\u00e1\u00b4\u0096\u00e2\u0097\u00a1\u00e1\u00b4\u0096\u00e0\u00b9\u0091)\u00e2\u0099\u00aa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496698258816,
+      "content": "uhhhh idk what we do afterwards. LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496698198505,
+      "content": "Just to confirm, what're y'all doing after you finish reqs on Weds? Are we still going to hangout o:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496698114171,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18945060_400279113700452_898411423_n_400279113700452.jpg",
+          "creation_timestamp": 1496698113
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496287217760,
+      "content": "im hurt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496287149622,
+      "content": "SHE WILL IN TIME \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496287139179,
+      "content": "relax BOI LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496287133897,
+      "content": "Wtf she didn't email me fake at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496287119631,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496287099245,
+      "content": "Fake Hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18836239_418983681822354_1972667916_o_418983681822354.jpg",
+          "creation_timestamp": 1496287098
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496287095652,
+      "content": "did yall get to send it to your class bc i just got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496287087423,
+      "content": "so liiike",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496261580330,
+      "content": "^pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260136782,
+      "content": "how about weds after reqs AND WE CELEBRATEEE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260131205,
+      "content": "yall are hecka busy next week bc of reqs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260123243,
+      "content": "LOL FRICK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260120031,
+      "content": "jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260117442,
+      "content": "what da ): tues before gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260088218,
+      "content": "coming back monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260081217,
+      "content": "im going home around excomm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260072325,
+      "content": "so after excomm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260068823,
+      "content": "ill be back sunday excomm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260065079,
+      "content": "LO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260063945,
+      "content": "ihy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260063089,
+      "content": "im going home this weekend LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260059589,
+      "content": "im so nice :) :) :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260057529,
+      "content": "this weekend tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260052069,
+      "content": "wow tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260048318,
+      "content": "oh gawd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260046909,
+      "content": "dass okie :3 GLUCK CO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260041498,
+      "content": "\"mid\"term",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260034665,
+      "content": "i got a midterm LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260031976,
+      "content": "cri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260029147,
+      "content": "nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260022513,
+      "content": "tacosssssssssssssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496260020927,
+      "content": "are yall free to hangout tmrw around 9 or something :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496260019339,
+      "content": "lolololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259818123,
+      "content": "plsssssssssss dey keep asking HAHAH i feel so bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259806002,
+      "content": "Hi everyone! I asked to be crossed off a long time ago but I'm still on the sheet. I've already talked to Anna twice so don't worry about getting a sig from me ^^ Good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259761446,
+      "content": "Can y'all send this to your pledge chat please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259712323,
+      "content": "ok fsho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259710876,
+      "content": "or do u need me to make you one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259709607,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259708513,
+      "content": "ill send you a list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259706359,
+      "content": "do u have a hitlist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259704470,
+      "content": "uhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259701088,
+      "content": "whose do you need?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259691847,
+      "content": "GRIND ON CHA NIGHT. AND LIVE AT THE TENTS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259655975,
+      "content": "but i need like 34 more interviews",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259618820,
+      "content": "later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259617888,
+      "content": "and ill figure out the last one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259611050,
+      "content": "and do banquet decorations for another hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259603534,
+      "content": "i think u can get that before next weds!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259600484,
+      "content": "going to donate blood for an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259593659,
+      "content": "3 hrs o:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259585289,
+      "content": "okie fsho what about the rest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259577860,
+      "content": "going to get a 4 1/2 hour service later today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259574153,
+      "content": "whaaaaAaAaAa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496259568159,
+      "content": "i have 12 1/2 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496259556721,
+      "content": "how're yall bbs on reqs o:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496213624952,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496212510006,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496212055190,
+      "content": "i just searched \"thirsty\" and i found that LOOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496212044005,
+      "content": "lol gif keyboard\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496211956701,
+      "content": "Where did you find that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1496211066254,
+      "content": "Sassy ass hoe sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/17807107_402652406777429_766200466_n_1721227464559339.gif",
+          "creation_timestamp": 1496211066
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristine Dayrit"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496210279493,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496210256559,
+      "content": "tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496210234492,
+      "content": "This thirsty hoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496210229949,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18838356_397527783975585_1378529313_o_397527783975585.jpg",
+          "creation_timestamp": 1496210229
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496206410732,
+      "content": "Wait I thought I didn't have to do anything because no voting rights",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496206399265,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1496205695312,
+      "content": "omggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496205630633,
+      "content": "BISH I DID",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496205613001,
+      "content": "I was watching you... you didn't even laugh fake af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1496205590082,
+      "content": "HAHAHAHAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496205581870,
+      "content": "Rip xiao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496205576036,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18869920_397514783976885_1035740314_o_397514783976885.jpg",
+          "creation_timestamp": 1496205575
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495832167729,
+      "content": "IT'LL BE WORTH IT ALL i swear!!! You guys will miss showcase prac ahah. PUT ON A GOOD SHOW but more importantly HAVE FUNNNN!! ^^ \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495830850416,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495829704391,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/15727717_1828439114094670_4615980869759270912_n_1828439107428004.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495829700785,
+      "content": "Good luck tonight ratchet \u00f0\u009f\u0098\u008d I'm sorry we can't be there to support but we will be there in spirit! All your guys long ass nights are finally coming together and to an end  YAYYY\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495521629282,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495521628216,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574704_313426248818195_899302339_n_313426245484862.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495517926179,
+      "content": "who passed us >:(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495517920950,
+      "content": "WHAT THE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495517384489,
+      "content": "Aw we didn't even get 3rd place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495517038756,
+      "content": "go away ih8u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495517036185,
+      "content": "also. Dis bish & I sadly cannot go to your guys' showcase \u00f0\u009f\u0098\u0095 WE'LL MAKE IT UP FOR IT I PROMISE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495517026179,
+      "content": "Oh yea miss \"I'm busy doing lab\" surrree let's hangout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516998191,
+      "content": "LOL YOU TOO SWEET AWW miss yall too ): it ok we hang out soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516988139,
+      "content": "xiao may u hold onto it pls ^^ & ill pick it up from u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495516983760,
+      "content": "i miss u \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516975572,
+      "content": "LOL OMG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495516972511,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10333102_520074004802763_2024659768_n_520074001469430.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516971891,
+      "content": "go away co",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516968830,
+      "content": "sister's grad is tmrw & i had to go home \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495516965678,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313422508818569_1918615613_n_313422505485236.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495516961762,
+      "content": "Thirsty hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/16180053_1846059055669992_1163464605641474048_n_1846059049003326.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495516950497,
+      "content": "if we were ur bbs why u no come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516941071,
+      "content": "OMG LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495516939354,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516938683,
+      "content": "hi bbs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495516934081,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574687_520074018136095_1560987417_n_520074014802762.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495516932204,
+      "content": "Fake Hoe set your nickname to Bish Hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495516921149,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495516909364,
+      "content": "You set the nickname for Kristine Dayrit to Fake Hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441553086,
+      "content": "ikr itll be hard tho bc u guys have heck week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495441322875,
+      "content": "When are we going to hang ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495441283231,
+      "content": "Okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441277528,
+      "content": "LOL come thru to study",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495441270752,
+      "content": "I don't quite understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441269099,
+      "content": "it's a study fellowship",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495441263770,
+      "content": "???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441237740,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441237061,
+      "content": "cough study hrs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441234575,
+      "content": "so yall can study for your quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495441230656,
+      "content": "http://www.clubs.uci.edu/aphio/event/?id=12018 study fellowship right before yo gbm",
+      "share": {
+        "link": "http://www.clubs.uci.edu/aphio/sign_in.php?membersOnly&url=%2Faphio%2Fevent%2Findex.php%3Fid%3D12018"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495411647827,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495409309810,
+      "content": "im at home home \u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495409301824,
+      "content": "it ok hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495409301535,
+      "content": "I can do it from rn till 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495409297900,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495409296474,
+      "content": "rip i forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495409291672,
+      "content": "Oh shit showcase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495409286863,
+      "content": "Let's go!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495407348706,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495407346422,
+      "content": "tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495407344543,
+      "content": "who finna hit seaside tonght",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495340368311,
+      "content": "ya co do it for ur troopie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495324578583,
+      "content": "Can we pretend like it is \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495324455933,
+      "content": "Lool it's not the last day tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495323990280,
+      "content": "But technically it's cha night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495323981868,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495323966830,
+      "content": "LOL he'll sign you last xiao \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495323918976,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495323916963,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495323781056,
+      "content": "May I have a priority appointment \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495323735253,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495323625903,
+      "content": "Hi hoes! If you could let your pbros know that I'll be at mini cha night tomorrow around 2-3 that'll be awesome \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495182312796,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10540977_1554246434804404_362935018_n_1554246431471071.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495182293758,
+      "content": "thank youuuu troop \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495181899662,
+      "content": "Let me know if y'all need anything!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495181890934,
+      "content": "I said don't die",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495181857572,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47229525_2005265586223352_6880641164148473856_n_657501784333079.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495181752425,
+      "content": "I'm actually dying cu of no clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495181743586,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495181707741,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10333105_823238711028440_1989534094_n_823238707695107.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495181704894,
+      "content": "I hope you're having fun at showcase! Stay warm troopies! Don't die LOL \u00f0\u009f\u0099\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495066797444,
+      "content": "Don't u have parli pro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495066794794,
+      "content": "LOL JK all of us left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495066722002,
+      "content": "Lol went to your study room \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495066714334,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495066515335,
+      "content": "Tents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495066513519,
+      "content": "Come to DA tentd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495065990720,
+      "content": "Coming soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495065849476,
+      "content": "Justin wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495064245300,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495064185963,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064180404,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064174411,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48560952_1881521925291269_5882207137802747904_n_832506720192800.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495064164797,
+      "content": "c^:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495064160947,
+      "content": "hi @Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495064157124,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064140485,
+      "content": "At brandy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064139214,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064137111,
+      "content": "Want to eat rq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495064134578,
+      "content": "Terriii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495045431236,
+      "content": "get some resttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495045429203,
+      "content": "u a lil tired child",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495045405578,
+      "content": "I most likely did worse \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495045165584,
+      "content": "10.5/22 YIIIIKES HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495045160052,
+      "content": "LOL same w phys tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495042651524,
+      "content": "Took the biggest l of my life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035592036,
+      "content": "\u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035556776,
+      "content": "TERRI PLS LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035546549,
+      "content": "OMG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495035544813,
+      "content": "LOL JKKK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495035539978,
+      "content": "just skip it and itll make all your problems disappear \u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035532098,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035516612,
+      "content": "WAAAOW xiao Gluck!!! Hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035503703,
+      "content": "YALL omg push through this quarter is almost over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035503380,
+      "content": "Slept instead of studying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035495796,
+      "content": "God a midterm in an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035485593,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47157212_1134375886736668_1663069258940153856_n_144884835685783.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035481006,
+      "content": "Oh my LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495035471809,
+      "content": "i already skipped my 8am \u00f0\u009f\u0098\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035372412,
+      "content": "xXxiao sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47361955_1134366830070907_5593845000644329472_n_144885335685733.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035361982,
+      "content": "Yesss co you got dis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035348081,
+      "content": "You can do it ratchet! Don't give up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495035317329,
+      "content": "Should I skip class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495035308860,
+      "content": "IM SO TIRED",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495035223288,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035200883,
+      "content": "Come thruuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495035190148,
+      "content": "I wanna come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495035109334,
+      "content": "Yesss!! Same place hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495014639326,
+      "content": "im down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495014389423,
+      "content": "Study hours picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495014384685,
+      "content": "So 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495014371565,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47270791_937342239796388_4222599360510164992_n_167788116751808.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495009331018,
+      "content": "love you ma troopies :')",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495009098982,
+      "content": "Luvv you guys\u00e2\u009d\u00a4  hopefully you guys aren't too messy \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495008858445,
+      "content": "Love you ratchets!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495008836759,
+      "content": "Thanks troop leaders for donating!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495002495819,
+      "content": "blessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495002371694,
+      "content": "I'll always remember \u00f0\u009f\u0098\u008a let's be the best troop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495002369785,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173510_702110349875056_133184230_n_702110346541723.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495002366976,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851578_387545518037999_322196315_n_387545514704666.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495002348209,
+      "content": "Thirsty hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/16327852_1846060022336562_280875364916396032_n_1846060019003229.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002333956,
+      "content": "love yall LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002327546,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495002318926,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495002314148,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495002309489,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002300928,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18519336_1705806962768056_1521124323_o_1705806962768056.jpg",
+          "creation_timestamp": 1495002300
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002298897,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18553897_1705806952768057_1782596298_o_1705806952768057.jpg",
+          "creation_timestamp": 1495002298
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002297131,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18554048_1705806942768058_983834529_o_1705806942768058.jpg",
+          "creation_timestamp": 1495002296
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002295165,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18553707_1705806916101394_1193818952_o_1705806916101394.jpg",
+          "creation_timestamp": 1495002294
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1495002293467,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18575848_1705806902768062_1976013838_o_1705806902768062.jpg",
+          "creation_timestamp": 1495002292
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495002281361,
+      "content": "We feel it \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495002256562,
+      "content": "We love you guys \u00f0\u009f\u0098\u00b1\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495001851026,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495001848957,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1495001843641,
+      "content": "@Terri Tsui",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495001837613,
+      "content": "can i get da pic thooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1495001833841,
+      "content": "hullo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494991232362,
+      "content": "Idkk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494991226007,
+      "content": "I thought the chick fil a was did weds LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980200046,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980198358,
+      "content": "PVA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980197642,
+      "content": "oh yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494980181586,
+      "content": "Idk *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494980178556,
+      "content": "If I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494980176583,
+      "content": "You guys have a separate theme I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980149952,
+      "content": "whats the theme?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494980148927,
+      "content": "gonna eat some pie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980144313,
+      "content": "we dressing up fam>?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494980142910,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574699_313425352151618_1897978829_n_313425345484952.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494980137408,
+      "content": "yas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494980123866,
+      "content": "are we going to gbm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494960685766,
+      "content": "yas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494960557445,
+      "content": "You set the nickname for Kristine Dayrit to The OG Hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494960544963,
+      "content": "You set the nickname for Xiaohui Chen to xXxiao.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494960532588,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494960497551,
+      "content": "u r loved!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494960469370,
+      "content": "why cant i be loved :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494960456471,
+      "content": "same omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494960427661,
+      "content": "im so confused what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494959134452,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Terri Tsui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494959006668,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574704_313423705485116_1560310268_n_313423702151783.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958979150,
+      "content": "fite me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958961042,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494958953016,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494958950793,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494958947887,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958907821,
+      "content": "WHAT YOU WANT TERRI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494958895946,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958880325,
+      "content": "but still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958878805,
+      "content": "okay maybe a little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958871664,
+      "content": "im not thirsty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494958863722,
+      "content": "This is fun lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958726558,
+      "content": "Thirsty hoe\nill pay for you troopie\nc:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958716727,
+      "content": "byeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958673431,
+      "content": "thomas who are u talkin to HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958659247,
+      "content": "LMFAOOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958654748,
+      "content": "...........................................",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494958650593,
+      "content": "thanks troopie <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958648137,
+      "content": "BRUH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958645166,
+      "content": "WTF IM DOWN AF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494958644743,
+      "content": ":) for my $100 ticket to disney???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958642261,
+      "content": "Shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958640691,
+      "content": "Disneyland?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958638329,
+      "content": "stacks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958630736,
+      "content": "c:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958629930,
+      "content": "ill pay for you troopie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958612503,
+      "content": "BRUH HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494958610919,
+      "content": "my wallet says no tho :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958604603,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494958600665,
+      "content": "Let's go to Disneyland",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958597012,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494958569704,
+      "content": "ah fuh yeah utc at 7 works!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494958453074,
+      "content": "Let's meet at utc at 7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958442734,
+      "content": "chikfila starts at like 5ish, 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958427723,
+      "content": "practice at 9 lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494958423205,
+      "content": "uhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494955441422,
+      "content": "What time is the chikfila thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494955435127,
+      "content": "Like 8 or 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494955432048,
+      "content": "Let's do smthn weds late night then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494894736764,
+      "content": "IKR LMFAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494894728340,
+      "content": "That isn't even a good deal it's 15$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494894581600,
+      "content": "o jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494894545928,
+      "content": "unlimited nuggs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494894541163,
+      "content": "but thats chick fil a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494894416764,
+      "content": "So Wednesday night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494894391400,
+      "content": "hi @Thomas Nguyeneheh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494894355917,
+      "content": "what just happened ._.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893732235,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893725186,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893688296,
+      "content": "a ratchets gotta find ways to be a ratchet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893638000,
+      "content": "sigma kappas a sorority, r u a girl xiaooo? \u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893513706,
+      "content": "y cant i be in sigma kappa :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893494281,
+      "content": "she didnt add me :( doesnt she want to get to know me \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893485104,
+      "content": "Lmaooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893468110,
+      "content": "LOL  \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893442435,
+      "content": "HAHAH justin's girlfriend's friend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893427611,
+      "content": "HOW YALL KNOW HER THOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893409785,
+      "content": "Don't do it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893400121,
+      "content": "i havent responded in two weeks LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893391587,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893390830,
+      "content": "shes president of sigma kappa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893387286,
+      "content": "HAHAHAHAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893387244,
+      "content": "Oh god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893386726,
+      "content": "HAHAHHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893383830,
+      "content": "?????????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893380783,
+      "content": "LOLOL JUSTINNNNNN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893375113,
+      "content": "Sassy ass hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18553005_1704508912897861_1601732523_o_1704508912897861.jpg",
+          "creation_timestamp": 1494893374
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893373752,
+      "content": "LMFAO who dat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893369154,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893367528,
+      "content": "she's mutual friends with justin and kristine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893365478,
+      "content": "ILL FIGHT EM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893362985,
+      "content": "who is it O_O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893356811,
+      "content": "btw troooooooppppp theres this person that wants to b my fb friend but idk who she is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893250870,
+      "content": "im free wednesday after 5.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893248956,
+      "content": "jk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893248251,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893246381,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893245074,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893241616,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893239694,
+      "content": "im being excluded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494893234776,
+      "content": "LOL WHATTTT KRISTINE?????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893232856,
+      "content": "I'm pretty free Wednesday maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893225547,
+      "content": "Hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893190873,
+      "content": "??????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893183919,
+      "content": "TERRI SHHHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893182491,
+      "content": "LOLOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893174086,
+      "content": "or me thomas and @Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893173864,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893173095,
+      "content": "nah we have stuff dw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893166985,
+      "content": "wait is it just for ourself now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893158656,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893155590,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893155172,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893154229,
+      "content": "Awk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893150716,
+      "content": "thanks tho <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893148997,
+      "content": "naw we're good dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893146380,
+      "content": "oh O_O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893139571,
+      "content": "and we can hang weds like early tho LOL got a lab due at 8am but im tryna finish it up asap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893138185,
+      "content": "pledge meetings still have themes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494893128070,
+      "content": "For what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494893124579,
+      "content": "wait por what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893110012,
+      "content": "stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494893109258,
+      "content": "do u guys need disney",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494885369118,
+      "content": "how about wednesday we chill!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494885362911,
+      "content": "its all good have fun kristine!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494885351092,
+      "content": "Rip*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494885346616,
+      "content": "I'm out thurs-sun ril",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494882328159,
+      "content": "Let's hang out this week!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494875681867,
+      "content": "about what lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494875654412,
+      "content": "LOL R U SURE ABOUT THAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494875638565,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494875610739,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494875581836,
+      "content": "@Terri Tsui love me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494875521508,
+      "content": "@Terri Tsui love us",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494838004104,
+      "content": "Get that W",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494837999923,
+      "content": "Gl Thomas LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494837970760,
+      "content": "im going to study for my midterm tomorrow c':",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494837958827,
+      "content": "the plan is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494837951991,
+      "content": "So what's the plan lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494837946124,
+      "content": "We're still going to be number one troop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494837938074,
+      "content": "Let's go ratchet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494836771128,
+      "content": "LOL omfg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494836760055,
+      "content": "#hungergames",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494836734518,
+      "content": "#youwillalwaysbebymyside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494836734081,
+      "content": "ya we still here for you guys!!! <3 also rip we didn't get to get our tacos before the price raise :( but we can still go hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494836722140,
+      "content": "#iwillneverforgetyou",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494836699621,
+      "content": "Y'all are cuties! I hope you had fun with your new bigs\u00e2\u009d\u00a4 please don't forgot about us LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494836695186,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494836674795,
+      "content": "You sent 3 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18493309_390369001358130_1659024907_o_390369001358130.jpg",
+          "creation_timestamp": 1494836673
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18493596_390368994691464_1296424958_o_390368994691464.jpg",
+          "creation_timestamp": 1494836673
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18493026_390368998024797_455910493_o_390368998024797.jpg",
+          "creation_timestamp": 1494836673
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494766228582,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494753933062,
+      "content": "I'm still goneeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494753428036,
+      "content": "lol i sobered up,  idk about thomas \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494749109526,
+      "content": "LETS GET FUCKING WILD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494749102287,
+      "content": "BOI ITS ONLY 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494747368173,
+      "content": "Goodnight y'all !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494747361200,
+      "content": "@Terri Tsui@Thomas Nguyen stay safe PLEASE LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747300195,
+      "content": "Goodnight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747285557,
+      "content": "Oh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494747275213,
+      "content": "Nah his ung",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747262701,
+      "content": "Isn't golden Thomas too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747247145,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494747229004,
+      "content": "I stayed with golden and now I'm home!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747202693,
+      "content": "Me Terri and Thomas eventually went to batrons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747188926,
+      "content": "Where did you go justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494747184396,
+      "content": "I back home",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494747135477,
+      "content": "ARE YALL OKAY??? Stay safe please \u00e2\u009d\u00a4",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Xiaohui Chen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494627445395,
+      "content": "oh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627441255,
+      "content": "showdown* oopsy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627437786,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627436907,
+      "content": "tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627436427,
+      "content": "wait no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494627431900,
+      "content": "for a pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494627430239,
+      "content": "im in study hours.. but i can sneak away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627405767,
+      "content": "we can take a pic then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627402612,
+      "content": "co are you going to pva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494627397978,
+      "content": "wooow i'm not gon be here ; - ;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623745874,
+      "content": "I'm just trying to win here lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623732724,
+      "content": "And then go back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623728387,
+      "content": "And take a picture real quick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623723466,
+      "content": "But we can like go somewhere else in utc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494623714621,
+      "content": "ITS IN N OUT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494623712017,
+      "content": "Hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623711038,
+      "content": "There's an in n out fellowship",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494623710982,
+      "content": "BOI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494623710574,
+      "content": "WHATS UP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623704288,
+      "content": "Let's hang out after talent show?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494623703685,
+      "content": "Hay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494623693441,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494487737208,
+      "content": "LOL <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494487718722,
+      "content": "@Kristine Dayrit was there in spirit LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494487710321,
+      "content": "No problem!!! Just wanted to give my troopies some love",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494487691297,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10173505_313426158818204_775161941_n_313426155484871.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494487554925,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47270791_937342239796388_4222599360510164992_n_167788116751808.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494487533459,
+      "content": "THANKS FOR VISITING AND BRINGING CHA \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095YALL ARE DA BEST",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494475537535,
+      "content": "AHHHH BUST THOSE MOVES BBS <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494475453826,
+      "content": "Oh okay! Good luck Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494475445070,
+      "content": "Yeah it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494475404936,
+      "content": "Wait is it rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494474972837,
+      "content": "\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494474963489,
+      "content": "Good luck at showcase practice!!! Make sure to stay warm \u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494461682568,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494459440665,
+      "content": "i was in class ma bad yall but IDK WHEN TO GET TACOS W YALL im literally so busy \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494459175848,
+      "content": "YUHHH TERRI COME THRUUU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494459150763,
+      "content": "is jenny moving that or nahh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494458847268,
+      "content": "with pledges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494458843381,
+      "content": "friday theres ic home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458832062,
+      "content": "Tacos late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458828009,
+      "content": "How about Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494458810382,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458807525,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458805521,
+      "content": "Oh sorry wrong number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494458801581,
+      "content": "No Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458796774,
+      "content": "Thomas Justin can you be there at 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494458796742,
+      "content": "Sike I'm not there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494458784941,
+      "content": "Wait let's take a photo!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494458780294,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574681_313422378818582_145968410_n_313422375485249.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494458765117,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313422508818569_1918615613_n_313422505485236.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494458738961,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494458734721,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494458724717,
+      "content": "kristineeeee can i come to ur study hours \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494453518459,
+      "content": "YUHHHH THATS WHAT I LIKE TO HEAR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494453398539,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494453397711,
+      "content": "they were good tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494452560254,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574699_313423852151768_478941586_n_313423848818435.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494452552624,
+      "content": "U GOT DIS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494452549111,
+      "content": "truuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494452407335,
+      "content": "Dancing is hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494452039893,
+      "content": "how was your first showcase practice !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494386672533,
+      "content": "after gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494386667506,
+      "content": "sspa, aftre gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494386596951,
+      "content": "Lolol where and when? Good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494386588482,
+      "content": "and deal with people who leaves early or dont show up c':",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494386567869,
+      "content": "time to kms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494386563342,
+      "content": "yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494386555815,
+      "content": "your first showcase prac is today??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494385591333,
+      "content": "im here :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494383750530,
+      "content": "lol you don't have to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494383652149,
+      "content": "I guess I'm not going to gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494383643372,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494383642221,
+      "content": "After gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494383600452,
+      "content": "It's all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494383570657,
+      "content": "When's your guys showcase practice?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494383554713,
+      "content": "sry im not going to gbm today \u00f0\u009f\u0098\u00b0\u00f0\u009f\u0098\u00b0\u00f0\u009f\u0098\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494383430572,
+      "content": "I'm going to leave gbm early soo lets take a pic in the beginning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494301086036,
+      "content": "Fake Hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18406030_407834306270625_1909800258_o_407834306270625.jpg",
+          "creation_timestamp": 1494301085
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494294851120,
+      "content": "xXxiao sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362140881916_1086262136_n_126362137548583.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494294771604,
+      "content": "bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494294770307,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494293460995,
+      "content": "Yeah thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494292926290,
+      "content": "but i can bring lipstick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494292919649,
+      "content": "um i havent done laundry i only have one rn \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494292720903,
+      "content": "Terri \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494292716456,
+      "content": "Get me one too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494292681741,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494292672657,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494292670181,
+      "content": "do u want the most ridiculous one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494291724947,
+      "content": "LOL ookay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494291106465,
+      "content": "Bring bra pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494291101677,
+      "content": "@Terri Tsui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494290720765,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494290714697,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494290713537,
+      "content": "wait im not at dorm omg someone else bring their bra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494290703949,
+      "content": "ikr LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494290580822,
+      "content": "\u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494290565516,
+      "content": "how do u even dress up as a guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494289241892,
+      "content": "I'll bring like oranges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494289236921,
+      "content": "And a skirt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494289230011,
+      "content": "Wait just bring a bra for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494280833489,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494280833437,
+      "content": "come over yall can wear ma clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494279680108,
+      "content": "Uhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494279471144,
+      "content": "What are you guys doing for gender bender lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494268126326,
+      "content": "for dressing up, yes LOL for pics hmmm im not sure but itd be good to add it still!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494267743095,
+      "content": "Do we even get points for pledge meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494266458822,
+      "content": "oh what the okie :3 tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494265803995,
+      "content": "gender bender LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494265789402,
+      "content": "whats the thene today ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494208644116,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494208496857,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494208468325,
+      "content": "O YA LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494208446071,
+      "content": "The yellow thing on top of rice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494208436591,
+      "content": "Egg with rice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494208403998,
+      "content": "wat dat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494208379354,
+      "content": "I'd be tamago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494207668777,
+      "content": "HAHAHA ayee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494207600407,
+      "content": "\u00c2\u00af\\_(\u00e3\u0083\u0084)_/\u00c2\u00af.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494207502129,
+      "content": "Love it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494207498218,
+      "content": "Basic af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494207496327,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494207414913,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47210909_1134368163404107_8600710583341285376_n_144885275685739.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494207407761,
+      "content": "im pretty simple and basic so cali probably?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1494207253195,
+      "content": "uhh idk LOL \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494207187007,
+      "content": "terri? xiao? :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494207181655,
+      "content": "HAHAHA okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494207082938,
+      "content": "But not spicy, because I ain't spicy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494207070960,
+      "content": "I like anything extra af because I'm extra af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494207042019,
+      "content": "You could've just said that LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206977167,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206821913,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206820732,
+      "content": "\u00f0\u009f\u0091\u0080\u00f0\u009f\u0091\u0080 what do you want for sushi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206687645,
+      "content": "Sushi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206684987,
+      "content": "I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206682545,
+      "content": "I like rice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206611014,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47210909_1134368163404107_8600710583341285376_n_144885275685739.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206608870,
+      "content": "u dun like sushi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206580758,
+      "content": "c:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206573671,
+      "content": "Rice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206572337,
+      "content": "Can I just be like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494206538664,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206524409,
+      "content": "hi thirsty hoe pls answer us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206519179,
+      "content": "\u00f0\u009f\u0099\u0084\u00f0\u009f\u0099\u0084\u00f0\u009f\u0099\u0084\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206426584,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206422830,
+      "content": "Ew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206421555,
+      "content": "What kind of sushi you eating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206415827,
+      "content": "HAHAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206413788,
+      "content": "seafood is salty \u00f0\u009f\u0099\u0084\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206412550,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313423568818463_302512478_n_313423565485130.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206405844,
+      "content": "That doesn't make sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206396505,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206339782,
+      "content": "i'd be anything bc i'm a salty angry person :3 HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206338555,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313422508818569_1918615613_n_313422505485236.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206322859,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206321958,
+      "content": "LOL jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206320144,
+      "content": "justin would be cali bc hes basic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206314086,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206301473,
+      "content": "If you were a type of sushi roll what would it be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494206290250,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206279411,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313423568818463_302512478_n_313423565485130.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494206267624,
+      "content": "So",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494194477942,
+      "content": "Lolol it's okay co",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494194447306,
+      "content": "omg xiao LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494194443181,
+      "content": "sorry bbs \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494194442090,
+      "content": "I have two midterms Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494194434806,
+      "content": "Got you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494194430229,
+      "content": "Fake Hoe changed the chat colors.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494194401802,
+      "content": "agh rip nvm i dont think i can do tacos tonight ; - ; i really need to study for my physics midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494148155798,
+      "content": "omg thomas \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494141278393,
+      "content": "My dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494141276778,
+      "content": "God damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494140893097,
+      "content": "And I get more and more progressively crossed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1494140878620,
+      "content": "Guys I've been in this line into omnia for lunge an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494140760989,
+      "content": "sureee!! around 9 this time \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1494132485525,
+      "content": "tacos tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493943863022,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313423568818463_302512478_n_313423565485130.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Terri Tsui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943841628,
+      "content": "Thirsty hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48653455_1881528101957318_5475416122180239360_n_832506643526141.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493943784661,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851579_633722673313709_1591479802_n_633722669980376.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943742380,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943738917,
+      "content": "Nvrm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943736974,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493943178036,
+      "content": "i thought we werent hanging whats happening LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493943165855,
+      "content": "Btw are you going to bonfire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493943157888,
+      "content": "I got you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493943156229,
+      "content": "Want to come to anteatery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493943149650,
+      "content": "Sorry Thomas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493943146054,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943081536,
+      "content": "Dinner pls I'm cries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493943066301,
+      "content": "Or like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493941390686,
+      "content": ":3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493941386179,
+      "content": "Swipes??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493941381519,
+      "content": "Sooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493924739209,
+      "content": "it ok!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493924421876,
+      "content": "sorries :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493924382305,
+      "content": "no sorry \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493922947784,
+      "content": "anyone free to eat rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493922824021,
+      "content": "yeah boo isscoo i feel ya HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493922811481,
+      "content": "as long as its cheap cause im broke af LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493922781827,
+      "content": "tacossss mwahahha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493922735624,
+      "content": "yeah down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493922466846,
+      "content": "Well do something weekend like Sunday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493922355742,
+      "content": "oh bb its okayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493922342552,
+      "content": "im busyyyyy \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493922060860,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493921916616,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493921916053,
+      "content": "im down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493915520616,
+      "content": "Wait are we still doing today at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493899201104,
+      "content": "we planned a fri lunch? LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493894283451,
+      "content": "Boi I have lab tmw from 2-7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894252989,
+      "content": "i understand if u cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894249411,
+      "content": "but can someone drive me to the bonfire late \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894232273,
+      "content": "actually i can still eat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894204022,
+      "content": "late breakfast :D??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493894160007,
+      "content": "Before I leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493894146924,
+      "content": "I'm chairing an event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894126372,
+      "content": "eat before you go :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493894080158,
+      "content": "I'm gone by 3 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493894044219,
+      "content": "so uhh might have to reschedule tomorrow for friday lunch? XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493859523109,
+      "content": ":^)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493859506979,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493859505569,
+      "content": "get off fb or i aint giving u credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493859500602,
+      "content": "thomas is such a memer wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493859392257,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493859373480,
+      "content": "Thirsty hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18302249_1274432762591747_1502529991_n_1274432762591747.png",
+          "creation_timestamp": 1493859371
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493859203855,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493859193089,
+      "content": "me rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493859191815,
+      "content": "Thirsty hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18336992_1274431619258528_1130479234_n_1274431619258528.png",
+          "creation_timestamp": 1493859190
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493856456898,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493856455416,
+      "content": "get a chair tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493856450596,
+      "content": "gateway 2102",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493856434427,
+      "content": "Where the study hours lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493856276350,
+      "content": "omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493856137827,
+      "content": "@Kristine Dayrit imma be a little late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493855955095,
+      "content": "But like actually tho swipe me in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493855548209,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47245544_1134368373404086_2528017419713118208_n_144885262352407.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493855451243,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493855444901,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493855440662,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493855437442,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493855430191,
+      "content": "Feed me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854973604,
+      "content": "fsho. ima eat after study hrs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493854965911,
+      "content": "Next time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854920671,
+      "content": "waow too busy for your troop leader \u00f0\u009f\u0098\u00a2\u00f0\u009f\u0098\u00a2\u00f0\u009f\u0098\u0082 jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854912382,
+      "content": "it ok!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493854911631,
+      "content": "LOLSoryy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854910880,
+      "content": "jk ima just grab chips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493854908389,
+      "content": "I'm kinda busy rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854905671,
+      "content": "no LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493854898568,
+      "content": "Is this for hangout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854829144,
+      "content": "lets eat!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493854826341,
+      "content": "xiao wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493854652899,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493854570263,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493853996085,
+      "content": "oh whale i guess im sittin on da flooooor \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493853988968,
+      "content": "OH MA GAH LOL I CANT DO THIS the room is only for 5 pol \u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9 HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493853971158,
+      "content": "ur so popular \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493853942073,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493853940406,
+      "content": "wait wth i have so many ppl going wut is this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493853912676,
+      "content": "nahh i have a lab atm, prob gonna take a nap instead \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493852624766,
+      "content": "but no need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493852621990,
+      "content": "and 2 points",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493852619772,
+      "content": "if @Justin Le and @Terri Tsui go we get 100% study hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493852600196,
+      "content": "me and sunnie are going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493852594607,
+      "content": "HEY SAME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493852556446,
+      "content": "but ill be coming from work so i might be like a few mins late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493852542623,
+      "content": "Kristine ill be going to your study hours :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493781533963,
+      "content": "rip LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493781520855,
+      "content": "i dont think so ._.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493781509986,
+      "content": "wait is that not alpha canada HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493781504209,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493781108208,
+      "content": "call me fuqboi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493781071826,
+      "content": "Fake Hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18318471_405088493211873_2024700001_o_405088493211873.jpg",
+          "creation_timestamp": 1493781070
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493780798321,
+      "content": "im behind the other two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780774938,
+      "content": "Sit close to each other \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493780758363,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493780756763,
+      "content": "when picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780755089,
+      "content": "Update: I hit another red light",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493780750702,
+      "content": "soooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780524202,
+      "content": "I hit too many of them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493780511684,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780494240,
+      "content": "Lots of ref lights",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780421412,
+      "content": "Jk close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493780407638,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493780396805,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493780389314,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493780333244,
+      "content": "Justin Thomas where you at so we can take this quick pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493777109117,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493777103271,
+      "content": "Thanks ratchets!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493776937170,
+      "content": "YUHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493776926975,
+      "content": "Lolol I'm only coming for you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493776906913,
+      "content": "yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493776829359,
+      "content": "Jk I'll be there for the first 30min so can we take a pic in the beginning??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493776814270,
+      "content": "mmmm hu not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493776804477,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493776803155,
+      "content": "So awks I'm not going to GBM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493774068147,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493774053383,
+      "content": "Sassy ass hoe sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/17757830_258372264625061_82596486_n_1690881714260581.gif",
+          "creation_timestamp": 1493774052
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Thomas D Nguyen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493774031487,
+      "content": "Uhhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493773999659,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493773990884,
+      "content": "Good questio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493773987833,
+      "content": "Uhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493773981400,
+      "content": "when do u guys have to turn in your reqs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493773975348,
+      "content": "bbs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757534563,
+      "content": "lululul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757513142,
+      "content": "ill host em tmrw in return hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757499416,
+      "content": "rip LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757493829,
+      "content": "err i told marcus to stay it was cancelled \u00f0\u009f\u00a4\u0094 can ya let ya pbruhs know HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757491309,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757479245,
+      "content": "HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757477641,
+      "content": "nah i cancelled em",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757472087,
+      "content": "gurl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757469894,
+      "content": "you have study hours today at 4 LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757454833,
+      "content": "or i can host my own for ya if u need it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757444564,
+      "content": "wait do i have study hrs tmrw idk but if i do just go to mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757431285,
+      "content": "omg go to mine tmrw u weirdo LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757413914,
+      "content": "i needs food and study hours arghh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757389513,
+      "content": "maybeeeeeeeeeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757341676,
+      "content": "LOL let us know how it goes \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757334462,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47242333_1134376680069922_7477520203861983232_n_144885022352431.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757190065,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757188852,
+      "content": "but butterflies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757182047,
+      "content": "asdfghjl;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757171071,
+      "content": "then go!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757169254,
+      "content": "waow nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757164271,
+      "content": "i think i can do a 600+ :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757153985,
+      "content": "i had a 300+ mile relationship before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493757135707,
+      "content": "You're such a hoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757129928,
+      "content": "LMAOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757128616,
+      "content": "i say go for da tacos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493757125175,
+      "content": "dat long distance relationship",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493757098295,
+      "content": "should i go to tacos tonight and try to talk to alpha canada ;-;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493752668704,
+      "content": "HAHA it ok i see yall at gbm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493752662354,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47253662_1134370700070520_4775670764596625408_n_144885159019084.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493752631567,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851560_631487316879343_792144087_n_631487313546010.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493752442670,
+      "content": "youll prob be gone after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493752434774,
+      "content": "I WILL!!! ima go after my laundry LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493752389627,
+      "content": "(\u00e0\u00b9\u0091>\u00e2\u0097\u00a1<\u00e0\u00b9\u0091) yall should come get some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493752359670,
+      "content": "im there rn!LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493752354105,
+      "content": "yaaasss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493752003838,
+      "content": "is the kimchi fried rice fundraiser today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493751998334,
+      "content": "hullo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493742817265,
+      "content": "i just read the chat HAHA thirs at 6 is good. i have class till 6 ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493742803169,
+      "content": "o wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493742786930,
+      "content": "YAAA can we go at 6!! i have to be somewhere at 7 \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493715860183,
+      "content": "so its good food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493715858262,
+      "content": "i also think its cinco demayo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493715851931,
+      "content": "hows thursday 6 or 5pm to eat at anteatery or pippins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493714837871,
+      "content": "Lul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493714834438,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493714823585,
+      "content": "Lol we have to wear standards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714760569,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493714753696,
+      "content": "Actives wear the same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714450755,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493714443553,
+      "content": "easyyyy peasyyyy \u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u009b\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714366123,
+      "content": "Idk what actives have to wear though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714360431,
+      "content": "Btw blue and gold for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714117818,
+      "content": "for the last time XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714115307,
+      "content": "than taco sunday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493714103220,
+      "content": "thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493713508691,
+      "content": "But probably not, Wednesday my busy day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493713497908,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493713091937,
+      "content": "we can do wednesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493713066662,
+      "content": "tomorrow because i have class till 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493713055808,
+      "content": "i cant do anteatery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493713051159,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493711915601,
+      "content": "Next weeks theme is gender bender!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493699000861,
+      "content": "Fake Hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18318005_404659909921398_2093627797_o_404659909921398.jpg",
+          "creation_timestamp": 1493698999
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493679504113,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493679451186,
+      "content": "Yeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493679449619,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493679445972,
+      "content": "Oh yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493679445553,
+      "content": "he better have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493679436471,
+      "content": "And Thomas you put it in the album right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493679434244,
+      "content": "yuhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493679427554,
+      "content": "We going as nerds right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493616497636,
+      "content": "Fake Hoe sent 5 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18235793_404231836630872_1389676754_o_404231836630872.jpg",
+          "creation_timestamp": 1493616493
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18216088_404231843297538_146632132_o_404231843297538.jpg",
+          "creation_timestamp": 1493616494
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18261044_404231833297539_628372354_o_404231833297539.jpg",
+          "creation_timestamp": 1493616493
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18216240_404231846630871_930261444_o_404231846630871.jpg",
+          "creation_timestamp": 1493616494
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18261135_404231859964203_1565467942_o_404231859964203.jpg",
+          "creation_timestamp": 1493616495
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493616492466,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493615651708,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493615586613,
+      "content": "r00d af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493615561144,
+      "content": "Sassy ass hoe sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/17792676_10212371126652072_9055123_n_1688391081176311.gif",
+          "creation_timestamp": 1493615560
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493615499983,
+      "content": "love me terri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493615481269,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48665559_1878320855623082_8761824371506413568_n_460938547361327.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493615451124,
+      "content": "That's what I like to hear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493615428905,
+      "content": "nah ill make it blandaf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493615389743,
+      "content": "make the caption bombaf \u00f0\u009f\u0094\u00a5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493615357388,
+      "content": "send it to me i can post :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493615336780,
+      "content": "Oh wait whose posting lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493607088406,
+      "content": "LOL RIP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493607072723,
+      "content": "I'm outside ._.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493607066267,
+      "content": "justins lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493606993445,
+      "content": "jk may u send ur location",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493606852352,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493606851505,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493606672322,
+      "content": "Come outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493606671541,
+      "content": "we outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493606659922,
+      "content": "oh jk LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493606652145,
+      "content": "thomas!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493606156255,
+      "content": "im walking over rnnnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493606110817,
+      "content": "\u00d1\u0082erri is meeting xiao & i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493606105634,
+      "content": "Lemme put clothes on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493605997112,
+      "content": "@Terri @Thomas you guys ready?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605982972,
+      "content": "\u00e2\u0099\u00aa(\u00c2\u00b4\u00e2\u0096\u00bd\u00ef\u00bd\u0080)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493605945274,
+      "content": "(\u00e0\u00b9\u0091\u00ef\u00bd\u00a5\u00cc\u0091\u00e2\u0097\u00a1\u00ef\u00bd\u00a5\u00cc\u0091\u00e0\u00b9\u0091)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493605930250,
+      "content": "okieeeeeeeessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605924891,
+      "content": ":3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605923775,
+      "content": "the parking structure area :2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605917796,
+      "content": "in front of student center",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605914130,
+      "content": "come here terri!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605905031,
+      "content": "TERRRIIII",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493605900881,
+      "content": "where do i go lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493605895931,
+      "content": "just finisheddd chem \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493605600430,
+      "content": "I live in ambrose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493605591658,
+      "content": "262 Amherst aisle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493605513371,
+      "content": "Lolol I'm on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605282913,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605280948,
+      "content": "ill fight u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605278747,
+      "content": "wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493605220005,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493605211638,
+      "content": "Uh bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493605185818,
+      "content": "@Justin Le wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604959430,
+      "content": "thomas where do ya live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604955572,
+      "content": "okie no worries ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604867221,
+      "content": "prob in 10 minutes as long as i dont screwup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604851281,
+      "content": "uhhh i have 2 more problems to do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604820853,
+      "content": "when yall done w your assignment? how much time do ya need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604819108,
+      "content": "When tacos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604811283,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851586_392309674199678_598882596_n_392309670866345.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604804073,
+      "content": "I when tacos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604801181,
+      "content": "its super short \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604794087,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604792810,
+      "content": "i have a bf tho :3 eheh & excomm ends soon ma dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604776420,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604775071,
+      "content": "the girls are cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604581203,
+      "content": "And when is tacos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604573423,
+      "content": "When does excomm end?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604514871,
+      "content": "Jk pls don't hurt me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604508761,
+      "content": "@Kristine hoes with everyone \u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604501778,
+      "content": "lesbihonest \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604471159,
+      "content": "I won't judge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604465216,
+      "content": "Unless you like the girls too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604458486,
+      "content": "I talking about the girls tho fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604417834,
+      "content": "Wait I wanna see send pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604410837,
+      "content": "LOL STFU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604401217,
+      "content": "And there's the OG hoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604369238,
+      "content": "LOLOLOL \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604324830,
+      "content": "alpha canada bros areee cute wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604319354,
+      "content": "aight fersure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604307898,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493604301411,
+      "content": "u can still go tho right thomas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604292125,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493604292027,
+      "content": "Same as terri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604284477,
+      "content": "yusss just needa finish the assignment \u00f0\u009f\u0098\u009b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604269661,
+      "content": "But can you get tacos?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493604251066,
+      "content": "uhhh i cant go to excommtoday, i got a chem assignment due @9 \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493604058906,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493604018175,
+      "content": "I will pick y'all up outside the student center!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603979762,
+      "content": "Is excomm at 7 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603489621,
+      "content": "Yw ratchet \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493603404163,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb thanks bih!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603327051,
+      "content": "I can give you 5 and you venmo me back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493603164615,
+      "content": "LOL i only have one dollar \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603155607,
+      "content": "Anyone else need a spot?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603150106,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493603130468,
+      "content": "oo ok!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603125259,
+      "content": "I usually eat 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603120269,
+      "content": "Yea it's 1.25 then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603113984,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493603110716,
+      "content": "the santa ana taco truck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493603107431,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603086910,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603085232,
+      "content": "Wait where are we going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493603079085,
+      "content": "Lmaooo I think it's 1.25 per taco",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603049528,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493603024194,
+      "content": "idk if everyone else needs but $5 is good for me HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493603006737,
+      "content": "Yeah  how many dollar bills",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493602962692,
+      "content": "can i venmo you back tho!! i dont have cash either HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493602952180,
+      "content": "it only takes dollar bills :3 so yeah thatd be a good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493602918003,
+      "content": "I have no cash should I get some? I was planning to use card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493602893577,
+      "content": "who got dollar bills tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493596641270,
+      "content": "\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493596334591,
+      "content": "Yes Thomas embrace your inner hoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595646764,
+      "content": "C';",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493595641494,
+      "content": "LOLOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493595635701,
+      "content": "whatta thirsty hoe thomas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595634780,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493595630376,
+      "content": "howd u see em?? leads? o:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595623492,
+      "content": ":3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595618825,
+      "content": "Are kinda cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595613001,
+      "content": "Those alpha Canada brothers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493595596470,
+      "content": "Hey guys low key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493595572406,
+      "content": "LOL WHA NO I WANT TACOS HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493589172202,
+      "content": "noone will know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493589169252,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493589167542,
+      "content": "its good we can just take a picture and leave XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493585001264,
+      "content": "justin n & i have a midterm tmrw so we might be a little fast if thats okie w yall bbs \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0092\u0095",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493583361093,
+      "content": "Justin LOL",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493583181152,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493583059171,
+      "content": "You set the nickname for Thomas D Nguyen to Thirsty hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493583000331,
+      "content": "Are you thirst",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582996835,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493582994394,
+      "content": "Do you need water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582991500,
+      "content": "Troops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493582990463,
+      "content": "omg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582988593,
+      "content": "So like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582984857,
+      "content": "You know cause APO is all about Boy Scouts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493582982391,
+      "content": "\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493582979464,
+      "content": "Is u lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493582973789,
+      "content": "Are you okay troopie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493582943235,
+      "content": "LOL what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582940970,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582939022,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582937295,
+      "content": "You know like Boy Scouts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493582921620,
+      "content": "Oh wow wait we are a troop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493574651016,
+      "content": "so come out to excomm hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493574650939,
+      "content": ":3*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493574650768,
+      "content": "Yaaaa tonight after excomm ;3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493530772257,
+      "content": "ohhhh do i hear tacos \u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524656710,
+      "content": "pineapple pen????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524650642,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524649191,
+      "content": "thomas what is that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493524477576,
+      "content": "\u00e2\u009c\u0092\u00f0\u009f\u008d\u008d\u00f0\u009f\u008d\u008e\u00e2\u009c\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524400930,
+      "content": "YAAAAAAA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524391912,
+      "content": "BUT ONLY IF EVERYONE CAN GO @Terri Tsui@Thomas Nguyen",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kristine Dayrit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524352057,
+      "content": "But yea I'm down for 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524344992,
+      "content": "Rude af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524293973,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524280521,
+      "content": "\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524274951,
+      "content": "7:30 is cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524271333,
+      "content": "i have to go to an excomm meeting too its okay xiao HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524259721,
+      "content": "justin shaddap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524257061,
+      "content": "And I think there are only 5 left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524250401,
+      "content": "lol I want to get rid of em as fast as possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524226808,
+      "content": "You only need 4 Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524221991,
+      "content": "Nah skip the excomm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524215280,
+      "content": "7:30? 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524204920,
+      "content": "I have an excomm meeting please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524195029,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524194156,
+      "content": "\u00f0\u009f\u0098\u0082 LOL how about 7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524177860,
+      "content": "LOL WYM \u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524173228,
+      "content": "ya less hang sunday. how about around 8??? i want tacoosssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524171707,
+      "content": "Oh so now you respond ok co",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493524160770,
+      "content": "JUSTIN DONT BE MEAN TO THEM \u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4 ill fight u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493524154441,
+      "content": "\u00e2\u009c\u0092\u00f0\u009f\u008d\u008d\u00f0\u009f\u008d\u008e\u00e2\u009c\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493524139940,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493524124200,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493514364689,
+      "content": "We should hangout sunday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493410795614,
+      "content": "thanks Justin <3 for the lookout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493408244351,
+      "content": "Lmao then just go next week. I forgot that was a req so it almost screwed me over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493408211709,
+      "content": "But class in a bit :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493408166963,
+      "content": "Or if you're free rn IC Chairs are having a meeting 30min at Phoenix grill. DONT FK UP PLEDGING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493408065034,
+      "content": "Oooooo I'll do that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493408012717,
+      "content": "Have you guys gone to a excomm committee meeting yet? If you haven't you should go to Service VP meeting on fridays at 11 at Phoenix grill \u00f0\u009f\u00a4\u0097 join me next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493402015052,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401836509,
+      "content": "or before gbm starts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401834646,
+      "content": "they finish around 11-12 CHILLLL LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493401762535,
+      "content": "Bruh I'm not waiting til 2am to get tacos lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401718619,
+      "content": "RIPPPP how bout after plege meeting if yall free & not tired \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493401675099,
+      "content": "Gone for the weekend lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493401542828,
+      "content": "Sassy ass hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851586_392309684199677_1786664648_n_392309680866344.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401358424,
+      "content": "lets get tacos or smthn LOLOL maybe sat tho \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401352491,
+      "content": "Fake Hoe sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493401229356,
+      "content": "Love me ratchets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493401197494,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493401171232,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1493401168423,
+      "content": "Did someone say swipes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493399135268,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493399133353,
+      "content": "wait terri wut. u have a meal pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493399124548,
+      "content": "yeah xiao swipe em",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493398754468,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493398088645,
+      "content": "Does it work like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493398050918,
+      "content": "LOL y dont u bring us three too so we can get points ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493398032440,
+      "content": "Hey a mans gotta do what he's gotta do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493398016455,
+      "content": "ok xiao bribing \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493398013046,
+      "content": "I'm a ratchet hoe \u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493398009482,
+      "content": "HAHAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493398001214,
+      "content": "Please I'll do anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493397997012,
+      "content": "Justin \u00f0\u009f\u0098\u008d I'll swipe you in if you let me interview you again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493394720337,
+      "content": "Wow rude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493394690778,
+      "content": "lil ratchet babies \u00f0\u009f\u0098\u009a\u00f0\u009f\u0098\u009a\u00f0\u009f\u0098\u009a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493394684274,
+      "content": "Fake Hoe changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493394673118,
+      "content": "FREAK YOUUUU LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392943984,
+      "content": "#eyeroll @Kristine Dayrit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392903887,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392855250,
+      "content": "You removed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392836434,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392768160,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392758395,
+      "content": "You set the emoji to \u00f0\u009f\u0091\u0080.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493392623330,
+      "content": "uhhhh.... nope, dont think im gonna reach that \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493392045326,
+      "content": "BUT did you reach your first check point??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Terri Tsui",
+      "timestamp_ms": 1493392000005,
+      "content": "LOL we uploaded the picture a few days ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493391941600,
+      "content": "Y'all better not be fucking up. Just a nice reminder in case you forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493183174500,
+      "content": "Don't forget to upload them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493182933335,
+      "content": "Fake Hoe sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18175508_401892206864835_1183311947_o_401892206864835.jpg",
+          "creation_timestamp": 1493182932
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493182413249,
+      "content": "No need no need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493182153272,
+      "content": "LETS TAKE A PICTURE AFTER",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493182127947,
+      "content": "sorry bbs we love u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493182047672,
+      "content": "We too poor to do shout outs LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493095455569,
+      "content": "Fake Hoe named the group rATchet Hoes.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1493095447568,
+      "content": "Fake Hoe sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18159474_401458150241574_2007096638_o_401458150241574.jpg",
+          "creation_timestamp": 1493095446
+        },
+        {
+          "uri": "messages/inbox/rATchetHoes_9noCElM8Jg/photos/18120510_401458153574907_1719115064_o_401458153574907.jpg",
+          "creation_timestamp": 1493095446
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493094101469,
+      "content": "Ayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493094099797,
+      "content": "RATCHET HOES",
+      "type": "Generic"
+    }
+  ],
+  "title": "rATchet Hoes",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/rATchetHoes_9noCElM8Jg"
+}

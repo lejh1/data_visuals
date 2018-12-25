@@ -1,0 +1,496 @@
+{
+  "participants": [
+    {
+      "name": "Michael Monh"
+    },
+    {
+      "name": "Linda Diec"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Grace Zhu"
+    },
+    {
+      "name": "Hector Vega"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Jerimi Vindua"
+    },
+    {
+      "name": "Anna Young"
+    },
+    {
+      "name": "Marcus Wu"
+    },
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Yuuki Aotake"
+    },
+    {
+      "name": "Abraham Castro"
+    },
+    {
+      "name": "Peter V. Nguyen"
+    },
+    {
+      "name": "Adriana Baldibia-Bejar"
+    },
+    {
+      "name": "Aaron Buzon"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1492155987229,
+      "content": "Kevin Loc left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kevin Loc"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492139276203,
+      "content": "LMAO OH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492139235644,
+      "content": "bruh HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492139220614,
+      "content": "@Anna Young Did you know that I'm the only one here in this group chat LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1492139171459,
+      "content": "It's up to you guys though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492139159827,
+      "content": "Kevin Kuang left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kevin Kuang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492139144537,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492139138657,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492139136496,
+      "content": "Let me ask Linda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1492139125013,
+      "content": "Do itttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1492139121777,
+      "content": "Adriiii!! \u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492139120198,
+      "content": "LMAO GURL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1492139099207,
+      "content": "I'm studying abroad but I'm awake rn so if treasurer isn't there rn I can do it through FaceTime lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492139030304,
+      "content": "You guys can come in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492138987480,
+      "content": "5 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492138968289,
+      "content": "There's only 4 of us here rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492138872374,
+      "content": "Almost there lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492138868067,
+      "content": "okkkeey :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492138851293,
+      "content": "i wont be there ): but justin is there for fvp \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492138807408,
+      "content": "Are you guys all there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492052433535,
+      "content": "Not yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492052427322,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492052411108,
+      "content": "Do we go in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1492052401655,
+      "content": "Tents not the room?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492052377942,
+      "content": "We're going to start soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492052373304,
+      "content": "Come come!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492052370111,
+      "content": "tents*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492052368340,
+      "content": "at da twnts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492052366754,
+      "content": "nah we outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1492052355510,
+      "content": "Is I t too late im running",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1492047581915,
+      "content": "Okie okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492047553538,
+      "content": "Yes please. And we'll get you around 8. Just stay outside.  We'll come grab u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1492047503425,
+      "content": "So we gotta be there before 8 right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1492046949740,
+      "content": "Yuuki: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492046935181,
+      "content": "It says it on the google sheet yuuki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1492045910773,
+      "content": "Where are we meeting up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1492045908465,
+      "content": "Hey anna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967597171,
+      "content": "Okay sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967592273,
+      "content": "Until later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491967589940,
+      "content": "Fill it out later then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967589926,
+      "content": "So I won't be able to fill it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967584040,
+      "content": "I'm in classs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491967577646,
+      "content": "Fill up the doc pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967573183,
+      "content": "Anna sign me up on Wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967563897,
+      "content": "I can come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1491967560182,
+      "content": "Kevin it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491798613383,
+      "content": "it's ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1491798336961,
+      "content": "Jonathan Pho left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jonathan Pho"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1491798324699,
+      "content": "im sorry i won't be able to make it anna i apologize \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1491798247442,
+      "content": "d.c. practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1491784482487,
+      "content": "DC rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1491784456270,
+      "content": "D.C. Practice !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1491783860641,
+      "content": "DC practice ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781325641,
+      "content": "if you can't make either date/time, i wont be offended if u leave the chat lol. don't wanna spam y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781287531,
+      "content": "Anna named the group Binder Meeting Speakers.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781200953,
+      "content": "just put down both ur names",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781194090,
+      "content": "ya if u both wanna come that's cooo tooo :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491781159214,
+      "content": "Can both of us go if possible? Or you only want one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781150595,
+      "content": "you guys get first dibs to sign up since it's more familiar to y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491781110845,
+      "content": "it's ok if you can't make it bc of dc! we'll ask excomm or past plexcomm members",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491781064886,
+      "content": "lawrance and i (for historian) have DC practice too :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780900445,
+      "content": "we can find another person*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780892759,
+      "content": "Uhhh we wouldn't want you to miss dance comp....we can't find another person to speak too so don't worry :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1491780834625,
+      "content": "I can go wednesday if it'll be short and i can take a like... 15 minute break from Dance Conp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780757057,
+      "content": "location will be disclosed later after we book the room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1491780746131,
+      "content": "Do you have the times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780741342,
+      "content": "you will need to be at the location at 8pm (please don't be late)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780690750,
+      "content": "https://docs.google.com/spreadsheets/d/106svB2_R8eZrmpqPkF2xYuIs0k8eRdPCmlz4v4v9y7w/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1491780678094,
+      "content": "Hi everyone! The new pledges will have their binder meeting this Wed 4/12 and Thurs 4/13 and we would like you to speak to the pledges about your experiences being on plexcomm and your position. We only need 1 person from each position. If you can make it to one or both of the binder meetings to speak please write your name in the google sheets linked below. You'll only have to speak for ~2-3 min each. :3",
+      "type": "Generic"
+    }
+  ],
+  "title": "Binder Meeting Speakers",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BinderMeetingSpeakers_bQKGtzikjQ"
+}

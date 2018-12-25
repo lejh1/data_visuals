@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Tifa Min"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tifa Min",
+      "timestamp_ms": 1509169859389,
+      "content": "Where is Michelle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485524921357,
+      "content": "Say hi to your new Facebook friend, Tifa.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tifa Min",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TifaMin_xPI9zR4h-A"
+}

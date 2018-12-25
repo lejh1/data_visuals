@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lex Ran"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494831287380,
+      "content": "Say hi to your new Facebook friend, Lex.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lex Ran",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LexRan_7LCcC4-8zA"
+}

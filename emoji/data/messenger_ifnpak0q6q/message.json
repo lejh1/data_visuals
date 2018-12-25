@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Messenger"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1544198408649,
+      "content": " sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1544198408330,
+      "content": "Say \u00f0\u009f\u0091\u008b to the new Messenger! We've simplified your messaging experience into 3 views - Chats, People and Discover - and added more fun ways to personalize your conversations. Tap below to check out what's new \u00f0\u009f\u0091\u0087",
+      "type": "Generic"
+    }
+  ],
+  "title": "Messenger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/Messenger_iFnpAK0Q6Q"
+}

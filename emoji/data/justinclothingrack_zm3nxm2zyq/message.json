@@ -1,0 +1,187 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Lam"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503294661240,
+      "content": "Yeah im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503294439984,
+      "content": "You there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503293511985,
+      "content": "Okay I'll be there in 20min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503288677686,
+      "content": "Let me know when ur heading over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282111401,
+      "content": "Kelly: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503282107822,
+      "content": "And it shouldn't be that late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282106592,
+      "content": "Okay sounds good!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503282101312,
+      "content": "Okay thank you! I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282097016,
+      "content": "Just not passed 12 bc i have work tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282087715,
+      "content": "Tonite is fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503282076913,
+      "content": "Um how about tonight lol I won't be back in Irvine til lateish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282058165,
+      "content": "I live on second floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282052243,
+      "content": "My address is 380 quail meadow, irvine, ca 92603",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503282028877,
+      "content": "Im available now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503282003950,
+      "content": "Okay sounds good! When is a good time to pick it up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281984342,
+      "content": "Yeah it can extend pretty long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281949430,
+      "content": "It extends?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281944987,
+      "content": "The part that hangs clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281727270,
+      "content": "Bc that can be extended",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281722729,
+      "content": "Or the part to hang clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281716747,
+      "content": "Are u asking about the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281572679,
+      "content": "Let me look for my measuring tape",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281481668,
+      "content": "Would you happen to know how wide it is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281445429,
+      "content": "And has been already disassembled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kelly Lam",
+      "timestamp_ms": 1503281438568,
+      "content": "Hi yes its still available",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281417387,
+      "content": "Hi I'm interested!! Is it still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281417315,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503281416320,
+      "content": "You named the group Justin \u00c2\u00b7 Clothing Rack.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 Clothing Rack",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinClothingRack_zm3NxM2zYQ"
+}

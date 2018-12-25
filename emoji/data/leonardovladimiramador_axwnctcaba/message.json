@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Vladimir Amador"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leonardo Vladimir Amador",
+      "timestamp_ms": 1501099484064,
+      "content": "Say hi to your new Facebook friend, Leonardo.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Leonardo Vladimir Amador",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LeonardoVladimirAmador_aXwnctCABA"
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Katie Gu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529363053206,
+      "content": "Lol not yet maybe tmr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Gu",
+      "timestamp_ms": 1529362431171,
+      "content": "LOL did you end up making a group chat or nawh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Gu",
+      "timestamp_ms": 1529362424513,
+      "content": "Ooo yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529362419090,
+      "content": "We haven\u00e2\u0080\u0099t made plans yet tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529362414236,
+      "content": "Hi I\u00e2\u0080\u0099m down! Imma try going to sf this weekend with Bernard, Serena and others if you wanna joins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Gu",
+      "timestamp_ms": 1529357535663,
+      "content": "HI lets hang sometime",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Gu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatieGu_UdZFA-cEsA"
+}

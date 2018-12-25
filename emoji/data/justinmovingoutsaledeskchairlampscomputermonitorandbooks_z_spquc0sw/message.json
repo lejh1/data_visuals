@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Kyung Soo Hyun"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Kyung Soo Hyun",
+      "timestamp_ms": 1507073681165,
+      "content": "My parents used it to watch stuff but I think it's very low quality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kyung Soo Hyun",
+      "timestamp_ms": 1507073663121,
+      "content": "lol I never used it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507062032122,
+      "content": "Why are you selling your computer for so cheap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kyung Soo Hyun",
+      "timestamp_ms": 1507061701112,
+      "content": "The lamp and the computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507060958502,
+      "content": "Jk whats left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507060174454,
+      "content": "Pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kyung Soo Hyun",
+      "timestamp_ms": 1507055434728,
+      "content": "Do I just charge your brother?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507055371376,
+      "content": "Can I have everything for free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507055371302,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507055370335,
+      "content": "You named the group Justin \u00c2\u00b7 Moving out sale. Desk, chair, lamps, computer, monitor, and books.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 Moving out sale. Desk, chair, lamps, computer, monitor, and books",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinMovingoutsaleDeskchairlampscomputermonitorandbooks_z_spqUc0sw"
+}

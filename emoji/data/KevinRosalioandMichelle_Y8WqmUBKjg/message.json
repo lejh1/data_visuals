@@ -1,0 +1,802 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Gonzalez"
+    },
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1523042376054,
+      "content": "I'm not going to 106 today friends \u00f0\u009f\u00a4\u0099",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522994504827,
+      "content": "Rose we here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522993935375,
+      "content": "Come out!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522993811759,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522993795665,
+      "content": "Kevin we\u00e2\u0080\u0099re getting you first we\u00e2\u0080\u0099re almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522993597413,
+      "content": "yes yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522993588916,
+      "content": "Rose are you at your place?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522993572884,
+      "content": "lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522993552627,
+      "content": "We coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522991952365,
+      "content": "Yeye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522991811253,
+      "content": "yay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522991794511,
+      "content": "I\u00e2\u0080\u0099m in a meeting rn but I\u00e2\u0080\u0099m almost done!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522991764414,
+      "content": "where are le jooj and mich???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522991653761,
+      "content": "Yes!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522991639644,
+      "content": "we going to sonic bbs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522988034011,
+      "content": "yeyeye <333333333",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522980838019,
+      "content": "Rosalio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522980826432,
+      "content": "We owe ya \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522980819557,
+      "content": "You been helping out me & Justin w the parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522980807663,
+      "content": "Lol it\u00e2\u0080\u0099s ok I can drive!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522980781528,
+      "content": "i'm at school rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522980760871,
+      "content": "Are you at the apt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522980747297,
+      "content": "I can drive also bbs,\nyall drive us around quite a bit \u00f0\u009f\u0092\u0096",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522980720686,
+      "content": "Me/juju can drive to sonic!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522438538838,
+      "content": "It\u00e2\u0080\u0099s like on a corner next to a building called partner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522438521800,
+      "content": "Angara",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522438504021,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522438502729,
+      "content": "What's it's called",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522438338881,
+      "content": "Okay! I just got here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522438145955,
+      "content": "8min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522437588764,
+      "content": "Okay!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522437233081,
+      "content": "20 min away @Kevin Gonzalez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522435635678,
+      "content": "2170 Torrance Blvd, Torrance, CA 90501",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522435592736,
+      "content": "send le address pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522435584088,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522435534880,
+      "content": "We meeting there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522435118333,
+      "content": "Where da place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522434247185,
+      "content": "Rosalio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851571_555288481225673_1602454163_n_554423821312139.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522434157070,
+      "content": "Ya sabes boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522434016038,
+      "content": "can Adam come?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522433420190,
+      "content": "LEET",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522433014964,
+      "content": "let me get ready boiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522432992117,
+      "content": "Come send it!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522432893989,
+      "content": "rip we gotta go now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430486948,
+      "content": "11:00-2:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430474590,
+      "content": "Lunch buffet from 11:30-2:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430395783,
+      "content": "Wait wait wait *again* lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430313404,
+      "content": "They changed their hours \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430271604,
+      "content": "Wait wait wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430219417,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522430202581,
+      "content": "Is the bufffet only a certain time tho ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430177468,
+      "content": "I just say 12 haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430168983,
+      "content": "But y\u00e2\u0080\u0099all can come down earlier if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430155999,
+      "content": "12*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522430152275,
+      "content": "13?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1522430095579,
+      "content": "What time @Kevin Gonzalez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522379157123,
+      "content": "YAY!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522379115582,
+      "content": "I'm down!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522374200146,
+      "content": "Rosalio sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851565_555289261225595_591737784_n_554423717978816.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522373360880,
+      "content": "It\u00e2\u0080\u0099s a buffet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522373353086,
+      "content": "YAY!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522372929025,
+      "content": "UASS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522372922585,
+      "content": "Midday!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522372892392,
+      "content": "what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1522372890658,
+      "content": "down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522369265743,
+      "content": "Indian food in Torrance tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1522369255205,
+      "content": "So like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1517198949315,
+      "content": "Wait that so exciting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1517198691894,
+      "content": "it'll be their first time \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1517198596826,
+      "content": "Yay \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517198585605,
+      "content": "Yeye that's fine !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1517195205641,
+      "content": "Yoo 2 of my cousins will be joining us at Crush, I hope that's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513887080005,
+      "content": "We are close!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513887058678,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513886161347,
+      "content": "On my way!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513886155157,
+      "content": "if u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513886141747,
+      "content": "Want me to pick you all up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513886114521,
+      "content": "Michelle and Justin gettin ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513885937350,
+      "content": "Hawaiian BBQ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513885915456,
+      "content": "To where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513885887429,
+      "content": "On my way!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884663411,
+      "content": "Okay!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513884644337,
+      "content": "down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884624499,
+      "content": "Hawaiian BBQ!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884617868,
+      "content": "So district?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884610719,
+      "content": "He needs to kilo hours per second",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513884590414,
+      "content": "I thought one of the workers there was my friend but then he gave me his number so now I can\u00e2\u0080\u0099t go back \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884587329,
+      "content": "Story time for later!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884580649,
+      "content": "Lol why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513884571313,
+      "content": "I can\u00e2\u0080\u0099t go to that halal anymore \u00f0\u009f\u0098\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884545250,
+      "content": "Or hallal guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884531650,
+      "content": "But if we go to the district we can get that Hawaiian bbq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884517841,
+      "content": "So if we are going to starlight I have no idea what to eat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513884470513,
+      "content": "Ya! We can watch it wherever tho I just know the starlight is cheap but idk about anywhere else lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884426049,
+      "content": "Is it called starlight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884401458,
+      "content": "Also, I invited Haley haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884387461,
+      "content": "No idea what's around there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884379229,
+      "content": "Oh!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513884370123,
+      "content": "Newport?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513884357128,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884341317,
+      "content": "If you can tell me where the theater is located then I can choose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884311917,
+      "content": "Where is the theater",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513884311726,
+      "content": "Rosalio: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513884308215,
+      "content": "Hehe bc I know you don\u00e2\u0080\u0099t like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884281660,
+      "content": "Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513884279488,
+      "content": "Why are y'all doing this to me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513884249301,
+      "content": "@Kevin Gonzalez you pick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513884223560,
+      "content": "you pick @Kevin Gonzalez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513883344965,
+      "content": "You pick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513883332278,
+      "content": "Where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513883328456,
+      "content": "Yes!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513883319875,
+      "content": "If you\u00e2\u0080\u0099re down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513883302838,
+      "content": "Wait, are we still eating at 12?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513881780917,
+      "content": "Stupid down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513880705883,
+      "content": "down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513880693587,
+      "content": "We can watch at the starlight for $8 at 1:20?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1513827708628,
+      "content": "Down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1513820930578,
+      "content": "i'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513820377895,
+      "content": "Are you free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513820374985,
+      "content": "Around 12?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1513820366608,
+      "content": "Lunch & Star Wars?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1510086427847,
+      "content": "Jadaddy \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1510086411756,
+      "content": "So young & beautiful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510082614982,
+      "content": "jadaddy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510082599893,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRosalioandMichelle_Y8WqmUBKjg/photos/23423524_464871843907845_2076547846_o_464871843907845.png",
+          "creation_timestamp": 1510082598
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510082594407,
+      "content": "look what I found",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin, Rosalio and Michelle",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KevinRosalioandMichelle_Y8WqmUBKjg"
+}

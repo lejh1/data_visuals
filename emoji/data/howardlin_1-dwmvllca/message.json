@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Howard Lin"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Howard Lin",
+      "timestamp_ms": 1496352950741,
+      "content": "Oh okay thanks for the heads up!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496352934747,
+      "content": "I'll also be at cha night for a couple hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496352922794,
+      "content": "Uh I'll try to be out there tomorrow if not I'm usually at the tents on Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Howard Lin",
+      "timestamp_ms": 1496351217957,
+      "content": "Hey Justin, this is Howard and I am a pledge from alpha theta class, I noticed that you're very busy I am wondering when you're free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Howard Lin",
+      "timestamp_ms": 1493757946544,
+      "content": "Say hi to your new Facebook friend, Howard.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Howard Lin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HowardLin_1-DwmvlLCA"
+}

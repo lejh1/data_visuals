@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Lidiya Murakhovs'ka"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982251522,
+      "content": "Hello are you still i the Bay Area \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982243432,
+      "content": "You waved at Lidiya!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Lidiya Murakhovs'ka",
+      "timestamp_ms": 1530759929991,
+      "content": "Say hi to your new Facebook friend, Lidiya.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lidiya Murakhovs'ka",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LidiyaMurakhovska_KVnN3zW1NA"
+}

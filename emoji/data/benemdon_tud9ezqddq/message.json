@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Ben Emdon"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Emdon",
+      "timestamp_ms": 1534664202851,
+      "content": "It was ~ n i c e ~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534664172621,
+      "content": "I was telling some friends how nice GitHub was haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Emdon",
+      "timestamp_ms": 1534660402822,
+      "content": "I lived at 340 Fremont apartments why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Emdon",
+      "timestamp_ms": 1534660386492,
+      "content": "Hey miss you too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534652171929,
+      "content": "Also where did you live in sf lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534652164823,
+      "content": "Hi I miss you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534652157696,
+      "content": "You waved at Ben!",
+      "type": "Share"
+    }
+  ],
+  "title": "Ben Emdon",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BenEmdon_tUd9ezQddQ"
+}

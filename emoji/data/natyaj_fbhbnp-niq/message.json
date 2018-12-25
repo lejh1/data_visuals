@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Nat Yaj"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1498938213958,
+      "content": "Nat: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937982783,
+      "content": "It's there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1498937569477,
+      "content": "Okay. Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498936901883,
+      "content": "Np! I'm in a rush so imma just leave it on the front porch then message you on my way out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1498936775425,
+      "content": "Oh Okay! Thanks so much! I appreciate it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498936631803,
+      "content": "Hiya! How fun I was actually on my way to drop it off rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1498936306564,
+      "content": "*to the room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nat Yaj",
+      "timestamp_ms": 1498936293778,
+      "content": "Hi Justin.\n\nI was told you had the keys to room, and I believe the house? Is there a time today we can come and pick them up? Thanks!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nat Yaj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NatYaj_fBHBnP-nIQ"
+}

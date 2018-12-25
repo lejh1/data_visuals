@@ -1,0 +1,643 @@
+{
+  "participants": [
+    {
+      "name": "Linda Diec"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Tiffany Sekacnap Yrettub Nguyen"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Norman Zelada"
+    },
+    {
+      "name": "Odalys Orellana"
+    },
+    {
+      "name": "Alan Perez"
+    },
+    {
+      "name": "Brittney Bayardo"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492826949244,
+      "content": "Alan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492826610866,
+      "content": "no more spc lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492826603298,
+      "content": "yassssss you're done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492826576415,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492826570146,
+      "content": "\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095 tenks for all of yo hard work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492826548409,
+      "content": "Hi everyone!!! Thank you so much for all your help\u00e2\u009d\u00a4\u00e2\u009d\u00a4 your guys' booths were amazing!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492802133451,
+      "content": "Bless!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492801925661,
+      "content": "I GOTCHU",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492801924088,
+      "content": "MY ROOMIE GOT A CRAP TON",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492801910762,
+      "content": "Any size works! Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492801882931,
+      "content": "I have one lol and I think Gina has 5. Someone eco friendly help Norman out please \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492801833485,
+      "content": "If anyone has empty water bottles do you mind bringing them for me? I have a few but i would like to have a little extra just in case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492801322323,
+      "content": "Meant to do a \u00f0\u009f\u0098\u00ae reaction",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492801289873,
+      "content": "Justin you a homie. I'm all good (: You got everything the first time 'round <3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492801253096,
+      "content": "Hi! I'm swinging by Walmart and joanns if anyone wants some last minute supplies \u00f0\u009f\u0099\u0082? I'm skipping class for this so I wanna make it worth lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Norman Zelada"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492727896738,
+      "content": "You the best Justin ty",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492725383094,
+      "content": "Is everyone's booth going well \u00f0\u009f\u0099\u0082? If you need anymore materials or anything let me know before tomorrow noon!  Also if you want me take your stuff (poster board/materials) to NYSD I can do so. Just let me know where/when I can pick them up!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492564527310,
+      "content": "Smartiesss. \u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492564392528,
+      "content": "I shall get some. Smarties or whaa?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492564355533,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492564157638,
+      "content": "so i can make sure it is safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492564148190,
+      "content": "let me have some bish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492564136028,
+      "content": "YAAAA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492564135401,
+      "content": "not really though the organizers of the fair might be like nah you gonna kill the kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1492564124688,
+      "content": "Ooo we can do that ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1492564105431,
+      "content": "yeah maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492564093574,
+      "content": "Did you guys want candy or anything to give to the kids at your booths? I can buy a big bag!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492275043417,
+      "content": "Hellooo booth leaders! I hope your poster boards are coming together nicely! If you need to pick up your poster board still please do so at the Prep day location or message me. \n\nALSO i have your materials for your booths! Please please message me about how you want your stuff! Ill be in Irvine tomorrow if you would like me to drop them off. Thank you!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Norman Zelada",
+      "timestamp_ms": 1492200319205,
+      "content": "That is why you fail young padawan.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492200295635,
+      "content": "I dont update hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1492197196445,
+      "content": "hold the msg :3 if u updated fb messenger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492196014294,
+      "content": "Linda: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492196012880,
+      "content": "Idk how to like msges.. so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492195128735,
+      "content": "Hi  Booth Leaders! So because we love you, all of you are getting an hour extra of service YAY!!! This is for being a booth leader and also making the poster board :) If you haven't picked up your poster board you can message me or go to one of the Prep Services. LIKE THIS MESSAGE IF YOU HAVE READ IT SO WE KNOW YOU YOU GUYS ARE ALIVE <3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Reeva Reyes"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Tiffany Sekacnap Yrettub Nguyen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jacky Zhang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Norman Zelada"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Odalys Orellana"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alan Perez"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Brittney Bayardo"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Kristine Dayrit"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492194837592,
+      "content": "You removed Jerimi Vindua from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jerimi Vindua"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492194710947,
+      "content": "You removed Francis Angeles from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Francis Angeles"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492194702863,
+      "content": "You removed Kenny Yu from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kenny Yu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491951347449,
+      "content": "We also have poster paper to make a sign for you booth if you want. Just message @Kristin Chingburanakit with what you want on the poster.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491951290850,
+      "content": "you can leave mine inside my house",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491951261969,
+      "content": "Hi just letting you know that you will be getting your poster boards today at GBM! You can either take it home with you to finish or you can leave it with me and it'll be at the prep day location and you can finish it there. If you are taking it home I'll have construction paper you can take home with you also for decorations :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1491493588500,
+      "content": "Paula Hernandez left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Paula Hernandez"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491492981393,
+      "content": "Good morning! please be prepared to tell us your booth ideas by the end of the night. If you don't have anything ready then we will assign something to you. ALSO once your booth gets approved please make a list of materials you will need so we can start creating booths :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491293335070,
+      "content": "Please Sign up for a booth if you have not done so already <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491293312691,
+      "content": "https://docs.google.com/spreadsheets/d/1-Gx1O7BGXduox3ovRUuLRpfRHt-gl1vPms9UGHW1u4Q/edit#gid=0",
+      "share": {
+        "link": "https://docs.google.com/spreadsheets/d/1-Gx1O7BGXduox3ovRUuLRpfRHt-gl1vPms9UGHW1u4Q/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491255558756,
+      "content": "https://docs.google.com/document/d/1lNjXjCVpGryaXT-SP1kym6oPQA9PzFNm8DD0tgNZItg/edit?usp=sharing",
+      "share": {
+        "link": "https://docs.google.com/document/d/1lNjXjCVpGryaXT-SP1kym6oPQA9PzFNm8DD0tgNZItg/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491255555938,
+      "content": "HI new people please read the doc :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491254777068,
+      "content": "Kristin Chingburanakit added Jacky Zhang.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jacky Zhang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491254580319,
+      "content": "Kristin Chingburanakit added Paula Hernandez and Jerimi Vindua.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Paula Hernandez"
+        },
+        {
+          "name": "Jerimi Vindua"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491254533371,
+      "content": "Kristin Chingburanakit removed Graciela Castrejon from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Graciela Castrejon"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491254504645,
+      "content": "Kristin Chingburanakit added Francis Angeles.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Francis Angeles"
+        }
+      ]
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1491161778119,
+      "content": "Adina Kabibolayeva left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Adina Kabibolayeva"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491114598734,
+      "content": "Also the sooner you guys finalize your booth ideas the sooner I can approve and you can start building!!! If you can't think of an idea message us! We have super cute ideas! \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491114548834,
+      "content": "Anywayyyy don't forget to sign up for the booths on the google sheets. If a booth already got taken and you want to do it you can always feel free to message us and we will see what we can do!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491114172316,
+      "content": "its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491114120240,
+      "content": "Sorry for the confusion!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491114110529,
+      "content": "Awk Thursday the 6th lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491113262135,
+      "content": "so april 6th, thursday or\napril 4th, tuesday??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491113239003,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491113236644,
+      "content": "thurs april 4th DNE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491113228193,
+      "content": "Kristine sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BOOTHLEADERSNYSD17_kGBbP-j0-g/photos/17692868_389084191478970_1856728962_o_389084191478970.jpg",
+          "creation_timestamp": 1491113227
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1491113225577,
+      "content": "hi justin/kristin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491113108809,
+      "content": "Hi new booth leaders :) read the previous messages/doc please!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491112560417,
+      "content": "Kristin named the group BOOTH LEADERS NYSD 17.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491112512699,
+      "content": "Kristin Chingburanakit added Graciela Castrejon.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Graciela Castrejon"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491112464362,
+      "content": "Kristin Chingburanakit added Kenny Yu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Kenny Yu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491011619231,
+      "content": "Yay spcs\u00f0\u009f\u0092\u0096",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491011552218,
+      "content": "Yay twin\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491010662602,
+      "content": "If you arent a booth leader and I just messed up then sorry lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491010635103,
+      "content": "Hi guys!!! Thank you for helping us by becoming booth leaders!!! Here is all the information you need to get started! Let us know if you need any help or have any questions! Please pay attention to the deadlines section of the Doc :) https://docs.google.com/document/d/1lNjXjCVpGryaXT-SP1kym6oPQA9PzFNm8DD0tgNZItg/edit?usp=sharing",
+      "share": {
+        "link": "https://docs.google.com/document/d/1lNjXjCVpGryaXT-SP1kym6oPQA9PzFNm8DD0tgNZItg/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "BOOTH LEADERS NYSD 17",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BOOTHLEADERSNYSD17_kGBbP-j0-g"
+}

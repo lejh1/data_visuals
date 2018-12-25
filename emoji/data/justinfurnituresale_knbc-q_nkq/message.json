@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Tanraj Bains"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanraj Bains",
+      "timestamp_ms": 1528844730252,
+      "content": "Coffee table is sold",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528842642664,
+      "content": "What about the coffee table?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tanraj Bains",
+      "timestamp_ms": 1528842504625,
+      "content": "The plastic shoe rack is available right now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528835137504,
+      "content": "Hey I\u00e2\u0080\u0099m interested in the shoe rack and coffee table. Are they still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528835136734,
+      "content": "You named the group Justin \u00c2\u00b7 Furniture Sale.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 Furniture Sale",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinFurnitureSale_knBc-q_NkQ"
+}

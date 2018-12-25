@@ -1,0 +1,164 @@
+{
+  "participants": [
+    {
+      "name": "Brian Ligh"
+    },
+    {
+      "name": "Colin Ku"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472943213507,
+      "content": "Colin Ku removed you from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Justin Le"
+        }
+      ]
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472943210967,
+      "content": "Colin Ku removed Rosalio Cruz from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rosalio Cruz"
+        }
+      ]
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472943145887,
+      "content": "I want to make it look pretty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472943139295,
+      "content": "So what are we going to be doing about the apartment.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1472942854702,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472942829720,
+      "content": "For anyone with a car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472942825028,
+      "content": "Instructions for how to get a parking permit has just been emailed to us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1472877692137,
+      "content": "csgo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472868238245,
+      "content": "Nice lol! Any hobbies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1472867127559,
+      "content": "One punch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472853984519,
+      "content": "You guys watch any cool amines?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472842563739,
+      "content": "Colin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BrianandColin_ZfFQVBReLA/photos/14218339_280127739033926_1934657515_n_280127739033926.jpg",
+          "creation_timestamp": 1472842563
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472842388448,
+      "content": "\"I'm starting to learn how to play piano so I can serenade future bae\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472842115375,
+      "content": "So what y'all like??  Lmao don't want to sound so serious right now but I'm a particularly clean person \u00f3\u00be\u008c\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472841989778,
+      "content": "Nice nice we got some solid majors here! I like it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1472841985735,
+      "content": "second year aerospace engineering major",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472841959567,
+      "content": "I'm a second year computer engineering major.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1472841953857,
+      "content": "Third year biomed engineer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472841930001,
+      "content": "Hey guys!! Nice to meet you all. I'm very excited to be living with you guys.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472841814750,
+      "content": "Hey what's going on Brian. I'm a second year bio major. Hbu??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1472841768936,
+      "content": "Doing well. Thanks for creating this thread.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1472841584333,
+      "content": "Hey guys, looks like we're all living together. What's going on??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brian and Colin",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BrianandColin_ZfFQVBReLA"
+}

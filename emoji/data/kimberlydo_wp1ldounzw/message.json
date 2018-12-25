@@ -1,0 +1,136 @@
+{
+  "participants": [
+    {
+      "name": "Kimberly Do"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520573524415,
+      "content": "okay np! have fun!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kimberly Do"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520573337677,
+      "content": "Justin my friend just found some! Ty tho.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520568233934,
+      "content": "oh dang gl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520566107246,
+      "content": "Haha we'll see. Everyone I know is slowing down and even tho I'd go just for the music, I might be making big career changes that require some traveling.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565993040,
+      "content": "ohhh my youre retiring?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565736866,
+      "content": "My frand we're going to baeyond as my last event \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565692025,
+      "content": "what for tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565684670,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565681416,
+      "content": "Omg hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565664779,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565662861,
+      "content": "uh idk i can ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565660205,
+      "content": "ok ill stop messin around lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565653285,
+      "content": "ABCDE?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565640327,
+      "content": "E?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565583745,
+      "content": "molly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565576398,
+      "content": "Molly haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520565560623,
+      "content": "whats ill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kimberly Do",
+      "timestamp_ms": 1520565408170,
+      "content": "Hey Justin do you know anyone I can get an ill from?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495778272016,
+      "content": "Say hi to your new Facebook friend, Kimberly.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kimberly Do",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KimberlyDo_wP1lDounZw"
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Loc"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1484172943260,
+      "content": "Bless \u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484172201180,
+      "content": "Yea man for sure I'll see what I can do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1484167329688,
+      "content": "Hey Justin! If it's not a bother and if possible, can you give me a recommendation to your boss at parking? I recently submitted 2 job applications to parking. one to calzada and one to puig! i hope i get a job so i can work with you and get to actually know you! if not, we can hang during winter quarter! bless you!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Loc",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KevinLoc_IPg4HFbIcQ"
+}

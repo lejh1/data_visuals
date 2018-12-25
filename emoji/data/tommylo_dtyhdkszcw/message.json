@@ -1,0 +1,148 @@
+{
+  "participants": [
+    {
+      "name": "Tommy Lo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479248828038,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479177008570,
+      "content": "Okay well good luck with that! Just make sure you dont let anybody else know that I let you out of the service",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479176992486,
+      "content": "Ahhhh I seee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479164223954,
+      "content": "I work in parking for Uci lol I could've gotten out of that really easily but it was the job interview that was stopping me from going to the service. It's for an internship!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479163935961,
+      "content": "Lmao I see hahah where do you work at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479163841732,
+      "content": "I have a quiz, a job interview and work lol. I figured out after signing up so I removed myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479163538838,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479163538476,
+      "content": "Ooh lool do you have class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479163496854,
+      "content": "It's fine!!! I just didn't know I was on the list til Sunday lol. I was signed up for an hour before I removed myself and you just happened to screenshot it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479163305009,
+      "content": "Sorry it has been stressing you out :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479163292009,
+      "content": "LOL dont worry about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479163261266,
+      "content": "Hey!!!! So jenn told me what you did. Thank you so much for taking me off the list. It means so much to me and honestly it was stressing me out so much. THANK YOUUUUU\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479113052309,
+      "content": "When's the latest you need the info for the google doc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479113041654,
+      "content": "Okay so my cover might not be able to go so I'm looking for another",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479092194977,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479092105435,
+      "content": "Okies thankss :) can you make sure she does it as soon as possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479092054340,
+      "content": "I sent it too her!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479092005565,
+      "content": "Can you send it to her and let her know to fill it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479091997335,
+      "content": "Do you know about the sign up thing for the spreadsheet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479091982353,
+      "content": "Okiess thanks for letting me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tommy Lo",
+      "timestamp_ms": 1479091967972,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479087849038,
+      "content": "Hi I'm a pledge of alpha ETA. Just letting you know that for the NYE service I'm getting covered by Tracy.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tommy Lo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TommyLo_dtYhDKszCw"
+}

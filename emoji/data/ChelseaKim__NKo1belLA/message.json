@@ -1,0 +1,508 @@
+{
+  "participants": [
+    {
+      "name": "Chelsea Kim"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482890040103,
+      "content": "I need a collage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482890036812,
+      "content": "Yes please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482889930988,
+      "content": "You want me make an ugly face and send it to you...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889907300,
+      "content": "U can make them if u try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889892962,
+      "content": "But u send them on snap?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482889882668,
+      "content": "I don't save my own ugly pics?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889877932,
+      "content": "Hmmm ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889874302,
+      "content": "Im a very strange persson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482889872161,
+      "content": "I don't have any ugly pics lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482889864049,
+      "content": "That's very strange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889857909,
+      "content": "Personal use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482889850863,
+      "content": "Lol why do you need them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482889761833,
+      "content": "Why yhoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482887970314,
+      "content": "im not going to send you ugly pics of myself LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482887951078,
+      "content": "Secret",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482887242018,
+      "content": "What why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482887182612,
+      "content": "I need some ugly pics of u plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482887174980,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482887172861,
+      "content": "Lol k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482887008427,
+      "content": "I was gonna ask you a question about jenn but I figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482886874186,
+      "content": "Why whata up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482886869348,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482886844849,
+      "content": "Okay nvm hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482886768306,
+      "content": "Hello sass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482885770591,
+      "content": "HI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482284122480,
+      "content": "Its cools",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482284112475,
+      "content": "Omg sorry LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482284028039,
+      "content": "The one time we ask ti hang u aint here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482284007107,
+      "content": "Youuu right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283685995,
+      "content": "Cause u never go back home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283681684,
+      "content": "She is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283573818,
+      "content": "She is mistaken lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283505997,
+      "content": "Helen said u were still here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283492098,
+      "content": "Dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283486467,
+      "content": "Ohhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283461297,
+      "content": "I'm home home LOL not in Irvine \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283398388,
+      "content": "Hectors. At 10. But we might chill at my place til then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283366117,
+      "content": "Where at tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283363065,
+      "content": "Oh what LOL dang I'm missing out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283308010,
+      "content": "Board game night haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283165532,
+      "content": "why whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283163116,
+      "content": "idk lol not leaving the house tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283092491,
+      "content": "What r u doing tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1482283022063,
+      "content": "Hello!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1482283008975,
+      "content": "Pseudo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126459114,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126445922,
+      "content": "This is shady stuff man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126366699,
+      "content": "What yall like and what u guys want as a gift(something yall want but kinda dont wanna pay for)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126350270,
+      "content": "Hold up lemme message my twin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126342488,
+      "content": "Aw fk okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126340049,
+      "content": "Both of yall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126334748,
+      "content": "Ill tell u if u guys tell me what u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126325748,
+      "content": "We are doing a joint gift LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126321886,
+      "content": "She told me straight up what she wanted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126316187,
+      "content": "Are u willing to share with ur twin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126312082,
+      "content": "We are struggling so hard rn hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126300020,
+      "content": "Are you willing to tell me...?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480126286768,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480126213996,
+      "content": "Hi sorry to bother you again lol but would you happen to know if my big wants anything specific for a gift lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480101203604,
+      "content": "Oooo okie thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480100801420,
+      "content": "She lobesssss stitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1480100795659,
+      "content": "I think lilo and stutch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480100283853,
+      "content": "Hi would you happen to know what my bigs favorite Disney movie is??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479268648334,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ChelseaKim__NKo1belLA/photos/15133774_299634240431607_692279217_o_299634240431607.jpg",
+          "creation_timestamp": 1479268647
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261690671,
+      "content": "So stressful \u00f0\u009f\u0098\u00a7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479261504672,
+      "content": "I took the strike and bought a new one it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261490022,
+      "content": "If we knew i knew it was urs i wouldve taken it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261476980,
+      "content": "Alot of ppl saw the pin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261470653,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261469707,
+      "content": "Lop of course",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479261214790,
+      "content": "Oh I know that LOL I knew that when i found out I had a twin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261195055,
+      "content": "Ur the bad twin lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261190179,
+      "content": "U both do...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479261183401,
+      "content": "Yeaaa I stress her out a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261171304,
+      "content": "Omg ur big is the one stressing out...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479261147641,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479261115163,
+      "content": "Was it the pin thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479261108122,
+      "content": "lol it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479260917756,
+      "content": "Yo sorry. I JUST saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Kim",
+      "timestamp_ms": 1479260907249,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479177805863,
+      "content": "Chelsea help!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chelsea Kim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ChelseaKim__NKo1belLA"
+}

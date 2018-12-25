@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Colleen Leung"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Colleen Leung",
+      "timestamp_ms": 1493168643840,
+      "content": "Say hi to your new Facebook friend, Colleen.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Colleen Leung",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ColleenLeung_QUrsXQqqtg"
+}

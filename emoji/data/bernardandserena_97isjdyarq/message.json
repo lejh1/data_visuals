@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Bernard Laveaux"
+    },
+    {
+      "name": "Serena Ang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1530290760632,
+      "content": "When I shared the event, it wouldn\u00e2\u0080\u0099t let me do group-specific but rather by name only",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1530290743483,
+      "content": "Let\u00e2\u0080\u0099s go back to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530290733477,
+      "content": "Oh, are we no longer using the other chat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530290726058,
+      "content": "I'm down!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1530290698332,
+      "content": "Are we getting lunch Saturday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1530290689289,
+      "content": "Lmao nah you\u00e2\u0080\u0099re right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530288966183,
+      "content": "Haha, just kidding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530288961407,
+      "content": "An actual reason to go to San Jose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530288925545,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u0091\u008c\u00f0\u009f\u0091\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530288919867,
+      "content": "Oooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1530288910878,
+      "content": "Serena sent an event link.",
+      "share": {
+        "link": "https://www.facebook.com/events/1803598603019737/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1530288732635,
+      "content": "#justSerenaThings",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1530287424053,
+      "content": "\u00f0\u009f\u0098\u0082 I'm sorry, did I miss something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1530286140467,
+      "content": "JUST KIDDING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1530285683920,
+      "type": "Generic"
+    }
+  ],
+  "title": "Bernard and Serena",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BernardandSerena_97IsjdyARQ"
+}

@@ -1,0 +1,442 @@
+{
+  "participants": [
+    {
+      "name": "Alex Tran"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481533056815,
+      "content": "hey at least we made it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481533042844,
+      "content": "Yea it was LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481533037114,
+      "content": "it was rough balancing everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481533028446,
+      "content": "I pledged for DSP fall too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481533017631,
+      "content": "dude i feel you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481533004327,
+      "content": "Sucked man I'm failing so many classes LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532982522,
+      "content": "how was pledging lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532979094,
+      "content": "hows APO?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532974212,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532972338,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481532964970,
+      "content": "LOL I can ask my friend who found the place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532947647,
+      "content": "damn never gonna find it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481532920681,
+      "content": "LOL it was in LA in like a random tunnel about the freeway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1481532818266,
+      "content": "yo justin where did you take that photo? looks dope man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188789308,
+      "content": "good luck man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188781611,
+      "content": "niceeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188676156,
+      "content": "Bro im looking into library or campus rep LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188646818,
+      "content": "duddeee find another job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188620830,
+      "content": "You may be right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188615953,
+      "content": "we have like 11 cart drivers lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188569289,
+      "content": "lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188564431,
+      "content": "Oh shit maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188555448,
+      "content": "Or go on break LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188555442,
+      "content": "nah lol they're gonna make u sell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188542789,
+      "content": "Or like wait around in the office until it gets fixed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188507583,
+      "content": "that arent fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188505270,
+      "content": "but then you're going to have to do other things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188497842,
+      "content": "lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188483046,
+      "content": "Oh well thats their problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188467538,
+      "content": "Yea probably",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188422475,
+      "content": "you guys are gonna run out of carts or battery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188411681,
+      "content": "dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188378040,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188111308,
+      "content": "CART DRIVING IS SO FUN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188087915,
+      "content": "13 hours of being a cart driver lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188062445,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188048239,
+      "content": "really jealous tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188042504,
+      "content": "i miss it so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188039473,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1465188038008,
+      "content": "LMFAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465187972562,
+      "content": "$$$$$$$$$$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465187970202,
+      "content": "Bro youre missing out on some 13 hour shifts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464155863843,
+      "content": "ahhh alright man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464155786122,
+      "content": "If I get the library job lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464154215714,
+      "content": "dooo it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464154213395,
+      "content": "quit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464154211563,
+      "content": "you should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464154208765,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464153618851,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464153618174,
+      "content": "I wanna get out of parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464153609556,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464153107448,
+      "content": "and my hours are better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464153102198,
+      "content": "and my supervisors are nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464153094087,
+      "content": "dude this job is chill af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464152669788,
+      "content": "you know exactly what that means lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464152607887,
+      "content": "whats that supposed to mean lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464152435017,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464152303494,
+      "content": "nah i got mesa court center attendant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464152297711,
+      "content": "lmfao you jerk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464152092383,
+      "content": "Did you apply for the library?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464152079994,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464152077995,
+      "content": "I wanna apply, get the job, brag then decline the job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464152047563,
+      "content": "why do you want that job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464152041391,
+      "content": "lmfao nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464151840942,
+      "content": "I think i will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464151799499,
+      "content": "Apply for campus rep again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464151777170,
+      "content": "loll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464151706778,
+      "content": "no it doesnt lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464151674264,
+      "content": "Dude parking misses you LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Tran",
+      "timestamp_ms": 1464151645575,
+      "content": "not at parking lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464151635090,
+      "content": "Dude where do you work now lol.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alex Tran",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlexTran_zyw-AqPEyg"
+}

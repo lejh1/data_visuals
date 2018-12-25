@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Sherman Tieu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538540190858,
+      "content": "Hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1538534864347,
+      "content": "Smaller Sherman??? Who is that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1538534857778,
+      "content": "I think it\u00e2\u0080\u0099s funny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1538534848717,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538532895348,
+      "content": "LOL omg I remember that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1538523133813,
+      "content": "Lool this got me confused that day in sf!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1538523110829,
+      "content": "Sherman sent a voice message.",
+      "audio_files": [
+        {
+          "uri": "messages/inbox/ShermanTieu_aF8WrJAj3A/audio/audioclip153852310189411420_708571686147471.mp4",
+          "creation_timestamp": 1538523109
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479779473719,
+      "content": "Ok I'll come back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479779469006,
+      "content": "Dmajxhahs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479779463614,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479779462445,
+      "content": "We need your signature",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479779456800,
+      "content": "You called",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1479779454584,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479779261852,
+      "content": "Sherman missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    }
+  ],
+  "title": "Sherman Tieu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShermanTieu_aF8WrJAj3A"
+}

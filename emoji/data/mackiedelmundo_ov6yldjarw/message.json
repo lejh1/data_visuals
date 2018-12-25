@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Mackie Del Mundo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492966757448,
+      "content": "I'll be driving myself. Thank you for letting me know and for initially agreeing to drive me. I'm sorry for the last minute change Justin.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492933966384,
+      "content": "What time are we leaving btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492924698400,
+      "content": "9093621177",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492924694127,
+      "content": "Uh it's on the fb page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492924454101,
+      "content": "650 580 0618",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492924449680,
+      "content": "And yay. Alright what's your number? Here's mine!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492924438493,
+      "content": "I can't find the google doc \u00f0\u009f\u0098\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492920939430,
+      "content": "Don't forget to add yours to the google sheet!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492913908191,
+      "content": "But yea I need to study too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492913899682,
+      "content": "Yea sure!! You'll just have to deal with my shitty driving Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492912915062,
+      "content": "Midterm on Monday. \u00f0\u009f\u0098\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492912904299,
+      "content": "Ahhh. Yay. Can I come with you please? \u00f0\u009f\u0098\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492911707629,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492911700738,
+      "content": "Yes and yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mackie Del Mundo",
+      "timestamp_ms": 1492910010282,
+      "content": "Hii Justin! Are you still driving for DC tomorrow? If so, are you leaving directly after the performance?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mackie Del Mundo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MackieDelMundo_ov6ylDJarw"
+}

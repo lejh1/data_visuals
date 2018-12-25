@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476900794425,
+      "content": "WOO THANKS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476900783349,
+      "content": "I'm kidding lol I got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476900654513,
+      "content": "Lol then I'll just ask others it k!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476900373572,
+      "content": "I haven't logged the other stuff down yet LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476900365614,
+      "content": "Too much responsibility lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476900357727,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476900353747,
+      "content": "I didn't agree to this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476900347782,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476900321322,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476900292255,
+      "content": "Hey guys so I'm only supposed to chair fr 11 to 12 but kristine is on for 12 to 1 and Justin is on from 1 to 2\n\nI was wondering if you guys could pass down the sign in sheets and I'll pick it up fr justin at 2",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User and Kristine",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FacebookUserandKristine_cXBA2W3Ufw"
+}

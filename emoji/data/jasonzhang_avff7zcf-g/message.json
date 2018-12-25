@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jason Zhang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464815685229,
+      "content": "With david and them too, i haven't talked to them since first quarter lol oops. \nAnd same. It takes so much willpower to study",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Zhang",
+      "timestamp_ms": 1464814038263,
+      "content": "And yeah we definitely gotta meet up over summer! I'm so over school lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Zhang",
+      "timestamp_ms": 1464814033259,
+      "content": "Haha yeah lockdown's been lifted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464802626826,
+      "content": "Also let's catch up after finals. Some old fashion panera??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464802607072,
+      "content": "OMG JASON ARE YOU SAFE",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jason Zhang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JasonZhang_AVFF7ZcF-g"
+}

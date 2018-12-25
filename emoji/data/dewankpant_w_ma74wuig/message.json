@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Dewank Pant"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525850897753,
+      "content": "Alright sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dewank Pant",
+      "timestamp_ms": 1525840122326,
+      "content": "kindly let me know if you find some, I will also search more and let u know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525828267378,
+      "content": "Hey! Nope I have not found anything yet sadly. I am hoping I will hear back from someone soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525828234421,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dewank Pant",
+      "timestamp_ms": 1525828046145,
+      "content": "Hi I'm also looking for a place in Sunnyvale, did you find any place yet?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dewank Pant",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DewankPant_w_ma74WuIg"
+}

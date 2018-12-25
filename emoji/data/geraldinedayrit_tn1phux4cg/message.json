@@ -1,0 +1,655 @@
+{
+  "participants": [
+    {
+      "name": "Geraldine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542345072349,
+      "content": "I\u00e2\u0080\u0099m here btw ha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542344589288,
+      "content": "okay !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542344540896,
+      "content": "Coming now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542342083816,
+      "content": "Geraldine: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542342081866,
+      "content": "sounds guuud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542342053777,
+      "content": "Okie dokie! I\u00e2\u0080\u0099ll message you when I\u00e2\u0080\u0099m on my way to the car!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542342039712,
+      "content": "take ya time just let me know when you\u00e2\u0080\u0099re leavgin pls :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542342026202,
+      "content": "ooo okay anjd same place is cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542342019856,
+      "content": "Maybe like 10min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542342014572,
+      "content": "I get out at 9 but I may need some extra time to ask a friend some questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542342000705,
+      "content": "Okay! Where shall I pick you up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542341996596,
+      "content": "what time do you get out again?(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542341986924,
+      "content": "yay! i did but i was doin some homework on campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542341969832,
+      "content": "I thought you quit subway?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542341962042,
+      "content": "Of course!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542341959560,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542341952522,
+      "content": "you think you can give ur child a ride tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542341947996,
+      "content": "Why hello there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1542341933225,
+      "content": "hello i am here to bother you again LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540958336784,
+      "content": "Here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540958263530,
+      "content": "ok i\u00e2\u0080\u0099m here waitin :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540958233700,
+      "content": "On my way!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540957188182,
+      "content": "mhmm!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540957159097,
+      "content": "Omgg thanks you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540957133053,
+      "content": "Geraldine sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574700_364384107058228_1797996261_n_364384103724895.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540957131139,
+      "content": "okk gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540954821216,
+      "content": "Oh sorry lol Italian bread and spicy Italian",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540954790330,
+      "content": "spicy italians ?0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540953176557,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540953174244,
+      "content": "Italian, provolone, lettuce, spinich, tomatoes, cucumbers, green peppers, olives, red onions, honey mustard,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540951777574,
+      "content": "ok lmk!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540951775328,
+      "content": "i know i am hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540950558577,
+      "content": "Okay lemme think of the order haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540950551861,
+      "content": "Omg youre the best!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540950090549,
+      "content": "nahhh don\u00e2\u0080\u0099t feel bad it\u00e2\u0080\u0099s for freeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540947836107,
+      "content": "ohhhh hmm are you sure? i feel bad haha cause its no big deal really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540947655752,
+      "content": ":0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540947652946,
+      "content": "are you sure?? my manager lets us make one after we close and i\u00e2\u0080\u0099m not feelin a sandwich today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944301166,
+      "content": "Oh it\u00e2\u0080\u0099s okay! No sandwich is necessary \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540944106664,
+      "content": "what kind of szandwich you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540944102193,
+      "content": "yessiree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540943774056,
+      "content": "Yup of course! Meet in the same place same time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540943459371,
+      "content": "is it cool if i ride again with you tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540943438344,
+      "content": "halllooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540353611799,
+      "content": "cominnnggp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540353591538,
+      "content": "In the parking lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540353585932,
+      "content": "Here!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540353205709,
+      "content": "Just got out! Coming !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540353097289,
+      "content": "i\u00e2\u0080\u0099m here just lmk when you\u00e2\u0080\u0099re here pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352921350,
+      "content": "okok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352874420,
+      "content": "It\u00e2\u0080\u0099s close by",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352871604,
+      "content": "Go there! I\u00e2\u0080\u0099ll drive and pick ya up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352858537,
+      "content": "mhmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352830789,
+      "content": "By Ayala",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352822883,
+      "content": "Oh wait isn\u00e2\u0080\u0099t there a Starbucks close to be canverns?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352778125,
+      "content": "should i walk towards there?0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352768687,
+      "content": "yis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352727325,
+      "content": "Do you know where PSLH is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352679028,
+      "content": "i\u00e2\u0080\u0099m by bc cavern rnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352650096,
+      "content": "Well where are you rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352643837,
+      "content": "Oh really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352630008,
+      "content": "o i dunno where that\u00e2\u0080\u0099s at \u00f0\u009f\u00a4\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352545186,
+      "content": "And that\u00e2\u0080\u0099s where I parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352532851,
+      "content": "I\u00e2\u0080\u0099m all the way in mstb haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352519525,
+      "content": "??(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352516979,
+      "content": "ok yey um i can meet you where you parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352444922,
+      "content": "Nope! Where do I pick you up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352410599,
+      "content": "yess pls if you\u00e2\u0080\u0099re not doing anythin after class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352348290,
+      "content": "Am I still taking you home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540352340708,
+      "content": "Oh yes yes hello :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1540352249186,
+      "content": "hello hi my sis said you end class at 9 tonight? :0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156883748,
+      "content": "\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156866781,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156838924,
+      "content": "no it\u00e2\u0080\u0099s fine really. you caught me before i went to bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156774851,
+      "content": "i really owe yoy one! im sorry if you wete sleeping or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156758484,
+      "content": "hahah i knooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156739514,
+      "content": "omgggg your best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156657894,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156655932,
+      "content": "just knocj!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156619163,
+      "content": "yeah of course! should i just knock or can you let her know i\u00e2\u0080\u0099m here? hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156533543,
+      "content": "youre amazng i owe yiu one\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156501457,
+      "content": "no problem :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156499259,
+      "content": "okie gotchaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156450582,
+      "content": "My roommates name is rose lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156436715,
+      "content": "It's like on the opposite side from where you car port is on the second floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156419569,
+      "content": "We share the same parking lot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156411509,
+      "content": "Omg you're the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156408411,
+      "content": "282",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156398242,
+      "content": "yeah i know where it is. and sure you don\u00e2\u0080\u0099t have to pay me though haha what unit do you live in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156348737,
+      "content": "Do you know where it is? I'll pay you too deliver it to my place \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb I'm right across the street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156326575,
+      "content": "They want it rn \u00f0\u009f\u0098\u009e they are mad at me for even lending it away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156292119,
+      "content": "aw dang that\u00e2\u0080\u0099s understandable lol but do they want it right now? or can she give it to you tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156151935,
+      "content": "I was hoping she could bring it back to my place if possible cause I'm not home rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156133930,
+      "content": "She has my Luandry key and my house mates want it rn \u00f0\u009f\u0098\u009e I didn't tell them I lent it so now they are mad lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525156090947,
+      "content": "she\u00e2\u0080\u0099s sleeping rn but if it\u00e2\u0080\u0099s super urgent do you want me to wake her?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525156015643,
+      "content": "can you tell yur sistr to please resond to me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1525155987604,
+      "content": "hiya watcha need??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525155926643,
+      "content": "Hellloo could you help me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513915842034,
+      "content": "She just needs some alone time I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513915833922,
+      "content": "Yea np np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1513915816852,
+      "content": "o ok she just texted me jk thank u though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513915791855,
+      "content": "She texted me that she was okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1513915786998,
+      "content": "I am also worried a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1513915749138,
+      "content": "helluh i know this is random but my mom is worrying about my sister. has she texted you or anything recently?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Geraldine Dayrit",
+      "timestamp_ms": 1507148228484,
+      "content": "Say hi to your new Facebook friend, Geraldine.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Geraldine Dayrit",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GeraldineDayrit_Tn1PHuX4cg"
+}

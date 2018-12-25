@@ -1,0 +1,562 @@
+{
+  "participants": [
+    {
+      "name": "Cedric Salamat Conde"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882916218,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882914982,
+      "content": "Oooooo shit okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882828869,
+      "content": "And then put e = n at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882812917,
+      "content": "Put that at the beginning of a for loop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882799622,
+      "content": "n= e->next",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882776039,
+      "content": "IENTRY *n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882759177,
+      "content": "e = movie->frames->first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882730227,
+      "content": "IENTRY *e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882565371,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480882486414,
+      "content": "U mean like going to the next image entry?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882372301,
+      "content": "actualy like how are you traversing the frame list?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480882299747,
+      "content": "for the watermark, how are you changing the placement every 15 frames?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480878064843,
+      "content": "If its for zoom dont bother cuz im straight up skipping that one xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480878027906,
+      "content": "Hmm okay imma hit you up later if I still am struggling on these DIPs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877497169,
+      "content": "And once im done with that im turning it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877479950,
+      "content": "And either watermark or spotlight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877447352,
+      "content": "Do the 3 easy dips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877432658,
+      "content": "Im prob gonna finish movie lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480877389263,
+      "content": "Fuck dude it's hella hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877370677,
+      "content": "I havent even finished movielab.c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877345735,
+      "content": "Not even close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480877333101,
+      "content": "Did you finish the eecs22 assignment? I'm struggling a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1480877206089,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480869720761,
+      "content": "Hey you awake?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479259291040,
+      "content": "The memory stuff is so hard to understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479259256253,
+      "content": "Yea same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479259252996,
+      "content": "Fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1479258653232,
+      "content": "Tbh same i cant even get image.c to work properly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1479258633752,
+      "content": "Uh 70%?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479255824461,
+      "content": "do you know what grade is passing for eecs 22?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479255805323,
+      "content": "So like im fucked for this lab LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478213506175,
+      "content": "i might just take the L lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478213501231,
+      "content": "loool thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478213481639,
+      "content": "Lol well goood luck i actually have to work on mine now xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478213390866,
+      "content": "lol im screwed i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478213351462,
+      "content": "nooo i dont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478213347211,
+      "content": "oh shit wow LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478213335828,
+      "content": "U know anybody named brennen val",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478213335512,
+      "content": "Jose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478213335162,
+      "content": "Way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478213334773,
+      "content": "He says no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478212158349,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478211860741,
+      "content": "Ill ask him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211840219,
+      "content": "help me out man LOL im willing to pay hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478211810796,
+      "content": "Lol i do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211658808,
+      "content": "dude honestly im so close to giving up, if you know anyone who finished you should ask if i can get their code LOL ill do anything man im desperate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211524384,
+      "content": "oh lol cutting it close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478211511714,
+      "content": "Nope im at office hours for physics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211497756,
+      "content": "did you finish it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211492521,
+      "content": "not withour reassigning the value",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478211483921,
+      "content": "i dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478211351249,
+      "content": "Did u use i twice?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478210799042,
+      "content": "I cant fix this error omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478209510698,
+      "content": "do you know what i can do ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478209504057,
+      "content": "segmentation fault (core dumped)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478209490722,
+      "content": "hey im getting a weird error",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478206096247,
+      "content": "okkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478206087644,
+      "content": "And the boxes shud be rearranged too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478206057889,
+      "content": "Then rearrange array w/ rand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478206030174,
+      "content": "Assign a box for each number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205995907,
+      "content": "Initialize it w/ values 0-24",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205964171,
+      "content": "Somearray[25]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478205936131,
+      "content": "wow im fked haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205922562,
+      "content": "Rand to rearrange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478205919201,
+      "content": "uhh you lost me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205866130,
+      "content": "Then assign boxes to each number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205847384,
+      "content": "Oo i had an array initialized from 0-24",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478205722722,
+      "content": "so like rand % 25 to give a random number from 0-24 then what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478205689617,
+      "content": "Im a bit confused on how youre using rand?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478205232568,
+      "content": "Yw hope it helps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204985447,
+      "content": "hm ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204958978,
+      "content": "ohhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204868832,
+      "content": "Check under the noise section of the assignment 3 document",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204848091,
+      "content": "Its built in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204803250,
+      "content": "oh we create it? or is it built in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204789837,
+      "content": "Random function :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204783861,
+      "content": "rand()",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204771313,
+      "content": "whats that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204768748,
+      "content": "rand?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204755621,
+      "content": "Then shuffle that stuff around with rand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204720773,
+      "content": "Same with height",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204712704,
+      "content": "From 0,0 increment it  width /5 to get more points and assign more boxes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204664188,
+      "content": "And then the next width/5 values and the next height/5 values and thats one box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204595907,
+      "content": "Take like the point 0,0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204576587,
+      "content": "From what ive thought about and what my friends have told me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204553002,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204552026,
+      "content": "This is stressing me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204544370,
+      "content": "fuck same LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cedric Salamat Conde",
+      "timestamp_ms": 1478204525379,
+      "content": "Lol fuck dude thats the one thing i still havent done yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478204416746,
+      "content": "Please man I am literally so desperate at this point",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478203649266,
+      "content": "Hey man I dont know if you remember or not but we met at wendys with aditya. Anyway man I'm also in EECS22 and I cannot for the life of me figure out how to do shuffle. I know this asking a lot since we dont really know each other but if you could help out in anyway ill owe you big time :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cedric Salamat Conde",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CedricSalamatConde_KIFd1-JRNA"
+}

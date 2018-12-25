@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fiona Kong-Dismuke"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523901946818,
+      "content": "Say hi to your new Facebook friend, Fiona.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fiona Kong-Dismuke",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/FionaKongDismuke__0758SsmDw"
+}

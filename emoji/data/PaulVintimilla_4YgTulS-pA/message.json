@@ -1,0 +1,924 @@
+{
+  "participants": [
+    {
+      "name": "Paul Vintimilla"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878471531,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878435593,
+      "content": "Thanks for the help man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878426982,
+      "content": "Goodluck with it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878408058,
+      "content": "I have the midterm tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878393055,
+      "content": "That's really good holy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878386381,
+      "content": "It was hard but a good curve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878380300,
+      "content": "I got a B+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878348758,
+      "content": "How'd you do in this class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878343814,
+      "content": "Dude thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878069446,
+      "content": "Paul sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/files/SMIDT_828095977372751.pdf",
+          "creation_timestamp": 1510878067
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510878053092,
+      "content": "Paul sent some attachments.",
+      "files": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/files/MTEXAM2_828095830706099.pdf",
+          "creation_timestamp": 1510878052
+        },
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/files/Old_FinalExam_828095834039432.pdf",
+          "creation_timestamp": 1510878052
+        },
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/files/OldMidtermExam_828095827372766.pdf",
+          "creation_timestamp": 1510878052
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510878009066,
+      "content": "Could I see them \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb this class is kicking my ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1510877969524,
+      "content": "Yeah I have a couple",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510877943750,
+      "content": "Hey man would you happen to have old midterms for EECS 170a?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1485542260656,
+      "content": "Sorry man, I just checked and I don't have any of my labs. I'll let you know if I find them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485501791606,
+      "content": "Hey man would you happen to have your lab reports from 70aL saved lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484194497310,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484194235010,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484194218795,
+      "content": "Alright I'm on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484194213449,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484194199533,
+      "content": "You home!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484167957004,
+      "content": "Okay cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484167541131,
+      "content": "Yeah sounds good. I have class until 5 so after that I'm free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484166737718,
+      "content": "Hey! sorry again for flaking, a lot of stuff happened last night last minute. I can try to swing by tonight if youre available",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484113307096,
+      "content": "I'm back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484111529714,
+      "content": "Ima go grab some food real quick. I'll let you know when I'm back at my place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484092657714,
+      "content": "Thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484092642055,
+      "content": "It's all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484092616297,
+      "content": "Hey the buses are causing me some delays so I'm jus gonna swing by later tonight when you're home. Is that cool? Sorry about the changes man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484089373030,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484089360798,
+      "content": "Thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484089351058,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484089342428,
+      "content": "Alright I'll come by around 4ish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484089244358,
+      "content": "I'll be here until 6ish cause I have class later. Then I should be back by like 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484089212530,
+      "content": "Alright for sure when will you be home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484089194290,
+      "content": "Yeah. I'm at vdc 63913",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484089163098,
+      "content": "Can I actually borrow the hard copy of 70a? I can pick it up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484087142842,
+      "content": "Damn okay thanks tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484087111244,
+      "content": "No I don't have that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484087092641,
+      "content": "Do you have the PDF?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484087085353,
+      "content": "A First Course in Probability",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484087082638,
+      "content": "Hey what about the eecs 55 textbook?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484072565955,
+      "content": "thanks for the help!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484072560394,
+      "content": "okay thanks!! Ill try looking for it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484072544681,
+      "content": "i can try and ask someone else if they have the pdf version. but if not, i'll just give you the book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484072510721,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484072500289,
+      "content": "oh really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484072474503,
+      "content": "its cool, ill just give it to you. Just give it back at the end of the quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484072449987,
+      "content": "ill buy it off you! how much?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484072440332,
+      "content": "oh damn okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484072392834,
+      "content": "Paul sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/files/EECS70AAlexanderFundamentalsofElectricCircuits5thc2013solutionsISM_677793909069626.pdf",
+          "creation_timestamp": 1484072391
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484072289069,
+      "content": "im looking through my computer and i actually only have the solutions to the book on here. I have the physical copy if you want that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484071793014,
+      "content": "Lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1484071781033,
+      "content": "Hey let me get your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484038374712,
+      "content": "It's called fundamentals of electric circuits 5th edition",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483992915658,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483992913066,
+      "content": "I'll let you know tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483992909585,
+      "content": "Idk yet LOL I haven't had the class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1483992625948,
+      "content": "What book is it? They usually change books. I'll check what I have when I'm out of class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483992563420,
+      "content": "Hey man, do you have the PDF for 70a?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480492801937,
+      "content": "Lol, Goodluck man. I'm just trying to study for the final tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480492334953,
+      "content": "rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480492333481,
+      "content": "ours doesnt work at all LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480492311498,
+      "content": "Ours doesn't get  the last number to work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480492236486,
+      "content": "our processor doesnt work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480492217064,
+      "content": "im fucked LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207879962,
+      "content": "Nah it's okay! I think I'm over thinking it tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207836499,
+      "content": "Sorry if I couldn't help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207824670,
+      "content": "Yeah it's like the 8 to 1 mux, 4 to 1 mux, 2 to 1 and all the little things like add subtract and or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207794226,
+      "content": "Hmm okay I'll figure it out lol thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207783445,
+      "content": "And those are all the basic building blocks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207671821,
+      "content": "I actually don't know what part that is. In our report we just put ALU then after that it's every basic building block. So I'm guessing preston just combined them together where the ALU code is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207557324,
+      "content": "This shit is confusing but I'm trying to some part of it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207547273,
+      "content": "I really appreciate all the help btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207541220,
+      "content": "Not to be ungrateful or anything but do you have a picture of the arithmetic block? LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207480749,
+      "content": "I'm trying to fix it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207475626,
+      "content": "But our arithmetic block is wrong rn I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207467302,
+      "content": "Yea that's what I was thinking too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480207462207,
+      "content": "Oh shit this is a lot of stuff lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207430061,
+      "content": "It should work like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207424135,
+      "content": "We just changed the vector values to [31:0]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207394317,
+      "content": "I feel like our ALU is the same from the midterm to the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207366485,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15231615_654651138050570_855573380_o_654651138050570.jpg",
+          "creation_timestamp": 1480207365
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207356038,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15271441_654651111383906_1784761253_o_654651111383906.jpg",
+          "creation_timestamp": 1480207355
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207346514,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15271352_654651094717241_39125737_o_654651094717241.jpg",
+          "creation_timestamp": 1480207345
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207334934,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15271396_654651048050579_1055169785_o_654651048050579.jpg",
+          "creation_timestamp": 1480207334
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480207321635,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15224579_654650948050589_1525887991_o_654650948050589.jpg",
+          "creation_timestamp": 1480207320
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480206676744,
+      "content": "Yea but we have to change it a but I think for the 32 bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480206417227,
+      "content": "That's for the ALU right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480205153155,
+      "content": "Hey sorry to bother you again but would you happen to have the code for the arithmetic block?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480125724815,
+      "content": "thanks a lot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480125721295,
+      "content": "hmm okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125718272,
+      "content": "let me know if you need anything else. I'll do my best to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125682717,
+      "content": "That's basically all of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125678798,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15231720_654120424770308_1762245454_o_654120424770308.jpg",
+          "creation_timestamp": 1480125678
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480125651149,
+      "content": "oooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125640541,
+      "content": "I just have the midterm report where we put our code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125629096,
+      "content": "I don't have the file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480125624631,
+      "content": "lol ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125618904,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/15231690_654120218103662_2121576056_o_654120218103662.jpg",
+          "creation_timestamp": 1480125617
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480125616943,
+      "content": "LOL can you send me the file? i feel like thats less work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125590381,
+      "content": "ill send a picture instead lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125581606,
+      "content": "i realized this isnt the best way to give you the code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1480125563713,
+      "content": "32 Bit  ALU\n\n\nmodule ALU_32_Bit (\n    input logic [31:0] A,\n    input logic [31:0] B,\n    input logic [2:0] opsel,\n    input logic mode,\n    output logic c_flag,\n    output logic z_flag,\n    output logic o_flag,\n    output logic s_flag,\n    output logic [31:0] RESULT\n    );\n    logic Zero;\n    logic Error;\n    logic One;\n    logic C_usage_begin_arithmetic;\n    logic C_usage_begin_logic;\n    logic [31:0] OUT;\n    logic C_usage_begin;\n    logic C_OUT [31:0];\n    logic [30:0]or_entirety;\n    assign Error=1'bZ;\n    assign Zero=1'b0;\n    assign One=1'b1;\n    assign c_flag=C_OUT[31];\n    assign z_flag=or_entirety[30];\n    assign o_flag=C_OUT[31] ^ C_OUT[30];\n    assign s_flag=RESULT[31];\n    \n       Selector_8TO1 P3 (.a(Zero),.b(Zero),.c(Zero),.d(One),.e(One),.f(Zero),.g(One),.h(Error),.s(opsel),.out(C_usage_begin_arithmetic)\n       );\n       Selector_8TO1 P2 (.a(Zero),.b(Zero),.c(Zero),.d(Zero),.e(Error),.f(Zero),.g(Error),.h(Error),.s(opsel),.out(C_usage_begin_logic)\n       );\n       Selector_2TO1 P4 (.a(C_usage_begin_arithmetic), .b(C_usage_begin_logic), .sel(mode), .out(C_usage_begin)\n       );",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480052573646,
+      "content": "Hey I know this is a lot to ask but could I get the code for your 32bit ALU? I'm in charge of fixing ours and I think I might redo the whole thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477802344532,
+      "content": "Thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477795017517,
+      "content": "This top part is how he implemented it in the code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477795002738,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/14894641_640283836153967_511693940_o_640283836153967.jpg",
+          "creation_timestamp": 1477795002
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477794965632,
+      "content": "This is how he assigned it first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477794958846,
+      "content": "Paul sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/PaulVintimilla_4YgTulS-pA/photos/14812935_640283666153984_1289074611_o_640283666153984.jpg",
+          "creation_timestamp": 1477794958
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477794410689,
+      "content": "Yeah Forsure I'll send you a picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793988253,
+      "content": "So stressful lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793985300,
+      "content": "Yea if I could see the for loop part that'll be helpful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477793617015,
+      "content": "I don't think so. My friend did it and showed us. It worked for him. I'm going to work on it in a second I can let you know the code looks like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793482763,
+      "content": "its in our for statment, did you get something like that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793470050,
+      "content": "\"o_flag might have multiple concurrent drivers\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793430964,
+      "content": "hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793429084,
+      "content": "so we are getting this error",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477793409786,
+      "content": "nah its cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477793391394,
+      "content": "Yeah what's up. Sorry about the late response",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477785806691,
+      "content": "Hey man, one last question if its not too much trouble",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477640382474,
+      "content": "No problem. Let me know if you need anything else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477640231688,
+      "content": "That makes a lot of sense, thanks a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639994231,
+      "content": "one 8 to 1 mux (with opsel as the select) will decide the c_in for the arithmetic function. one 8 to 1 mux (with opsel as the select) will decide the c_in for the logic function. one 2 to 1 mux (with mode as the select) will choose whether to use the c_in from arithmetic or logic 8 to 1 mux's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639991428,
+      "content": "This is what he said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639715394,
+      "content": "okay thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639707188,
+      "content": "Oh ok. I'll ask him. He's probably asleep already. But I'll let you know as soon as he replies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639673531,
+      "content": "How the mux assigns what cin will be (1 or 0)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639609528,
+      "content": "How to use it? Or how to connect it in with everything else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639377496,
+      "content": "we dont really understand how it will work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639357132,
+      "content": "We are having trouble with the first cin mux",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639342832,
+      "content": "Oh dude that would be so helpful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639237368,
+      "content": "I can ask my friend and see what he says. What do you need help on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639206119,
+      "content": "but thanks anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639200826,
+      "content": "Damn okay lol, I am almost done I just cant figure out one last part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639106003,
+      "content": "But I'm working on that tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Vintimilla",
+      "timestamp_ms": 1477639095016,
+      "content": "Hey, honestly I wish I could. I don't know what's going on. I'm in charge of writing up the report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477639050545,
+      "content": "Hey man help me with this 31L project LOL",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paul Vintimilla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PaulVintimilla_4YgTulS-pA"
+}

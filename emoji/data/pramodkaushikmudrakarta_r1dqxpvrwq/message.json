@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Pramod Kaushik Mudrakarta"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1526746790206,
+      "content": "If you\u00e2\u0080\u0099re open to it we can search for a roommate for you which would halve your rent.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526700132884,
+      "content": "Ah out of my budget but thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1526697092761,
+      "content": "including utilities",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1526697090221,
+      "content": "$1800 per person per month",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1526697084127,
+      "content": "I might soon be getting a place .. its a 2 bed 2 bath and costs $1800 p.m. would you be interested?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1526696976348,
+      "content": "hey, have you found a place yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525850888257,
+      "content": "Alright well I'll keep you updated on anything I find",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1525843829360,
+      "content": "Mine is around $1500, but willing to go higher if the place is conveniently located",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525838903618,
+      "content": "Okay I will do the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525838898528,
+      "content": "Well I guess my budget would be >1300. What about yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1525838729905,
+      "content": "will let you know as soon as I get any offers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1525838680359,
+      "content": "what is your budget like?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525838280249,
+      "content": "Hey! Yea that sounds like a good plan, so far I haven't heard anything back from some places I found so lemme know if you get any offers!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525838247478,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pramod Kaushik Mudrakarta",
+      "timestamp_ms": 1525829170384,
+      "content": "Hey Justin, I am also searching for a place for around the same time. My dates are June 18 - Sep 28. We can try to find something together, if you like.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pramod Kaushik Mudrakarta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PramodKaushikMudrakarta_r1dqXpvRWQ"
+}

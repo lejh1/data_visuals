@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Justin Wong"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Angela Xiao"
+    },
+    {
+      "name": "Kirstin Catapang"
+    },
+    {
+      "name": "Courtney Pon"
+    },
+    {
+      "name": "Gene Gonzalez"
+    },
+    {
+      "name": "Lisa Promprasert"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Courtney Pon",
+      "timestamp_ms": 1495077583082,
+      "content": "Hi I can't go anymore because it interferes with showcase. Sorry, I forgot to take my name off the list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Quynh Tran",
+      "timestamp_ms": 1495075745665,
+      "content": "Quynh Tran left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Quynh Tran"
+        }
+      ]
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1495068674061,
+      "content": "see yall there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1495068668451,
+      "content": "hellohello! yall signed up for the sexy fam del taco fellowship at 8:30!(:",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin, Amberly, Angela and 4 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinAmberlyAngelaand4others_hfup4lbLHg"
+}

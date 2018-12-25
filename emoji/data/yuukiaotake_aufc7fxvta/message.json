@@ -1,0 +1,259 @@
+{
+  "participants": [
+    {
+      "name": "Yuuki Aotake"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479197317274,
+      "content": "On the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1479197266688,
+      "content": "I'm outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1479197262928,
+      "content": "Hey Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479196659590,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1479196655024,
+      "content": "Yeah I'm ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479196648169,
+      "content": "You ready. ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1479014152694,
+      "content": "No I'm sorry for I can't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479006143422,
+      "content": "Do you think you can cover me for the NYE dance party service \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772243826,
+      "content": "You called Yuuki.",
+      "call_duration": 66,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772146832,
+      "content": "In the outside parking lots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772141312,
+      "content": "Right here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772136772,
+      "content": "You sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=33.643285569502%2C+-117.83747567795&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478772127569,
+      "content": "Where should I meet u guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772114829,
+      "content": "Like drove out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772109871,
+      "content": "We came out already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478772095135,
+      "content": "Which car r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478772092304,
+      "content": "At first floo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478772057527,
+      "content": "Coming out of the first floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478772031870,
+      "content": "Where in anteater parking structure are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478771761381,
+      "content": "You called Yuuki.",
+      "call_duration": 93,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478771554780,
+      "content": "You missed a call from Yuuki.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478771507617,
+      "content": "You missed a call from Yuuki.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478771469008,
+      "content": "Where r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1478771459621,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478771277303,
+      "content": "??????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478771227714,
+      "content": "Need a ride",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476378212996,
+      "content": "Ohhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476378171380,
+      "content": "whoever was in your position before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476378161013,
+      "content": "The previous Alpha Zeta plexcomm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476378134122,
+      "content": "So who do we gotta contact",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476378124968,
+      "content": "Alright I found it thx dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476378030885,
+      "content": "ALLLLLL THE WAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476378028011,
+      "content": "SCROLL UP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476378019844,
+      "content": "yes it will be at the very top of the Alpha Eta group chat LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476378018601,
+      "content": "Do u know what tab it's under",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476378010219,
+      "content": "I tried looking on the website but couldn't find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476377998115,
+      "content": "Do u know how to find the plexcom contract",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476377996582,
+      "content": "Yes! Hello!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1476377988628,
+      "content": "Hey Justin",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yuuki Aotake",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/YuukiAotake_AUfc7FXVTA"
+}

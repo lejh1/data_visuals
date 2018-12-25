@@ -1,0 +1,295 @@
+{
+  "participants": [
+    {
+      "name": "Kenny Yu"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Kirstin Catapang"
+    },
+    {
+      "name": "Juliane Ignacio"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1479167242558,
+      "content": "But I might have skmeone..idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1479167240407,
+      "content": "I needed someone to cover me for letters to gratitude since I'm going to nye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479166398879,
+      "content": "Im not either but i have class sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479166360619,
+      "content": "I'm nott but I can't ditch my ph class n midterm on Friday\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1479165113682,
+      "content": "Who's not doing nye service?? :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1479165029948,
+      "content": "o.o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165025531,
+      "content": "Just in case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165022526,
+      "content": "I printed two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479165021172,
+      "content": "Mess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165016085,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KennyAmberlyKirstinandJuliane__jp4tpONEw/photos/15060348_299025077159190_1305664469_o_299025077159190.jpg",
+          "creation_timestamp": 1479165015
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165003188,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KennyAmberlyKirstinandJuliane__jp4tpONEw/photos/15045570_299024963825868_530860931_n_299025020492529.jpg",
+          "creation_timestamp": 1479165002
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479164981754,
+      "content": "Wtf justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479164959784,
+      "content": "I printed it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478969504340,
+      "content": "^^^LMAO \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1478967965877,
+      "content": "Idk where that is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478967964889,
+      "content": "It's an underground parking structure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478967935926,
+      "content": "So go around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478967932794,
+      "content": "Park in the self parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1478967917150,
+      "content": "Where do I park?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1478967913476,
+      "content": "Im here!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478964949322,
+      "content": "One min away\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478964914832,
+      "content": "Where yall t lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478964894887,
+      "content": "Kenny come thru LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478964894429,
+      "content": "Almost there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478964529329,
+      "content": "Omw there guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478964499714,
+      "content": "Kennnnyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478964072849,
+      "content": "Come thruuu plzzz \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478964041509,
+      "content": "Plz LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478964029703,
+      "content": "3 extra ones lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478963985039,
+      "content": "We got an email but she emailed it to us hella late.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478963968330,
+      "content": "What now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478963966099,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478963962376,
+      "content": "Okay 2 extra ones \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478963962354,
+      "content": "Wah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478963959005,
+      "content": "Two extra waivers??? \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478963958780,
+      "content": "Waiver??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478963947399,
+      "content": "O MY GOSH I FORGOT\u00f0\u009f\u0098\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478963926846,
+      "content": "Does anyone have an extra waiver\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478915426167,
+      "content": "Also transportation wise, two actives signed up as drivers so I'm assuming they'll be taking us. \u00f0\u009f\u0098\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1478914892704,
+      "content": "Kenny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851591_555289047892283_352353053_n_554423757978812.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478913924067,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47240378_2005256316224279_4938437337781633024_n_657500227666568.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478913206248,
+      "content": "Hey guys! Just reminding you that we are meeting at Jack in the Box tomorrow at 7:30 am for the Autism Gala event. \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kenny, Amberly, Kirstin and Juliane",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KennyAmberlyKirstinandJuliane__jp4tpONEw"
+}

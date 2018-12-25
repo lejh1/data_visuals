@@ -1,0 +1,6124 @@
+{
+  "participants": [
+    {
+      "name": "Manpreet Dhindsa"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544580782964,
+      "content": "Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544580779836,
+      "content": "Yes sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544580739203,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/47575713_606051723144205_1941346108512927744_n_606051683144209.jpg",
+          "creation_timestamp": 1544580738
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544580734939,
+      "content": "This?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544580718216,
+      "content": "Where at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544580716439,
+      "content": "Gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544580635611,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544580634008,
+      "content": "Hey dude i forgot my water bottle in the bathroom of alp. If you still there could you grab it for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544253245433,
+      "content": "Damn haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544252966216,
+      "content": "idk tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1544249132782,
+      "content": "hey bro for 118 hw4 and hw5 cover all the new material? or is there something else new we gotta know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543997315513,
+      "content": "for real lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543996500753,
+      "content": "thats derrell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543996496726,
+      "content": "nah haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543995938474,
+      "content": "bro we both know you going to top the class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543995882771,
+      "content": "by failing haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543995820458,
+      "content": "damn dude how you going to study for that final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543995787916,
+      "content": "i would if i knew how lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543995778289,
+      "content": "i dont know how to do it lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543995773469,
+      "content": "hey bro hook me up with that 118 hw haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543890049313,
+      "content": "Fudgeeee haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543889788401,
+      "content": "It\u00e2\u0080\u0099s a lot bro took my like 30+ hours not gonna lie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543889188941,
+      "content": "I started the layout for the whole thing but fuck that bro, way too much haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543889153899,
+      "content": "The schematic lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543889042727,
+      "content": "What y\u00e2\u0080\u0099all gonna present haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543887711838,
+      "content": "No dude tommorow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543886775756,
+      "content": "Damn bro, you present yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543886749619,
+      "content": "That shit was too much lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543886749508,
+      "content": "Bro i didn't make the final layout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543885826427,
+      "content": "Took an L on the lab report but at least we can present",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543885815163,
+      "content": "Bro nah I just finished the 119 lmao finally got the layout working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543885302621,
+      "content": "My TA did examples similar to the hw but not the hw haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543885288740,
+      "content": "Hey bro did you get hw5 118",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543378437095,
+      "content": "Bruhhhh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543378411777,
+      "content": "Yea he did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543378397193,
+      "content": "Did this boy just say project 4 \u00f0\u009f\u0098\u00a5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543366139265,
+      "content": "either i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543366080254,
+      "content": "can I use a bunch of input pins named S or only 1 pin named S with a bunch of wire?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543366054489,
+      "content": "hey bro for cadence",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543363792551,
+      "content": "lmao grinding so hard you ignored kyle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543363747664,
+      "content": "in the back grinding on some 119 sirquiets lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543363731013,
+      "content": "nah im here bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543363461968,
+      "content": "did you leave bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543267551103,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543267034664,
+      "content": "i think youd win",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543267031533,
+      "content": "fite him bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543267003591,
+      "content": "I got beef with this professor haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266721582,
+      "content": "haha you should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266695146,
+      "content": "dude i feel fucked up for even thinking this, but I wanna give this professor bad evaluation lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266680370,
+      "content": "tru tru lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266664431,
+      "content": "he doesnt fail anybody! haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266629767,
+      "content": "lol bro i gave up on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266461903,
+      "content": "dude I still gotta finish the term project. I gotta grind haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266442884,
+      "content": "honestly i think that fine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266433569,
+      "content": "you grinding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266432572,
+      "content": "is that enough lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266429931,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266429161,
+      "content": "fuck you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543266427051,
+      "content": "hey bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266416947,
+      "content": "i got 1600 words",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543266406703,
+      "content": "dude im at 5 pages. 1 is references and I have 2 pictures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543097023362,
+      "content": "true true haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096897953,
+      "content": "At least he said no one is gonna fail haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096732795,
+      "content": "but still get atleast a B you feel lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096718203,
+      "content": "bro im just trying to bs through 118 haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096595929,
+      "content": "I don\u00e2\u0080\u0099t wanna do it haha I wish the final was worth less then I would care about the paper more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096570366,
+      "content": "I\u00e2\u0080\u0099m gonna start tonight lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096559776,
+      "content": "Damn haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096555925,
+      "content": "but its a big picture haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096548998,
+      "content": "i just made it single spaced and im at 3.5 pages with 1 picture haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096421377,
+      "content": "I don\u00e2\u0080\u0099t even have a title",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096416218,
+      "content": "How do you have so much shit written already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096276769,
+      "content": "perfect haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096199762,
+      "content": "Imma just pad it with hella references and quotes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543096188559,
+      "content": "Imma do it lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096030309,
+      "content": "can we add pictures ? lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096024133,
+      "content": "alright ill try to get 6 pages too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543096014494,
+      "content": "yeah it does, i just checked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543095970902,
+      "content": "It\u00e2\u0080\u0099s in the prompt I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543095940575,
+      "content": "they said that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543095935641,
+      "content": "I\u00e2\u0080\u0099m trying to get minimum 6 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543095927353,
+      "content": "It has to be single spaced lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543095896496,
+      "content": "im thinking 8 pages double spaced should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543095867477,
+      "content": "no rereading or rough drafts haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543095848673,
+      "content": "im about to finish that shit today lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1543095837036,
+      "content": "hey bro how many pages for the term paper seem good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542169705988,
+      "content": "Yeaaaa idk what\u00e2\u0080\u0099s happening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1542169657323,
+      "content": "Bro i cant follow this shit rn \u00f0\u009f\u0098\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542154574636,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1542154559159,
+      "content": "Everybody trying to bs through it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1542154542351,
+      "content": "Bro this class is asssss lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542154506467,
+      "content": "what a fun class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1542154469122,
+      "content": "Thanks dude \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542154416647,
+      "content": "clutch af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1542154414874,
+      "content": "i like your answer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541317403102,
+      "content": "CLUTCH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316893492,
+      "content": "I had it saved on my phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316884985,
+      "content": "jk lol its my friend's answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541316873203,
+      "content": "impressive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316844394,
+      "content": "i write fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541316808814,
+      "content": "you did all that rn? haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541316801261,
+      "content": "no wayyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316762583,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44871920_506696089806015_1896182156573540352_n_327392147816873.jpg",
+          "creation_timestamp": 1541316762
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316756733,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44680884_312950542628168_5969880940871155712_n_192882384920729.jpg",
+          "creation_timestamp": 1541316756
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316634491,
+      "content": "alright give me a sec ill do them rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316624295,
+      "content": "oh fuck LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541316581380,
+      "content": "they didnt return it dude, im redoing the hws lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316555612,
+      "content": "did he return hw haha? I dont have mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541316543420,
+      "content": "for which question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541316352244,
+      "content": "yo you wanna compare answers for that question since its not posted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315873198,
+      "content": "yea same haha i dont know whats going on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541315781303,
+      "content": "like this class is so dumb, i dont know how to study for this shit lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541315762646,
+      "content": "dude im lowkey kinda worried for this midterm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315632957,
+      "content": "i think its like 16,4 or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315623172,
+      "content": "i just follow the steps in the book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315614656,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541315560689,
+      "content": "he didnt even post part 2, 3 and 4 so I have no idea if im doing this shit right lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541315529205,
+      "content": "yes sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315520345,
+      "content": "with like 4 problems",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541315515368,
+      "content": "is that the long ass one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1541315472626,
+      "content": "ay dude do you get question 1 from hw2 eecs 118?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540947913798,
+      "content": "alright bro thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540947813307,
+      "content": "nah you gotta add mp2 also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540947650955,
+      "content": "Wtf is going on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540947647008,
+      "content": "But the website is about the term project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540947622721,
+      "content": "oh yea lol just upload it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540947578121,
+      "content": "It also says upload your video to your personal website in red",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540947543422,
+      "content": "eee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540947533168,
+      "content": "Where do we submit that movie shit dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944970605,
+      "content": "purrrfect lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944956990,
+      "content": "4 others haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944751756,
+      "content": "was there anyone else too or just my dumbass lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944730681,
+      "content": "Nah lol just annoyed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944717434,
+      "content": "did he sound mad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944712132,
+      "content": "damn bro im scared lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944703073,
+      "content": "they did dude hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944700146,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944698530,
+      "content": "You in trouble",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944693820,
+      "content": "About it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944691908,
+      "content": "TAs gonna email you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944686518,
+      "content": "He was just saying that you were missing your url submission and that you weren\u00e2\u0080\u0099t here lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944660257,
+      "content": "what he say lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944653371,
+      "content": "they could send an email telling us to submit there SMH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944650163,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944648610,
+      "content": "Professor called you out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944636217,
+      "content": "fuck these guys man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944630641,
+      "content": "nah dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944624716,
+      "content": "Did you go to class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540944619461,
+      "content": "The TA announcements",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540944348561,
+      "content": "hey dude where to we submit the webpage url thingy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540433183937,
+      "content": "Thank Jesus \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540433099268,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540430869449,
+      "content": "Hey dude is there a quiz tomm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540270070987,
+      "content": "Oh nice haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540269553987,
+      "content": "It could just be google slides lol and theres no due date",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540269535960,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44591252_2109913089325956_7215691167772442624_n_2109913045992627.jpg",
+          "creation_timestamp": 1540269535
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540269465084,
+      "content": "Or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540269461304,
+      "content": "Like a web app to track progress",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540269454344,
+      "content": "Oh idk someone told me about it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540269444586,
+      "content": "I didnt see that in the pdf? DId he annouce it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540269405623,
+      "content": "Isn\u00e2\u0080\u0099t there a web app due soon too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540269395144,
+      "content": "Yea lol shouldn\u00e2\u0080\u0099t be hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540267776542,
+      "content": "a proposal is due on thursday dude lol, its in the pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540266077820,
+      "content": "do we have anything due for 118 this week, other than HW 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540256063352,
+      "content": "Thanks bro!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540255784527,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/files/Dis1022_493460331144324.pdf",
+          "creation_timestamp": 1540255783
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540255394119,
+      "content": "lmaoo alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540248662786,
+      "content": "pass me that info bro haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1540248601331,
+      "content": "he went over lik esome of the hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1540248214767,
+      "content": "hey dude what happened in 118 discussion today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539910149214,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539909449683,
+      "content": "Can't even enjoy some football lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539909427184,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44257950_2168101436806854_4523594864796893184_n_2168101416806856.jpg",
+          "creation_timestamp": 1539909426
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539909062956,
+      "content": "And this quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539909061043,
+      "content": "Same bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539905546205,
+      "content": "Damn imma take a L on this midterm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539905491945,
+      "content": "Literal definition lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539905465974,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44257654_428280794243509_5840789483972198400_n_428280784243510.jpg",
+          "creation_timestamp": 1539905465
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539905442722,
+      "content": "Oh lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539905435678,
+      "content": "Its skolemization lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539905390585,
+      "content": "Is it a thing lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539904790184,
+      "content": "Imma google that real quick lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539904767757,
+      "content": "Skolenization",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539904758167,
+      "content": "Wtf hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539904755493,
+      "content": "Skolenigativn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539904738506,
+      "content": "Dude whats that word by step 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539902821920,
+      "content": "Nah dude. I have no idea what he is doing. LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902770207,
+      "content": "im lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902768823,
+      "content": "you following what hes saying ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539902739191,
+      "content": "It's all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902720686,
+      "content": "sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902719174,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902718564,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539902716700,
+      "content": "oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539832714207,
+      "content": "You going career fair tommorow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539832687861,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539832677797,
+      "content": "Oh okay I got you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539832648441,
+      "content": "It should do whatever your action you set for the form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539832628360,
+      "content": "Like the button?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539832607452,
+      "content": "Hey dude you know how we are using input type=submit, how can we check that its been clicked?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539744436381,
+      "content": "nah dude im at home haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539744365348,
+      "content": "You in class lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539744355372,
+      "content": "i get it, thanks fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539744346135,
+      "content": "Yea exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539744333970,
+      "content": "so like \"PreparedStatement pstmt = ...\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539744274058,
+      "content": "For statement ou need to go Statement stmt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539744262677,
+      "content": "Kinda like when you declare a string you do String s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539744250536,
+      "content": "Oh like that means for initializing the statements etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539744208097,
+      "content": "Bro what do they mean about this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539744200336,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/44173727_303195946938797_2544632633841680384_n_303195930272132.jpg",
+          "creation_timestamp": 1539744199
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729892462,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729461354,
+      "content": "gotta start the grind early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729452851,
+      "content": "nah just wanted to start early haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729431137,
+      "content": "bruh you the goat lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729398738,
+      "content": "gotta make it look pretty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729390997,
+      "content": "like 98% done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729370231,
+      "content": "you finished that shit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729334480,
+      "content": "took me forever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729330371,
+      "content": "yea lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729312140,
+      "content": "that shit is hella complex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729304531,
+      "content": "yeah dude but mini project my butt lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729282330,
+      "content": "lmao have you started?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729143354,
+      "content": "dude im boutta skip class and grind on the code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539729121196,
+      "content": "nah i dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539729053588,
+      "content": "ay bro do we have a quiz tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539545041303,
+      "content": "Gracias dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539544895740,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/files/epdftips_artificialintelligenceanewsynthesis_1078357738998724.pdf",
+          "creation_timestamp": 1539544888
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539542179534,
+      "content": "Thanks dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539540607849,
+      "content": "I\u00e2\u0080\u0099ll send it to you in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539540600014,
+      "content": "Yea i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539495339138,
+      "content": "do you have a pdf for the 118 textbook?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308775389,
+      "content": "thats true haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308716803,
+      "content": "The lecture has nothing to do with anything and he aint teaching shit about the projects haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308694908,
+      "content": "Im lowkey more concerned about 118 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308664965,
+      "content": "this class scares me tbh haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308626728,
+      "content": "You got this \u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308577781,
+      "content": "oh damn i feel better now LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308566163,
+      "content": "He did though lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308559637,
+      "content": "Last thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308545259,
+      "content": "when did he say that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308537259,
+      "content": "i dont remember that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308532047,
+      "content": "oh what no way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308491004,
+      "content": "He said multiple choice and T/F",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308478078,
+      "content": "Just velocity sat bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308357251,
+      "content": "im not even sure what to study tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308349486,
+      "content": "lmao alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539308196512,
+      "content": "Imma just skip that stuff lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539308141573,
+      "content": "Bro I don\u00e2\u0080\u0099t even know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539307752994,
+      "content": "Do we have to know capacitance stuff for 119 quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539299985839,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539299602288,
+      "content": "This class is trash lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1539299573605,
+      "content": "I think we are back in English class my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1539299557784,
+      "content": "Ay bro you following this lecture?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538103495756,
+      "content": "Hahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1538103344756,
+      "content": "I think you the only one taking notes haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1538103335050,
+      "content": "Im proud of you bro!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528953514759,
+      "content": "we really studying pictures lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528953404508,
+      "content": "foreal LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528953105294,
+      "content": "dude fudge those pictures, I dont even want to look at them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528953008983,
+      "content": "idk which one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528953006345,
+      "content": "one of those figures is gonna be on the test tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528952996318,
+      "content": "idk man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952656617,
+      "content": "Is this important?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952651229,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/35196946_1785060188218509_7891490583737270272_n_1785060148218513.jpg",
+          "creation_timestamp": 1528952650
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952642095,
+      "content": "I'm having trouble with the same topics u said lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528952161206,
+      "content": "you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528952155007,
+      "content": "not really lol i barely understand the files stuff or I/O systems",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952110158,
+      "content": "you ready?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528952069773,
+      "content": "lmao aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952049680,
+      "content": "i got a 75, 55, and 80 on the codes so Its all good if I fudge up on the lab quiz too haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528952046399,
+      "content": "haha are you hella burned out man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528952022107,
+      "content": "I dont know, I dont really care tbh haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528951998062,
+      "content": "What does lab quiz mean lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528951988003,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/35345194_561953244199704_49430864509009920_n_561953237533038.jpg",
+          "creation_timestamp": 1528951987
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528945105802,
+      "content": "Dont stress bro. Everyone is burned out lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528945003165,
+      "content": "for real lol im not gonna do good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528944983388,
+      "content": "Its bad dude haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528944605129,
+      "content": "how you feeling about this lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528925280971,
+      "content": "i just want a C in the class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528925274309,
+      "content": "i already accepted it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528925195724,
+      "content": "111 is going to be an L lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528924709480,
+      "content": "helll yea good shit bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528924698980,
+      "content": "Yeah I got a 108 out of 100 so I'm chilling for 111 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923917346,
+      "content": "thank god i got an A lmao i can slack off in 111 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923900812,
+      "content": "they are out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923898546,
+      "content": "did you see your grades for 113?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923893377,
+      "content": "thanks man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528923860414,
+      "content": "Shoot I forgot. Goodluck bro!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923528410,
+      "content": "I got a final at 4 I gotta focus on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528923521922,
+      "content": "Idk tbh I stopped studying lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528922927604,
+      "content": "File systems",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528922858776,
+      "content": "Which lecture is that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528922722260,
+      "content": "Dude what is the important part of lec 10. The single double and tree structure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528834724851,
+      "content": "bro I feel like Fragmentation is just like an intro to segmentation. but I dont think its a topic to sweat over lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528828007059,
+      "content": "hes the GOAT haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528827329008,
+      "content": "Danny is doing big things lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528827324567,
+      "content": "Damn dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528786245253,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528786187234,
+      "content": "alright for sure haha. I have like 3.2 brain cells left so I gotta protect them haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528786109413,
+      "content": "i think thats enough for safety alg but not for resource request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528786038025,
+      "content": "I just wanted to ask if you think thats enough haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528786012516,
+      "content": "I just memorized bankers algorithm as Need.i <= Work -> Work = Work + Allocation.i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528785784788,
+      "content": "and like resource-request uses saftey alg in its alg to check after step 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528785743334,
+      "content": "or like they make up what is bankers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528785736404,
+      "content": "they are like used in bankers alg i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528784973281,
+      "content": "how does safety algorithm and resource-request a;gorithm tie into bankers algorithm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528782457138,
+      "content": "Im reading lec 7 now though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528782448802,
+      "content": "I just dont want to read it rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528781870801,
+      "content": "Oh shit no way lol what don\u00e2\u0080\u0099t you get about it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528779316223,
+      "content": "dude I hate bankers algorithm, I took an L on that quiz haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773622735,
+      "content": "Clutch. Thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773536825,
+      "content": "this was pretty helpful for main mem section",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773527102,
+      "content": "https://www.tutorialspoint.com/operating_system/os_memory_management.htm",
+      "share": {
+        "link": "https://www.tutorialspoint.com/operating_system/os_memory_management.htm"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773275826,
+      "content": "tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773250267,
+      "content": "I'll let you know when I read it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773198919,
+      "content": "i think its definitely gonna be on the test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773186388,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773185180,
+      "content": "do you understand fragmentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773173804,
+      "content": "What about it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773131710,
+      "content": "well lemme know when you get to lecture 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773123316,
+      "content": "lol alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773106771,
+      "content": "Nope, no more until thursday at 10 am lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773081221,
+      "content": "you should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773077999,
+      "content": "lmaooo did yuo play fortnite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773067314,
+      "content": "I started messing around \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528773053563,
+      "content": "I'm on slide 15 of deadlocks lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528773036458,
+      "content": "hey did you get to ;lecture 7 yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528768587179,
+      "content": "They all are. Those lectures are sooo dense lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528768069240,
+      "content": "dead lock is a big chapter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528767331381,
+      "content": "we can literally only read the lectures lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528767329234,
+      "content": "damn alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528767317175,
+      "content": "No we didnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528767279856,
+      "content": "did we ever get back our midterms btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528767273980,
+      "content": "lmao yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528767099506,
+      "content": "honestly i would do the same. an A to balance out a C haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528767077226,
+      "content": "Damn, goodluck man haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528767068346,
+      "content": "i can get an A in that class so i might just say fk it to 111 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528767050449,
+      "content": "wenesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528767000136,
+      "content": "whens 152A",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766987938,
+      "content": "godamn you got a long time to study lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766969138,
+      "content": "im trying 5 to 9 today. and the rest tomm. Memorization on wednesday haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766942514,
+      "content": "this is all lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766931111,
+      "content": "what other finals you got?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766924585,
+      "content": "imma study til like 9pm then i gotta switch to 152a lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766873434,
+      "content": "do it with me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766843183,
+      "content": "Im trying to finish lectures 5 to 9 today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766804818,
+      "content": "damn dude youre hella smart lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766768041,
+      "content": "You got this bro, you a genius",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766757529,
+      "content": "theres way too much info. But since Ive read the lectures before I kinda quiz myself on topics as I go. Like slide named FCFS. Before reading the slide quiz yourself if you know it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766706904,
+      "content": "i dont know whats important lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766672087,
+      "content": "not everything haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766653846,
+      "content": "you just like memorize everythibng?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766646569,
+      "content": "oh damn alright lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766620949,
+      "content": "I started studying from lecture 5 LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766597683,
+      "content": "just finished lec 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528766589792,
+      "content": "im reading the lectures and taking notes lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766554099,
+      "content": "teach me your ways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766551152,
+      "content": "you got a high ass grade on the midterm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528766542855,
+      "content": "how do you study for 111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528687210249,
+      "content": "I pretty sure everyone is lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528686684411,
+      "content": "I\u00e2\u0080\u0099m very unmotivated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528686678202,
+      "content": "Same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528686595762,
+      "content": "maybe tomm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528686590737,
+      "content": "I havent started studying haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528671294554,
+      "content": "80",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528670292400,
+      "content": "What you get on the past project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528670279242,
+      "content": "I hate that class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528670101275,
+      "content": "Me too haha, i might just start from 3 though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528669538943,
+      "content": "I haven\u00e2\u0080\u0099t even gone tru 9-12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528669531442,
+      "content": "Aw fk. LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528669479535,
+      "content": "Bro thats 10 lectures \u00f0\u009f\u0098\u00a6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528669466794,
+      "content": "Thats lecture 3 to 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668721184,
+      "content": "For real lol I gave up on 111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668713325,
+      "content": "Apparently it\u00e2\u0080\u0099s threads/process onwards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528668711089,
+      "content": "Yeah my report is pretty much done too, but I dont wanna study haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668700692,
+      "content": "Yeaaa haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528668693315,
+      "content": "Fudge that class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668685432,
+      "content": "Imma start studying now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668680245,
+      "content": "I finished my report for 113",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668673207,
+      "content": "Nah not really lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528668633678,
+      "content": "Did you start studying lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668607846,
+      "content": "I didn\u00e2\u0080\u0099t go to the last lecture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528668599283,
+      "content": "Bro idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528668414265,
+      "content": "Hey dude so we have to know lect 3 onwards?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528489591724,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528489555303,
+      "content": "111 is ass lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528489548720,
+      "content": "so annoying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528489544739,
+      "content": "they always do that shit, send an email changing rules the day of lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528489470663,
+      "content": "Alright haha I respect that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528489435472,
+      "content": "bro so I have a final at 5 pm for 116. and then im going to watch the basketball game, im not changing my code haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528489071594,
+      "content": "are we allowed too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528489015911,
+      "content": "I just used a_task_is_done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528488941411,
+      "content": "I dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528488896002,
+      "content": "hey did you use taskDoneMutex in your code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528408868781,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528408864129,
+      "content": "alright for sure haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528408837208,
+      "content": "Oh that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528408625720,
+      "content": "I though we have to connect Ldr to ADC?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528408586073,
+      "content": "just using the ldr works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528408376902,
+      "content": "I used the ldr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528408191662,
+      "content": "Dude did you use this to detect light?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528408180526,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/34777273_1777934962264365_1248114313646833664_n_1777934905597704.jpg",
+          "creation_timestamp": 1528408179
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528344431163,
+      "content": "Oh lmao nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528342854429,
+      "content": "I been googling everything haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528342845449,
+      "content": "It hasnt been too bad honestly but we got stuck with the photoresistor lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528342730511,
+      "content": "I gotchu man lol I didn\u00e2\u0080\u0099t realize you weren\u00e2\u0080\u0099t using the tutorial",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528342376067,
+      "content": "dude thanks honestly that tutorial is awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528341229382,
+      "content": "And a ton of example code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528341226969,
+      "content": "God bless you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528341222615,
+      "content": "Just download it and there a tutorial pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528341212161,
+      "content": "https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi",
+      "share": {
+        "link": "https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528341173772,
+      "content": "Lemme find it hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528341165427,
+      "content": "I dont think I got that shit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528341156328,
+      "content": "What tutorial lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528340845409,
+      "content": "Makes it easy af lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528340841195,
+      "content": "It has a bunch\nOf example code and schematics for each part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528340828374,
+      "content": "I used the tutorial that comes with the kit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528340813037,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528340066829,
+      "content": "You didnt use the pdfs? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528339879886,
+      "content": "What was in the pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528339162768,
+      "content": "Did you use the photoresistor the way he showed in the sensors pdf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528324291679,
+      "content": "alright for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528323927230,
+      "content": "yeah it is, the way I implemented EDf all I had to do was change tcb[index].deadline to tcb[index].period",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323833747,
+      "content": "cause i need some haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323828729,
+      "content": "is it extra credit lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528323795148,
+      "content": "do RM its easy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528323784424,
+      "content": "yeah thats it we done haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323596337,
+      "content": "Is that it then lol? We are done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323564183,
+      "content": "I appreciate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323560591,
+      "content": "Alright thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528323557427,
+      "content": "Gdi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528323448657,
+      "content": "Bro I asked my friend derell, and he said he asked the TA in discussion and TA said dont worry about it. EDF and RM should have 1 missed deadline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528323036047,
+      "content": "For sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528322874221,
+      "content": "lemme know if the TA responds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528321921016,
+      "content": "Alright hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528321294298,
+      "content": "I'm probably email him lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528321124748,
+      "content": "Fuck it bro I'm going to just submit it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528321104688,
+      "content": "Bro I did. This dude just told me to ask the TA smh haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528320246905,
+      "content": "Are you going to 111 OH rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528320241255,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528319296158,
+      "content": "Gotcha, thanks man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528319001748,
+      "content": "If that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528318997707,
+      "content": "I connected the switch to a gpio pin and made it so the switch either pull the pin up to 3v3 or down to GND so I read the pin and if it\u00e2\u0080\u0099s LOW then it\u00e2\u0080\u0099s mode 1 and if it\u00e2\u0080\u0099s HIGH its mode 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528318934194,
+      "content": "Switch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528317731998,
+      "content": "Did you use a button for the switch for 113?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269593258,
+      "content": "alright for sure ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269546397,
+      "content": "Ill let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269536174,
+      "content": "Im going to his OH tomm, ill probably just ask him lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269510848,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269361005,
+      "content": "hmm is it worth spending extra time? lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269332620,
+      "content": "\"After that, you need to implement your own scheduling function based on EDF scheduling. Your EDF-based scheduling function MUST satisfy all the deadlines.\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269295407,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269179656,
+      "content": "oh shit really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269170196,
+      "content": "for edf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269168143,
+      "content": "but the prompt said it has to satisfy all of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269128925,
+      "content": "So I think its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269122143,
+      "content": "It missed 1 deadline, but fifo is missing like all of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269099295,
+      "content": "cause i have like almost the same thing but i miss deadlines",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528269088715,
+      "content": "wait and this works? like no deadlines missed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528269049890,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/34594909_1776237209100807_5679101016297963520_n_1776237182434143.jpg",
+          "creation_timestamp": 1528269049
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528268997991,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528268997386,
+      "content": "help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528268996462,
+      "content": "bro no way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528268988946,
+      "content": "you wanna see it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528268985277,
+      "content": "hey dude I got edf working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528218856768,
+      "content": "I didnt either man. I just added bases and the second number given haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528218837076,
+      "content": "Oh shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528218831618,
+      "content": "I didn\u00e2\u0080\u0099t check the limits lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528218829667,
+      "content": "I fucked up not bringing a calculator lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528218824874,
+      "content": "First one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528218809127,
+      "content": "On which one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528217735780,
+      "content": "I fucked up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173949829,
+      "content": "Clutch haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173648391,
+      "content": "And yea np someone else sent me there\u00e2\u0080\u0099s so I barely had to think lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173620279,
+      "content": "Alright sweet thanks lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173602861,
+      "content": "thanks for the help !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173589880,
+      "content": "I would say dont waste your time on it bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173565204,
+      "content": "Manpreet sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/34343447_1775183485872846_2972002306658140160_n_1775183482539513.png",
+          "creation_timestamp": 1528173564
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173494587,
+      "content": "What about 10?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173491286,
+      "content": "Oh damn alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173478944,
+      "content": "hey but the quiz is on main memory and disk scheduling, so lect 7 and just one part of lec 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173472532,
+      "content": "That\u00e2\u0080\u0099s what I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173471373,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/34608453_557359451325750_2237396477649354752_n_557359434659085.jpg",
+          "creation_timestamp": 1528173470
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173418550,
+      "content": "yeah man tbh, threads been kicking my butt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173407482,
+      "content": "but I get the idea, we have to use deadline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173400799,
+      "content": "Oh dude lol need help?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173390637,
+      "content": "Nah dude Im talking about fifo, I havent even looked at edf lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173370662,
+      "content": "Is it hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173368539,
+      "content": "I haven\u00e2\u0080\u0099t tried lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173364541,
+      "content": "Edf right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173349546,
+      "content": "its not that bad but Im not setting the signal right, like I understand what to do though haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173320485,
+      "content": "Actually jk I think I did fifo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528173309976,
+      "content": "I haven\u00e2\u0080\u0099t even started lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173270024,
+      "content": "bro I was trying to get 111 code done, but im having issues",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173238551,
+      "content": "Im not even studying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528173233709,
+      "content": "dude I dont even know anymore haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528172991650,
+      "content": "Hey what lecture are you studying lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528089039150,
+      "content": "not really but Im meeting the TA tom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528089006322,
+      "content": "You start 111?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088988497,
+      "content": "That\u00e2\u0080\u0099s pretty good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088490564,
+      "content": "progress bro got helloworld on my LCD haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088478875,
+      "content": "alright for sure haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088336799,
+      "content": "Yea python is a lot easier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088331424,
+      "content": "True lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088296599,
+      "content": "and its just a demo so as long as it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088284896,
+      "content": "but his lecture slides are full of python code so Im pretty sure you are fine dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088270073,
+      "content": "I havent heard that BUt I dont go to class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088215938,
+      "content": "Do you know if that\u00e2\u0080\u0099s true or\nNot lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528088190271,
+      "content": "nah fuck that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088175773,
+      "content": "But someone told me that you have to use c so I might have fked up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528088161941,
+      "content": "Python",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528087602268,
+      "content": "bro whats easeier to use for the proj. C or pyhton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528007367031,
+      "content": "its fine man, ill handle it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528007312799,
+      "content": "that sucks main im sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528007271782,
+      "content": "I gotta email these dudes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528007265921,
+      "content": "the box says SD card inside but its empty lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528007238442,
+      "content": "what ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528007201430,
+      "content": "I stay getting lied to haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528007135619,
+      "content": "there should be lol in like a small plastic thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528007118350,
+      "content": "oh what no way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528007037262,
+      "content": "wtf there isnt one in my box smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528007007821,
+      "content": "came with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528006932788,
+      "content": "hey bro did your kit come with an sd card or we have to get that separate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528005295105,
+      "content": "I appreciate the help \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005268391,
+      "content": "lemme know if you need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005264902,
+      "content": "you got this lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528005227235,
+      "content": "Dude but I got a final this friday so I gotta get this shit done soon lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005159711,
+      "content": "Lol it\u00e2\u0080\u0099s not hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528005121614,
+      "content": "I literally just opened the box haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005105439,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/ManpreetDhindsa_qoCfdVKiXw/photos/34321451_556502014744827_113207190369599488_n_556502004744828.jpg",
+          "creation_timestamp": 1528005104
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005086458,
+      "content": "nah its fun tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528005076210,
+      "content": "Bro you the goat haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528005008770,
+      "content": "yea im almost done lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1528004675795,
+      "content": "hey bro did you start working on rasp pi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527899249485,
+      "content": "but he quizzed us on lec 8 already, what is going on man haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527899226934,
+      "content": "I think thats lec 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527899177798,
+      "content": "Disk and main mem from what I\u00e2\u0080\u0099m told",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527899171288,
+      "content": "Oh yea I heard that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527899166437,
+      "content": "do you know what on haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527899155859,
+      "content": "I heard theres a quiz again on Tuesday btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527899128138,
+      "content": "Nope haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527899037217,
+      "content": "dude do you know what lecture we are on for 111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527212116068,
+      "content": "nicee lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527210259890,
+      "content": "Nvm I got it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527209608396,
+      "content": "Hm did you change all your di settings?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527206120682,
+      "content": "anything I run just gives me, error function set not called",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527206107022,
+      "content": "dude could you send me .c file that just prints something in the LCD section, like just hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129906620,
+      "content": "bro this stuff like this throws an error for me, and it makes sense. you cant increment a char, but everyone keeps saying the code compiles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129866315,
+      "content": "char c;\n\tfor (c = 0; c < 50; c++);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129617236,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129605095,
+      "content": "Good luck haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129592574,
+      "content": "this is some Bs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129575742,
+      "content": "Oh shit idk man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129547181,
+      "content": "discussion.c:63: error 94: comparison is always true due to limited range of data type",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129542962,
+      "content": "yeah when I try to compile the discussion code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129483890,
+      "content": "?*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129480803,
+      "content": "Like the c code won't compile!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129456346,
+      "content": "That's what I have idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129308013,
+      "content": "Im so annoyed haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129304784,
+      "content": "I  have sdcc 3.6.0 installed, is the version off, or what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527129279466,
+      "content": "dude the discussion code wont even compile for me, it throws errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527129096539,
+      "content": "Did that work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125471750,
+      "content": "Alright, thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527125258022,
+      "content": "Click the red X",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125245703,
+      "content": "I dont know how to restart though, I tried quitting it and then reopening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125202308,
+      "content": "no I didnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527125181226,
+      "content": "Did you restart Edsim after?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125154730,
+      "content": "Yeah I hit save and they dont change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527125074193,
+      "content": "Oh what no way?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125064800,
+      "content": "I am but they like wont save",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527125053134,
+      "content": "You gotta change a lot of setting on the DI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527125016155,
+      "content": "Dude I dont see anything in edsim8051",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527124913191,
+      "content": "Uh I basically used the discussionsolutionexample in the discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527123640650,
+      "content": "is lcd.c one of them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527123634721,
+      "content": "other than interrupt and timer, what files do we need?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527107153076,
+      "content": "Tru lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527106863953,
+      "content": "As long as it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527106860720,
+      "content": "Fuck it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527105990009,
+      "content": "I did haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527105986875,
+      "content": "Oh shit idk then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527103954441,
+      "content": "I head professor in office hours saying the file cant be too big or it wont run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527103936720,
+      "content": "into 1 big file ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527103147510,
+      "content": "I used them as in a copy pasted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527102671605,
+      "content": "hey so we need like interrupt.c and timer.c for 113? 2 files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527007855001,
+      "content": "Thanks man, you got this too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527007846292,
+      "content": "Dude no one came last week, no one knows about the quiz lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527007821384,
+      "content": "This class is empty rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527007817159,
+      "content": "Damn I feel like you got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527007804070,
+      "content": "I studied a decent amount though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527007794712,
+      "content": "Bro I dont even know lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527007769808,
+      "content": "You ready for this quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527007025986,
+      "content": "Bro I am LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1527007012640,
+      "content": "Bro you look hella tired lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526976329611,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526976328004,
+      "content": "Like if I give up in fortnite or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526976327177,
+      "content": "oh haha i got you now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526976310138,
+      "content": "Gg as in good game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526976295850,
+      "content": "God damn it ^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526976269996,
+      "content": "i dont know what your acronyms mean lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526975497961,
+      "content": "Gdi maybe I'll just say gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526975477778,
+      "content": "dude rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526975460111,
+      "content": "Fuck LOL I'm studying the wrong chapter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526975448791,
+      "content": "vm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526975432454,
+      "content": "System software or virtual mem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526975425259,
+      "content": "Wait which lecture is lecture 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526975078028,
+      "content": "Bruh it's so confusing lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526975069386,
+      "content": "this is like 112, but more details \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526974076963,
+      "content": "Same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526974075901,
+      "content": "hopefully all avgs are low",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526974066562,
+      "content": "its spring quarter bro, i cant handle it haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526974046359,
+      "content": "Hahaha nah dude I can't retains shit tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526974035433,
+      "content": "no time for notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526974032304,
+      "content": "bro honestly you a smrt guy, just read it tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526974020580,
+      "content": "I'll start 8 rn I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526974004610,
+      "content": "Gdi dude I'm only halfway thru 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526973861486,
+      "content": "one of my friends said its on lec 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526973847083,
+      "content": "Im focusing on lecture 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526973841433,
+      "content": "way too much information dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526968275428,
+      "content": "alright man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526968263078,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526968223240,
+      "content": "dude so lec 7 and 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966608648,
+      "content": "same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966467788,
+      "content": "shit goodluck lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966343461,
+      "content": "grind time my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966330846,
+      "content": "thats like 100 slides :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966316496,
+      "content": "idk i guess last week's lectures?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966304238,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966303647,
+      "content": "bro same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966267446,
+      "content": "I didnt go to class all of last week lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966258132,
+      "content": "shoot so what do we study,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966244620,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966212250,
+      "content": "these professors gotta chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526966197375,
+      "content": "SMH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526966183631,
+      "content": "bro i think we do , idk what on tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526965347027,
+      "content": "thanks fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526965335833,
+      "content": "i gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526965310584,
+      "content": "let me know what you find out lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526964999347,
+      "content": "not a reliable source*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526964998114,
+      "content": "lemme ask around haha i have no idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526964985370,
+      "content": "so I wanted to ask you haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526964977439,
+      "content": "oh fk i didnt know LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526964977426,
+      "content": "but honestly its too much of a reliable source lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526964965883,
+      "content": "dude someone told me there is a quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526964947161,
+      "content": "yooo we have a quiz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526964859221,
+      "content": "what is the 111 quiz on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785718685,
+      "content": "yea for real lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785707077,
+      "content": "shits all bad dude lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785699029,
+      "content": "i havent gone in like 2 weeks haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785685773,
+      "content": "i dont even know whats happening in 113 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785667997,
+      "content": "thanks man, but 113 ill be starting on monday haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785644021,
+      "content": "you got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785642544,
+      "content": "oh damn dude good luck lol it isnt that bad tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785630013,
+      "content": "but progress has been made",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785620008,
+      "content": "dude I had a midterm again yesterday so I started today lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785599753,
+      "content": "its much better than last assignment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785592968,
+      "content": "yea lol like an hour ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785487349,
+      "content": "you already finish it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785481494,
+      "content": "its alright man haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785452536,
+      "content": "oh shit lol hows it going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1526785255006,
+      "content": "Nah dude working on 111 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526785238155,
+      "content": "you start 113 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525970785603,
+      "content": "I'm trying haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525970572798,
+      "content": "Hurry to class dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525970568059,
+      "content": "He going over some algorithm he said will be on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525970303876,
+      "content": "Im fucked for this Quiz lol imma be so late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525970087669,
+      "content": "It says bankers algorithm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525970050315,
+      "content": "Hey what slide did he start with today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333872498,
+      "content": "thanks again though man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333818140,
+      "content": "It's all good man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333814166,
+      "content": "I don't drink soda either LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333797833,
+      "content": "shit well soda then lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333790284,
+      "content": "LOL I don't drink beer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333784372,
+      "content": "It's long af huh LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333779329,
+      "content": "whats your favorite beer bro, I owe you a 6 pack lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333773822,
+      "content": "Yup np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333758494,
+      "content": "I got it bro, thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333640418,
+      "content": "If you don't get it lemme know and I'll just screen shot it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333601431,
+      "content": "It's not uci github btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333592334,
+      "content": "Nah it's cool bro lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333587717,
+      "content": "Did you get it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333586364,
+      "content": "I owe you one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333583910,
+      "content": "I appreciate you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333580727,
+      "content": "Bro thank you man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333513812,
+      "content": "I added you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333511823,
+      "content": "I just did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333506018,
+      "content": "you cant like share a private repo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333463978,
+      "content": "Lmao oh I mean it's just to see my code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333348253,
+      "content": "bro I dont really use git",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333236445,
+      "content": "A private one lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333225737,
+      "content": "is it on one of your repositories?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525333170424,
+      "content": "My code is on there lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525333143635,
+      "content": "bro why you trying to use github lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525332876852,
+      "content": "I'm trying to add you but idk how lma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525332416571,
+      "content": "manpreetdhindsa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525332357899,
+      "content": "What's your username",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525331802862,
+      "content": "yeah bro I do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525331787696,
+      "content": "You have a GitHub?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525331777900,
+      "content": "For sure which one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525331767564,
+      "content": "dude help a brother out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525331385628,
+      "content": "LOL nah I just like to finish things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525330671928,
+      "content": "I'm impressed though tbh haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525330652998,
+      "content": "Bruh wtf do you study for fun or what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525330258985,
+      "content": "Lol dude I did it Sunday cause I was procrastinating the 111 lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525330150113,
+      "content": "you on some next level shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525330143869,
+      "content": "bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525330134382,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525330119564,
+      "content": "you finish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525330094612,
+      "content": "Maybe discussion slides actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525330086676,
+      "content": "I kinda just did it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525330083493,
+      "content": "Oh idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525326845926,
+      "content": "dude what lecture do we read to do the 113 assignment?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525131459429,
+      "content": "Same *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525130778880,
+      "content": "Bro*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525130778319,
+      "content": "Lmao vein",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525127602745,
+      "content": "im checked out dude. Im on summer vaca in cancun already haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525127581233,
+      "content": "bro I finished lecture 1, slide 30 on lecture 2 and about slide 65 for lecture 3 but honestly I dont know how much I have retained lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525127542258,
+      "content": "I don't wanna read tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525127536569,
+      "content": "Lecture 2 rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525127532034,
+      "content": "Nah bro I just started",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525127523402,
+      "content": "you done reading the slides lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525126756522,
+      "content": "Up to monitor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525126752647,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525125808232,
+      "content": "do we have to know all the material form the first 3 lectures?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525077547245,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525077500829,
+      "content": "TBH id rather do that LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525077483047,
+      "content": "I drank some beers and played some fortnite instead of coding all night lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525077456220,
+      "content": "I couldve done it but I'm on cruise control this quarter lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525077418206,
+      "content": "Oh nice man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1525077141280,
+      "content": "I got everything except multithreading",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525076526774,
+      "content": "Did you get it to work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524990438910,
+      "content": "Np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524990419322,
+      "content": "You",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524990417840,
+      "content": "Thank ui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524990377536,
+      "content": "I used this as reference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524990369873,
+      "content": "https://www.geeksforgeeks.org/merge-sort-using-multi-threading/",
+      "share": {
+        "link": "https://www.geeksforgeeks.org/merge-sort-using-multi-threading/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524990331700,
+      "content": "Alright sir. Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524990112955,
+      "content": "I made the merge sort not multithreaded and then overloaded the function for the threaded part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524989674539,
+      "content": "Did you make mergesort not multithreaded at first and then change it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524959395325,
+      "content": "alright man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524959282285,
+      "content": "a lot of it was just guess and check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524959250972,
+      "content": "uh kinda i guess lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524959202761,
+      "content": "I feel like ive just been on stack overflow lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524959189280,
+      "content": "Dude did you use hella code from online?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896270791,
+      "content": "its all good man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896265397,
+      "content": "shit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896181433,
+      "content": "Welp now you got 111 and 116 rip bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896148630,
+      "content": "yeah haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896136401,
+      "content": "Goddamn that's insane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896125488,
+      "content": "yeah it was today at 5, but after we got there they annouced the change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896105561,
+      "content": "Oh what LOL was that last minute?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896096308,
+      "content": "this school is a joke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896091066,
+      "content": "it got moved to monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896078123,
+      "content": "Oh damn how'd you do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896066513,
+      "content": "hell no dude I had to start studying for 116",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896051582,
+      "content": "Did you finish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896048624,
+      "content": "It's a bitch to check lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896036262,
+      "content": "Yea lol well almost. My multithreaded merge sort is like 3 inputs off lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524896002417,
+      "content": "did you finish the code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524895986358,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524894843269,
+      "content": "so the 111 exam only covers the first 4 lectures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524763156926,
+      "content": "You getting this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534990609,
+      "content": "thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534954063,
+      "content": "You got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534949484,
+      "content": "Loool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534947834,
+      "content": "alright man Ill see what I can do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534940575,
+      "content": "shit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534931960,
+      "content": "You don't need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534927253,
+      "content": "You got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534925223,
+      "content": "I believe in you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534922598,
+      "content": "Yea I finished it yesterday lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534857059,
+      "content": "how did you do the hex to BCD conversion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534849636,
+      "content": "oh shit for reals?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534056382,
+      "content": "I already finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524534042534,
+      "content": "Dude are you working on 113? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524385504892,
+      "content": "lol you too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524385493751,
+      "content": "goodluck man haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524385468006,
+      "content": "LOL gn dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524385456705,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524385455396,
+      "content": "extension dude, im going to sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524383028753,
+      "content": "i know LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524382264893,
+      "content": "why do we keep getting bitch ass classes like this man, swear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524382012299,
+      "content": "yea bro its wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524381588938,
+      "content": "this shit is hard man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524381553675,
+      "content": "grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524381543529,
+      "content": "sort based on ID number or grade?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524377579393,
+      "content": "nice lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524377571134,
+      "content": "im not sure but I think im reading the files right now haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376773307,
+      "content": "this is probably going to be a very messy assignement lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524376700696,
+      "content": "honestly I dont know haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376433083,
+      "content": "what do you mean we need to use a for loop tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376425590,
+      "content": "lmao alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524376413392,
+      "content": "ill try to get it by about midnight lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376397945,
+      "content": "how are you gonna do it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376394479,
+      "content": "yea this is gonna be bad lol but like idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524376369279,
+      "content": "dang man haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376148338,
+      "content": "Idc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524376146137,
+      "content": "I'm hardcoding lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375923609,
+      "content": "dude we have to open the files by using class_name[] from main because we have to open the files in a for loop, otherwise its pretty much hardcoding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524375784751,
+      "content": "just string",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375775356,
+      "content": "what is the type for str, is it just string",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524375375027,
+      "content": "and then str is a row in the csv file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524375358549,
+      "content": "i did it like this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524375358257,
+      "content": "ifstream ip(\"input/os.csv\");\n            while(ip.good()){\n\t\t\tgetline(ip,str);\n}",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375036474,
+      "content": "im getting frustrated lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375022340,
+      "content": "this isnt working for me bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375014926,
+      "content": "inFile.open(\"/input/os.csv\");",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524375013015,
+      "content": "ifstream inFile;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374990581,
+      "content": "now im trying to make a vector of structs but its not working lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374972678,
+      "content": "but thats needed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374966633,
+      "content": "its just my initial thing stored the grades into a vector but i ignored the student IDs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374950379,
+      "content": "yea i opened everything correcly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524374822573,
+      "content": "wait by storing the data properly, are you sure you opened the file correctly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524374796255,
+      "content": "did you use their class_name array with the file names?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374758577,
+      "content": "ifstream*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374754909,
+      "content": "i used ifstrea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524374741385,
+      "content": "did you use fstream?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524374737267,
+      "content": "how did you open the files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524374719164,
+      "content": "yea but i cant figure out how to store the data properly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524374699666,
+      "content": "did you figure out how to open the files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524371974514,
+      "content": "alright ill take a look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371942910,
+      "content": "i think thats how you do the threads but tbh idk how pointers work anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371928883,
+      "content": "https://www.geeksforgeeks.org/merge-sort-using-multi-threading/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371928308,
+      "content": "check this out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371925476,
+      "content": "only the sorting part needs to have threads",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371918727,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524371899042,
+      "content": "do we assign an input file to a process, and then use the threads to do the sort?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371882717,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524371878306,
+      "content": "one more question lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524371863399,
+      "content": "i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524371833241,
+      "content": "so how does this work? lets say we have 5 process and 5 thread\nthat means each process has 5 threads, so we have 25 threads?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524370890182,
+      "content": "fudge this shit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524369083456,
+      "content": "C++ is hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524369077093,
+      "content": "Idk man lol this shit is co fusing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524367724004,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524367721823,
+      "content": "how do we do that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524367535236,
+      "content": "fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524367357580,
+      "content": "Pass them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524367317907,
+      "content": "do we have to pass them in or it automatically does that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524366975010,
+      "content": "im trying to read files rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524366964463,
+      "content": "idk tbh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524366961028,
+      "content": "cry a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524366938815,
+      "content": "How did you start though, whats the idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524364240645,
+      "content": "I'm sorry man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524364052640,
+      "content": "I don't even know what I'm doing lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524364045781,
+      "content": "Bro this shit is so hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524363794506,
+      "content": "Wbu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524363784814,
+      "content": "Not much man im enjoying family time lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524363707847,
+      "content": "How much have you gotten done lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524355416174,
+      "content": "Fudge man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524355089121,
+      "content": "you gotta pass the files i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524354936058,
+      "content": "One more question, do we have to pass in the files to sort to main, or does it already know to sort those?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524354901386,
+      "content": "I THINK idk what im doing still so lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524354890523,
+      "content": "and i mean i think you could add more files if you want but its not necessary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524354875156,
+      "content": "uh the header files if you change anything in the cpp files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524354855126,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524354855075,
+      "content": "So we chnage 3 files, anything else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524354841557,
+      "content": "P1threads.cpp and p1process.cpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524354822576,
+      "content": "the other ones too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524354777270,
+      "content": "Do we only change main.cpp or the others too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524293524075,
+      "content": "Actually I'm going to sleep lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524292991479,
+      "content": "lmao good plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524292722413,
+      "content": "yeah im writing some code out in atom right now and then ill just compile it on the server lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524292686479,
+      "content": "im honestly gonna use a windows text edittor then use linux just to run it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524292662592,
+      "content": "lmao do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524292604652,
+      "content": "im going to use the school servers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524292548855,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524292478213,
+      "content": "dude is the extension for a C++ code .cpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524291772900,
+      "content": "lmao idk man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524291703002,
+      "content": "my go to niggas are pretty lost lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524291650030,
+      "content": "idk why they want us to us ubntu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524291636462,
+      "content": "yea honestly thats probably easier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524291391213,
+      "content": "Im asking around and a lot people using the servers straight up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524291164451,
+      "content": "terminal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524291151711,
+      "content": "so once I launch the virtualbox and open ubuntu, what do I open to code in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524290879552,
+      "content": "functions*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524290871679,
+      "content": "i think imma just lay out all the function first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524290859852,
+      "content": "nah man idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524290650194,
+      "content": "Did you figure it out man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524257450921,
+      "content": "Idk tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524257447494,
+      "content": "In thinking like if you run a function in a process then that's a thread?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524257432028,
+      "content": "Yea lol idk man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524256953703,
+      "content": "But thats a process not a thread lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524256762379,
+      "content": "Yea I got that far I think lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524256758194,
+      "content": "Its pretty much 112l lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524256744254,
+      "content": "Btw use fork lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524256742354,
+      "content": "Oh yea ? Nice lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524256728145,
+      "content": "From what ive heard everyone is lost so idgaf lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524256672551,
+      "content": "Do you know what to do lol? How do you make a thread lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524255137705,
+      "content": "Yeah I'm going to start tonight too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524255081536,
+      "content": "LOL I'll try it tonight and let you known",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524255066233,
+      "content": "Somebody just show me how to start please lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524255049946,
+      "content": "She's double in EE and CpE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524255042999,
+      "content": "Nah she's scary LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524255038756,
+      "content": "Idk maybe lmao I just remember him saying it from discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524255008825,
+      "content": "Ask that persian girl lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524254996839,
+      "content": "Is their like an instruction manual lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254988870,
+      "content": "Idk how to do that tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254983232,
+      "content": "But you have to add the files from windows to Linux lol through a shared folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254962963,
+      "content": "So like instead of everything being in the EECS servers it's like you navigate through you local computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254928858,
+      "content": "I haven't really tried tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254924724,
+      "content": "Nah it's like you use it locally now I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524254912414,
+      "content": "So we still connect to the server? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254886433,
+      "content": "Or nano",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254883623,
+      "content": "Or emacs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254880669,
+      "content": "So you can use vim",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524254877331,
+      "content": "You open terminal then it's just like putty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524254852364,
+      "content": "Dude in the virtual machine, what application do we code on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524245253161,
+      "content": "Damn bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524243847304,
+      "content": "Nothing man i was just installing virtual box lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524243748622,
+      "content": "Did he say anything about the lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524243727408,
+      "content": "Oh nikka loool?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524243548604,
+      "content": "No notes bro, it was just a q and a lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524243538864,
+      "content": "Useless ass discussion man. It was just that annoying ass persian girl asking questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524243520708,
+      "content": "What did he go over? Lemme get your notes please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524243505764,
+      "content": "Yea dude lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524242465873,
+      "content": "Fuck this school and our department lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524242365903,
+      "content": "Nah lmao we know c kinda and it's like object oriented like java",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524241430929,
+      "content": "do these fools know we have 0 experience in that shit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524241303349,
+      "content": "Also I'm not gonna make it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524241298377,
+      "content": "Yea dude lol we are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524240676494,
+      "content": "Wtf haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524240668790,
+      "content": "I think we are using C++",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524238129644,
+      "content": "Yeah bro I got you but I might be a couple minutes late too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524238069211,
+      "content": "Idk how to do this lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524238063594,
+      "content": "Imma be late lol wanna let me know what he says",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524238018325,
+      "content": "Yeah bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524237559482,
+      "content": "You going to discussion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524159110163,
+      "content": "i feel it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524159063839,
+      "content": "Fuck that class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524158762418,
+      "content": "Damn alright I see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124313043,
+      "content": "yeah im going to use C and use vim and gcc and makefiles lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524124287056,
+      "content": "I think they said c or cpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124280044,
+      "content": "like how we used to code in Doemers class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524124268727,
+      "content": "Oh no way lol what do you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124268250,
+      "content": "Dude they havent even specified which language we use haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124251444,
+      "content": "Zuma connection lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124240774,
+      "content": "Dude the TA didnt even show how to use the virtual machine so im going to just use the terminal man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524124196702,
+      "content": "Nah man lol all I did so far is get Linux on the virtual machine and downloaded the files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124162641,
+      "content": "dude have you started the code for this class haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524124061710,
+      "content": "Im probably going to stop before that lol, you chilling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123981035,
+      "content": "Hm maybe I'll just stop then LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123969525,
+      "content": "Oh shit no way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123963601,
+      "content": "I dont think so bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123953317,
+      "content": "But did we even go thru interprocess communication?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123951255,
+      "content": "I dont wanna haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123935950,
+      "content": "I might get a snack then power thru the rest lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123925181,
+      "content": "Yea same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123818690,
+      "content": "but im kind of just bs through it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123809364,
+      "content": "im at 14 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123690996,
+      "content": "Sorta idk what any of it meant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123685638,
+      "content": "63 lol I just finished threads",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123663055,
+      "content": "what slide you at lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123460640,
+      "content": "I might just give up soon I'm tired",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123451547,
+      "content": "lol it's all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123329519,
+      "content": "I was there but I definetly wasnt paying attention lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123319921,
+      "content": "I have no clue bro haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123306630,
+      "content": "Did we finish it\nLol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123303234,
+      "content": "How far did we get in lecture 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524123292064,
+      "content": "yeah I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524123268029,
+      "content": "Did you go to\nLecture on Tuesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524121499419,
+      "content": "thanks man lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524121293890,
+      "content": "Lmao alright gl to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524121273034,
+      "content": "alright man, get back to studying lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524121232213,
+      "content": "I respect that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524121229263,
+      "content": "LOL that's a good way to look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524121110432,
+      "content": "I aint got time to read 86 slides lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524121101505,
+      "content": "dude lowkey no lie im a pretty smrt guy and I dont know wtf is going on so im chilling lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120852588,
+      "content": "I'm probably gonna try to finish lecture 3 then sleep and pray lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120833670,
+      "content": "Yea dude same lol I don't even know what I'm even reading",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120795114,
+      "content": "giving me a headache man hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120779784,
+      "content": "This shit is so dense dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120769151,
+      "content": "Gdi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120760689,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120759476,
+      "content": "difficulty 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120754717,
+      "content": "rate 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120683193,
+      "content": "Nah what's on his?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120576093,
+      "content": "how you seen ratemypro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120528331,
+      "content": "Imma just pray the questions aren't too hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120519237,
+      "content": "I straight skipped the second lecture man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120236763,
+      "content": "the lectures are like a maze man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120230715,
+      "content": "dude im half way through the second lecture and im stupid tired lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120213074,
+      "content": "It's a struggle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524120209908,
+      "content": "Bro I'm grinding out the lectures rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120193472,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1524120191891,
+      "content": "dude how are you studying for 111",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1523552059715,
+      "content": "I'm not really following lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523552000288,
+      "content": "bro whats going on in this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1519431814615,
+      "content": "Shit nice lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519431807722,
+      "content": "To Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519431805503,
+      "content": "Yea apparently lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1519431799577,
+      "content": "Did he really extend deadline lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519431788775,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1519431678216,
+      "content": "Hey are you in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1518417136917,
+      "content": "Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518416690309,
+      "content": "gl tmr!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1518416595465,
+      "content": "Damn haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518416562347,
+      "content": "im not in 150 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1518416145005,
+      "content": "Bro do you know how to do problem 2 of hw1 of 150 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manpreet Dhindsa",
+      "timestamp_ms": 1512532592441,
+      "content": "Say hi to your new Facebook friend, Manpreet.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Manpreet Dhindsa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ManpreetDhindsa_qoCfdVKiXw"
+}

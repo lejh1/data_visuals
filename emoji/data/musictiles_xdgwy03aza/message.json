@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Music Tiles"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525114622241,
+      "content": "You turned off all messages from Music Tiles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Music Tiles",
+      "timestamp_ms": 1525113801030,
+      "content": "Music Tiles: Want to play some Music Tiles?",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Music Tiles",
+      "timestamp_ms": 1525027400767,
+      "content": "Music Tiles: Canon you beat \"Canon in D\"?",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Music Tiles",
+      "timestamp_ms": 1524941000117,
+      "content": "Music Tiles: Canon you beat \"Canon in D\"?",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Music Tiles",
+      "timestamp_ms": 1524940999128,
+      "content": "You opened this conversation by playing Music Tiles.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Music Tiles",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MusicTiles_XdGWy03AZA"
+}

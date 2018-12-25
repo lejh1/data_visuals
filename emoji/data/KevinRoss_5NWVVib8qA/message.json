@@ -1,0 +1,4222 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Ross"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1545111354119,
+      "content": "Kevin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1545111237286,
+      "content": "I\u00e2\u0080\u0099m not gonna be here probs hah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1545107658694,
+      "content": "Driving range saturday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1545107587283,
+      "content": "Lmao you got an A for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1545107401653,
+      "content": "He better put in my final damnit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1545107381721,
+      "content": "Yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1545106161032,
+      "content": "Did you get a hundo on movielab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544839134182,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544836564289,
+      "content": "You wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544835855140,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544835153640,
+      "content": "the pub lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544835094779,
+      "content": "Come to the bar amd have a beer with me and preston",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544835087843,
+      "content": "You helped me get the second half right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544835078732,
+      "content": "You did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544831326933,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544831326031,
+      "content": "i wanna say that i helped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544830076887,
+      "content": "I prepared for those oerfectly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544830069738,
+      "content": "Prepend\nDeleteLast\nFilter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544828820933,
+      "content": "What was your written Qs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544828313835,
+      "content": "Yeah bro like what the fuck were some of those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544828200207,
+      "content": "It really was huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544827678552,
+      "content": "Multiple choice was tricky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544827673942,
+      "content": "Maybe not on the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544827668266,
+      "content": "In the class uea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544827326117,
+      "content": "Think you got an A?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544827311453,
+      "content": "Wasn\u00e2\u0080\u0099t too bad man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544827291696,
+      "content": "How\u00e2\u0080\u0099d it go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544771240146,
+      "content": "fuck it mane, im worrying too much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544771090093,
+      "content": "I think they may be interchanged",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544771084076,
+      "content": "I\u00e2\u0080\u0099m not sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544769211860,
+      "content": "Im just gonna stick with the one with the asterisk if he asks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544769204376,
+      "content": "and i dont understand why one has an asterisk and the other doesnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544769195600,
+      "content": "he uses both in the lecture videos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544769188413,
+      "content": "fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544769183430,
+      "content": "idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544768795507,
+      "content": "I just posted a question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544768787598,
+      "content": "You heard me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544768777645,
+      "content": "what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544768531359,
+      "content": "bro answer my question on  the discussion page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544767077637,
+      "content": "Nah",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kevin Ross"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544766956680,
+      "content": "this??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544766954845,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48275157_2107965429517224_5311620217133072384_n_2107965426183891.png",
+          "creation_timestamp": 1544766954
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544753901334,
+      "content": "Danks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544753878624,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544751793024,
+      "content": "was there any multiple choice about unions bit fields enumerators??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544726114437,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544724589768,
+      "content": "No makefile right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544674397617,
+      "content": "Lol nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544668492751,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48230457_354245665135596_2170015192463704064_n_354245655135597.png",
+          "creation_timestamp": 1544668491
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544667305530,
+      "content": "any of them the same as the quizes we already saw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544667046686,
+      "content": "Uh I don\u00e2\u0080\u0099t think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544665497339,
+      "content": "Were there any other tricky ones you remember?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544665488942,
+      "content": "Because your changing the content of the memory address for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544665477015,
+      "content": "a should change for that one I'm pretty sure actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544665457868,
+      "content": "Oh no given",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544665445461,
+      "content": "for the one with *p and a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544665427777,
+      "content": "For which one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664943256,
+      "content": "or was the function given and had to figure out the the output",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664935593,
+      "content": "wait we had to write the function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664688040,
+      "content": "I couldn\u00e2\u0080\u0099t remember lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664679398,
+      "content": "It was like if you have a=4 \n*p= &a\nThen pass p into a function, change the content of p does a change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664634199,
+      "content": "any double pointer shit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664629872,
+      "content": "what were pointer questions like?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664622438,
+      "content": "that seems a little trickier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664615557,
+      "content": "filter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664609940,
+      "content": "yeah, that aint too crazy right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664599692,
+      "content": "Like factorials",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664593999,
+      "content": "Yea like a function calling itself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664573600,
+      "content": "Written was draw a double linked list example, write code for AppendStudent and RemoveLast. Also some filter code where given a list and a grade, filter the students who have that grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664571389,
+      "content": "like what kinda pointer stuff you remember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664557138,
+      "content": "recursion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664494067,
+      "content": "Lots of pointer shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664489854,
+      "content": "There some recursion stuff that shook me a little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544664458180,
+      "content": "What were the hardest questions on MC and how was written?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544664437261,
+      "content": "And finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544653182326,
+      "content": "Parking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544653176399,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544652273152,
+      "content": "Okay omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544652084580,
+      "content": "My class is in ssl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544652076153,
+      "content": "Business school?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544652069648,
+      "content": "Go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544652067933,
+      "content": "Uh idk where do u wanna fo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544652057500,
+      "content": "Its okay well get there together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651996932,
+      "content": "Where you wanna meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651246700,
+      "content": "i miss a lot of the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651239228,
+      "content": "i can barely hit the ball",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651233660,
+      "content": "his is pretty good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651223375,
+      "content": "i feel like jerry is gonna have the best swing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651207760,
+      "content": "lmao lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651181522,
+      "content": "youl just buy the beers while I coach your swing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651165875,
+      "content": "its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651152336,
+      "content": "i did bad on this quiz lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651144576,
+      "content": "oh i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651114345,
+      "content": ". is when its not a pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651107881,
+      "content": "-> is when the struct is a pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651091564,
+      "content": "when do you use . vs -> lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651088833,
+      "content": "ima leave my house in a min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651078668,
+      "content": "wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651074990,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544651065117,
+      "content": "yea im finishing up eating rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544651045880,
+      "content": "we meeting up soon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650988664,
+      "content": "im embarrased",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650380652,
+      "content": "and that concludes our lesson for today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650364645,
+      "content": "10*10 = 100\n10*10*10 = 1000\n10*10*10*10 = 10000\n\nlog10(10*10*10*10) = 4 \n\n:D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650326897,
+      "content": "i hate you LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650304165,
+      "content": "sin(0) is 0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650301442,
+      "content": "its 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650299094,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650298042,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650286069,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650284955,
+      "content": "whtas sin 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650275543,
+      "content": "cmon mate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650270783,
+      "content": "bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650257781,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/47688028_2221233674789982_1490011982768635904_n_2221233668123316.png",
+          "creation_timestamp": 1544650256
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650256675,
+      "content": "rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650236298,
+      "content": "the text editor has hella little editing options lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650235058,
+      "content": "lol*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650225808,
+      "content": ";P;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650224678,
+      "content": "tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650223029,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650214652,
+      "content": "cuz qv loves orange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650211823,
+      "content": "r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650210904,
+      "content": "fucke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650209920,
+      "content": "its orange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650194795,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650193738,
+      "content": "howed you make your text red",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544650187949,
+      "content": "ah so it was the address",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650131727,
+      "content": "QV responded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544650124979,
+      "content": "https://canvas.eee.uci.edu/courses/10527/discussion_topics/165482",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649827968,
+      "content": "LOL my swing is ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649776237,
+      "content": "im just not healthy. Ive had like three homemade meals in the last month",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649755170,
+      "content": "how about whoever does worse has to bring the beers when we go golfing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649741052,
+      "content": "im fake healthy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649664309,
+      "content": "thats at least healthy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649650308,
+      "content": "i have vitamin C pills lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649635921,
+      "content": "im a lazy ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649504494,
+      "content": "Vitamin C be hittin doe.. shit smacks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649482626,
+      "content": "i made eggs and bacon with orange juice this morning to make myself feel healthy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649463726,
+      "content": "lmao i knew it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649451882,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649451157,
+      "content": "its from like a box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649444025,
+      "content": "wow thats impressive to make from scratch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649432211,
+      "content": "some carnitas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649424580,
+      "content": "lmao nah some lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649396174,
+      "content": "making cookies for me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649377573,
+      "content": "im super down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649371738,
+      "content": "oh 100%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649305584,
+      "content": "making food rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649300143,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649298976,
+      "content": "home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649297839,
+      "content": "whoever does worse has to buy the other one a beer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649293916,
+      "content": "where u studying btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649280207,
+      "content": "im still taking it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649267296,
+      "content": "i missed the first two cuz those are stupid questions, but only missed half a point on the rest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649255279,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649251469,
+      "content": "the final review one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544649245822,
+      "content": "which quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649235763,
+      "content": "LO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649234900,
+      "content": "dude im lowkey struggling on the quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544649018389,
+      "content": "for real",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544645360687,
+      "content": "weaklings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644894849,
+      "content": "170a will shut them up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644883397,
+      "content": "HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644863124,
+      "content": "these kids havent taken any of the hard classes yet. Thats why they have so muhc hope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644832591,
+      "content": "loool thats true hes being nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644825500,
+      "content": "i dont view lower div. kids as gods",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644822808,
+      "content": "hes just helping out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644818628,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644817895,
+      "content": "we are dicks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644811672,
+      "content": "i was gonna say i dont like him for that reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644804190,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644802364,
+      "content": "like whenever i see his name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644801463,
+      "content": "LMAO SAME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644799109,
+      "content": "man has all day to just answer questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644797584,
+      "content": "he annoys me for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644784498,
+      "content": "that dude is a god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644775452,
+      "content": "Ima make a post on the discussion board. Hopefully kelwin sees it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644764366,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644762454,
+      "content": "24",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644761770,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644756408,
+      "content": "what lecture was this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644756263,
+      "content": "dumb question lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kevin Ross"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644740577,
+      "content": "yeah I guess so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644715889,
+      "content": "so the address?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644702498,
+      "content": "not just the char",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644689871,
+      "content": "i think since it says the value of char pointer... we would change the value of the char pointer it self",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644683472,
+      "content": "yea exactly lol oh well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644659961,
+      "content": "that question is kinda dumb cuz we cant see the body of the function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644638745,
+      "content": "idk lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644636188,
+      "content": "but wouldnt that mean we are changing the address of the pointer not the vale of it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544644596045,
+      "content": "I guess char** is a pointer to a pointer.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644372583,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644371845,
+      "content": "i dont get this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544644370003,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48394535_314747712466997_4051683202845114368_n_314747709133664.png",
+          "creation_timestamp": 1544644369
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544643882425,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544643614201,
+      "content": "what lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544643410913,
+      "content": "Oh wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544640026655,
+      "content": "Nah 2 works, I still have stuff to study on my own",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544639998515,
+      "content": "what time then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544639934370,
+      "content": "I\u00e2\u0080\u0099m down, gives me a couple hours before my test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544639864879,
+      "content": "or we can meet earlier if you wantr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544639415228,
+      "content": "wannae meet up around 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544639058517,
+      "content": "What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544638218487,
+      "content": "I reviewed the functions last night and stopped around 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544638197247,
+      "content": "Actually ill be on campus later if you wanna review last minute befire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544638178327,
+      "content": "Come over get some cookies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544609217083,
+      "content": "hows studying for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544609212625,
+      "content": "he put the student entry stuff on the final when i took it so imma try to write out the functions if i have time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544609174718,
+      "content": "its alright, i need to do lec 23-25 still then the quizzes and i should be gucci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544609145031,
+      "content": "you should share",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544609140762,
+      "content": "lol its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544608620061,
+      "content": "Hows studying?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544608606737,
+      "content": "I made some chocolate chip cookies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544608590867,
+      "content": "Not the best habit to have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544608578305,
+      "content": "Lol i always stay up late. Not a good habit. If i aint studying i just fuck around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544608545109,
+      "content": "Damn youre still up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544608540087,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544608523035,
+      "content": "Is tomorrow your last one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599725377,
+      "content": "damn sounds like ass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599603434,
+      "content": "Some shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599594253,
+      "content": "Bitch made us draw these grphs that were just insane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599554058,
+      "content": "get them A's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599551120,
+      "content": "thats good to hear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599404889,
+      "content": "But that shit was long asf and a bitch to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599393330,
+      "content": "I think i crushed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599377124,
+      "content": "howd 160 go lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599363744,
+      "content": "Youre right i miss u \u00f0\u009f\u0098\u0096",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599353115,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599348223,
+      "content": "no u dont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599345318,
+      "content": "im serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599342935,
+      "content": "I hate u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599338813,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599331053,
+      "content": "Shut up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599161803,
+      "content": "youre so smart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599067672,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599064404,
+      "content": "Right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544599056905,
+      "content": "I understand what pointers do, but like the reason they are effective is because the variable values dont erase after a function and we can pass them to other functions easily",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544599051070,
+      "content": "oh yea basically",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598989025,
+      "content": "I know that... but like what is the purpose of using pointers for everything? Like that is why right ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598967387,
+      "content": "pointers store memory locations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598966634,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598957414,
+      "content": "uh what do you mean lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598801536,
+      "content": "Its saved in memory basically yes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598793588,
+      "content": "So the only difference between a pointer and a regular variable is it allows to pass to other functions right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598769326,
+      "content": "I just read about that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598764342,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598760563,
+      "content": "going thru the lectures rn lol learning about pointers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598748342,
+      "content": "Oh ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598744799,
+      "content": "What are you reviewing rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598742242,
+      "content": "theres just those tiny facts i dont know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598734387,
+      "content": "yea ill look at that later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598732602,
+      "content": "Like maybe append prepend, delete, reverse, etc...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598720974,
+      "content": "He said in class its gonna be for the written part something to do with double linked list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598701261,
+      "content": "thats why im grinding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598699292,
+      "content": "Thats shitty man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598689204,
+      "content": "aw broo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598683666,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598682378,
+      "content": "mine is tmr 4pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598680038,
+      "content": "Yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598675878,
+      "content": "oh shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544598670696,
+      "content": "Friday 8am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598659199,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544598658286,
+      "content": "whens your 22 final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596594561,
+      "content": "haha true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596566007,
+      "content": "and youll get a free A from 159",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596556904,
+      "content": "at least its over man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596541698,
+      "content": "easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596539499,
+      "content": "dude you only need to get like an 85 to get an A i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596463090,
+      "content": "if i dont imma be hella sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596451551,
+      "content": "i wanna get this 22 A tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596445451,
+      "content": "im over it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596443881,
+      "content": "nah its whatever lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596438826,
+      "content": "nope LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596286173,
+      "content": "big curve maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596277081,
+      "content": "like really bad?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596268193,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596265913,
+      "content": "couldnt sort the A, B, C, and Ds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596256251,
+      "content": "aw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544596250759,
+      "content": "twas bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544596233245,
+      "content": "how was 118?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544595696559,
+      "content": "lol i just haveny started studying yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544595588028,
+      "content": "Im going through lecture videos cuz some have little quiz questions that he probly will use on final lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544593411758,
+      "content": "That shit shouldnt be hard dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544593406224,
+      "content": "You gonna grind for 22 now big boy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544593398644,
+      "content": "How was 118",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544590518539,
+      "content": "Gonna grind lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544590514103,
+      "content": "Idk just finished my finals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544580848534,
+      "content": "oh maybe because .. a string is considered an array of characters and you can pass arrays as pointers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544580770552,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544580769433,
+      "content": "maybe because its a const?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544580618204,
+      "content": "Idk lol probably cause it\u00e2\u0080\u0099s has no memory saved?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544580411055,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/47310109_2525697817447086_7073061381251006464_n_2525697814113753.png",
+          "creation_timestamp": 1544580410
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544580409649,
+      "content": "why the last one, doesnt it have to be a pointer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544413287542,
+      "content": "Lol nice np dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544408700085,
+      "content": "thanks for your help justin, I turned it in. I would be stuck if it wasnt for you. Appreciate your love and suporty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404310667,
+      "content": "i styed up till 4 debugging last night lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404302123,
+      "content": "i studied 160a all week and waited till thursday for this fuck me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404289040,
+      "content": "movielab strssin me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404275075,
+      "content": "great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404267578,
+      "content": "yea mine is clean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404259214,
+      "content": "22 or movielab\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404254621,
+      "content": "did u check your valgrind?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404249650,
+      "content": "but i wanna have the most buffer for myself on the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404239005,
+      "content": "this shit is actually stressing me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404231249,
+      "content": "man I just want my A+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404220041,
+      "content": "you going hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404217396,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404200813,
+      "content": "and then valgrind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404198171,
+      "content": "the extra credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404192028,
+      "content": "isnt that everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404190649,
+      "content": "so now im trying to get saturation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404187215,
+      "content": "damn what are you working on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404185064,
+      "content": "but i got reverse and hue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404180347,
+      "content": "i havent even checked valgrind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544404174986,
+      "content": "god its aweful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544404168297,
+      "content": "shits long huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544402683261,
+      "content": "still fucking with this shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544393429209,
+      "content": "Niceee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393229881,
+      "content": "thank u sis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393227691,
+      "content": "so yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393226176,
+      "content": "and found that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393223134,
+      "content": "i just went through and compared all of our functions to find any differences",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544393209659,
+      "content": "oh lol did you get that from my code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393057903,
+      "content": "the reason everything was fucking up in mine was because I think I missed a step assigning something to NULL in CreateImageList or something idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544393033584,
+      "content": "Niceeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393023008,
+      "content": "I think i got it babyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544393019836,
+      "content": "oh fuck ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544392971537,
+      "content": "That same way we always did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544392966591,
+      "content": "You just run your yuv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544392938806,
+      "content": "how to I view my own movie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544392934880,
+      "content": "loser",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544389908267,
+      "content": "I apparently don\u00e2\u0080\u0099t know my own code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544389899317,
+      "content": "Huh well then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389806335,
+      "content": "my RGB2YUV isnt working which is why im asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389793216,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544389700601,
+      "content": "That is a really good question haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389271317,
+      "content": "In the second pic you dont create any temp image but in the other u do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389249738,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/47509670_972203079646454_9106092422919618560_n_972203076313121.jpg",
+          "creation_timestamp": 1544389248
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389220597,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48370712_520693485095270_7486379402838671360_n_520693478428604.jpg",
+          "creation_timestamp": 1544389219
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389185165,
+      "content": "Appreciate it brother",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544389181112,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544389171841,
+      "content": "I\u00e2\u0080\u0099m out rn wanna send me a pic lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544388712694,
+      "content": "but in the function my RGB2YUV you dont create an image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544388638100,
+      "content": "in the function for YUV2RGB you create a temporary image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544382246374,
+      "content": "What do you mean lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544356208042,
+      "content": "why dont you create an RGB image for RGB2YUV but you do for YUV2RGB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544349880648,
+      "content": "Thank you Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544348300496,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/files/hw5_276394906357447.zip",
+          "creation_timestamp": 1544348298
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347851565,
+      "content": "and for educational purposes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347843162,
+      "content": "for reference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347836395,
+      "content": ": )",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347832940,
+      "content": "its messy tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347830347,
+      "content": "want me send you my code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347815874,
+      "content": "lol probly mang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347763566,
+      "content": "wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347762356,
+      "content": "ooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347761046,
+      "content": "what if thats not even the line thats getting messed up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347744183,
+      "content": "im just gonna come back to it, sorry to bother ya man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347732274,
+      "content": "fuck man, i literally dont understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347721078,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347577758,
+      "content": "i feel like that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347530652,
+      "content": "then set filter= &HueRotate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347522646,
+      "content": "i cast a variable iterableFilter filter = NULL;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347500972,
+      "content": "hm interesting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347480429,
+      "content": "i dont assign it to a variable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347475150,
+      "content": "right into the function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347466397,
+      "content": "i pass like &HueRotate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347459026,
+      "content": "like wtf am i doing wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347453620,
+      "content": "do you just set filter = &HueRotate;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347440925,
+      "content": "in your main",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347435091,
+      "content": "when you pass the filter into the function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347410914,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347332707,
+      "content": "no i dont think its a mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347314486,
+      "content": "like i know they wrote it for us but is that a mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347301347,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347261719,
+      "content": "are you saying like the doIterattiveFilter filter parameter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347212862,
+      "content": "im not sure what you mean haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347192311,
+      "content": "does the data type for the input for filter need to be *iterableFilter filter ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544347098182,
+      "content": "thats true that also works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347049493,
+      "content": "copy = (*filter)(copy, i)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544347025958,
+      "content": "try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544346904580,
+      "content": "nope before it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544346768355,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544346767471,
+      "content": "is test 1 after the filter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544346634607,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48380159_2220213804882773_2892918927808004096_n_2220213801549440.png",
+          "creation_timestamp": 1544346632
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544346273429,
+      "content": "show me the output lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544346139608,
+      "content": "0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544346132427,
+      "content": "what values are you using for start",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544346104238,
+      "content": "and im very sure im passing my filter correctly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544346095529,
+      "content": "yea it should be right, right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544346055386,
+      "content": "well then thats weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345793114,
+      "content": "basically it prints \"test 2\" and then segmentation titty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345780705,
+      "content": "heres a screenshot if you dont wanna download the whole file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345769979,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48358761_275057119879781_4097199741534732288_n_275057116546448.png",
+          "creation_timestamp": 1544345767
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345766203,
+      "content": "ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544345762827,
+      "content": "it seg faults?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345733359,
+      "content": "so its clearly not running the pointer to the function properly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345718124,
+      "content": "it gets to line 34 with filter and breaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345711803,
+      "content": "Kevin sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/files/IterativeFilter_273111313388778.c",
+          "creation_timestamp": 1544345709
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345707490,
+      "content": "sorry hon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544345677566,
+      "content": "did ya send it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345163128,
+      "content": "so kind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544345155770,
+      "content": "for you sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544345138815,
+      "content": "lemme just send u my file and take a look at it for me can u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544345028720,
+      "content": "thats kinda a hard thing to help with lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544344935798,
+      "content": "im checking the variables and everything and it should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544344925750,
+      "content": "and i cant figure out why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544344921597,
+      "content": "when i tries to go into the loop it just breaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544344914351,
+      "content": "im gettign a wierd segfault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544344759709,
+      "content": "whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544344737367,
+      "content": "im gettin an issue in my iterative filter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544342099182,
+      "content": "Kevin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544342090839,
+      "content": "Lmao okay good luck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544342082702,
+      "content": "ill ask questions when i figure out what to ask lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544342067224,
+      "content": "Lmao sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341691719,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341691433,
+      "content": "Great now you can help me with my issues",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544341667319,
+      "content": "Yea I turned it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341658047,
+      "content": "Did u get your shit working today??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544341641048,
+      "content": "Rip it took me a couple hours to fix all my memory issues",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341337323,
+      "content": "I think its with my pointer to a filter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341317566,
+      "content": "Fuck im gettin a segfault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544341311087,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544324962584,
+      "content": "c*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544324957286,
+      "content": "did you add saturate in the DIPs.x?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544318454451,
+      "content": "Kevin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544318124189,
+      "content": "oh dang ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317206783,
+      "content": "I set image or movie flag up above",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317200896,
+      "content": "I havent tested it but i think its right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317191810,
+      "content": "Heres mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317189818,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/48263138_981812352005619_2770917899274027008_n_981812338672287.jpg",
+          "creation_timestamp": 1544317188
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544317176109,
+      "content": "not gonna lie i still dont know what its asking lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317163327,
+      "content": "U just gotta do iterable filter in that bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544317156187,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317154522,
+      "content": "Thats good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317152136,
+      "content": "So ur reverse works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544317145366,
+      "content": "all i can do is reverse an movie lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544317137042,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544317105800,
+      "content": "Image to movie thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544316960379,
+      "content": "i just did the movie part havent started the imatge part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544316945511,
+      "content": "thats good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544316905177,
+      "content": "But i didnt test after that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544316901009,
+      "content": "I didnt get any errors when i compiled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544316894930,
+      "content": "But got close last night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544316890594,
+      "content": "how far are you then haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544316876866,
+      "content": "Havent worked on it yet today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544316863538,
+      "content": "how far did you get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544298828082,
+      "content": "You should dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544264797387,
+      "content": "Might get one now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544264793557,
+      "content": "I need one for my feet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544261974542,
+      "content": "its tiny tho lmao, just a throw blanket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544261963938,
+      "content": "its highkey pretty nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544261543863,
+      "content": "Bro i aint even gona give it to her. I want it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544261512442,
+      "content": "Lolll okay boo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544261446787,
+      "content": "ill get you an electric for your girl if you give me this iteratiblefilter shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544261410944,
+      "content": "lmaoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544261132113,
+      "content": "Everytime i drive by that line i laugh and cry on the inside as i fill up with 4.28 gas lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544261103730,
+      "content": "Lmao but you have to wait in that fucking insane line to get it dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260851707,
+      "content": "fire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260848849,
+      "content": "gas was 2.99 this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260840804,
+      "content": "hell yea i got a costco card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260792530,
+      "content": "Christmas gift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260789623,
+      "content": "Oh ofc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260786071,
+      "content": "My man got the cosco card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260784029,
+      "content": "nah for her place lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260771381,
+      "content": "Lmao just share it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260739373,
+      "content": "i had to buy her one too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260732977,
+      "content": "michelle loves it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260728233,
+      "content": "shits nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260725448,
+      "content": "costco $30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260720804,
+      "content": "Smart man u are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260713995,
+      "content": "I need to invest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260709474,
+      "content": "hella nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260706457,
+      "content": "kinda warmish i recently got an electric blanket tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260671845,
+      "content": "Dude does your apartment stay warm at night. My room gets fucking frozen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260668221,
+      "content": "dude thats wild haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260618939,
+      "content": "I used to be an animal. When i worked at chik-fil-a freshman year, I would eat 5 chik fil a sandwhiches in 15 minutes before my shifts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260573217,
+      "content": "Like sophomore year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260570593,
+      "content": "thats insane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260560899,
+      "content": "At one point in my life i could eat 3 of those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260551021,
+      "content": "I used to he all about the 3x2s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260542097,
+      "content": "Can be a little overwhelming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260534413,
+      "content": "Two cheese is a lot i agree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260512829,
+      "content": "2 cheese is a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260508873,
+      "content": "i usualyl do 2x1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260499100,
+      "content": "hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260476612,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260474776,
+      "content": "Ill let you take a bite of mine \u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260458172,
+      "content": "nah im good imma sleep soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260448483,
+      "content": "Bro u want any",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260443872,
+      "content": "nice nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260437324,
+      "content": "But with fries and drink ofc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260435986,
+      "content": "and fries?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260432293,
+      "content": "Ima just get 2 tonight tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544260421696,
+      "content": "Yeah 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260414523,
+      "content": "whats your usual order",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544260406419,
+      "content": "3 double doubles?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259731629,
+      "content": "Time for some inn out \u00f0\u009f\u00a4\u00aa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259626913,
+      "content": "\u00f0\u009f\u0091\u008f good shit bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259481276,
+      "content": "Lmaoo damn right baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259474349,
+      "content": "They already wrote \ntypedef IMAGE *(*iterableFilter) (IMAGE *image, float parameter)\n\nSo all u have to do is set a variable iterableFilter filter = NULL; in your main",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259445801,
+      "content": "damn bro you about to get an A++",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259383820,
+      "content": "U have to set a variable filter as a pointer and then in your main you gotta choose which filter you want based on the gcc command",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259356503,
+      "content": "Yes only hue, but if u can do saturate its extra credit and saturate takes 2 minutes to do once you get hue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259332215,
+      "content": "damn you a smartie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259326135,
+      "content": "hue is the only filter we have?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259259272,
+      "content": "Make sure xming is running, then run hue.yuv and you should see what iterativefilter does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259226958,
+      "content": "The last three commands run the video, the first three link the videos to ur computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259215837,
+      "content": "i see now ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259205743,
+      "content": "Its okay its from the slides",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259199562,
+      "content": "~eecs22/bin/yay -s 480x270 reverse.yuv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259193512,
+      "content": "i should pay attention to class lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259188179,
+      "content": "~eecs22/bin/yay -s 300x200 hue.yuv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259163922,
+      "content": "~eecs22/bin/yay -s 480x270 mouse.yuv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259133112,
+      "content": "Then after that type",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259126501,
+      "content": "ln -s ~eecs22/public/demo/mouse.yuv\n\nln -s ~eecs22/public/demo/hue.yuv\n\nln -s ~eecs22/public/demo/reverse.yuv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259082822,
+      "content": "do this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259069734,
+      "content": "Lemme find the command",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259065160,
+      "content": "imma try to find it hold up haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544259032035,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544259010290,
+      "content": "theres a sample vid?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544258996750,
+      "content": "Hue**",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544258993556,
+      "content": "Hur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544258992296,
+      "content": "Remember the sample video they gave us for hur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544258983130,
+      "content": "Slowly applies a filter over an image and makes a movie out of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544258963587,
+      "content": "i dont understand what iterative filter does lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544256083182,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544256078512,
+      "content": "oh nic catch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544256053368,
+      "content": "be careful tho cuz he doesnt include std=c99 in his variables",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544256047624,
+      "content": "thats long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544256040943,
+      "content": "took me 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544256038202,
+      "content": "shouldnt take long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544256035256,
+      "content": "i did the makefule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544256017473,
+      "content": "im too lazy to do the makefile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544256010473,
+      "content": "im blindly coding rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255997446,
+      "content": "sick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255994827,
+      "content": "lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255991354,
+      "content": "fast forward is done for us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255986564,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255985426,
+      "content": "what how lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255983240,
+      "content": "oh never mind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255965051,
+      "content": "lmao wait i think reverse is done for us and we need to fast forward",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255941558,
+      "content": "do you know if fast forward is already done for us lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255930956,
+      "content": "this is what i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255929637,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/47680838_127710168130940_7926810496404029440_n_127710164797607.png",
+          "creation_timestamp": 1544255929
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255882659,
+      "content": "i gotta write reverse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255535882,
+      "content": "probly wont happen tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255529816,
+      "content": "i wanna finish tonight so i can study rest of the weeknd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255517981,
+      "content": "yuh this shit annoying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255329230,
+      "content": "im still making shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255325284,
+      "content": "thats good tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255207776,
+      "content": "im debuging",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544255205477,
+      "content": "its aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255155008,
+      "content": "hows movie lab going for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544255083400,
+      "content": "bomb af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544254879566,
+      "content": "how was that dank italian",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544254873507,
+      "content": "same dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544254871378,
+      "content": "thats my boy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544254753645,
+      "content": "back on this movie lab grind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544254742572,
+      "content": "then knocked out for a couple hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544254735476,
+      "content": "went pretty well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544254717895,
+      "content": "how was dinner qt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544141346155,
+      "content": "Ill work on it tonight too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544141339442,
+      "content": "Thank you sweetie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544141332704,
+      "content": "Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544141325074,
+      "content": "whens it due",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544141321308,
+      "content": "lmao ill start it tonight 100% gotchu B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544140319936,
+      "content": "We both gotta get that A+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544140311248,
+      "content": "Bro we seriously need to work on it then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544140294491,
+      "content": "wowow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544139024441,
+      "content": "Barely lol I got like a 50 on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544137918427,
+      "content": "But u did it last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544137876742,
+      "content": "Lmao I havent started at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544137843752,
+      "content": "Cuz i literally just dont have the time to think about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544137832266,
+      "content": "Which is why i need you to guide me through it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544137823385,
+      "content": "Im fucked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544137821482,
+      "content": "Stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544133973405,
+      "content": "I\u00e2\u0080\u0099m sure this movie lab will be easy Peesy for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544133960827,
+      "content": "Lol that\u00e2\u0080\u0099s fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544130407004,
+      "content": "Ive been studying for EECS 160A this whole week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544130396387,
+      "content": "ive done very little none since last week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544130385758,
+      "content": "we will do it later today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544130381360,
+      "content": "thats fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544129149447,
+      "content": "How much have you done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544129144721,
+      "content": "Fk man I totally forgot I had work til 2 today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544122228108,
+      "content": "Justin when we workin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544040154640,
+      "content": "Sorry meant to send that to jerry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544040146140,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/47443262_2485151431500841_280813216739622912_n_2485151408167510.jpg",
+          "creation_timestamp": 1544040145
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544040030803,
+      "content": "Whens your first final?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544039453323,
+      "content": "Good cuz i need your help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544038922069,
+      "content": "Kevin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1544038117566,
+      "content": "Lmao okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1544037934199,
+      "content": "Justin lets do it together ....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543916544907,
+      "content": "Lets crank it out together son",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543910352568,
+      "content": "Probably won\u00e2\u0080\u0099t start til Thursday tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543906241477,
+      "content": "When are finishing the hw5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188771255,
+      "content": "oii gotcha mate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188755998,
+      "content": "Nah do like \n#define UNUSED(x) void(x) on one line. Then after you declare your image pointer, do UNUSED(image) on the next line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188663206,
+      "content": "so \n#define UNUSED(image)  (void) (image)\nUNUSED(image);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188573199,
+      "content": "Then like UNUSED(image);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188561547,
+      "content": "I did the define thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188553718,
+      "content": "Like this lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188550997,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/46632162_741311749571749_6214614044322562048_n_741311742905083.jpg",
+          "creation_timestamp": 1543188550
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188445100,
+      "content": "wtf how u do that lmaoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543188348494,
+      "content": "I disabled the warning LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188113839,
+      "content": "even though I use it in the while loops and shit... how did u get rid of that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188096543,
+      "content": "I get the warning the the main image pointer in PhotoLab.c is being unused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543188084032,
+      "content": "one last simple question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543187268876,
+      "content": "no leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543187265940,
+      "content": "i forgot what i changed but i got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543187247280,
+      "content": "i got it baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543187204095,
+      "content": "What about running the autotest in PhotoLab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543186597484,
+      "content": "this is trash, I ran every function manually, but when I run PhotoLabTest, it fucking doesnt work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543185873552,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u0093",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543185232906,
+      "content": "All about that support",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184960648,
+      "content": "i love your encouragement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543184944085,
+      "content": "oh shit lol youre so close to finishing it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184768055,
+      "content": "I just commented that portion out of AutoTest and got no leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184758351,
+      "content": "okay its definitely rotate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184714448,
+      "content": "Okay sempai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543184681551,
+      "content": "send me your rotate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184638644,
+      "content": "so maybe my rotate idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184634253,
+      "content": "exactly, AutoTest was given",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184621341,
+      "content": "yeah when I run valgrind for PhotoLabTest, the program runs and starts going through all the filters and breaks right after it loads HSSOE and tries to run rotate()",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543184596240,
+      "content": "oh damn i dont think i made any edits to the autotest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184571881,
+      "content": "so something must be wrong with my AutoTest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184562017,
+      "content": "when I run valgrind and just test the functions individually one after another i get no leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543184561869,
+      "content": "if you do valgrind your rotate breaks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184415906,
+      "content": "when I dont do valgrind everything runs fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184408724,
+      "content": "but thats only when I do valgrind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184397020,
+      "content": "it breaks after it tries to run rotate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184375734,
+      "content": "when I run PhotoLabTest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543184371924,
+      "content": "i dont even get memory leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543184113299,
+      "content": "how many mem leaks do you get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183995345,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183989839,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183913097,
+      "content": "u used the autotest() function in Test.c right, and deleted the one in PhotoLab.c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183879347,
+      "content": "yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183867190,
+      "content": "oh maybe actually, I didnt add that but it makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183799406,
+      "content": "but im thinking if I dont run autotest, do I need to add a deleteImage in option 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183781323,
+      "content": "in my autotest, after every Load Image it deletes it and then loads another one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183759168,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183753546,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183736196,
+      "content": "do you free your W and your H",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183698298,
+      "content": "when you create a new image you make sure to delete the old one right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183680781,
+      "content": "damn that looks right idk where your mem leaks are coming from",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183658599,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183657879,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183656853,
+      "content": "or wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183653704,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183497714,
+      "content": "also do you implement DeleteImage when you load an image a second time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183458842,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/46698324_198512881057331_3426714157892763648_n_198512877723998.png",
+          "creation_timestamp": 1543183458
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183427679,
+      "content": "what does your delete function look like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183413169,
+      "content": "i have no idea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543183400824,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183260048,
+      "content": "and it goes on... seems like it happens after it tries to do HUE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183241666,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/photos/46912913_582017275563904_3541845665409662976_n_582017268897238.png",
+          "creation_timestamp": 1543183240
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183222165,
+      "content": "I get the fat error dialogue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183222050,
+      "content": "and then choose option 12 for autotest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543183221950,
+      "content": "when I run valgrind --leak-check=full ./PhotoLabTest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182857878,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182853629,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182524758,
+      "content": "uh that means that the image doesnt exist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182514678,
+      "content": "yea i delete the image input before i return the new on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182372207,
+      "content": "I tried adding DeleteImage() on the exit but it gave me an error, i think it said it could not assert image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182343809,
+      "content": "nah like you delete the image input to the function before you return the new image you creatd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182319735,
+      "content": "like in the beginning?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182301531,
+      "content": "so do you delete the one input",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182278919,
+      "content": "so like in resize i create a new image and delete the old one then return the new image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182260671,
+      "content": "i put that when i exit and in any function that creates an image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543182239408,
+      "content": "lmao nah bro im retaking the class ive done this stuff before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182098865,
+      "content": "where have you implemented DeleteImage()",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182075620,
+      "content": "nah dude my shit is wack",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543182064421,
+      "content": "wow you're just so good at Coding\u00f0\u009f\u0098\u0099",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543181795357,
+      "content": "how about you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1543181791393,
+      "content": "nah no leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543181762109,
+      "content": "u have leaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Ross",
+      "timestamp_ms": 1543181752174,
+      "content": "how does your valgrind look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541485310943,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/KevinRoss_5NWVVib8qA/files/Advanced_303800727123374.c",
+          "creation_timestamp": 1541485308
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Ross",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KevinRoss_5NWVVib8qA"
+}

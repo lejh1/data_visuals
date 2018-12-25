@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Michael Monh"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1490135294681,
+      "content": "ohhhh LOL thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490135246555,
+      "content": "Yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1490134338511,
+      "content": "at justin does uci still check parking during finals week LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478114105136,
+      "content": "Yea LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478114026641,
+      "content": "o rip LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478114016133,
+      "content": "I deleted it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478113573798,
+      "content": ":3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478113571536,
+      "content": "wanna send me the ppl picking up list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478105754916,
+      "content": "What's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478105751605,
+      "content": "Oh shit my b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478079749652,
+      "content": "pstttttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1477944326594,
+      "content": "im there in 1 mkn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1477944319815,
+      "content": "yeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477944273733,
+      "content": "Want me sign you up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477944269122,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1477943944246,
+      "content": "tell peter im running late lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Monh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelMonh_HsfBumgAkQ"
+}

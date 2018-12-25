@@ -1,0 +1,154 @@
+{
+  "participants": [
+    {
+      "name": "Randy Damasco"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485738845697,
+      "content": "Nah, it's all good man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485738833208,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485738831576,
+      "content": "..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485738829368,
+      "content": "sorry.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485738812985,
+      "content": "Lol... that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485738802407,
+      "content": "Nooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485737716947,
+      "content": "hey man so my shift actually got taken just now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734842420,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734806639,
+      "content": "imma remind you tuesday tho LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734797321,
+      "content": "okay i will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734791725,
+      "content": "yeah, I'm down to take it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734771438,
+      "content": "if you have a shift anytime soon, tell em that I want your shift and that I'm unable take it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734768037,
+      "content": "ill wait LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734765968,
+      "content": "UH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734763891,
+      "content": "alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734761944,
+      "content": "altihht",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734720985,
+      "content": "I'll tell whoever is the supervisor is on tuesday if they're not busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734719871,
+      "content": "hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734691252,
+      "content": "Cause I'm unable to take level 1 shifts online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734678462,
+      "content": "I want to man but I have to tell them in person",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734660483,
+      "content": "a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Randy Damasco",
+      "timestamp_ms": 1485734660014,
+      "content": "I q",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485734634499,
+      "content": "hey man do you think you can take my shift?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Randy Damasco",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RandyDamasco_icpiNynQ7g"
+}

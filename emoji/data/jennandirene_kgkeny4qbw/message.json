@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Irene Park"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Irene Park",
+      "timestamp_ms": 1512612049633,
+      "content": "i thought it b an old group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irene Park",
+      "timestamp_ms": 1512612040255,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irene Park",
+      "timestamp_ms": 1512612039081,
+      "content": "umm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512611916281,
+      "content": "Why is this a new group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512611890616,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irene Park",
+      "timestamp_ms": 1512611859149,
+      "content": "hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenn and Irene",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennandIrene_KGkeNy4QBw"
+}

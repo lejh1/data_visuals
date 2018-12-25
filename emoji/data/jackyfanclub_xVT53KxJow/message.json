@@ -1,0 +1,437 @@
+{
+  "participants": [
+    {
+      "name": "Steven Wang"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476296430060,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476296385003,
+      "content": "Jacky sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/jackyfanclub_xVT53KxJow/photos/14696790_1287590894616942_1389429795_n_1287590894616942.jpg",
+          "creation_timestamp": 1476296384
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476291530829,
+      "content": "okay cool \u00e2\u0098\u00ba\u00ef\u00b8\u008f Tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476291496458,
+      "content": "But where are we going to meet at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476291485500,
+      "content": "To be clear, I'll try to come on Friday at 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476206357068,
+      "content": "We will see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476206335392,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476206013483,
+      "content": "We can do after 4 also if that works better!! We will come to you guys lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476205667178,
+      "content": "Hmmm we will see don't worry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476205651942,
+      "content": "Jacky \u00f3\u00be\u008c\u00b5??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476205644942,
+      "content": "Works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476205614274,
+      "content": "okay is friday at 1 okay for the both of you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476205318975,
+      "content": "Well we can meet Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476202954901,
+      "content": "Steven, is it okay if we can meet sometime Thursday after 330pm? \n\n& Jacky, can we meet you over the weekend? ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476202903963,
+      "content": "hi Steven & Jacky \u00e2\u0098\u00ba\u00ef\u00b8\u008f can we just meet you guys separately?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476172392521,
+      "content": "Uhhhhhhhhhhhhhhhhhhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172302638,
+      "content": "Steven sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/jackyfanclub_xVT53KxJow/photos/13652292_10154329140544568_1955967411_n_10206550803442648.gif",
+          "creation_timestamp": 1476172302
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172287122,
+      "content": "we cant do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172277522,
+      "content": "but im busy friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172262816,
+      "content": "Okay final offer meet me sometime between wed-fri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172137806,
+      "content": "Okay then i wont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172126117,
+      "content": "But if you do it bad I'll be mad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172120675,
+      "content": "You can try to forge my signature Jacky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172114196,
+      "content": "how is your work load",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172101003,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172098836,
+      "content": "aww what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172090001,
+      "content": "but hopefully they can pull through without our signature",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172089668,
+      "content": "Wait this weekend I'm going home:(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172072312,
+      "content": "very enriching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172065148,
+      "content": "a fun experience",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476172059927,
+      "content": "Yea that could work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172050880,
+      "content": "What are your last words to describe the pledging experience",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172041602,
+      "content": "hmmm how about the weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476172031743,
+      "content": "well uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476172028003,
+      "content": "Uhhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172016186,
+      "content": "I guess it's over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476172006670,
+      "content": "RIP pledging",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171987492,
+      "content": "bruh you got a lab too so we cant really help you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171979297,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171975964,
+      "content": "Cause it's due next Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171972909,
+      "content": "I think you do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171967338,
+      "content": "Oh man Jacky you're such a busy boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171962090,
+      "content": "Do we need both signatures lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171951052,
+      "content": "im busy all week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171948106,
+      "content": "sorry guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171945300,
+      "content": "HA no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171883927,
+      "content": "But just wanted to let you guys know!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171875928,
+      "content": "Okay we can plan it tomorrow or something lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171844736,
+      "content": "I'm free after Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171839119,
+      "content": "And to learn more about the position",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171836709,
+      "content": "That's cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171832404,
+      "content": "Oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171828095,
+      "content": "So like we need to meet up with you two for the pledge contract",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171827440,
+      "content": "Steven Wang added Jacky Zhang.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jacky Zhang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171816129,
+      "content": "Lmaoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171815199,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171812258,
+      "content": "Oh he left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171809404,
+      "content": "First let's all say our favorite things about Jacky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171807228,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171806372,
+      "content": "Jacky Zhang left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jacky Zhang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171805726,
+      "content": "Hey Steven and jacky!! So me and Kristine are the new FVP for Alpha Eta!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171802254,
+      "content": "Hi welcome to the Jacky fan club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Steven Wang",
+      "timestamp_ms": 1476171794407,
+      "content": "Steven named the group jacky fanclub.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1476171784399,
+      "content": "Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476171771117,
+      "content": "You created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "jacky fanclub",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/jackyfanclub_xVT53KxJow"
+}

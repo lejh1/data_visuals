@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494973737632,
+      "content": "Wow thanks guys i see the responses \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494969082555,
+      "content": "Log on to that first and it should work :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494969063369,
+      "content": "R u logged onto uci email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1494969051321,
+      "content": "it says i need to have permission O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494965440570,
+      "content": "Melanie sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494965414488,
+      "content": "Nah I'm just not home rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494965403874,
+      "content": "Duh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494965398948,
+      "content": "Lol is kristin the fave twin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494965390196,
+      "content": "Where's the link \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494965379314,
+      "content": "@Kristin Chingburanakit can you make one lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494965357232,
+      "content": "Do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494943377733,
+      "content": "Sureeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494929371762,
+      "content": "for senior banquet :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494929367873,
+      "content": "can you do a superlative for ur big pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1494929356970,
+      "content": "hellooo beautifuls",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Melanie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandMelanie_LehrZ5nIDA"
+}

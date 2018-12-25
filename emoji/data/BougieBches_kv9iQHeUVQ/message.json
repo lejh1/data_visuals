@@ -1,0 +1,1177 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Sherman Tieu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534662312312,
+      "content": "Might take like 5/10 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534662300288,
+      "content": "They are transferring my funds",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534636091063,
+      "content": "We\u00e2\u0080\u0099re here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534635150198,
+      "content": "I\u00e2\u0080\u0099m here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534635147370,
+      "content": "You sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=1001+Minnesota+St%2C+San+Francisco%2C+California+94107&FORM=FBKPL1&mkt=en-US",
+        "share_text": "1001 Minnesota St, San Francisco, California 94107"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534634647235,
+      "content": "Okay imma walk around lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534634588563,
+      "content": "Ok 15 min!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534634523584,
+      "content": "I\u00e2\u0080\u0099m waiting outside the stop!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534633102242,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534633066466,
+      "content": "Bay bridge traffic is so bad I might get there like 4:20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534626755901,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534626647657,
+      "content": "I should get there at 4:10ish then @Sherman Tieu Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534626414072,
+      "content": "22nd st. Station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534626398541,
+      "content": "I believe 22nd!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534626327334,
+      "content": "What about cal train lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534626318617,
+      "content": "Closest one to me is glen park station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534626285232,
+      "content": "@Jenn Ngu help lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534626270138,
+      "content": "What station do I pick you up from?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534624896829,
+      "content": "o lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534624865926,
+      "content": "Picking you up from the train LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534624778760,
+      "content": "or picking me up when i get off the train :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534624758441,
+      "content": "@Sherman Tieu are you picking me up or am i taking the train haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534622506843,
+      "content": "Sounds good!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534620072786,
+      "content": "two hours before the train leaves btw to make it by 4!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534619784747,
+      "content": "@Jenn Ngu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534619546208,
+      "content": "If jenns okay with it can pick you up and we can hang at jenns until we figure it out too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534618321468,
+      "content": "I got a mango we can cut \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534616164582,
+      "content": "Hm what are we gonna do tho haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534615971382,
+      "content": "Whenever you get there or before!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534615691377,
+      "content": "When are you goin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534615687818,
+      "content": "Either 2:30 or 4 I can get there \u00f0\u009f\u0098\u00af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534614729040,
+      "content": "What time are you coming Justin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534566294227,
+      "content": "Hmmm but what can we doooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534563944030,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534563942072,
+      "content": "We can do something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534563595368,
+      "content": "I\u00e2\u0080\u0099ve already see those stuff in sf haha I\u00e2\u0080\u0099m not sure what else there is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534563578387,
+      "content": "Well tea with jenn is always a fun one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534563562216,
+      "content": "I can get o sf by 1 2:30 or 4 Lolol Caltrain is slow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563556135,
+      "content": "Tea with Jenn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563552362,
+      "content": "Explore?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563549639,
+      "content": "Golden gate?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563547100,
+      "content": "Eat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563543408,
+      "content": "Dolores Park?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534563539780,
+      "content": "What did you want to doooo????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534563421732,
+      "content": "What are we doing lol :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534563415256,
+      "content": "I fell asleep a couple hours ago and now I\u00e2\u0080\u0099m awake lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534553564294,
+      "content": "okayyyyy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552936775,
+      "content": "Can I come over and drink tea before too \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552929079,
+      "content": "i\u00e2\u0080\u0099ll call in a little bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552928679,
+      "content": "\u00f0\u009f\u008d\u0093",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552921113,
+      "content": "LOLO okay\u00e2\u0080\u00a6.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552917744,
+      "content": "compromise?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552915467,
+      "content": "Ok!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552912141,
+      "content": "lets do 6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552909538,
+      "content": "Or 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552901395,
+      "content": "6 or 7 then? \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552892565,
+      "content": "fine by me if you guys want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552885941,
+      "content": "that early?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552882289,
+      "content": "\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534552668288,
+      "content": "Yes :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552234637,
+      "content": "Shall we do 5 then right when they open?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534552201422,
+      "content": "im down to eat a little earlier because its acne so we\u00e2\u0080\u0099l probably be there awhile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552174860,
+      "content": "Just which time tho? \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534552168340,
+      "content": "They\u00e2\u0080\u0099re down for dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534547116997,
+      "content": "Oh my",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534546330303,
+      "content": "Omo ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534546315668,
+      "content": "they only open for dinner so we'd have to call at like 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534546262186,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534546260150,
+      "content": "So Justin comes at 8am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534546233792,
+      "content": "Yes :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534546229000,
+      "content": "I think you can make reservations on Yelp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534546221626,
+      "content": "Should we do dinner like 6/7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534543722737,
+      "content": "I guess we\u00e2\u0080\u0099ll be waiting forever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534543702823,
+      "content": "Oh wait I don\u00e2\u0080\u0099t wanna decide haha I\u00e2\u0080\u0099ll be there wheneverrrrrrrr",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Sherman Tieu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534543669470,
+      "content": "That\u00e2\u0080\u0099s for you to decide \u00f0\u009f\u0099\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534543287299,
+      "content": "What time should we meet \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534538718090,
+      "content": "I can have tea time with Jenn before you come too!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534538304663,
+      "content": "Oh hm bullet is so early lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534538068951,
+      "content": "Lemme check the Caltrain schedule lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534537741289,
+      "content": "We can drink tea at jenns!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534537729101,
+      "content": "What do you wanna do?!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534536856133,
+      "content": ":) cal train probs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534536743399,
+      "content": "Justinnnnn how you coming up here?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534536682104,
+      "content": "okayyyyy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534536673667,
+      "content": "I asked them \u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1 but I\u00e2\u0080\u0099m tryna to figure that out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534536633687,
+      "content": "what time is dinner? im technically the closest to the place so you guys can decide on what time is most convenient for ya'll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534536575744,
+      "content": "So im confused, are Dayna and Ken gonna meet us for dinner or are we trying to meet them before?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534536527433,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534536525881,
+      "content": "so fake.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534532701402,
+      "content": "Ok so what\u00e2\u0080\u0099s the plan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534532693800,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534532691351,
+      "content": "I don\u00e2\u0080\u0099t get your reference but I\u00e2\u0080\u0099ll still laugh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534474612296,
+      "content": "so bring me some tea so enjoy our tea over. LOLOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534474601576,
+      "content": "both senses of the word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534474597193,
+      "content": "i love tea too..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534464237918,
+      "content": "I love tea!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534464233736,
+      "content": "Waaaah I\u00e2\u0080\u0099m so eggcited!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534463078031,
+      "content": "LOL, yeah but theres barely anything left. hahahaha. I got a jar of green tea leave and a smaller jar of matcha. maybe some candy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534462688489,
+      "content": "I can try your Japan goodies!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534462682092,
+      "content": "Omg Jenn!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534444972012,
+      "content": "I\u00e2\u0080\u0099ll think about it :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Sherman Tieu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534426074389,
+      "content": "Anything touristy?!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534392543811,
+      "content": "\u00f0\u009f\u0098\u00b1 not sure haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Sherman Tieu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534384614874,
+      "content": "Anything you wanted to do? \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534377619846,
+      "content": "Oh hm I\u00e2\u0080\u0099d be down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534373347112,
+      "content": "Did you want to hang out earlier Justin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534365698316,
+      "content": "I have no idea \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534365686567,
+      "content": "Did they wanna come to dinner?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534365669845,
+      "content": "We can hang out before too with Ken and Dayna \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534365660865,
+      "content": "Yas!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534364111991,
+      "content": "Is Shabu Club still a go because I\u00e2\u0080\u0099ve been looking forward to it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534364083579,
+      "content": "What\u00e2\u0080\u0099s the plan Saturday:)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534218455700,
+      "content": "im jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534218453886,
+      "content": "lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534218431751,
+      "content": "Savage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534218431655,
+      "content": "It\u00e2\u0080\u0099s just us three \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534218424823,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1534218417639,
+      "content": "Bwahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534218400716,
+      "content": "no",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sherman Tieu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1534218389796,
+      "content": "Can Dayna and Ken join us for bougie meal? \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533435752754,
+      "content": "What time for bougie meal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533435742267,
+      "content": "Sherman sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/BougieBches_kv9iQHeUVQ/gifs/37878752_10204853395732894_5257999732285898752_n_670699389932103.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533422892705,
+      "content": "I\u00e2\u0080\u0099m down!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533420187374,
+      "content": "What thou say @Justin Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533419166312,
+      "content": "https://yelp.to/qTKq/DyDeioWl7O",
+      "share": {
+        "link": "https://yelp.to/qTKq/DyDeioWl7O"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533414106613,
+      "content": "we have to go bougier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533413105594,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533412683751,
+      "content": "Their sauce is next to godliness",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533412674735,
+      "content": "No bougier, shabu club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533412647089,
+      "content": "I love me some hot pot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533396579302,
+      "content": "They have lots of cows!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533396567189,
+      "content": "Ipot???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533364973254,
+      "content": "ideas sherman?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533364963370,
+      "content": "hmmmmmmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533363037174,
+      "content": "What about cows from japan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533363000312,
+      "content": "cows from korea are bougie.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533362979161,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533362976215,
+      "content": "I feel like piggies from Korea isn\u00e2\u0080\u0099t bougie enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533353704610,
+      "content": "Lies!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533350720610,
+      "content": "I know nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533350717681,
+      "content": "Sighhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533349981005,
+      "content": "Jenn knows the good fishies from the sea spots!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533349966779,
+      "content": "We\u00e2\u0080\u0099re so funny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533349961464,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533343477134,
+      "content": "I thought you wanted the piggies from Korea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533342637711,
+      "content": "Oooo let\u00e2\u0080\u0099s do maybe fishies from the sea lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341398515,
+      "content": "Sherman set the emoji to \u00f0\u009f\u008d\u0093.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533341398080,
+      "content": "I mean green like the money that\u00e2\u0080\u0099ll be missing from our wallets.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sherman Tieu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533341374743,
+      "content": "Jenn changed the chat colors.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533341348788,
+      "content": "Seems only appropriate after that last statement.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533341328324,
+      "content": "Jenn named the group Bougie B*ches.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341283206,
+      "content": "I think we did $50 for omakase each?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341271373,
+      "content": "AS HIGH AS WE CAN AFFORD!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341250465,
+      "content": "And bougie level wise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341243215,
+      "content": "Like price range wise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341239386,
+      "content": "What do you guys usually do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533341184988,
+      "content": "UH",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Sherman Tieu"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Jenn Ngu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341163855,
+      "content": "Jenns mom cooking",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Jenn Ngu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341157766,
+      "content": "Ribs from the animals",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jenn Ngu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341150680,
+      "content": "Fishies from the sea",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Jenn Ngu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341145005,
+      "content": "What are you feeling",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Jenn Ngu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533341113044,
+      "content": "Ok Justin \u00f0\u009f\u0098\u0092",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Sherman Tieu"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533265159660,
+      "content": "Give a type a food!!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533172877065,
+      "content": "I\u00e2\u0080\u0099ll pick if you give me like a list of suggestions lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533172847235,
+      "content": "so its only fair you pick what stand out to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533172827407,
+      "content": "sherman and i are here ll the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533172593392,
+      "content": "Idk anything up here Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533172542528,
+      "content": "you are the chosen one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533172538666,
+      "content": "too late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533172533656,
+      "content": "Not it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533172526497,
+      "content": "Justin chooses where we go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sherman Tieu",
+      "timestamp_ms": 1533172520624,
+      "content": "Yas!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533172517031,
+      "content": "Yesh \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1533172508094,
+      "content": "Hiiiiii! So is the 18th for dinner currently good for everyone?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bougie B*ches",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BougieBches_kv9iQHeUVQ"
+}

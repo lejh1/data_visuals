@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Jessie Salas"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessie Salas",
+      "timestamp_ms": 1525823826370,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525811847472,
+      "content": "Hi There! I saw your posting on the 2018 Bay Area Summer Interns: Housing page and I am interested in your offer! Could i possibly have more details about the place such as rent and utilities? I would ideally be looking around June 15th to the end of August!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jessie Salas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JessieSalas_PJVACvm0Kw"
+}

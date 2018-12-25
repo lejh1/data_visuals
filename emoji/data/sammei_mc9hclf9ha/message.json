@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sam Mei"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam Mei",
+      "timestamp_ms": 1497328405822,
+      "content": "Say hi to your new Facebook friend, Sam.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sam Mei",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SamMei_mC9hclf9HA"
+}

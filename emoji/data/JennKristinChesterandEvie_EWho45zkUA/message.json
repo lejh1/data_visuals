@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Chester Orperia Panitan"
+    },
+    {
+      "name": "Evie Ta"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1479289301226,
+      "content": "\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1479289117941,
+      "content": "Awwww\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u0097",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1479288991612,
+      "content": "Fams so cute \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479288986482,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1479288978271,
+      "content": "Jenn sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JennKristinChesterandEvie_EWho45zkUA/photos/15060325_10211178978692940_837257590_o_10211178978692940.jpg",
+          "creation_timestamp": 1479288977
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Ngu",
+      "timestamp_ms": 1479288953542,
+      "content": "Jenn sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JennKristinChesterandEvie_EWho45zkUA/photos/15127566_10211178974732841_955486447_o_10211178974732841.jpg",
+          "creation_timestamp": 1479288952
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenn, Kristin, Chester and Evie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennKristinChesterandEvie_EWho45zkUA"
+}

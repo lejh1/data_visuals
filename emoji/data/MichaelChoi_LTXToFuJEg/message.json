@@ -1,0 +1,751 @@
+{
+  "participants": [
+    {
+      "name": "Michael Choi"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512987484315,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512987478589,
+      "content": "i queued that shit up 2 days ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512987468489,
+      "content": "not anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512987460881,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512987172059,
+      "content": "I see your term paper by the gw printer lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512986289627,
+      "content": "Are you at gw?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512124573915,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512124572122,
+      "content": "I gots it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512124561139,
+      "content": "Yes i explain later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117988622,
+      "content": "Even for 4-word blocks, 4 blocks it's just 2 bit offset?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117947618,
+      "content": "ill reply to u once im done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117943028,
+      "content": "ok one sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117939954,
+      "content": "idk why it does that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117935874,
+      "content": "ug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117933275,
+      "content": "first 2 bits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117913509,
+      "content": "Also I believe you sent a blank doc lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117878172,
+      "content": "The byte *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117873034,
+      "content": "Idk what they offset is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117868762,
+      "content": "imma go to sleep after tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117862694,
+      "content": "ok ill do 1c rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117850079,
+      "content": "Wtf LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117846862,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117845675,
+      "content": "or 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117844386,
+      "content": "didnt do 1 c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117841835,
+      "content": "i",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512117833412,
+      "content": "lol I'm almost done, just need 1.c and 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117807326,
+      "content": "FOR MONEY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512117804824,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512110558517,
+      "content": "Can you send me answers pls :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512110416239,
+      "content": "WAIT YOU GUYS LEFT LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512093973596,
+      "content": "lol ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092549235,
+      "content": "\"Tell Michael I don't know anything \"-Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092510892,
+      "content": "I'll come later too but not til 9ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512092480218,
+      "content": "andrew is coming to do the hw later though so imma hold off for now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092278573,
+      "content": "I only did 1a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092273672,
+      "content": "Ooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1512092137093,
+      "content": "i havent done number 1 or 3 yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092080659,
+      "content": "You set the nickname for Michael Choi to Senpai.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092075857,
+      "content": "You cleared your nickname.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512092054624,
+      "content": "For number 1a did you only get one R and the rest are P?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511996425681,
+      "content": "You set your nickname to Senpai \u00f0\u009f\u0091\u00a8\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ab.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511996349304,
+      "content": "I got the free trial which is fine I think lol I'll test it latet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995638983,
+      "content": "lemme see if i can install it on ur comp from my acount later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511995401605,
+      "content": "\u00f0\u009f\u0098\u009e lucky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511995363562,
+      "content": "it came installed on my computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511993562069,
+      "content": "You bought it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511993510836,
+      "content": "Ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511993474704,
+      "content": "no i use drawboard pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511992493196,
+      "content": "Do you convert your pdfs to onenote?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511992481551,
+      "content": "Okie ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992370550,
+      "content": "and idk how i just remember googling it with uci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992359962,
+      "content": "i don\u00e2\u0080\u0099t have case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511992353821,
+      "content": "uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511944790068,
+      "content": "Also how do I get Microsoft office for free being a student lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511944765459,
+      "content": "Do you have a case for your surface book?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511944752898,
+      "content": "Ty!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931650883,
+      "content": "cheaper one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931649350,
+      "content": "here is a slightly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931644967,
+      "content": "https://www.amazon.com/8mobility-Aluminium-Adapter-Microsoft-Surface/dp/B01HRGZPRW/ref=sr_1_4?ie=UTF8&qid=1511931605&sr=8-4&keywords=surface+book+sd+card+adapter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931635847,
+      "content": "https://www.amazon.com/BASEQI-Aluminum-MicroSD-Adapter-Microsoft/dp/B01AT7ECA2/ref=sr_1_3?ie=UTF8&qid=1511931605&sr=8-3&keywords=surface+book+sd+card+adapter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931635350,
+      "content": "now they are really expensive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511931630701,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511931590996,
+      "content": "Where'd you get the microsd card holder thing that doesn't stick out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925969665,
+      "content": "do those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925967022,
+      "content": "Settings > Personalization > Lock Screen and set the background to \u00e2\u0080\u009cPicture\u00e2\u0080\u009d or \u00e2\u0080\u009cSlideshow\u00e2\u0080\u009d instead of Windows Spotlight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925951522,
+      "content": "Settings > Personalization > Start and set the \u00e2\u0080\u009cOccasionally show suggestions in Start\u00e2\u0080\u009d setting to \u00e2\u0080\u009cOff\u00e2\u0080\u009d.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511925791067,
+      "content": "It's been 5ish years since I had to set up a new laptop lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511925773241,
+      "content": "Oo okay lol ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925497008,
+      "content": "and also i unistall candy crush saga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925489646,
+      "content": "there is another 'feature' in windows that tries to adverdise u shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925473689,
+      "content": "uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511925456336,
+      "content": "Like what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925319271,
+      "content": "i disabnle a lot of shit windows tries to put in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511925310801,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511925230640,
+      "content": "Did you disable Cortana lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923948875,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511923940191,
+      "content": "So sleek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511923937271,
+      "content": "So smooth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511923934938,
+      "content": "It's so nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923912271,
+      "content": "how is the surface btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511923904036,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511920847494,
+      "content": "You waved at Michael!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511303459068,
+      "content": "nice nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511299674857,
+      "content": "imma buy it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511293833942,
+      "content": "Ooo ty senpai I think I'll buy it as my main pc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292284159,
+      "content": "otherwise just get the other one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292275512,
+      "content": "if u have the money and are going to use the laptop as main pc then i\u00e2\u0080\u0099d say just get the one with gpu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292256691,
+      "content": "but the laptop won\u00e2\u0080\u0099t be upgradable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511292245428,
+      "content": "u are paying 300 for a 965M",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511289547013,
+      "content": "BUT I WANT IT LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511289543444,
+      "content": "Yea that's what I'm thinking too. I just don't know if this is kinda pricey for the specs. I'm pretty much paying an extra ~$300 for the tablet portion lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511289139269,
+      "content": "if u do any kind of gaming I really think u need the graphics card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511289128245,
+      "content": "it might be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511289126368,
+      "content": "uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511288746452,
+      "content": "Yea I found some last gen pens for $50ish dollars last night. I'm also trying to decide if this surface book with better specs is worth the extra money https://www.amazon.com/Microsoft-Surface-Book-Intel-Core/dp/B0163GS05Q?th=1",
+      "share": {
+        "link": "https://www.amazon.com/dp/B0163GS05Q/ref=tsm_1_fb_lk"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511288156939,
+      "content": "u can find those last gen surface pens for cheaper tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511288145786,
+      "content": "i have no idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511288137821,
+      "content": "mmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511253876098,
+      "content": "jk i rather get a surface book. also do you know what bulk packing means? https://www.amazon.com/Microsoft-Surface-Silver-Bulk-Packaging/dp/B0731S5JFK?SubscriptionId=AKIAJA54JMESX73IGPXQ&amp=&ascsubtag=408075992-16-2100789346.1511253688&camp=2025&creative=165953&creativeASIN=B0731S5JFK&linkCode=xm2&tag=d_2b_a_p-20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511252640344,
+      "content": "what do you think about this over the surface book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511252628707,
+      "content": "https://www.newegg.com/Product/Product.aspx?Item=N82E16834735454&ignorebbr=1",
+      "share": {
+        "link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16834735454"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1511239110680,
+      "content": "https://flash.newegg.com/Product/9SIA5E64XC8712",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510610031695,
+      "content": "i dont use it at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510610024058,
+      "content": "ill just give it to u for free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510610018833,
+      "content": "oh i meant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510440490213,
+      "content": "How much would it code to buy the broken surface 3 from you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510375014754,
+      "content": "Hmmm fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372657959,
+      "content": "touch screen doesnt work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372648826,
+      "content": "Senpai sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/MichaelChoi_LTXToFuJEg/photos/23555241_1709988079033359_1541144542_o_1709988079033359.jpg",
+          "creation_timestamp": 1510372648
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372618566,
+      "content": "nvm one sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372615049,
+      "content": "oh wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372611142,
+      "content": "what is ur phone#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372604709,
+      "content": "i have a broken surface 3 i can give u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372595082,
+      "content": "again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372555747,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372554706,
+      "content": "and she wanted  to keep it after all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372549361,
+      "content": "i talked to my mom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1510372545756,
+      "content": "oh yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510366710580,
+      "content": "Senpai is there any update on the surface pro? My laptop just broke lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Choi",
+      "timestamp_ms": 1509039914331,
+      "content": "Say hi to your new Facebook friend, Michael.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Choi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelChoi_LTXToFuJEg"
+}

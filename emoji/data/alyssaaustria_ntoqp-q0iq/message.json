@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alyssa Austria"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494877300816,
+      "content": "Say hi to your new Facebook friend, Alyssa.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alyssa Austria",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlyssaAustria_NtoQp-q0iQ"
+}

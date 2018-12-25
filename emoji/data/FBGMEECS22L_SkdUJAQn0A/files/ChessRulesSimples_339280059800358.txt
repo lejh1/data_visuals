@@ -1,0 +1,100 @@
+
+
+Capture your opponents pieces and corner their king so they can not make a valid move
+without being captured (Checkmate).
+
+-King
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  | O |   |   | O |   |   |   | O |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |   | O |   | O |   |   | O |   |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |   |   | O | O |   | O |   |   |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   | O | O | O |   |   |   |  | O | O | O | Q | O | O | O | O |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   | O | K | O |   |   |   |  |   |   |   | O | O |   |   |   |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   | O | O | O |   |   |   |  |   |   | O | O |   | O |   |   |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |   | O |   | O |   |   | O |   |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  | O |   |   | O |   |   |   | O |
+|---+---+---+---+---+---+---+---|  |---+---+---+---+---+---+---+---|
+
+-Rook                              -Bishop
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  | O  |   |   |   |   |   | O |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  |    | O |   |   |   | O |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  |    |   | O |   | O |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  |    |   |   | B |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+| O | O | O | R | O | O | O | O |  |    |   | O |   | O |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  |    | O |   |   |   | O |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  | O  |   |   |   |   |   | O |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | O |   |   |   |   |  |    |   |   |   |   |   |   | O |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+
+-Knight                            -Pawn                             
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |    |   |   |   |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   | O |   | O |   |   |   |  |    |   |   |   | P |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   | O |   |   |   | O |   |   |  |    |   |   |   | O |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   | K |   |   |   |   |  |    |   |   |   | O |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   | O |   |   |   | O |   |   |  |    | O |   | O |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   | O |   | O |   |   |   |  |    | P |   | O |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |    |   |   | P |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+|   |   |   |   |   |   |   |   |  |    |   |   |   |   |   |   |   |
+|---+---+---+---+---+---+---+---|  |----+---+---+---+---+---+---+---|
+
+-Special Rules
+Promotion
+
+Pawns have another special ability and that is that if a pawn reaches
+the other side of the board it can become any other chess piece 
+(called promotion). A pawn may be promoted to any piece. [NOTE: A common
+misconception is that pawns may only be exchanged for a piece that has
+been captured. That is NOT true.] A pawn is usually promoted to a queen.
+Only pawns may be promoted.
+
+En Passant
+
+The last rule about pawns is called `en passant,' which is French for
+ `in passing'. If a pawn moves out two squares on its first move, and
+ by doing so lands to the side of an opponent's pawn (effectively jumping
+ past the other pawn's ability to capture it), that other pawn has the 
+ option of capturing the first pawn as it passes by. This special move
+ must be done immediately after the first pawn has moved past, otherwise
+ the option to capture it is no longer available.
+ 
+ Castling
+ 
+ One other special rule is called castling. This move allows you to do
+ two important things all in one move: get your king to safety (hopefully)
+ , and get your rook out of the corner and into the game. On a player's
+ turn he may move his king two squares over to one side and then move 
+ the rook from that side's corner to right next to the king on the 
+ opposite side. (See the example below.) However, in order to castle,
+ the following conditions must be met: 
+-it must be that king's very first move
+-it must be that rook's very first move
+-there cannot be any pieces between the king and rook to move
+-the king may not be in check or pass through check
+
+Rules used from chess.com
+
+
+Help

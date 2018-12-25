@@ -1,0 +1,175 @@
+{
+  "participants": [
+    {
+      "name": "Amy Tran"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519700148850,
+      "content": "arent u next to him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519700140650,
+      "content": "UR DOIN THIS TO ME AHAHAHAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519700133821,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519700132396,
+      "content": "Don't do this to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519700125303,
+      "content": "ask Kenny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519700123731,
+      "content": "AHAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519700121214,
+      "content": "... Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519700110371,
+      "content": "Wait so you did give it to him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699861141,
+      "content": "Tell kenny to cover up dawg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699857279,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699822695,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699693602,
+      "content": "Juju Stinley LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699689397,
+      "content": "What do u mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699680521,
+      "content": "What going on lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699659777,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699658383,
+      "content": "LOOOOOOL IM DYING",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699608222,
+      "content": "I'm kidding lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699494966,
+      "content": "Amy sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/16686503_344403599289188_600947619283337216_n_344403592622522.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699490418,
+      "content": "r u srs or joking i can\u00e2\u0080\u0099t tell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699485897,
+      "content": "LOOOOL WAIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699469183,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699467315,
+      "content": "Highkey got scared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699455345,
+      "content": "AHAHAHAHAHAHAHAHAHHAHAAHHAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1519699432559,
+      "content": "Wait I didn\u00e2\u0080\u0099t give those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1519699414892,
+      "content": "What did you do to Kenny?? He has bruises all over his neck...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amy Tran",
+      "timestamp_ms": 1515836237578,
+      "content": "Say hi to your new Facebook friend, Amy.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amy Tran",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AmyTran_6jD0zdOhDw"
+}

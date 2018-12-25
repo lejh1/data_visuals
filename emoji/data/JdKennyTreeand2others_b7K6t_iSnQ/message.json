@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jd Ingal"
+    },
+    {
+      "name": "Kenny Tat"
+    },
+    {
+      "name": "Tree Otniugs"
+    },
+    {
+      "name": "Joshua Agregado"
+    },
+    {
+      "name": "Brian Truong"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Truong",
+      "timestamp_ms": 1505363675584,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joshua Agregado",
+      "timestamp_ms": 1505363578123,
+      "content": "Now we gotta get kevin boys lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joshua Agregado",
+      "timestamp_ms": 1505363577667,
+      "content": "Joshua sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JdKennyTreeand2others_b7K6t_iSnQ/photos/21742242_1539958386083046_1694948799_o_1539958386083046.jpg",
+          "creation_timestamp": 1505363576
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Jd, Kenny, Tree and 2 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JdKennyTreeand2others_b7K6t_iSnQ"
+}

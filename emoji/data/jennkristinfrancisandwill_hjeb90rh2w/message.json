@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Jenn Ngu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Francis Angeles"
+    },
+    {
+      "name": "Will XuXu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1486851924425,
+      "content": "HAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486850338974,
+      "content": "As for presents....umm no plants......she sucks at keeping them alive....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486850308867,
+      "content": "Yeah I think so but just make sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1486850278627,
+      "content": "I'll ask Tina later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1486850276313,
+      "content": "Oh really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486849824093,
+      "content": "Yeah she is planning to go to an event with Tina tran I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1486849711404,
+      "content": "Oh shoot. Didn't know it was the 3day weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1486849589599,
+      "content": "Umm isn't she going home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1486848617994,
+      "content": "Hi hi\nSo the 20th is caitlins bday. I'm bad at planning stuff and presents so what should we do for her??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenn, Kristin, Francis and Will",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennKristinFrancisandWill_HJEb90rH2w"
+}

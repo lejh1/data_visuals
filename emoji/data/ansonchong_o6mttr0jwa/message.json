@@ -1,0 +1,388 @@
+{
+  "participants": [
+    {
+      "name": "Anson Chong"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495261947495,
+      "content": "\u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495261925800,
+      "content": "I appreciate it Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495261871294,
+      "content": "Aw man if I could run I totally would! Hopefully you find another partner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495260717319,
+      "content": "Totally forgot about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495260705748,
+      "content": "Oh right. I know man. The duo sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495260591791,
+      "content": "Awwww that sounds fun! But I haven't been an active for 2 terms :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495260215711,
+      "content": "It's good tho. Good luck man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495260207654,
+      "content": "I just wanted to ask if you wanted to run for FVP together.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495259855664,
+      "content": "Hi! I got nominated for ic chair with my twin. Why what's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1495259187350,
+      "content": "Hey Justin! Are u running for any positions with anyone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492974323171,
+      "content": "Help lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492964779644,
+      "content": "We got her awake!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492964705601,
+      "content": "I will be soon hopefully!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492964697162,
+      "content": "They are trying to call her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492964684047,
+      "content": "I'm at reevas apartment complex rn with Kristine \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492964654809,
+      "content": "Justin, are u almost here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492963442584,
+      "content": "Running a bit late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492962555388,
+      "content": "Anson: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492962516125,
+      "content": "Okay nvm I'll come to jack first cause the leasing office for her apartment opens at 9am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492961816221,
+      "content": "Anson: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961726040,
+      "content": "As long as I have room for reeva!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961718146,
+      "content": "Also it doesn't have to be the pledge that goes in another car \u00f0\u009f\u0098\u0082 I was just being mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961691438,
+      "content": "And I'll come back for them!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961685200,
+      "content": "If I end up taking a long time you can just tell the people in my car to wait at jack",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961669700,
+      "content": "Okay! Thanks anson!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492961540867,
+      "content": "Uhmmm I think you should go to Reeva's first cus she's a performer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961482267,
+      "content": "Idk if I should go to reevas place first or after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961460566,
+      "content": "Um yes I'll try!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492961324659,
+      "content": "Are u still going to Jack's to meet up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961181912,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961180203,
+      "content": "Her car had to leave her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961176214,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492961166491,
+      "content": "No problem. Did the performers leave already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961145983,
+      "content": "Thanks anson!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492961136111,
+      "content": "Hmm well hopefully we figure something out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492961017809,
+      "content": "There's prob a space in Tina's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960987282,
+      "content": "I was gonna swing by her apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492960979635,
+      "content": "Right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960977888,
+      "content": "Is every single car full?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960971983,
+      "content": "Hmm cause reeva is in DC so they need her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492960949601,
+      "content": "Uhmmm I'm think most of the cars are full",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960902738,
+      "content": "And people in DC are asking me to take reeva cause she didn't wake up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960890139,
+      "content": "There's a situation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960886006,
+      "content": "Can the pledge go in anyone else's car??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1492960870148,
+      "content": "What's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492960858133,
+      "content": "ANSON!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479974653228,
+      "content": "Oh okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479974644846,
+      "content": "I just fixed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479974619588,
+      "content": "I tried but I can't finish it cause the last question doesn't have an option to not choose anyone them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479974490039,
+      "content": "Justin, make sure you complete the google form after you paid for BDC. It should be on the FB event pg.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479968236187,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479964909924,
+      "content": "sent*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479964905881,
+      "content": "Alright all send",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479963689685,
+      "content": "My full name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479963319808,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479963313878,
+      "content": "Okay what's your venmo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479962870430,
+      "content": "You can Venmo me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479962712949,
+      "content": "How can I pay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479956375808,
+      "content": "Hey Justin! Who ever pays first will have priority",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anson Chong",
+      "timestamp_ms": 1479956352203,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479955405926,
+      "content": "Hey how many spot are there left for the BDC?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anson Chong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnsonChong_O6mTTr0jwA"
+}

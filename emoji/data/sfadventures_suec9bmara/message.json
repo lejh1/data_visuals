@@ -1,0 +1,497 @@
+{
+  "participants": [
+    {
+      "name": "Bernard Laveaux"
+    },
+    {
+      "name": "Ben Emdon"
+    },
+    {
+      "name": "Brandon Tran"
+    },
+    {
+      "name": "Katie Gu"
+    },
+    {
+      "name": "Billy OGara"
+    },
+    {
+      "name": "Shivani Gohil"
+    },
+    {
+      "name": "Serena Ang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857635876,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529857629148,
+      "content": "And we can go from there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529857622556,
+      "content": "I'll meet everyone at 11pm at the Caltrain stop in SF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529802756180,
+      "content": "Nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529796544600,
+      "content": "I will be!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Gu",
+      "timestamp_ms": 1529796530830,
+      "content": "I might come! Is anyone else taking the caltrain?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529773756091,
+      "content": "Hi!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773750684,
+      "content": "Namaste",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Emdon",
+      "timestamp_ms": 1529773741214,
+      "content": "Hey hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773693971,
+      "content": "Bernard Laveaux added Ben Emdon.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ben Emdon"
+        }
+      ]
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773415044,
+      "content": "If anyone wants to invite more peeps I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529773345603,
+      "content": "I've also got some friends from GitHub up here that'll join us for the parade and lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529734275551,
+      "content": "That sounds like a good idea! I\u00e2\u0080\u0099m really open to anything, haven\u00e2\u0080\u0099t been to SF much",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529734240784,
+      "content": "Since I'll already be here I'm down to meet up where is most convenient (like 4th Street Caltrain stop)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529734216699,
+      "content": "So, what does everyone think about meeting up in SF at around 10:30AM Sunday. We could check out the parade then maybe grab lunch at around noon and go from there? (ie I was thinking of checking out MoMA or golden gate park)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529734027117,
+      "content": "You waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529731089490,
+      "content": "Bernard waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Katie Gu",
+      "timestamp_ms": 1529720552394,
+      "content": "Katie waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529715422936,
+      "content": "The last stop",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529715419366,
+      "content": "Ohh, then I'd suggest getting off at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529715330362,
+      "content": "Hmm, let me check where the parade is at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529715175733,
+      "content": "Yea! Me too! I\u00e2\u0080\u0099ll probably just take the Caltrain up then around 9? Where\u00e2\u0080\u0099s the best place to get off lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529714960955,
+      "content": "On Sunday? Yeah I'm definitely down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529714606506,
+      "content": "Did y\u00e2\u0080\u0099all wanna go to the parade? Looks like it starts around 10:30am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529709556348,
+      "content": "Hmm. I'm already here so I'm good for whenever \u00f0\u009f\u0098\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Serena Ang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529699889898,
+      "content": "What time y\u00e2\u0080\u0099all thinking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529609452247,
+      "content": "Sunday could work! \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529594198032,
+      "content": "I\u00e2\u0080\u0099m down for Sunday if everyone else is!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Serena Ang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529593384449,
+      "content": "We could go out Friday night or something. I'm also down for a more lowkey Sunday. I was thinking about maybe checking out the MoMA or going to golden gate park",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529593319448,
+      "content": "So what's the plan for this weekend? I've heard Friday night and Sunday. I'm good for both.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Tran",
+      "timestamp_ms": 1529444673526,
+      "content": "Who met Nik he had a sourin and he was chill as fuck",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Katie Gu"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Shivani Gohil"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529444569242,
+      "content": "I\u00e2\u0080\u0099ll* omlll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529444562739,
+      "content": "All add* \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529444550194,
+      "content": "Shivani Gohil added Brandon Tran and Billy OGara.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Brandon Tran"
+        },
+        {
+          "name": "Billy OGara"
+        }
+      ]
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529444457116,
+      "content": "There\u00e2\u0080\u0099s definitely a lot to do! I\u00e2\u0080\u0099m admit Billy and Brandon as soon as they accept my requests haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529443123819,
+      "content": "I'm sure there's gonna be some dope stuff happening up in SF this weekend then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529443102443,
+      "content": "Ohh what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529437460305,
+      "content": "Pride is so lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529437452650,
+      "content": "Omg let\u00e2\u0080\u0099s goooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529437432730,
+      "content": "Oh it\u00e2\u0080\u0099s pride weekend this weekend lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529433763203,
+      "content": "Serena Ang added Katie Gu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Katie Gu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529431727148,
+      "content": "John just told me he\u00e2\u0080\u0099s busy this weekend with family stuff \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529430010950,
+      "content": "Well I'm already here so \u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429820912,
+      "content": "Wait is there anyone y\u00e2\u0080\u0099all met that we Shouldn\u00e2\u0080\u0099t invite to this chat haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529429579353,
+      "content": "@Shivani do you have Brandon or Billy on FB?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529429442032,
+      "content": "I\u00e2\u0080\u0099ll be out of town until Saturday :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529429414265,
+      "content": "Haha Friday night eh? If you can make it out here then I'm down for that too",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529429359372,
+      "content": "Down*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shivani Gohil",
+      "timestamp_ms": 1529429354285,
+      "content": "I think Brandon and Billy were done to do something on Friday in SF too \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529429350500,
+      "content": "Bernard named the group SF Adventures.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529429092854,
+      "content": "Serena Ang added Shivani Gohil.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Shivani Gohil"
+        }
+      ]
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529429055040,
+      "content": "Sunday!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529428962648,
+      "content": "Haha sure! Sounds good. I've got a group of friends in SF that'll likely join us as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529428252782,
+      "content": "I can\u00e2\u0080\u0099t remember other people\u00e2\u0080\u0099s names haha should we try to invite more ppl?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529428233830,
+      "content": "Alright lol @Serena Ang?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529428224521,
+      "content": "It's up to you guys I guess haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529428217663,
+      "content": "Hmm, both work for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529428171691,
+      "content": "Which day works best?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529428164459,
+      "content": "Oh rip \u00f0\u009f\u0098\u009e but yea I\u00e2\u0080\u0099m down!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529428144646,
+      "content": "You waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529426743497,
+      "content": "But hey! You guys interested in getting up to SF this weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529426707700,
+      "content": "I think John still hasn't accepted my friend request (\u00f0\u009f\u0098\u00a2)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529426682863,
+      "content": "Bernard waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1529426681955,
+      "content": "Bernard created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "SF Adventures",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/SFAdventures_SuEc9BmarA"
+}

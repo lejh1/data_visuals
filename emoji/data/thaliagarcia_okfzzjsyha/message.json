@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Thalia Garcia"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476743982789,
+      "content": "any other shift???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476743975918,
+      "content": "ahhhh i really want too but i have lot U during that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thalia Garcia",
+      "timestamp_ms": 1476743955319,
+      "content": "2-515",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thalia Garcia",
+      "timestamp_ms": 1476743949918,
+      "content": "Want to trade for my Tuesday kiosk?!\u00f3\u00be\u00b0\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476743353455,
+      "content": "Can you take my friday 7:45-11:30pm shift :'(",
+      "type": "Generic"
+    }
+  ],
+  "title": "Thalia Garcia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ThaliaGarcia_OKfZzjSYhA"
+}

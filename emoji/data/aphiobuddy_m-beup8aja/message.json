@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "A Phi O Buddy"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A Phi O Buddy",
+      "timestamp_ms": 1508376426230,
+      "content": "Say hi to your new Facebook friend, A Phi O.",
+      "type": "Generic"
+    }
+  ],
+  "title": "A Phi O Buddy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/APhiOBuddy_m-beUP8aJA"
+}

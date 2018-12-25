@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alejandro Lamas"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1463524953463,
+      "content": "Say hello to Alejandro.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alejandro Lamas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlejandroLamas_otIyLaj6AA"
+}

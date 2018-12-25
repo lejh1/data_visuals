@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503793897270,
+      "content": "Lmaoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1503792628737,
+      "content": "litmas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1503792626298,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1503792615184,
+      "content": "Lile 70%",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1503792609689,
+      "content": "Domt say that bc ill actually do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503792582254,
+      "content": "Let's throw a party tonight around 7-8pm",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rosalio and Colin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/RosalioandColin_a4joaN4bxQ"
+}

@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Jerry Lee"
+    },
+    {
+      "name": "Jason Ink"
+    },
+    {
+      "name": "Keiser Ruiz"
+    },
+    {
+      "name": "Jenny Diep"
+    },
+    {
+      "name": "Jigar Hira"
+    },
+    {
+      "name": "Justin Le"
+    },
+    {
+      "name": "Tritai Nguyen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1535432269720,
+      "content": "hello we have one month before school starts! i will be starting the PCB development for the kits if anyone is interested in learning pcb design or making a contribution to that, message me!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1529832637527,
+      "content": "Jason voted for \"Facebook\" and 1 other option in the poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Keiser Ruiz",
+      "timestamp_ms": 1529825318542,
+      "content": "Keiser voted for \"Facebook\" and 1 other option in the poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tritai Nguyen",
+      "timestamp_ms": 1529823761981,
+      "content": "Tritai voted for \"Slack\" in the poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenny Diep",
+      "timestamp_ms": 1529821442630,
+      "content": "Jenny voted for \"Slack\" in the poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jigar Hira",
+      "timestamp_ms": 1529820651819,
+      "content": "Jigar voted for \"Slack\" in the poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1529820613849,
+      "content": "Jerry created a poll: Select preferred form of communication.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529820612205,
+      "content": "Oooo it\u00e2\u0080\u0099s happening",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Jerry Lee"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Keiser Ruiz"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Jenny Diep"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jigar Hira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tritai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerry Lee",
+      "timestamp_ms": 1529820552261,
+      "content": "Hello friends, you are the few I have selected to be part of the micromouse board I would like to have for this coming school year",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jerry, Jason, Keiser and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JerryJasonKeiserand3others_Ixo1rxlwXg"
+}

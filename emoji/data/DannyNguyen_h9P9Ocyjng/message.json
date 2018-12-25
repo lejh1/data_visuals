@@ -1,0 +1,1552 @@
+{
+  "participants": [
+    {
+      "name": "Danny Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517543456099,
+      "content": "dam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517543453020,
+      "content": "you actually saw me before i saw you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517543446400,
+      "content": "shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517543445330,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517540229521,
+      "content": "In eta kappa nu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517540221713,
+      "content": "I see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517382206831,
+      "content": "damn ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517382195732,
+      "content": "Rip ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1517382190251,
+      "content": "I didn\u00e2\u0080\u0099t do that assignment yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517382046984,
+      "content": "What did you get for this one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517382041536,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/27537473_501040960290933_2098117692_o_501040960290933.jpg",
+          "creation_timestamp": 1517382041
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516922199891,
+      "content": "Lmao rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516914468916,
+      "content": "the career fair was garbage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516909052276,
+      "content": "I woke up late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516909050225,
+      "content": "No lol I'm not going anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516907263416,
+      "content": "Hey are you at the nerd fair yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826455175,
+      "content": "loool fk internships",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826429382,
+      "content": "Im down for headshot too tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826415791,
+      "content": "Wtf bro go there for the internshipS LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826402147,
+      "content": "i havent prepared anything yet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826392542,
+      "content": "lol i think im only going for a bit just to take a headshot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826371682,
+      "content": "Wanna meet up for tomorrow\u00e2\u0080\u0099s career fair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826365822,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826364251,
+      "content": "Oh that\u00e2\u0080\u0099s dope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826355096,
+      "content": "back end shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826348495,
+      "content": "research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826340461,
+      "content": "4 what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826228264,
+      "content": "i gotta learn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516826225179,
+      "content": "ooo ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516826013239,
+      "content": "http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516825980233,
+      "content": "And also uh this one website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516825970761,
+      "content": "But I wanted to learn machine learning so I started taking online courses that uses python",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516825933033,
+      "content": "mostly my classes got me a good intro to it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516825573424,
+      "content": "how did you learn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1516825371080,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516825353499,
+      "content": "do you know python well?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514668946231,
+      "content": "I just don't like that they take it back lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514666916441,
+      "content": "yeah like they released their designs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514619363835,
+      "content": "oh like green's?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514602058461,
+      "content": "this would be a pretty good model to replicate with some modifications",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514602032742,
+      "content": "yo futura provides everything and its super fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514598724847,
+      "content": "Lmao we need some kind of micro controller",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514597985828,
+      "content": "what if we have to use a FPGA board haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514597971235,
+      "content": "probably finding out which how a microcontroller is compatible with controlling the car's motor based on a program that we write",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514597784974,
+      "content": "I know right idk how to start tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514597761874,
+      "content": "its pretty nice how there're 8 detailed lectures on this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514597713315,
+      "content": "I don't think he graduated lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514597440963,
+      "content": "he aint even a student anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514597436077,
+      "content": "lol why does jerry still have a .uci email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514597282324,
+      "content": "To get started with your micromouse, I suggest looking up videos and anything you can find on it. Below is a link you can refer to that contains a lot of valuable information. It has all the rules, links to other resources, slides on how you build your mouse, and if you click on wiki, you can see Green's progress from his first mouse to his current mouse. You'll most likely want to refer to the Project Futura tab.\n\nhttp://micromouseusa.com/?page_id=1342\n\nAlso if you haven't added this to your drive yet, here is the link to the Micromouse Google Drive folder. It contains the slides from the informational meeting and I will be adding more to it throughout.\n\nhttps://drive.google.com/drive/folders/1OrkgPH0t1oJbB6XCVPaWu6LZgjos6cNY?usp=sharing\n\nAny questions, feel free to ask me on facebook or email me at jerrl10@uci.edu.",
+      "share": {
+        "link": "http://micromouseusa.com/?page_id=1342"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589381809,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589378441,
+      "content": "got the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589270058,
+      "content": "oh yeah lol we can get sponsored for materials if we're serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589237664,
+      "content": "I don't even know how to buy stuff tho lol like what do we need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589222194,
+      "content": "Idk how it works tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589216790,
+      "content": "Lmao okay. It looked like a lot of people use the flood fill alg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589193859,
+      "content": "im probably gonna do some looking into dem maze algorithms lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589172099,
+      "content": "dpnguye2@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589168817,
+      "content": "fosho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589164285,
+      "content": "Hold up lemme fwd you it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589154778,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589136826,
+      "content": "Did you get the email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589135686,
+      "content": "i'll let u know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589134024,
+      "content": "add me when i do okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589127216,
+      "content": "i should reactivate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589124616,
+      "content": "Oh rip lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589120682,
+      "content": "i dont have a fb lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589112365,
+      "content": "Are you in the fb group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589104352,
+      "content": "i was looking into it and i think the americas competition is feb-april",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1514589102579,
+      "content": "Yea I am. I haven't done a lot of research on it tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589082202,
+      "content": "are you still down for micromouse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1514589075811,
+      "content": "sup juju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512542607094,
+      "content": "i just cut the answer he got in half",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512542600081,
+      "content": "his was a single word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512542596305,
+      "content": "ours is a double word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512542593020,
+      "content": "found some shit online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512542480064,
+      "content": "Wait how did you get re bandwidth one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541823999,
+      "content": "Uh idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541800198,
+      "content": "wait im not sure actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541663741,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541616007,
+      "content": "Right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541613439,
+      "content": "Wait you can't have a hit in the tlb without a non reference?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541569305,
+      "content": "but also not confident in my answer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541564959,
+      "content": "and i got the 3rd one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541561296,
+      "content": "MMHMMHM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541556614,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24819233_476555376072825_720796967_o_476555376072825.jpg",
+          "creation_timestamp": 1512541556
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541537808,
+      "content": "yeah sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541534970,
+      "content": "Wanna compare",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541532921,
+      "content": "Did you get the tlb one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541524745,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541520697,
+      "content": "oh yeah me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541519325,
+      "content": "And cpi I got 13.03",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541512613,
+      "content": "For amat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541508944,
+      "content": "I got 9.85",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512541503784,
+      "content": "lol sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512541487020,
+      "content": "oh nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512540673004,
+      "content": "did u get the amat time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512540424104,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512540422622,
+      "content": "thats the last question i need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512540225824,
+      "content": "waht was your amat and cpi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512540220247,
+      "content": "oh really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512539822659,
+      "content": ".32, .40 is one of the answers i believe to-",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512539807237,
+      "content": "4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512539806612,
+      "content": "im down to put",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539642888,
+      "content": "and 8gb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539631857,
+      "content": "i got 4 levels",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512539622672,
+      "content": "8gb/5pages?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539610674,
+      "content": "and maybe the amat and cpi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539602359,
+      "content": "i got the page table one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512539597068,
+      "content": "sorta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512536229232,
+      "content": "have u made any progresse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512522669456,
+      "content": "If u do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512522669154,
+      "content": "Good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512521850487,
+      "content": "Yeah it\u00e2\u0080\u0099s god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512521847673,
+      "content": "Oh yeah sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518132915,
+      "content": "And it works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518129587,
+      "content": "And you closed it after?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518115260,
+      "content": "Oh shit okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518113103,
+      "content": "I opened it Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518111593,
+      "content": "Are you sure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518109723,
+      "content": "Inopened it Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518103071,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518099512,
+      "content": "Can I exit out of this quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518091543,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518085697,
+      "content": "At 8pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518083194,
+      "content": "Worst case scenario I just use all my brain power",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518073424,
+      "content": "But it\u00e2\u0080\u0099s due at 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518070808,
+      "content": "I can\u00e2\u0080\u0099t do shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518068736,
+      "content": "I\u00e2\u0080\u0099m busy from now till about 7-8 \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512518060020,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512518002379,
+      "content": "I have class at 6 tho so I need to answer something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512517989226,
+      "content": "LOL I mean I guess lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512517978012,
+      "content": "Wanna wait till someone gets the answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512517971912,
+      "content": "Ya fuck this quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512516048027,
+      "content": "It's really confusing lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512516021596,
+      "content": "Haha sorta but I\u00e2\u0080\u0099ve been studying for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512515995161,
+      "content": "Lmao did you open it then abandon it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512515977415,
+      "content": "Nap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512515975896,
+      "content": "None I went over some examples and took a small nat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512515901120,
+      "content": "Hey which ones have you done lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512513631816,
+      "content": "Uh I cant get the Amat lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512513009548,
+      "content": "okay i have mine open too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512994998,
+      "content": "You sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24946209_476401256088237_1552301337_o_476401256088237.png",
+          "creation_timestamp": 1512512993
+        },
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24826062_476401252754904_689146584_o_476401252754904.png",
+          "creation_timestamp": 1512512993
+        },
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24882720_476401259421570_1637737584_o_476401259421570.png",
+          "creation_timestamp": 1512512993
+        },
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24819224_476401262754903_682000575_o_476401262754903.png",
+          "creation_timestamp": 1512512993
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512774841,
+      "content": "Lol okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512729679,
+      "content": "but yeah lets just do it together rn if youre down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512719971,
+      "content": "11pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512717975,
+      "content": "we just have to finish it before 11am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512712535,
+      "content": "bro its not timed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512705594,
+      "content": "If I send you pics can you help lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512695788,
+      "content": "I think imma open it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512523293,
+      "content": "i wanna get it done before 5 :O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512485452,
+      "content": "Ahh I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512479023,
+      "content": "lecture 5 virtual memory stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512476426,
+      "content": "I haven't started lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512469575,
+      "content": "Is it like everything? Or just lecture 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512466950,
+      "content": "hows ur progress on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512512456468,
+      "content": "no not yet im studying the material to do it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512512442903,
+      "content": "Did you do the quiz yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512152142614,
+      "content": "Lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512152135394,
+      "content": "9093621177",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512151997596,
+      "content": "What\u00e2\u0080\u0099s your phone number actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512151981613,
+      "content": "Whats your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512151979329,
+      "content": "I can\u00e2\u0080\u0099t send it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512151504016,
+      "content": "Yesss pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512151251891,
+      "content": "Do you want screenshotz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512151235261,
+      "content": "Hey broski",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512114614423,
+      "content": "i got block 8, block 32 and block 128",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512114389672,
+      "content": "Maybe it is 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512114387045,
+      "content": "Actually wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512114069482,
+      "content": "That was like for that question tho \u00f0\u009f\u0098\u009e idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512114046799,
+      "content": "the quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512114044891,
+      "content": "the last page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512114040831,
+      "content": "https://eee.uci.edu/17f/18105/Files/Quiz/QUIZ3SOL.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512114034545,
+      "content": "i thought it was assumed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512114006180,
+      "content": "So we don't have a hit time lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512114001338,
+      "content": "They didn't give us CPI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113986454,
+      "content": "wait how",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113957425,
+      "content": "Wait this question is different than ours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113507813,
+      "content": "lmaoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113449489,
+      "content": "they always use that to write notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113445245,
+      "content": "ur a professor now haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113441885,
+      "content": "how much did it cost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113439948,
+      "content": "yo your surface is hella clutch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113402616,
+      "content": "idk if its right tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113389330,
+      "content": "this is what i donlol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113378541,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/photos/24257557_474080029653693_1927761456_n_474080029653693.png",
+          "creation_timestamp": 1512113378
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113304811,
+      "content": "nah i didn't do that one can you send me ur answers tho im desperate af to finish this assignment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113229695,
+      "content": "Did you finish 2? Wanna compare answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512113128625,
+      "content": "Oh okay ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113015616,
+      "content": "20 is from the question \"Miss penalty is 20 x B cycles\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512113001660,
+      "content": "20 * 8\n20 * 16\n20 * 32\n...\netc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112987037,
+      "content": "okay so its",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112938418,
+      "content": "wait lemme see if one of my theories turn out to be correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112806043,
+      "content": "How did they get the latency?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112756254,
+      "content": "i thought you said on what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112753142,
+      "content": "oh nevermind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112752666,
+      "content": "Lmao ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112746642,
+      "content": "in case you ddin't have chegg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112743722,
+      "content": "its on chegg i just saved the pdf for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112734715,
+      "content": "Oh what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112698287,
+      "content": "Danny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/files/CacheBlockSizeBCanAffectBothMissRateAn_Chegg_1501853669890173.pdf",
+          "creation_timestamp": 1512112697
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112691238,
+      "content": "also i found this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112653733,
+      "content": "How do you turn cycle time to cycles LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112639263,
+      "content": "hit time determines one cycle time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112632849,
+      "content": "wait yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112571657,
+      "content": "Hold on ima get back into this hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512112563362,
+      "content": "I don\u00e2\u0080\u0099t know about that..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112421584,
+      "content": "Can we assume that hit time determines the cycle time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512112374253,
+      "content": "For number 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512111568229,
+      "content": "Same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512111545169,
+      "content": "i have 2/3/5 left to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512111534570,
+      "content": "its so unappealing and boring",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512111528333,
+      "content": "Yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512111522029,
+      "content": "im pretty disgusted at this homework lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512111514326,
+      "content": "bro ima be honest with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512111477740,
+      "content": "Allll nighter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512111473513,
+      "content": "I didn't finish it yet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512108916218,
+      "content": "which cache did you think is most optimal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512108907761,
+      "content": "so like for 1d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512108905673,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512104476501,
+      "content": "Idk lpl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512104469299,
+      "content": "Yo what\u00e2\u0080\u0099s the answer for 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512103573162,
+      "content": "not yet mang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512103049538,
+      "content": "Did you solve number 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1512095187024,
+      "content": "His name is Preet but if you wanna find him on Facebook his name is Manpreet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512095004510,
+      "content": "What's your roommates name?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511920080560,
+      "content": "aw man :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511920069647,
+      "content": "No :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511920061611,
+      "content": "do you or any of your friends have screenshts of the quiz by any chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511903093534,
+      "content": "Ooo ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511902024511,
+      "content": "Danny sent some attachments.",
+      "files": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/files/flexduino_coordinates_1499409350134605.py",
+          "creation_timestamp": 1511902023
+        },
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/files/flexduino_servo_control_both_1499409353467938.py",
+          "creation_timestamp": 1511902023
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511896907277,
+      "content": "Kk ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511896891623,
+      "content": "I can send it to you once I get to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511896880240,
+      "content": "What I mean I didn\u00e2\u0080\u0099t add it to mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511896878357,
+      "content": "Wait where can I get the source code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511896860126,
+      "content": "Makeover didn\u00e2\u0080\u0099t add t to mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511896848269,
+      "content": "Yeah go ahead bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511890969388,
+      "content": "i wanna add it to mine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511890965255,
+      "content": "did you add the source code for our scout car to your github?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511856942121,
+      "content": "Helllll yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511856883007,
+      "content": "Danny sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/DannyNguyen_h9P9Ocyjng/gifs/23735824_493019861081314_944009278807605248_n_1498728366869370.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511856869460,
+      "content": "youre a god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511856866762,
+      "content": "IS YOUR FACEBOOK NAME REALLY JUJU STINLEY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511856858671,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Danny Nguyen",
+      "timestamp_ms": 1511856836295,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511850739333,
+      "content": "You added Danny Nguyen on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Danny Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DannyNguyen_h9P9Ocyjng"
+}

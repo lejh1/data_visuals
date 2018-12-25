@@ -1,0 +1,815 @@
+{
+  "participants": [
+    {
+      "name": "Julia Wong"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1491872747332,
+      "content": "Good luck!\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491872521539,
+      "content": "Ooo okay cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1491872509522,
+      "content": "I think I paid like $3 something for 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491872491599,
+      "content": "For how much lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1491872483640,
+      "content": "Haha ohh we ran all over campus looking for paper but ended up buying it from the hill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491872436794,
+      "content": "Where'd you get that poster paper you used for the rush week signs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1491871530446,
+      "content": "Help with what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491870434976,
+      "content": "Hi help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486325675982,
+      "content": "The video chat ended.",
+      "call_duration": 3549,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486322106480,
+      "content": "Imma call you LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486322099304,
+      "content": "I wanna be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486322089465,
+      "content": "Yep we're about to make them rn!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486322089161,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486322086001,
+      "content": "Rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486321973312,
+      "content": "Are you guys doing smoothie bowls?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486256874593,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486255040781,
+      "content": "Yea!! I'll go!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486255036154,
+      "content": "\u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486255028113,
+      "content": "It's ok, we'll do it another time ahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486255005984,
+      "content": "Sad face",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486255003717,
+      "content": "Julia sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JuliaWong_hdTix_HO1Q/photos/16523893_957290117704047_1672224681_o_957290117704047.jpg",
+          "creation_timestamp": 1486255002
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486254725917,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486254724707,
+      "content": "I have work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486254722152,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486254653937,
+      "content": "Heyy Justin, we're going to make smoothie bowls tomorrow at 11. Be there or be square\u00f0\u009f\u0098\u009b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481163280506,
+      "content": "Me too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481162900197,
+      "content": "Okay! Imma leave rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481162893307,
+      "content": "Ya sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481162890818,
+      "content": "Do you know where that s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481162885935,
+      "content": "Uh meet you at humanities bridge?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481162876161,
+      "content": "Mesa court towers, playa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481162874095,
+      "content": "Towers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481162865827,
+      "content": "Where do you live?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481162818971,
+      "content": "Ok! I can meet you now, where at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481161660435,
+      "content": "Let me know and I can meet you halfway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481161653198,
+      "content": "Yea I am!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481161586975,
+      "content": "I can walk over soon, are you still at Ayala?\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481161548700,
+      "content": "Yeah sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481160323553,
+      "content": "when do you wanna meet up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481160316060,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481160314817,
+      "content": "can i have acouple pieces of paper !! <#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481159375625,
+      "content": "Yeah I have some!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481158651018,
+      "content": "Hey do you have printer paper?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481133090537,
+      "content": "Alrighty sounds good\u00f0\u009f\u0098\u009b\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481133057065,
+      "content": "You can pay a dollar back later LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481133049598,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481133035838,
+      "content": "Otherwise I have a 10 and $2 and I can pay you back another dollar later LOLS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481133017007,
+      "content": "Also I have like a 10 and a 5, so you have change?\u00f0\u009f\u0098\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132996530,
+      "content": "Julia sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47220252_1134362596737997_4699383456700825600_n_144885185685748.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132985570,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10540963_823256757693302_1360304516_n_823256754359969.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132956094,
+      "content": "Julia sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851580_555288677892320_1185337434_n_554423801312141.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132951983,
+      "content": "I'll meet you halfway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132950001,
+      "content": "It's ok, I need the exercise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132947044,
+      "content": "Wait don't you live in the towers lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132926362,
+      "content": "Ahhh man Ayala's so far\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132892018,
+      "content": "And okay!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132887785,
+      "content": "Wait sike I'll be at Ayala LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132432127,
+      "content": "Yeah that works! And I'll get my pencil back then too\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481132329714,
+      "content": "Okay! I'll be at gateway around 6ish if that works for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481132261083,
+      "content": "Hey Justin, I can come find you today and pay you back\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480993509803,
+      "content": "Okay!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480992136553,
+      "content": "No problem, You can just give it back the next time I see you\u00f0\u009f\u0098\u009a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480990354820,
+      "content": "Thank you for the pencil \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f how can I return it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480962789285,
+      "content": "Julia sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47227395_1134363926737864_1577375903946637312_n_144885045685762.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480960658354,
+      "content": "Hell YEA we are \u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480960065915,
+      "content": "Yaas we cute\u00f0\u009f\u0098\u009b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480959101027,
+      "content": "HAHAHA these are hella cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480928012347,
+      "content": "Julia sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JuliaWong_hdTix_HO1Q/photos/15302331_904965526269840_1133762236_o_904965526269840.jpg",
+          "creation_timestamp": 1480928011
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480927997928,
+      "content": "Julia sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JuliaWong_hdTix_HO1Q/photos/15302490_904965482936511_915389468_o_904965482936511.jpg",
+          "creation_timestamp": 1480927996
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478835853169,
+      "content": "Hahaha I gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835850532,
+      "content": "Oh wait o have extras nvm LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835845075,
+      "content": "Don't lose it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835841962,
+      "content": "For now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835839043,
+      "content": "I'm good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835837693,
+      "content": "Nah for later hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478835806205,
+      "content": "Are you doing an interview?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478835690564,
+      "content": "Frick I left\u00f0\u009f\u0098\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478835638337,
+      "content": "I need my sheet hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827442743,
+      "content": "lol that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827436662,
+      "content": "We just had to move because Kenny was illegally parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827423862,
+      "content": "No worries!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827419721,
+      "content": "So so sorry!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827416371,
+      "content": "That's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827413143,
+      "content": "Okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827382362,
+      "content": "In a handicap space lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827374826,
+      "content": "Actually we're inside the student center parking lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827317986,
+      "content": "Ok! We'll just wait here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827268609,
+      "content": "So I'll be right there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827264620,
+      "content": "When I get off work I'll be at the student center",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827257221,
+      "content": "My supervisors are taking their sweet ass time sending my shift replacement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827238440,
+      "content": "Kenny said he's almost here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827232088,
+      "content": "Where are you at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827217686,
+      "content": "Hopefully I can beat him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827212580,
+      "content": "Okay cool lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827205979,
+      "content": "There's traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827205821,
+      "content": "No he's not here yet!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827189582,
+      "content": "Kenny is there too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827186515,
+      "content": "Lol just leave I think we have enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827173363,
+      "content": "Drop off zone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478827172454,
+      "content": "Ok, we're just waiting by the student center",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827158286,
+      "content": "Do we have enough people if I don't go?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478827148139,
+      "content": "I'm gonna be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478826923431,
+      "content": "I'm coming!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478826330667,
+      "content": "Wya?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478804545867,
+      "content": "Ok sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478804502088,
+      "content": "Um around 5:10ish!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478804486996,
+      "content": "Ok thank you! What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478803786730,
+      "content": "Meet at student center!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478803338035,
+      "content": "\u00f0\u009f\u0099\u0083\u00f0\u009f\u0099\u0083\u00f0\u009f\u0099\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478803026904,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478802108045,
+      "content": "Yes please!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478799541929,
+      "content": "You still need a ride???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478799537610,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478646195228,
+      "content": "For sure\u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478646188017,
+      "content": "Perfect thanks\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478646158409,
+      "content": "Bring us smoothies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478646154040,
+      "content": "I'll give you the details later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478646146577,
+      "content": "Lol yea we can take you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478646130395,
+      "content": "Haha ok, thanks friend\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478646063495,
+      "content": "Yea we can take you lemme ask Kenny tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478646056016,
+      "content": "Like 5:20 ish lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478645821277,
+      "content": "What time are you guys leaving?\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478645808928,
+      "content": "\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478645726677,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478645724955,
+      "content": "Hmmmm idk we don't like freshmen....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478645665767,
+      "content": "Do you think I can get a ride with you guys? My class doesn't end until 4:50\u00f0\u009f\u0098\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478645561878,
+      "content": "Yesss I'm pretty sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1478645550772,
+      "content": "Hey Justin, are you getting a ride with Kenny to the Anaheim packing district on Thursday?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Julia Wong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JuliaWong_hdTix_HO1Q"
+}

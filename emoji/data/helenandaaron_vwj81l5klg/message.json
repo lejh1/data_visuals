@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Helen Tran"
+    },
+    {
+      "name": "Aaron Buzon"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477869876884,
+      "content": "Oh lol nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477869413230,
+      "content": "bc they kicked out the pledges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477869406862,
+      "content": "jessica said it was only 15min when she went",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477869341616,
+      "content": "Okay hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477868981663,
+      "content": "we can pretend to go into a store or something lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477868965580,
+      "content": "YOLO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477868964389,
+      "content": "ima park at utc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477868961108,
+      "content": "soo excomm shouldnt take that long according to some pledges that went",
+      "type": "Generic"
+    }
+  ],
+  "title": "Helen and Aaron",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/HelenandAaron_vWJ81l5KLg"
+}

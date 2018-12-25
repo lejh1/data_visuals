@@ -1,0 +1,3513 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Gonzalez"
+    },
+    {
+      "name": "Rachael Guzman"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Adam Ycneda"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1503989568445,
+      "content": "Rachael: \u00f0\u009f\u0098\u0087 or \u00f0\u009f\u0098\u0088?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1501819477867,
+      "content": "Justin hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1500928784292,
+      "content": "82% left on Ethereal Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1500925482699,
+      "content": "Colin defeated Hyper Blinding Monster King in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1500923683735,
+      "content": "34% left on Hyper Blinding Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1500842339395,
+      "content": "Adam invited you to play EverWing",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1500273866542,
+      "content": "Adam hatched a Legendary Xiaolong in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499748412076,
+      "content": "Rachael is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499740951132,
+      "content": "It's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499738444304,
+      "content": "Bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499738442969,
+      "content": "I gotta pack, going home for the rest of the week bn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499738420824,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499738419276,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499738397956,
+      "content": "!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499738395627,
+      "content": "Feel better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499738390840,
+      "content": "That's Gucci BB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499738378627,
+      "content": "Im feelin out of it today maybe another day kg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499736049224,
+      "content": "Or we can do it a different day like tomorrow or Wednesday!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499735766755,
+      "content": "Me 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499735741460,
+      "content": "Down if everyone else is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499735425828,
+      "content": "Just at someone's apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499735398204,
+      "content": "And I gots no money :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499735392525,
+      "content": "Whatcha thinking of? Rose is at work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499735346046,
+      "content": "Y'all wanna hang it when BRANY gets outta class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499711251329,
+      "content": "Rachael was last week's champ in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499669270765,
+      "content": "Rachael hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499669198348,
+      "content": "Rachael hatched a Legendary Unagli in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499669065286,
+      "content": "Rachael hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499668947100,
+      "content": "Rachael hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499667601024,
+      "content": "Colin hatched a Legendary Unagli in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667575755,
+      "content": "Jk it is hiding behind a cloud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667558461,
+      "content": "Whoa the moon is gone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667516164,
+      "content": "Me too XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499667469212,
+      "content": "I know the feeling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499667466641,
+      "content": "Rip Adam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667442756,
+      "content": "I accidentally pressed exit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667414151,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499667341347,
+      "content": "Adam hatched a Legendary Eskari in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666669883,
+      "content": "HAHAHAHA I HAVE NO IDEA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666646999,
+      "content": "How do I use her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666634805,
+      "content": "v expensive but def worth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666630508,
+      "content": "omg how exciting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666477499,
+      "content": "But worth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666470083,
+      "content": "8,000 trophies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666459886,
+      "content": "I bought 3 extra chests to get her tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666442214,
+      "content": "Meeeeeeeeeee!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666348205,
+      "content": "did anybody get arcana????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666335978,
+      "content": "1% left on Blinding Ice Queen after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499666328153,
+      "content": "That was anticlimactic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499666272733,
+      "content": "Rachael hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499666269005,
+      "content": "Justin hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666266948,
+      "content": "Michelle hatched a Legendary Minya in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666232604,
+      "content": "Michelle hatched a Legendary Sunn in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499666231484,
+      "content": "Justin hatched a Legendary Tsijari in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499666171198,
+      "content": "Michelle defeated Blinding Ice Queen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499662255833,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499652538053,
+      "content": "15 hours left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499652531557,
+      "content": "We so close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499650204112,
+      "content": "\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499649726326,
+      "content": "Adam's phone is deceased",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499649595952,
+      "content": "I forgot you don't have iPhone anymore \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499649585252,
+      "content": "Rip no I just realized I forgot it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499648100895,
+      "content": "Do you have the android cable??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499648085813,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499648079672,
+      "content": "I have portable charger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499648075280,
+      "content": "I'm coming @Adam Yoneda !!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499647950594,
+      "content": "My phone is gonna die soon and im at disneyland all day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499647949012,
+      "content": "Wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499647935137,
+      "content": "Guys we have a problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499627686860,
+      "content": "Yes please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499627466432,
+      "content": "We have less than 24 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499627461586,
+      "content": "Are we gonna beat it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499625368250,
+      "content": "The boss has 8% chance colin!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499622814669,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499617923937,
+      "content": "I really thought if I believed hard enough, that some magic would happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499617887295,
+      "content": "Yea LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499617195852,
+      "content": "Bc its epic chest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499617195468,
+      "content": "Isnt it like a 4% chance to get jade from that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499616713251,
+      "content": "I retire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499616701920,
+      "content": "Fml. I did the jade challenge for the epic chest thing...and I got fucking 97,000 coins...and I spent them on golden eggs and only got rares",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499579029293,
+      "content": "Justin hatched a Legendary Lethio in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499578967316,
+      "content": "Michelle hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499578948049,
+      "content": "Michelle hatched a Legendary Xiaolong in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499578884686,
+      "content": "Michelle hatched a Legendary Unagli in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499576420120,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499572696724,
+      "content": "39% left on Blinding Ice Queen after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499554959383,
+      "content": "Come on guys 50% leftttttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499495002824,
+      "content": "You right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499494837389,
+      "content": "i just have more time to fight her since i'm a loser \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499494820193,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499494656498,
+      "content": "We are all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499494561532,
+      "content": "thanks thanks i'm trying to put in work since this bitch is SO DIFFICULT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499494350523,
+      "content": "63% left on Blinding Ice Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499494172124,
+      "content": "@Rachael Guzman nice nice with that first max chests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499472879439,
+      "content": "Wtff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499472864365,
+      "content": "my 550k is without trophies (:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499472856759,
+      "content": "Hellll yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499472844572,
+      "content": "wait r we doing the boss? i can get some pretty good damage on this dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499458465871,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499445679629,
+      "content": "Colin hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499445285857,
+      "content": "Agreed hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499445271611,
+      "content": "Way too hard style",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499445267432,
+      "content": "I know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499445258188,
+      "content": "This boss is hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499443918489,
+      "content": "It's okay KG, we the underdogs but we shall rise!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499443860773,
+      "content": "Smae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499442508611,
+      "content": "I've been trying but I do shitty damage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499441907498,
+      "content": "Im pretty sure we can do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499441899204,
+      "content": "R we tryna kill dis b0ss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499398799983,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499370686581,
+      "content": "Rachael hatched a Legendary Furlix in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499369365781,
+      "content": "that was so hard tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499369330334,
+      "content": "Looool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499369319073,
+      "content": "Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499369317503,
+      "content": "what's up bitche$$$$$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499369303768,
+      "content": "Rachael set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499369295234,
+      "content": "Rachael passed Justin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499367379483,
+      "content": "Michelle hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499362789320,
+      "content": "Justin hatched a Legendary Sunn in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499357587670,
+      "content": "Lol i was like how",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499356285777,
+      "content": "@Adam Yoneda i hella used beams btw",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Colin Ku"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499354454550,
+      "content": "Rachael hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499354442172,
+      "content": "Rachael hatched a Legendary Unagli in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499354302608,
+      "content": "Rachael hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499354293894,
+      "content": "Rachael hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499353890285,
+      "content": "Last boss and we have 4 days LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499353883894,
+      "content": "Let's so this boiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499353492760,
+      "content": "i'm not down to defeat this hardcore bitch y'all \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499353471193,
+      "content": "2% left on Tiny Dark Monster King after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499352510668,
+      "content": "Colin hatched a Legendary Kit in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499352272852,
+      "content": "Adam hatched a Legendary Sunn in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499352119108,
+      "content": "Rachael defeated Tiny Dark Monster King in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499347851320,
+      "content": "6% left on Tiny Dark Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499346667666,
+      "content": "11% left on Tiny Dark Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499346157466,
+      "content": "I don't appreciate that you're assuming.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499332307265,
+      "content": "Yall be using beams eh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499331014305,
+      "content": "20% left on Tiny Dark Monster King after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499330826778,
+      "content": "21% left on Tiny Dark Monster King after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499328601834,
+      "content": "32% left on Tiny Dark Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499326563456,
+      "content": "44% left on Tiny Dark Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499326082970,
+      "content": "46% left on Tiny Dark Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499326074016,
+      "content": "46% left on Tiny Dark Monster King after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499324994596,
+      "content": "52% left on Tiny Dark Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499324299742,
+      "content": "76% left on Tiny Dark Monster King after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499323138446,
+      "content": "62% left on Tiny Dark Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499318116434,
+      "content": "Adam hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499315764883,
+      "content": "81% left on Tiny Dark Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499315301428,
+      "content": "Michelle hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499315296887,
+      "content": "92% left on Tiny Dark Monster King after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499315242242,
+      "content": "93% left on Tiny Dark Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499315010572,
+      "content": "Colin hatched a Legendary Sunn in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499314944433,
+      "content": "Justin hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499314916970,
+      "content": "Justin defeated Tiny Molten Spike in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499313071272,
+      "content": "13% left on Tiny Molten Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499311950278,
+      "content": "Colin hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499311912990,
+      "content": "Colin hatched a Legendary Xiaolong in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499311549681,
+      "content": "23% left on Tiny Molten Spike after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499311540249,
+      "content": "23% left on Tiny Molten Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499309450907,
+      "content": "33% left on Tiny Molten Spike after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499309436913,
+      "content": "34% left on Tiny Molten Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499308811230,
+      "content": "44% left on Tiny Molten Spike after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499308204286,
+      "content": "54% left on Tiny Molten Spike after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499305390205,
+      "content": "84% left on Tiny Molten Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499296019119,
+      "content": "69% left on Tiny Molten Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499292874983,
+      "content": "79% left on Tiny Molten Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291954353,
+      "content": "Michelle hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291860212,
+      "content": "Justin hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291814746,
+      "content": "Michelle hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291711319,
+      "content": "Justin hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291704253,
+      "content": "Oh they only come from the eggs in the raid chests, not the eggs from the store",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291690233,
+      "content": "Justin hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291618537,
+      "content": "Im confused because i got the raid legendary tsijari but i thought we were supposed to complete the raid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291540078,
+      "content": "Michelle hatched a Legendary Lethio in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291534327,
+      "content": ".-. Its okay michelle, i clicked to open one more and was gonna pick the chest she was in and then i didnt, but she was in that chest  again ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499291531275,
+      "content": "Damn your life sucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499291516587,
+      "content": "how'd y'all get so many legendaries omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499291507061,
+      "content": "omg i would've died",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291483584,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291483331,
+      "content": "I'm so dumb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291479638,
+      "content": "I wanna kms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291470720,
+      "content": "I was gonna pay to open more chests since I have 20,000 trophies but clicked exit on accident",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291459163,
+      "content": "Justin hatched a Legendary Tsijari in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291443205,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291438593,
+      "content": "Justin hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291422233,
+      "content": "Michelle hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499291403222,
+      "content": "Justin hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499291400858,
+      "content": "Michelle hatched a Legendary Mara in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499291357747,
+      "content": "she's cool but idk how to use her :((( gotta practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291298965,
+      "content": "how is she (:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291293754,
+      "content": "NICE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499291103468,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499291032364,
+      "content": "Anyone got arcana?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290851550,
+      "content": "Adam hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290822815,
+      "content": "Adam hatched a Legendary Unagli in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290813629,
+      "content": "Adam hatched a Legendary Mara in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499290764901,
+      "content": "\u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290748143,
+      "content": "Adam hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499290719990,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290708570,
+      "content": "I didnt get her ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290670403,
+      "content": "Adam hatched a Legendary Tsijari in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499290519592,
+      "content": "Rekt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499290501118,
+      "content": "Justin defeated Ancient Dark Ice Queen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499290044779,
+      "content": "U will be dethroned shortly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499289864254,
+      "content": "Had to assert my dominance as best everwing player",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499289845812,
+      "content": "Wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499289821134,
+      "content": "You removed Valerie Monroy from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Valerie Monroy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499289808728,
+      "content": "You added Valerie Monroy.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Valerie Monroy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287900543,
+      "content": "Y'all savage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287758133,
+      "content": "You can't just leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287754071,
+      "content": "This like the mafia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287746230,
+      "content": "Invite her so we can kick her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287728410,
+      "content": "Rip valerie you will be remembered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287702328,
+      "content": "Valerie Monroy left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Valerie Monroy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287693783,
+      "content": "So it looks like we're the cool kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287685318,
+      "content": "Kevin kick her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287684841,
+      "content": "Adam sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47253662_1134370700070520_4775670764596625408_n_144885159019084.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287670234,
+      "content": "Damn boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287669064,
+      "content": "yeah haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287659242,
+      "content": "WHAT!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287657425,
+      "content": "Can I leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287655044,
+      "content": "Smh kevin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287650122,
+      "content": "Kevin just added me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287645766,
+      "content": "I actually didn't want to play this game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287643122,
+      "content": "I just play every 30 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287635674,
+      "content": "I average 70 grand too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287634319,
+      "content": "Everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287625984,
+      "content": "I only got that score bc trophies LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287625270,
+      "content": "Smae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287616396,
+      "content": "Bruh I avg like 70000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287605498,
+      "content": "RIGHT!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287598293,
+      "content": "How tf do you guys do so much damage?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287579334,
+      "content": "Sorry but everwing is life",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287556486,
+      "content": "It's like farmville but war",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287548602,
+      "content": "Battle nations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287525455,
+      "content": "That game takes too much skill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499287502464,
+      "content": "Let's play Farmville",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499287442560,
+      "content": "This is the end",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287429697,
+      "content": "WTF THE CALLOUTS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499287416779,
+      "content": "Rip @Valerie Monroy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287234180,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499287201984,
+      "content": "the one to contribute the least takes a shot",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kevin Gonzalez"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Adam Ycneda"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Colin Ku"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499287184032,
+      "content": "She's lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499287157390,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499287128331,
+      "content": "Ya michelle, not enough work being put in smh \u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0091\u008e\u00f0\u009f\u0091\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286962140,
+      "content": "My boy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Colin Ku"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499286957122,
+      "content": "6 and a half",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499286954297,
+      "content": "Almost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286943702,
+      "content": "What are you? 7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499286935138,
+      "content": "Stranger danger man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286914485,
+      "content": "Cant we all just be friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286908921,
+      "content": "You're savage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499286829504,
+      "content": "I would kick her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499286826291,
+      "content": "I don't know her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286811232,
+      "content": "Bruh they wouldnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286784782,
+      "content": "She has work!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499286784495,
+      "content": "that was me before! but then these fools threatened to kick me out \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286771184,
+      "content": "Michelle puts in work every now and then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286757820,
+      "content": "Bruhhhh im lucky if I get 60000",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Colin Ku"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499286742577,
+      "content": "michelle isn't contributing enough i vote we kick her out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499286737185,
+      "content": "Y'all too good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499286732061,
+      "content": "i'm getting a little better been dishing 200,000 ayo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499286724319,
+      "content": "\u00f0\u009f\u0098\u008e\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499286707569,
+      "content": "Rachael u put it in hella work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499286694717,
+      "content": "HOLY SHIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499281442692,
+      "content": "slowly but surely \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499280251426,
+      "content": "lets get this boss friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499267198212,
+      "content": "Adam set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499238244500,
+      "content": "38% left on Ancient Dark Ice Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499235004573,
+      "content": "Oh okay nvm carry on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499234989602,
+      "content": "I'm level 2 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499234977567,
+      "content": "We don't allow level 1s in this chat...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499234967957,
+      "content": "@Valerie get your shit together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1499234891840,
+      "content": "Valerie set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499234873777,
+      "content": "45% left on Ancient Dark Ice Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499234867038,
+      "content": "I better see some damage or y'all gonna get booted \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499234301681,
+      "content": "@Valerie will be assisting us!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499234288170,
+      "content": "Kevin Gonzalez added Valerie Monroy.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Valerie Monroy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499234214552,
+      "content": "I just suck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499234211835,
+      "content": "It's. It that I don't participate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499234172140,
+      "content": "46% left on Ancient Dark Ice Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499232749133,
+      "content": "52% left on Ancient Dark Ice Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499227620201,
+      "content": "Jk KG <3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499227484021,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499227449082,
+      "content": "If I say yes, would you participate more?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499227253313,
+      "content": "Do we get a fairy if we beat her?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499219418504,
+      "content": "61% left on Ancient Dark Ice Queen after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499217384424,
+      "content": "Michelle passed Colin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499217000793,
+      "content": "Justin set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499216952907,
+      "content": "Justin passed Adam in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499216478165,
+      "content": "Justin passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499214597470,
+      "content": "Rachael hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499198532485,
+      "content": "80% left on Ancient Dark Ice Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499187325805,
+      "content": "Michelle hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499187168567,
+      "content": "Justin hatched a Legendary Lethio in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499186994177,
+      "content": "awh ye",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499186988646,
+      "content": "Yes \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499186985889,
+      "content": "Hellll yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499186977831,
+      "content": "r we gonna try to kill dis boss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499186341464,
+      "content": "Michelle hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499184616263,
+      "content": "Was that Brany playing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499183156326,
+      "content": "fasho fasho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499183126135,
+      "content": "give me till tomorrow friend i gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499183109749,
+      "content": "o shit waddup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499183097073,
+      "content": "Adam set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499183088635,
+      "content": "Adam passed Rachael in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499181098517,
+      "content": "Kevin hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499176344482,
+      "content": "Colin hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499176323604,
+      "content": "Colin defeated Giant Blinding Fluffy in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499174379053,
+      "content": "4% left on Giant Blinding Fluffy after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499174186496,
+      "content": "Colin passed Adam in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499173559078,
+      "content": "Colin passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499156702370,
+      "content": "16% left on Giant Blinding Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499155677991,
+      "content": "18% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499154027351,
+      "content": "24% left on Giant Blinding Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499153999281,
+      "content": "Kevin set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499153859999,
+      "content": "25% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499150174943,
+      "content": "37% left on Giant Blinding Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499150099590,
+      "content": "39% left on Giant Blinding Fluffy after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499150079315,
+      "content": "39% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499146884417,
+      "content": "Hell ya man all about those Max chests",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Kevin Gonzalez"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Colin Ku"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499146839204,
+      "content": "52% left on Giant Blinding Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499146834129,
+      "content": "We are putting in some hard ass work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499146819071,
+      "content": "51% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499146659297,
+      "content": "54% left on Giant Blinding Fluffy after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499146534890,
+      "content": "58% left on Giant Blinding Fluffy after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499146465168,
+      "content": "58% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499144633235,
+      "content": "Michelle hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499144559003,
+      "content": "71% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499144339585,
+      "content": "69% left on Giant Blinding Fluffy after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499143853268,
+      "content": "Colin: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499141478591,
+      "content": "84% left on Giant Blinding Fluffy after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499141443994,
+      "content": "90% left on Giant Blinding Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499141044708,
+      "content": "41% left on Tiny Monster King after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499140989955,
+      "content": "91% left on Giant Blinding Fluffy after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499140875396,
+      "content": "91% left on Giant Blinding Fluffy after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499140589370,
+      "content": "1% left on Tiny Monster King after Colin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499140372034,
+      "content": "Rachael defeated Tiny Monster King in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499140356052,
+      "content": "Justin defeated Tiny Monster King in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499140335880,
+      "content": "Colin defeated Tiny Monster King in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499140296016,
+      "content": "22% left on Tiny Monster King after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499138313369,
+      "content": "Michelle defeated Overlord Monster King of Doom in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499138060490,
+      "content": "45% left on Tiny Monster King after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499137905070,
+      "content": "Kevin hatched a Legendary Ursus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499137816735,
+      "content": "49% left on Tiny Monster King after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499137810989,
+      "content": "64% left on Tiny Monster King after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499137435375,
+      "content": "Adam hatched a Legendary Coqi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499137249563,
+      "content": "Michelle hatched a Legendary Kit in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499137222277,
+      "content": "Michelle defeated Tiny Molten Monster Queen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499135482621,
+      "content": "LOL i was just tryna be helpful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499135468692,
+      "content": "thanks for leaving me 18% bitches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499133821833,
+      "content": "19% left on Tiny Molten Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499129494939,
+      "content": "everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499129492852,
+      "content": "Savage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499129466935,
+      "content": "Nah it's chill bb \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499128941973,
+      "content": "I shall stop lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499128937301,
+      "content": "25% left on Tiny Molten Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499128929471,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad I want Max chests but I am at work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499128790007,
+      "content": "27% left on Tiny Molten Monster Queen after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499128414505,
+      "content": "47% left on Tiny Molten Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499125319284,
+      "content": "51% left on Tiny Molten Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499121973933,
+      "content": "78% left on Tiny Molten Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499120072244,
+      "content": "Rachael hatched a Legendary Xiaolong in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499119979940,
+      "content": "85% left on Tiny Molten Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499119598289,
+      "content": "94% left on Tiny Molten Monster Queen after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499119347018,
+      "content": "Justin hatched a Legendary Furlix in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499119323987,
+      "content": "Adam hatched a Legendary Coqi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499119299187,
+      "content": "Adam hatched a Legendary Kit in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499119271668,
+      "content": "Adam defeated Overlord Monster King of Doom in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499118189280,
+      "content": "17% left on Overlord Monster King of Doom after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499117835465,
+      "content": "27% left on Overlord Monster King of Doom after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499117474607,
+      "content": "23% left on Overlord Monster King of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499117276005,
+      "content": "Adam passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1499117067195,
+      "content": "Kevin passed Michelle in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499116716647,
+      "content": "34% left on Overlord Monster King of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499115536445,
+      "content": "48% left on Overlord Monster King of Doom after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499114659316,
+      "content": "47% left on Overlord Monster King of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499114579014,
+      "content": "Justin hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499113713018,
+      "content": "omg such hate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499113686979,
+      "content": "69% left on Overlord Monster King of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499111082061,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499111073579,
+      "content": "@Kevin Gonzalez\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1499110991885,
+      "content": "Brany Yourk left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Brany Yourk"
+        }
+      ]
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499110990408,
+      "content": "Michelle named the group Everwing pros only.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499110977872,
+      "content": "\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1499110976903,
+      "content": "Rosalio Cruz left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rosalio Cruz"
+        }
+      ]
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499110953195,
+      "content": "\u00f0\u009f\u0098\u00a4\u00f0\u009f\u0098\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499110944686,
+      "content": "This is for real everwing players only. If you don't fight the boss and do good damage within 3 hours you are getting booted from the chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1499110683498,
+      "content": "Rosalio hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499110337696,
+      "content": "96% left on Overlord Monster King of Doom after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499110216857,
+      "content": "82% left on Overlord Monster King of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499108641580,
+      "content": "2% left on Mildred after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499107974534,
+      "content": "Rachael hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499107453540,
+      "content": "Michelle hatched a Legendary Minya in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499107410166,
+      "content": "Adam hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499107369511,
+      "content": "Adam defeated Mildred in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499107350695,
+      "content": "Michelle defeated Mildred in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499107082415,
+      "content": "50% left on Mildred after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499106870497,
+      "content": "Adam hatched a Legendary Yaen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499106769961,
+      "content": "Justin hatched a Legendary Kit in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499106687004,
+      "content": "Rachael defeated Ancient Frozen Fluffy in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499106686386,
+      "content": "Adam defeated Ancient Frozen Fluffy in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499106282256,
+      "content": "8% left on Ancient Frozen Fluffy after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499106266718,
+      "content": "35% left on Ancient Frozen Fluffy after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499106263169,
+      "content": "5% left on Ancient Frozen Fluffy after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1499106117284,
+      "content": "Colin Ku added Rosalio Cruz.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Rosalio Cruz"
+        }
+      ]
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499105982403,
+      "content": "Michelle started a weekly tournament in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499105275279,
+      "content": "You added Colin Ku.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Colin Ku"
+        }
+      ]
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499104882714,
+      "content": "Rachael was last week's champ in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1499063265427,
+      "content": "Adam hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499063227640,
+      "content": "Rachael hatched a Legendary Furlix in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499061402077,
+      "content": "Michelle hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499061353156,
+      "content": "Michelle hatched a Legendary Coqi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1499061345747,
+      "content": "Justin hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499061341243,
+      "content": "Michelle hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1499060489684,
+      "content": "Rachael claimed the First Place Bonus in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1499028343062,
+      "content": "Michelle hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498956569126,
+      "content": "QUEEN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498955726055,
+      "content": "You have been dethroned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498955587318,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498944397087,
+      "content": "Rachael passed Adam in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498933264893,
+      "content": "omg why are those made for michelle",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kevin Gonzalez"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498933257123,
+      "content": "Rachael sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11891337_523675281119497_1161028595_n_523675277786164.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498933226268,
+      "content": "Brany sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734322_1529175800666004_970311349_n_1529175793999338.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498933207202,
+      "content": "Rachael sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47270772_1134366326737624_8796367784150827008_n_144885349019065.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498928866647,
+      "content": "Adam sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47185151_1134376530069937_6955447657514926080_n_144884992352434.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498928692748,
+      "content": "She's not wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498928658345,
+      "content": "OMG you're a savage hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498928646983,
+      "content": "it's okay we all know branys a bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498928628943,
+      "content": "\u00f0\u009f\u0098\u00a2\u00f0\u009f\u0092\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498928622800,
+      "content": "I cri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498928609169,
+      "content": "brany said \"i hate u\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498928488174,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498928485347,
+      "content": "I would but like I need to be back at my apartment at 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498928446858,
+      "content": "is anybody alive and want to go w brany and i to mcdonald's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498884719421,
+      "content": "Rachael hatched a Legendary Avi in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498874151119,
+      "content": "Adam hatched a Legendary Mara in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498871761227,
+      "content": "This b0ss is bullshit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498834465352,
+      "content": "67% left on Dark Spike after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498806238347,
+      "content": "No \u00f0\u009f\u0098\u009e",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Adam Ycneda"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498806179377,
+      "content": "Justin did u get jade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498806078124,
+      "content": "Adam: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498806061549,
+      "content": "Swag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498805999108,
+      "content": "Justin defeated Dark Spike in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498805950282,
+      "content": "Adam defeated Dark Spike in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498804848508,
+      "content": "4% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498804163582,
+      "content": "Tfw ur restless at night ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498803901877,
+      "content": "11% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498803646034,
+      "content": "15% left on Dark Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498803473590,
+      "content": "17% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498803386588,
+      "content": "Michelle hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498802347290,
+      "content": "30% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498802318520,
+      "content": "29% left on Dark Spike after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498802271981,
+      "content": "Michelle hatched a Legendary Magnis in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498801661891,
+      "content": "49% left on Dark Spike after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498800545850,
+      "content": "6% left on Giant Blinding Mildred after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498799613383,
+      "content": "53% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498796667198,
+      "content": "67% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498796306052,
+      "content": "Fite me noob",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498796289936,
+      "content": "and adam those are fighting words",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498796284032,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498796278341,
+      "content": "all of yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498796276250,
+      "content": "cheaters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498796261313,
+      "content": "LMAO michelle maxed already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498796192756,
+      "content": "How am i trash if im beating you?? \u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498796120464,
+      "content": "adam ur trash stop beating my scores",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498796111016,
+      "content": "Kevin hatched a Legendary Riblets in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498796039679,
+      "content": "74% left on Dark Spike after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498794004889,
+      "content": "Adam hatched a Legendary Mara in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498793938257,
+      "content": "88% left on Dark Spike after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498793922167,
+      "content": "How",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498793918990,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793902280,
+      "content": "LETS GOOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793899515,
+      "content": "Adam set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793890186,
+      "content": "Adam passed Rachael in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793584989,
+      "content": "92% left on Dark Spike after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793162586,
+      "content": "1% left on Giant Blinding Mildred after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498793107622,
+      "content": "Justin hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498793068383,
+      "content": "Adam defeated Giant Blinding Mildred in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498793045803,
+      "content": "Justin defeated Giant Blinding Mildred in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498791827161,
+      "content": "22% left on Giant Blinding Mildred after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498791546199,
+      "content": "37% left on Giant Blinding Mildred after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498784691300,
+      "content": "28% left on Giant Blinding Mildred after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498782684975,
+      "content": "Justin hatched a Legendary Umbra in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498782387913,
+      "content": "Michelle hatched a Legendary Magnis in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498774616968,
+      "content": "47% left on Giant Blinding Mildred after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498765757022,
+      "content": "60% left on Giant Blinding Mildred after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498765184960,
+      "content": "Rachael is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498753788946,
+      "content": "81% left on Giant Blinding Mildred after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498753689880,
+      "content": "76% left on Giant Blinding Mildred after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498753128082,
+      "content": "Adam hatched a Legendary Skout in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498752904781,
+      "content": "Kevin hatched a Legendary Lavabolt in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498750195270,
+      "content": "Rachael hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498750161867,
+      "content": "Rachael defeated Tiny Blinding Monster Queen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498746238708,
+      "content": "5% left on Frozen Fluffy of Doom after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498739287792,
+      "content": "29% left on Tiny Blinding Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498727563993,
+      "content": "55% left on Tiny Blinding Monster Queen after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498727078536,
+      "content": "77% left on Tiny Blinding Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498723482721,
+      "content": "69% left on Tiny Blinding Monster Queen after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498722069167,
+      "content": "91% left on Tiny Blinding Monster Queen after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498721918786,
+      "content": "82% left on Tiny Blinding Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498721886549,
+      "content": "Michelle passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498721740274,
+      "content": "88% left on Tiny Blinding Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498721335394,
+      "content": "Michelle defeated Frozen Fluffy of Doom in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498709878505,
+      "content": "Kevin passed Michelle in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498707339865,
+      "content": "11% left on Frozen Fluffy of Doom after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498707133971,
+      "content": "12% left on Frozen Fluffy of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498704252643,
+      "content": "19% left on Frozen Fluffy of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498694797579,
+      "content": "26% left on Frozen Fluffy of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498693371787,
+      "content": "Rachael is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498689681955,
+      "content": "Rachael hatched a Legendary Magnis in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498675371343,
+      "content": "Adam set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498674347146,
+      "content": "37% left on Frozen Fluffy of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498674287664,
+      "content": "Adam passed Michelle in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498669039073,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498655903916,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498630732482,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498627123366,
+      "content": "Kevin set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498626971971,
+      "content": "Kevin passed Justin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498613871963,
+      "content": "59% left on Frozen Fluffy of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498599281621,
+      "content": "69% left on Frozen Fluffy of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498592305580,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498587288849,
+      "content": "85% left on Frozen Fluffy of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498584601405,
+      "content": "Justin passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498583882136,
+      "content": "Kevin set a new personal best in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498583865725,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498559886786,
+      "content": "Rachael: \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0091\u00be \u00f0\u009f\u0092\u00a5 \u00f0\u009f\u0091\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498547776640,
+      "content": "Michelle passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498537457008,
+      "content": "3% left on Tiny Frozen Monster Queen after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498537410103,
+      "content": "Adam defeated Tiny Frozen Monster Queen in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498533616603,
+      "content": "25% left on Tiny Frozen Monster Queen after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498530211010,
+      "content": "51% left on Tiny Frozen Monster Queen after Rachael's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachael Guzman",
+      "timestamp_ms": 1498528954400,
+      "content": "Rachael passed Kevin in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498528102991,
+      "content": "57% left on Tiny Frozen Monster Queen after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498527636734,
+      "content": "77% left on Tiny Frozen Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498527349477,
+      "content": "81% left on Tiny Frozen Monster Queen after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498526906194,
+      "content": "Adam hatched a Legendary Furlix in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498526707410,
+      "content": "Aw ye time to get sum legendary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498525925803,
+      "content": "Justin hatched a Legendary Kyu in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498525809836,
+      "content": "29% left on Molten Monster King of Doom after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498525295033,
+      "content": "Kevin defeated Molten Monster King of Doom in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498525044204,
+      "content": "Kevin is first place in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498524950277,
+      "content": "Im not doing it lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498524936345,
+      "content": "We so close to max chest lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498524931534,
+      "content": "Let us finish the boss Adam!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498524898189,
+      "content": "4% left on Molten Monster King of Doom after Sokbrany's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498524880836,
+      "content": "Wtf u guys did max chest so fast lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Gonzalez",
+      "timestamp_ms": 1498524860738,
+      "content": "4% left on Molten Monster King of Doom after Kevin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498524804192,
+      "content": "9% left on Molten Monster King of Doom after Adam's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498524594530,
+      "content": "24% left on Molten Monster King of Doom after Michelle's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498524266587,
+      "content": "Sokbrany started a weekly tournament in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brany Yourk",
+      "timestamp_ms": 1498524266050,
+      "content": "Brany invited you to play EverWing",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498524247464,
+      "content": "95% left on Molten Monster King of Doom after Justin's battles in EverWing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1498524147234,
+      "content": "Adam: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498524067245,
+      "content": "Let's beat the boss boiiiiiis",
+      "type": "Generic"
+    }
+  ],
+  "title": "Everwing pros only",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/Everwingprosonly_ZJd8PFVOIg"
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Camille Dayot"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1541568958170,
+      "content": "https://m.youtube.com/watch?v=kcJKuiYuREc",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=kcJKuiYuREc"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520002667986,
+      "content": "Say hi to your new Facebook friend, Camille.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Camille Dayot",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CamilleDayot_TrC68gDkgg"
+}

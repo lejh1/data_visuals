@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Francis Angeles"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1491861798676,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491861020745,
+      "content": "I should write a book called \"how to get lost walking to darth mouth \"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1491860061480,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491859996900,
+      "content": "Do you live in darthmouth?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1491859904322,
+      "content": "Francis: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491859895182,
+      "content": "Soooon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1491859879017,
+      "content": "Francis: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491859863218,
+      "content": "I'm going at 4 cause i have clsss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1491859702709,
+      "content": "When are you guys coming over",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Francis",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandFrancis_4VIkUYDJhg"
+}

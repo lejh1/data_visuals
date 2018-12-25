@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Blake Echt"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495319249724,
+      "content": "Say hi to your new Facebook friend, Blake.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Blake Echt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BlakeEcht_UTOg3cpmPQ"
+}

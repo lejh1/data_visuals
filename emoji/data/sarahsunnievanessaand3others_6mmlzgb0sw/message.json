@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Sarah J Han"
+    },
+    {
+      "name": "Sunnie Mo"
+    },
+    {
+      "name": "Vanessa Maldonado"
+    },
+    {
+      "name": "Gene Gonzalez"
+    },
+    {
+      "name": "Xiaohui Chen"
+    },
+    {
+      "name": "Angelika Buczynski"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vanessa Maldonado",
+      "timestamp_ms": 1496797777663,
+      "content": "Vanessa sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851577_387545831371301_1417255595_n_387545828037968.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496797429719,
+      "content": "Or if you're feeling ambitious you can get it from me at GBM or come to gateway. I'll be here til GBM :) sorry I'm not doing interviews anymore im trash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Angelika Buczynski",
+      "timestamp_ms": 1496797192324,
+      "content": "Angelika Buczynski added Vanessa Maldonado.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Vanessa Maldonado"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496797135051,
+      "content": "HELLLLLO THERE! You 5 plus your president who I am not fb friends with allll share the a common thing. ..You dont have my signature!!!! :o :o So like I have mentioned before, I will be at Cha Night but maybe just for an hour because I am busy. That being I will be there most likely around 8:30. If this time doesnt work for any of you please let me know ahead of time. Best of luck with your reqs!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Sarah J Han"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gene Gonzalez"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Angelika Buczynski"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Sarah, Sunnie, Vanessa and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/SarahSunnieVanessaand3others_6mMLZGB0Sw"
+}

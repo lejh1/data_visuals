@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Alan Perez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491868190279,
+      "content": "Nah that'll be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491868163908,
+      "content": "Or should I ask Gina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491868152552,
+      "content": "Yeah, both combined. Sorry if that wasn't clear. You think it's a good one then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491868109387,
+      "content": "That could work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491868105537,
+      "content": "So we are turning your booth into the coloring one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491868097557,
+      "content": "Ooooooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491868046256,
+      "content": "The Science of Stress and Relieving it through Coloring, with some coloring sheets that I have and some we'll purchase as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491867949576,
+      "content": "What's your idea for you booth Alan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491847094623,
+      "content": "Okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491845572517,
+      "content": "sorry about the wait for materials, I think that we have everything that we need, except maybe a cardboard baymax",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491845546884,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491845537835,
+      "content": "Alan are you and Brittney doing the stress thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491585709509,
+      "content": "No problem!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491585379087,
+      "content": "That would be cool. Let me contact her and see what she says. Also. Sorry but I can't come today to the boys and girls club cuz I'm a team leader for TGIF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491585091304,
+      "content": "If you want you can collaborate with brittney. She's doing the mental health booth but doesn't have an idea. You guys can both do the stress thingy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491580169035,
+      "content": "Yeah, sorry I forgot to update the booth sheet after talking to you in the afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491553082953,
+      "content": "Hi Alan did you still want to do a booth? We can add anything you want in lol",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Alan",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandAlan_moKOfo8FmQ"
+}

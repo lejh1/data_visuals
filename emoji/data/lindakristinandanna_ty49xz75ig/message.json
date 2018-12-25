@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Linda Diec"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Anna Young"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492394034272,
+      "content": "Okie. Or they can just drive and get xredir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492393955333,
+      "content": "that would be extremely helpful <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492393911238,
+      "content": "We could ask them tomorrow night to see if anyone can sign up for the service",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492393844887,
+      "content": "im desperate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492393840717,
+      "content": "atm we dont have enough drivers for NYSD which sucks so we were wondering if you could persuade some of your kids that can drive to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Young",
+      "timestamp_ms": 1492393799328,
+      "content": "Anna: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linda Diec",
+      "timestamp_ms": 1492393721792,
+      "content": "If they're going, sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492393586443,
+      "content": "Hi can we use your kids as drivers for NYSD LOL",
+      "type": "Generic"
+    }
+  ],
+  "title": "Linda, Kristin and Anna",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/LindaKristinandAnna_tY49Xz75ig"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Amirali Mohseni"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amirali Mohseni",
+      "timestamp_ms": 1524677347013,
+      "content": "Say hi to your new Facebook friend, Amirali.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amirali Mohseni",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AmiraliMohseni_yOIR9M73RA"
+}

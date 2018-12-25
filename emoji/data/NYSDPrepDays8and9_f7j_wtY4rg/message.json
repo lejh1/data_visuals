@@ -1,0 +1,355 @@
+{
+  "participants": [
+    {
+      "name": "Julie Hu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Anthony Cheung"
+    },
+    {
+      "name": "Christine Ving"
+    },
+    {
+      "name": "Monica Chou"
+    },
+    {
+      "name": "Cleopatra Siagian"
+    },
+    {
+      "name": "Marcus Wu"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Ivan Murillo"
+    },
+    {
+      "name": "Gina Vu"
+    },
+    {
+      "name": "Daniel Ung"
+    },
+    {
+      "name": "Alan Perez"
+    },
+    {
+      "name": "Danielle Pham"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492726943655,
+      "content": "Ivan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492726420197,
+      "content": "Read the stuff Ivan! Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492726400389,
+      "content": "You added Ivan Murillo.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ivan Murillo"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721694326,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/NYSDPrepDays8and9_f7j_wtY4rg/photos/18053403_1241601065938431_1817888465_o_1241601065938431.jpg",
+          "creation_timestamp": 1492721692
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721690769,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/NYSDPrepDays8and9_f7j_wtY4rg/photos/18083484_1241601022605102_1748713867_o_1241601022605102.jpg",
+          "creation_timestamp": 1492721689
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721688034,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/NYSDPrepDays8and9_f7j_wtY4rg/photos/18053257_1241600979271773_921014490_o_1241600979271773.jpg",
+          "creation_timestamp": 1492721687
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721685664,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/NYSDPrepDays8and9_f7j_wtY4rg/photos/18083938_1241600939271777_61070317_o_1241600939271777.jpg",
+          "creation_timestamp": 1492721684
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721677502,
+      "content": "Okay so the stuff is at the tents. All the stuff that needs to be cut out is in the cardboard box. If you finish cutting please make posters and cardboard decor. There's also a poster board too if you wanted to decorate that. Here are some examples",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721353616,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721351003,
+      "content": "Gina joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721350956,
+      "content": "Gina started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492721325072,
+      "content": "Gina Vu added Julie Hu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Julie Hu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492718351398,
+      "content": "no but Alan will be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1492718294428,
+      "content": "Francis Angeles left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Francis Angeles"
+        }
+      ]
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1492718252467,
+      "content": "Will you be at the tents Gina?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492716031834,
+      "content": "Gina Vu added Jacky Zhang.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jacky Zhang"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672311786,
+      "content": "Hello! For the ones doing prep tomorrow (Thursday), your task is to use box cutters to cut out all the painted/completed artwork on the cardboard into cutouts. The materials will be at the tents. If you see any uncompleted artwork, you can finish painting it too. If you run out of ones to cut out, then you can draw and paint more figures. :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492639614646,
+      "content": "The event has been moved to the tents so if any actives or pledges want to be added just let me know and I will add them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1492639578542,
+      "content": "I am alone too!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492639492144,
+      "content": "Ask your pbros if they want to be added @Anthony Cheung :) I'm totally ok with adding people last minute if they're down to help and there's enough things to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Monica Chou",
+      "timestamp_ms": 1492639394372,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anthony Cheung",
+      "timestamp_ms": 1492639357793,
+      "content": "Am I alone \u00f0\u009f\u0098\u009e LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492639095987,
+      "content": "Gina Vu added Monica Chou.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Monica Chou"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1492638897156,
+      "content": "Kristin Chingburanakit added Francis Angeles.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Francis Angeles"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634729329,
+      "content": "Wow look that's me",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Christine Ving"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634726548,
+      "content": "Gina Vu added Danielle Pham.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Danielle Pham"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634706358,
+      "content": "The bin with the materials and the cardboard is at the tents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634695084,
+      "content": "This is for day 8 people today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634626985,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/NYSDPrepDays8and9_f7j_wtY4rg/photos/18049594_1240646236033914_325326993_o_1240646236033914.jpg",
+          "creation_timestamp": 1492634625
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cleopatra Siagian",
+      "timestamp_ms": 1492624986192,
+      "content": "Cleopatra: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492589307593,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492589305364,
+      "content": "Gina Vu added Anthony Cheung.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Anthony Cheung"
+        }
+      ]
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492587787806,
+      "content": "Gina named the group NYSD Prep Days 8 and 9.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492587778898,
+      "content": "Hey guys! If you're in this group chat, that means you've signed up for NYSD prep days 8 and 9 (or is an SVP or SPC)! Thanks so much for contributing to our educational fair. Since only 2-3 people have signed up for both days, we are relocating the service to the tents! I will bring the materials for you guys and Justin and Kristin will provide you a list of items they need you to prep. Since we won't have an SVP or SPC presiding this, we will give you the amount of hours you signed up for even if you completed the tasks before the hour(s) end. Please let me know if you have any questions :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Anthony Cheung"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "NYSD Prep Days 8 and 9",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/NYSDPrepDays8and9_f7j_wtY4rg"
+}

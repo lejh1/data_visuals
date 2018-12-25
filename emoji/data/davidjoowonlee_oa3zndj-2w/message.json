@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "David Joowon Lee"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "David Joowon Lee",
+      "timestamp_ms": 1474517613012,
+      "content": "That ones pretty good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474517515014,
+      "content": "Yea that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Joowon Lee",
+      "timestamp_ms": 1474517383246,
+      "content": "Hmm idk what those are, is the engineers without borders the one where you volunteer and do engineering work for third world countries?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474517336655,
+      "content": "I was looking into engineers without borders and ieee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474517283905,
+      "content": "Ooooo and no I missed it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Joowon Lee",
+      "timestamp_ms": 1474516850481,
+      "content": "Hey man uh it's for all CIVIL engineers... Did you go to the involvement fair to check out clubs? And don't worry about not being in on lol you're only in your second year so you're still good to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474516485618,
+      "content": "I wanna join lol I'm part of nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1474516478062,
+      "content": "Hey David. My brother says your in an engineering club that all engineers should join. What is this club he is speaking of?",
+      "type": "Generic"
+    }
+  ],
+  "title": "David Joowon Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DavidJoowonLee_OA3ZNDj-2w"
+}

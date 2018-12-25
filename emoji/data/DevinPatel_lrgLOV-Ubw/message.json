@@ -1,0 +1,5857 @@
+{
+  "participants": [
+    {
+      "name": "Devin Patel"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429386439,
+      "content": "Oh damn lol that\u00e2\u0080\u0099s fine tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429168976,
+      "content": "I'mma go tomorrow and see what I got wrong though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429144844,
+      "content": "Got 60.5 :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429138481,
+      "content": "bombed the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429130125,
+      "content": "C+ \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429125528,
+      "content": "ZAMN ZADDY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429110538,
+      "content": "Wbu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429108846,
+      "content": "B+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429102824,
+      "content": "In*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1529429095604,
+      "content": "how'd you do I'm dsp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1528904318390,
+      "content": "Nervous and screwed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528868315776,
+      "content": "how you feeling about this lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527840902195,
+      "content": "nvm got it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527840699019,
+      "content": "wtf bruh my shit aint running",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527840692081,
+      "content": "clc;\nclose all;\nclear all;\n\n[N,Wn] = buttord((.4 * pi), (.6 * pi), .5, 50);\n[b,a] = butter(N, Wn, 'low');\nfreqz(b,a,N)\ntitle('Frequency Response');",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527839916650,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34092555_620373444989041_6694932357431951360_n_620373434989042.jpg",
+          "creation_timestamp": 1527839916
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527839760064,
+      "content": "n = 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527838928313,
+      "content": "I followed it exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527838922675,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838882408,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34105948_620370041656048_4263802691177676800_n_620370034989382.png",
+          "creation_timestamp": 1527838881
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838879477,
+      "content": "is this the same as #4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838787785,
+      "content": "help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527838173053,
+      "content": "Lmao rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838145892,
+      "content": "Can't even pull up the butterscotch notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838133714,
+      "content": "I have to go rest it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838124886,
+      "content": "Dafuq my wifi stopped working at home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838060157,
+      "content": "Almost had it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838055969,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527838055206,
+      "content": "Ohh I see what u mean now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527838002890,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34178821_555623368166025_8263484444342484992_n_555623358166026.jpg",
+          "creation_timestamp": 1527838002
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837964824,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837962410,
+      "content": "I had a good run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837958278,
+      "content": "Now I'm confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837908882,
+      "content": "U wot m8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527837846418,
+      "content": "There shouldn\u00e2\u0080\u0099t be a T and you should have Z^-1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527837828861,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837793214,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34122984_620366631656389_6201041698559098880_n_620366268323092.jpg",
+          "creation_timestamp": 1527837792
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837792051,
+      "content": "3b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837502210,
+      "content": "Ty juju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837495741,
+      "content": "Lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527837414685,
+      "content": "It\u00e2\u0080\u0099s fine lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527837410836,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837386988,
+      "content": "Sorryz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837384548,
+      "content": "You're my answer key lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837372056,
+      "content": "3a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527837371371,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34091264_620365024989883_2878024436492009472_n_620364978323221.jpg",
+          "creation_timestamp": 1527837370
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527837044606,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836981817,
+      "content": "units just rad again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836960710,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836953852,
+      "content": "for b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836949992,
+      "content": "1.79",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836820620,
+      "content": "u right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836797532,
+      "content": ".4pi rad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836789259,
+      "content": "So it\u00e2\u0080\u0099s just rad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836778885,
+      "content": "Does the s cancel out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836765669,
+      "content": ".4pi rad/s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836742922,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836739384,
+      "content": "my ms to conversion is wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836733359,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836732114,
+      "content": "Its .2/1000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836730296,
+      "content": "oh whooops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836701152,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/34159314_620360754990310_5770293089071529984_n_620360738323645.jpg",
+          "creation_timestamp": 1527836700
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836645086,
+      "content": "dafuq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836641416,
+      "content": "Rad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527836619616,
+      "content": "I got .4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836606233,
+      "content": "about to do b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836599495,
+      "content": "i got 400000 rad/s for a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527836592320,
+      "content": "did u get 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527280651814,
+      "content": "No LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527280416717,
+      "content": "Did u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527280415733,
+      "content": "No lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527280260715,
+      "content": "Did you go to class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527060140932,
+      "content": "honestly idk hot explina stuff haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527060125581,
+      "content": "B = number of bits not including the sign bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527060099538,
+      "content": "so like youre given the range from -1 to 1 so xm = 1 so range =2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527060006473,
+      "content": "how can u tell what B, Xm, delta, etc are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527059971881,
+      "content": "so like for a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527059955660,
+      "content": "which part lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527059854258,
+      "content": "can u explain 3 pleeease :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527047892037,
+      "content": "Lmao nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527047434924,
+      "content": "That's where we stopped lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527047399882,
+      "content": "Wait can it be designed as an lpf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527043695144,
+      "content": "imma do it differently though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527043688799,
+      "content": "aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527043652298,
+      "content": "I choose 1 and 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527043646190,
+      "content": "Nah LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042998439,
+      "content": "are u rlly doing dis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042993431,
+      "content": "H(n) = 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042982811,
+      "content": "why are u like dis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042957118,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042955987,
+      "content": "Dude imma do all 0s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042950307,
+      "content": "LOL that's true tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042933417,
+      "content": "i said for f that parallel will run faster LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042925390,
+      "content": "now for#2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042921592,
+      "content": "okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042895619,
+      "content": "Left it blank for now lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042858781,
+      "content": "And DF 1 = DF 2 so I did parallel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042845946,
+      "content": "I don't see no difference",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042841517,
+      "content": "Lmao what u put for f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042837113,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/33306819_616089165417469_6078255395384590336_n_616089145417471.jpg",
+          "creation_timestamp": 1527042836
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042827015,
+      "content": "On part f still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042823639,
+      "content": "Hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042793698,
+      "content": "For part 2 is it bad if I choose all my numbers to be 0?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042490946,
+      "content": "yeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042278709,
+      "content": "So in this case the mag works lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527042272728,
+      "content": "The real part of H(w)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527042091979,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/33300748_616085815417804_2301391838252105728_n_616085798751139.jpg",
+          "creation_timestamp": 1527042091
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041989341,
+      "content": "or H(w)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041984204,
+      "content": "and for c, is the \"value\" she references in the notes equal the magnitude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041958957,
+      "content": "Yea lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041940620,
+      "content": "it cancels out sway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041934328,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041930970,
+      "content": "I forgot to square root it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041923145,
+      "content": "Oh yea you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041920282,
+      "content": "so isnt it just the square root of that squared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041906211,
+      "content": "buts thats all real",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041857097,
+      "content": "Uh the magnitude of that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041745948,
+      "content": "is it 4cos(2w)-.3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041709449,
+      "content": "okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041707975,
+      "content": "lkies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041666007,
+      "content": "Nah it's magnitude response so that part turns to 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041470431,
+      "content": "or nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041469057,
+      "content": "do i have to redistribute that e^-2jw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041435237,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041417001,
+      "content": "so the magnitude of the last line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041408444,
+      "content": "so is the mag response  just |H(w)|",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041386081,
+      "content": "i found H(w) like she did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041375903,
+      "content": "so i got here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041371805,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/33228028_616081795418206_4628447824084729856_n_616081762084876.jpg",
+          "creation_timestamp": 1527041371
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041357296,
+      "content": "What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041347053,
+      "content": "1b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527041343502,
+      "content": "for b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527041336683,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1527040470996,
+      "content": "are u doing dsp hw rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526497372901,
+      "content": "Oh well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526497365754,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526497277721,
+      "content": "The placement in the array signifies the delay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526497257598,
+      "content": "You only do coefficients",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496836794,
+      "content": "like theres times y(n-m) with m= (1:5)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496820187,
+      "content": "i feel like urs is just 1/3^m with m = (1:5)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496794752,
+      "content": "isnt it 1/3 ^ m times y(n-m)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496717626,
+      "content": "whats wrong with a lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496695287,
+      "content": "n and b look correct to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496681537,
+      "content": "a is trippin me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496644181,
+      "content": "whats wrong with those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496636501,
+      "content": "aka a, b, and x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496631389,
+      "content": "my only concern would be the inputs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496621707,
+      "content": "u called all of the functions correctly and outputted them correctly too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496600109,
+      "content": "the plots are correct, maybe its the data that isnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496584823,
+      "content": "im only if on when u set a and b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496580284,
+      "content": "the plots lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496575612,
+      "content": "dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496573824,
+      "content": "it looks good to me dud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496568596,
+      "content": "what parts are u iffy on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496560320,
+      "content": "but imean idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496555274,
+      "content": "i feel like i didnt do it right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496547578,
+      "content": "idk actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496538306,
+      "content": "how would i modify ur code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496486938,
+      "content": "i forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496485109,
+      "content": "oh yea i chaned that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496476028,
+      "content": "im livid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496457031,
+      "content": "l m a o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496452489,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32644338_613279502365102_4729327818364682240_n_613279499031769.png",
+          "creation_timestamp": 1526496451
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496445971,
+      "content": "my casfilter was .M not .m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496434787,
+      "content": "what happened lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496433136,
+      "content": "its cuz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496427117,
+      "content": "I got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496425313,
+      "content": "BOI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496204885,
+      "content": "ur prob right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496199134,
+      "content": "i feel like your matlab is fucked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496193475,
+      "content": "and its the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496190132,
+      "content": "idk dude my runs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496184768,
+      "content": "oh lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496147812,
+      "content": "im not submitting it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496135455,
+      "content": "which it doesnt for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496130614,
+      "content": "i was just seeing if it would work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496116867,
+      "content": "bruh you like copied my exact code LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496077929,
+      "content": "mine works on my end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496058295,
+      "content": "it pauses oon that line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496053047,
+      "content": "i have it run with pause on errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526496036785,
+      "content": "i think theres an error in y = casfiltr(b0, B,A,x);",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526496032139,
+      "content": "idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495940143,
+      "content": "but it doesnt fucking plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495932482,
+      "content": "like my values populate in bottom left corner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495917068,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32377664_613277559031963_5442813021141336064_n_613277552365297.png",
+          "creation_timestamp": 1526495915
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495901632,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495891082,
+      "content": "urs runs tho right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495885157,
+      "content": "idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495849268,
+      "content": "why isnt this shit running ugh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495634718,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495633333,
+      "content": "imma just do in person",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495609225,
+      "content": "i usually online sub",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495605938,
+      "content": "i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495603322,
+      "content": "or do we hae to turn it in online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495596015,
+      "content": "wait can we turn in the assignment as a hard copy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495561454,
+      "content": "which is what i dont think it should be doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495554701,
+      "content": "oh idk about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495545197,
+      "content": "when i run it, itmakes a .asv file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495515492,
+      "content": "lmao wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495502474,
+      "content": "sa,me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495444792,
+      "content": "all i did was put them in the same folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495444268,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495434920,
+      "content": "did u alter the two other files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495373795,
+      "content": "and no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495363494,
+      "content": "hm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495361736,
+      "content": "wait actaully maybe i dont need the '",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495340243,
+      "content": "do i need to import/include anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495307768,
+      "content": "used it for debugging",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495303574,
+      "content": "it just makes it return in a nicer way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495293763,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495289513,
+      "content": "the '?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495281816,
+      "content": "why are the apostrophes after some lines",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495278661,
+      "content": "your matlab is messedd up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495244989,
+      "content": "wait this popped up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495243935,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32592222_613274289032290_1164449664980746240_n_613274285698957.png",
+          "creation_timestamp": 1526495242
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495235320,
+      "content": "lmao then idk your matlab is werid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495217390,
+      "content": "nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495207338,
+      "content": "wait so mine works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495201950,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495190232,
+      "content": "well it makes a sound on my pc after its done running",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495176454,
+      "content": "gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495170738,
+      "content": "kinda like mathematica",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495166748,
+      "content": "it just mkaes it so it doesnt return anything to the command window",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495157007,
+      "content": "nah semicolons doesnt do anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495150162,
+      "content": "its still producing graphs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495143591,
+      "content": "wait that didnt work either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495117128,
+      "content": "i think u need semicolons for when u set y and f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495100373,
+      "content": "dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526495099257,
+      "content": "i think theres errors due",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526495056616,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/files/MatLab2part1_549092835485745.m",
+          "creation_timestamp": 1526495055
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494977900,
+      "content": "nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494971636,
+      "content": "wait so nothing pops up ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494965589,
+      "content": "uh hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494898436,
+      "content": "i  wanna see if urs would run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494893289,
+      "content": "can u send me the .m file by any chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494874930,
+      "content": "hm weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494838385,
+      "content": "oh no way LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494757506,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32658809_613272172365835_3601093394933219328_n_613272169032502.png",
+          "creation_timestamp": 1526494756
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494730544,
+      "content": "we need to plot our matrices",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494724780,
+      "content": "its in the email she sent us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494723337,
+      "content": "i just did it cause i was bored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494718666,
+      "content": "yeahwe do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494703387,
+      "content": "you dont need to plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526494700428,
+      "content": "yea mine shows",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494515450,
+      "content": "I'm gonna restart matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494511661,
+      "content": "I click run and it literally does nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526494217216,
+      "content": "Do your plots show when u run it though?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526492198618,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526492186334,
+      "content": "You and Garrett hella procrastinated lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526492136198,
+      "content": "Yeah now I know that lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526492126030,
+      "content": "That's like too much lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526492117728,
+      "content": "Oh lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526492112192,
+      "content": "I fell asleep and woke up to hella messages in the dsp chat",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Devin Patel"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526492112067,
+      "content": "I was trying to model y(n) as a function of two sums if two functions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526492080182,
+      "content": "Lmao alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491914863,
+      "content": "Yeah dude that actually makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491869204,
+      "content": "Idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491863098,
+      "content": "So the denominator starts with 1 as a0 and starts the summation at a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491852593,
+      "content": "Gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491838882,
+      "content": "Remember the direct form equation? I did it like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491810338,
+      "content": "Oh hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491800383,
+      "content": "What you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491798549,
+      "content": "Cause like I'm making h(z) so y(n) us just 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491776031,
+      "content": "I just moved it over in my head lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491763512,
+      "content": "In the second sum",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491757255,
+      "content": "Cu y(n) is dependent on itself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491748654,
+      "content": "How did u get a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491739508,
+      "content": "Damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491621423,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32702594_549069125488116_5674319450682163200_n_549069105488118.jpg",
+          "creation_timestamp": 1526491620
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491548904,
+      "content": "Hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491546612,
+      "content": "I think I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491541540,
+      "content": "I gave up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526491534994,
+      "content": "Oh shit lol wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491530252,
+      "content": "But did u get the matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491525131,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526491523660,
+      "content": "I went to sleep at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526484723719,
+      "content": "Oh shit you guys stood up late lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526456365159,
+      "content": "did u get 1 or 4 at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526436411152,
+      "content": "Like normally I guess? Using direct form 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526435841154,
+      "content": "How do u draw the y(z) part of h1(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526435820037,
+      "content": "Wait I'm stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526435816190,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32384015_612974532395599_2966725136176119808_n_612974519062267.jpg",
+          "creation_timestamp": 1526435815
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434847398,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434846018,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434845398,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434843447,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434842859,
+      "content": "i meant dis one oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434839153,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32776575_612970725729313_6625293362557616128_n_612970722395980.png",
+          "creation_timestamp": 1526434837
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434809105,
+      "content": "is this how u draw c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434805997,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31648750_612970519062667_377765652405944320_n_612970515729334.png",
+          "creation_timestamp": 1526434804
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434031035,
+      "content": "i was wondering why you were getting confused bruh LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434020321,
+      "content": "thats what im saying lol\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434012036,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434011498,
+      "content": "thatss to hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526434008714,
+      "content": "yeah..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434008349,
+      "content": "nah not your way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526434001676,
+      "content": "oh i see what you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433997217,
+      "content": "FSHOO B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526433988002,
+      "content": "its the same lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526433985991,
+      "content": "i mean you could switch it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433968450,
+      "content": "but dis also makes sense and is very ez pz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433951165,
+      "content": "but i thought h1(z) was only supposed to have z^-1 and h2(z) only have z^-2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526433858639,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/32734100_548783145516714_5374051956237008896_n_548783142183381.png",
+          "creation_timestamp": 1526433857
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433806627,
+      "content": "wait what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526433764542,
+      "content": "wait its already factored for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433743776,
+      "content": "but i did d \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526433732586,
+      "content": "i cant factor c for the life of me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526432358224,
+      "content": "oh my okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526432350189,
+      "content": "like factor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526432347822,
+      "content": "nah like separate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526432244455,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526432243324,
+      "content": "likke literally just ignore it lm ao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526432072079,
+      "content": "yea gotta get rid of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431925241,
+      "content": "cuz isnt that 3rd order?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431914381,
+      "content": "but the z^3 is still throwing me off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431901819,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526431736627,
+      "content": "cascade is the first one parallel is the second one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431571044,
+      "content": "h(z) = h1(z) + h2(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431561323,
+      "content": "OR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431559949,
+      "content": "h(z) = h1(z) * h2(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526431358331,
+      "content": "ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526431191594,
+      "content": "so we have to seperate into h1(z) and h2(z)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430955249,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430917952,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430911896,
+      "content": "look at the notes lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430900245,
+      "content": "hng",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430870807,
+      "content": "yea so you gotta like turn it into a cascade form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430608583,
+      "content": "z*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430606536,
+      "content": "but theres a x^-3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430603761,
+      "content": "if that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430598980,
+      "content": "so you just split the H(Z) into smaller H(Z)'s with a degree no higher than Z^-2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430570926,
+      "content": "its like Z^-1 means first order and Z^-2 means 2nd order",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430490965,
+      "content": "what does it mean by 1st order and 2nd order direct from 1/2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526430450136,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430446091,
+      "content": "did u get 3c and 3d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1526430439163,
+      "content": "yo juju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525570089966,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525570084703,
+      "content": "i jsut started tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525570081568,
+      "content": "im redoing all the hw lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525570064503,
+      "content": "How are u studying for this exam lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450200965,
+      "content": "Thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525450125752,
+      "content": "Gl on your interview too my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525450117330,
+      "content": "Lmao aight ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450107355,
+      "content": "If I make it lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450102616,
+      "content": "I'll let you know anything important for lecture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450090897,
+      "content": "For sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525450087914,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450086595,
+      "content": "Oh shit lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525450086352,
+      "content": "I'm not going yo school today most likely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525450080078,
+      "content": "I'm sick dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525450066310,
+      "content": "I'm in a job interview rn can you send me the discussion notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525247592187,
+      "content": "Aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525247590387,
+      "content": "Fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525247564129,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246859391,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246857610,
+      "content": "did u get 2b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246334893,
+      "content": "yeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525246318297,
+      "content": "nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246313918,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246310182,
+      "content": "just finished playing fornite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246295728,
+      "content": "still on 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246293222,
+      "content": "at least we have 1 and 2a right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525246290137,
+      "content": "what you get for 3a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525246257196,
+      "content": "you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525246103366,
+      "content": "its all bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525245967456,
+      "content": "bruh number 2b tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525245936781,
+      "content": "dont be a bishhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525245921816,
+      "content": "im ouuuutttaaaa her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525245901055,
+      "content": "nooooooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525245862231,
+      "content": "fk this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525245858791,
+      "content": "im giving up lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525245535712,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525245475873,
+      "content": "Did u get 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238823650,
+      "content": "good ppoint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238818837,
+      "content": "lmaooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238805427,
+      "content": "Or get your boo thang to get u some \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238795725,
+      "content": "Just buy some new ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238637923,
+      "content": "its bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238634271,
+      "content": "yea i know dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238574118,
+      "content": "Lol*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238573612,
+      "content": "Clothes, food, headphones lop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238555546,
+      "content": "That's a college necessity",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238550625,
+      "content": "Duude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238530307,
+      "content": "so rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238528615,
+      "content": "i lost my head phones tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238524414,
+      "content": "ty b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238423511,
+      "content": "Got u b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238418550,
+      "content": "Devin sent an attachment.",
+      "share": {
+        "link": "https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc?utm_medium=facebook-messenger&utm_source=spotify-messenger-extension"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238399050,
+      "content": "Devin sent an attachment.",
+      "share": {
+        "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2?utm_medium=facebook-messenger&utm_source=spotify-messenger-extension"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238374516,
+      "content": "i fucking sad LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238313870,
+      "content": "P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238312955,
+      "content": "I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238312238,
+      "content": "R",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238286834,
+      "content": "gdi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238285593,
+      "content": "that means my 2b is wrong too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238280340,
+      "content": "for real",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238275678,
+      "content": "Fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238271501,
+      "content": "idk lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238264929,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238261963,
+      "content": "So my og way then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238261738,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238260945,
+      "content": "fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238259208,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238248086,
+      "content": "FAK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238245241,
+      "content": "NO IT'D BE 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238237805,
+      "content": "So if w =0, then z would be 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238215687,
+      "content": "I mean z = e^jw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238202204,
+      "content": "Why not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238199258,
+      "content": "i think we have to take it to freq response first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238188171,
+      "content": "cause idk if we can set Z = 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238161536,
+      "content": "Why so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238159443,
+      "content": "Reallllly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238149773,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525238149132,
+      "content": "oh wait i think we did G wrong too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238108575,
+      "content": "I'm dying to play bee fortnite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525238084664,
+      "content": "I'll dbl check later lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525237932841,
+      "content": "idk if i even did it right tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525237923861,
+      "content": "Oh fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525237920451,
+      "content": "I did it hella wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525237916793,
+      "content": "Dude wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525237796826,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31773118_542946166100412_7101623635323912192_n_542946159433746.jpg",
+          "creation_timestamp": 1525237796
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525237756178,
+      "content": "nah finding |H(w)|",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525237631572,
+      "content": "The input one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525237564945,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525237542540,
+      "content": "2b?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525235759254,
+      "content": "number 2b took forever holy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525228595721,
+      "content": "I have lab at 8 anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525228587172,
+      "content": "David",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525228465094,
+      "content": "who you with lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525228444090,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525228443011,
+      "content": "We gave up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525228439447,
+      "content": "*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525228434646,
+      "content": "|H(w)|",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525228426693,
+      "content": "wait did you fidn H|w|",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227734624,
+      "content": "like they give u an input to solve for the output",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227722506,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525227670076,
+      "content": "oh damn alright ill look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227653394,
+      "content": "2c is hard af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227648690,
+      "content": "fshoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525227586766,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525227586240,
+      "content": "nah im not working on it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227488402,
+      "content": "get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227484120,
+      "content": "did u gt c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525227472357,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525227450757,
+      "content": "Oh idk lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226918269,
+      "content": "Lpf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226915364,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31698756_606522306374155_5807498140193914880_n_606522296374156.jpg",
+          "creation_timestamp": 1525226914
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226905716,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226882831,
+      "content": "That makes sense right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226571249,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226439587,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226435440,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226434120,
+      "content": "and solve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226432059,
+      "content": "set z = 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226425574,
+      "content": "that times G over (z - .5)^2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226404848,
+      "content": "oh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226387801,
+      "content": "(z-e^(3pi/4))(z-e^(-3pi/4))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226293744,
+      "content": "(z-e^(3pi/4))(z+e^(3pi/4))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226231069,
+      "content": "Cause like that's the zero",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226222551,
+      "content": "Nah still e^3pi/4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226166221,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226165140,
+      "content": "(z-3pi/4)(z+3pi/4)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226142696,
+      "content": "umm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226139771,
+      "content": "the top woulld be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226135539,
+      "content": "so thats the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226127982,
+      "content": "hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226124713,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226122939,
+      "content": "Ya feel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226120890,
+      "content": "(Z-.5)^2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226118748,
+      "content": "u solved it as H(Z)  = ... instead of H(w) = ...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226098214,
+      "content": "Uh like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226054576,
+      "content": "i dont follow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226035756,
+      "content": "And then it's hella simple calculations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226035532,
+      "content": "Then Z becomes 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525226035099,
+      "content": "I did it like (Z-a) form where a is a pole or zero",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525226015798,
+      "content": "lemme see ur work lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225996552,
+      "content": "yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225994553,
+      "content": "yu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225991215,
+      "content": "Oh no way lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225980632,
+      "content": "they got 1/4 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225976233,
+      "content": "BUT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225975228,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225974541,
+      "content": "its the wrong zeros on chegg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225961025,
+      "content": "Idk if I did it right tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225961019,
+      "content": "I don't have my stuff out I'll show you in like 10 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225961013,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225961007,
+      "content": "Oh shit is it on chegg?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225950484,
+      "content": "did i do something too complicated lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225907761,
+      "content": "dont tell me chegg lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225899215,
+      "content": "how",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225883136,
+      "content": "1/4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225880904,
+      "content": "What the lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225791241,
+      "content": "what did u get lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225787987,
+      "content": "yooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225655348,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31703887_606518213041231_3301687350668558336_n_606518206374565.jpg",
+          "creation_timestamp": 1525225654
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225604084,
+      "content": "i dont think thats right tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225598961,
+      "content": "i got 1/(8 + 4rad(2))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225556276,
+      "content": "wat u get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225427656,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525225426427,
+      "content": "still doin it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525225229918,
+      "content": "what did you get G to be?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525222851148,
+      "content": "yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525222842403,
+      "content": "then bandstop?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525222793634,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525222492440,
+      "content": "is the first  one a low pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525221146159,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525221144715,
+      "content": "see we are the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525220454856,
+      "content": "just starting it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525220445199,
+      "content": "Did you finish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525220437818,
+      "content": "bad juju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525220433394,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525220372297,
+      "content": "Thanks for reminding me we had hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525220366460,
+      "content": "My guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525220127188,
+      "content": "did u do hw 3 yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525107683728,
+      "content": "Npnp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107658702,
+      "content": "I love you \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107630203,
+      "content": "I owe you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107624364,
+      "content": "Ty man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107614557,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525107610948,
+      "content": "Did that zip send?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107596883,
+      "content": "I keep getting errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525107585715,
+      "content": "I need help with 2 & 3 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525107581916,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/files/JustinLe35052420_542320776162951.zip",
+          "creation_timestamp": 1525107577
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525107487041,
+      "content": "What up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525101462577,
+      "content": "sos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525101456214,
+      "content": "bruh i need help with this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525096907291,
+      "content": "Are you up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525073159135,
+      "content": "whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525073157342,
+      "content": "oh shit lmao my bad i was away from tech",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525072761459,
+      "content": "dis is confusing af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525072750680,
+      "content": "imma need ur help in the mornign for sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525072308925,
+      "content": "if u still awake lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525072304454,
+      "content": "help me out :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071753977,
+      "content": "idk how to plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071737425,
+      "content": "im stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071131369,
+      "content": "oh hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071123648,
+      "content": "or did u just do abs((2+z^-1)/(1+...))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525071103587,
+      "content": "You just pass shit trough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525071098355,
+      "content": "It's in built",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525071096077,
+      "content": "No I used the freqz function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071020632,
+      "content": "did u make a function tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071013989,
+      "content": "so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525071006990,
+      "content": "lmao ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070771753,
+      "content": "\u00f0\u009f\u0092\u00aa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070626715,
+      "content": "Just to flex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070623553,
+      "content": "I just wrote h(w) for no reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070608084,
+      "content": "I put the hZ into the freqz command lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070560895,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070558992,
+      "content": "wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070553743,
+      "content": "Oh wait no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070546117,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070335963,
+      "content": "did u make that H(w) into a function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070196903,
+      "content": "aight lit fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070178545,
+      "content": "(2 + z^-1 )/ (1+.25z^-1 -.25z^-2)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525070146422,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31512526_542113389517023_1045452777091760128_n_542113386183690.png",
+          "creation_timestamp": 1525070145
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525070123207,
+      "content": "what did u get for ur h(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069656938,
+      "content": "fk that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069655814,
+      "content": "yea same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069591186,
+      "content": "i dont evven know how to do thta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069582674,
+      "content": "lmao hell nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069547835,
+      "content": "you can try coding it tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069542999,
+      "content": "yolo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069536906,
+      "content": "yeah same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069535303,
+      "content": "i took it to mean by hand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069526982,
+      "content": "idk what analytical means tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069518680,
+      "content": "that seems hard lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069419287,
+      "content": "are u sure we dont do the 'analytical' part on matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069399481,
+      "content": "i try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069392988,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069383990,
+      "content": "so like find H(Z) by hand and plot it using the freqz command",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069365017,
+      "content": "nah just like do it by hand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069315700,
+      "content": "so i have to translate the eqn to  a matlab function im assuming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069295963,
+      "content": "#2 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069291114,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069289640,
+      "content": "nah u are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069247922,
+      "content": "ye dude youre the best lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069091581,
+      "content": "see i can help out too lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069085825,
+      "content": "lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069080835,
+      "content": "yea you right imma change mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069079542,
+      "content": "and makes more sense in the context of the problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069071231,
+      "content": "0 to 6 looks more lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069061497,
+      "content": "tbh idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525069043486,
+      "content": "oh hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069012640,
+      "content": "this is what u get for 0 thru 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525069006211,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31562338_605746999785019_9061570998087712768_n_605746996451686.png",
+          "creation_timestamp": 1525069005
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068995858,
+      "content": "idk what it means tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068989830,
+      "content": "and yea thatas what i got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068985153,
+      "content": "so u get this with -3 to 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068983675,
+      "content": "so like there was 7 things in the input so i just put 7 things in the n lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068976444,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31484324_605746889785030_2896942251307433984_n_605746886451697.png",
+          "creation_timestamp": 1525068975
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068965263,
+      "content": "dtft",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068959746,
+      "content": "whose function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068959292,
+      "content": "like it does matric multiplication or some shit so it had to be the same size as the input",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068953790,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068942872,
+      "content": "idk cause like it for some reason that was the only thing that worked with their function lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068914092,
+      "content": "why did u do -3 to 3 instead of 0 to 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068901243,
+      "content": "err i mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068891354,
+      "content": "for n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068886115,
+      "content": "why did u do 0 thru 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068876256,
+      "content": "yo juju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068446287,
+      "content": "im a smart boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068443297,
+      "content": "nvm i figure out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068424440,
+      "content": "like the yellow ting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068420205,
+      "content": "how do i end a comment section lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068376107,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525068371806,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525068055121,
+      "content": "is ur dtft the one she provided",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067956401,
+      "content": "my guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067954915,
+      "content": "ya my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067941387,
+      "content": "nah my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067694720,
+      "content": "u da god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067690910,
+      "content": "look at u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067688798,
+      "content": "or i think lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067687665,
+      "content": "oh okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067683087,
+      "content": "then we just plot it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067679116,
+      "content": "so like it changes it to the freq domain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067670147,
+      "content": "and nah tahts what dtft does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067667847,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525067659480,
+      "content": "hell yea lmoa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067606368,
+      "content": "i thought we had to somehow solve eqns or something in matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067588200,
+      "content": "wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525067585954,
+      "content": "wait thats it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066788466,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31484373_542097089518653_3602279987022921728_n_542097082851987.png",
+          "creation_timestamp": 1525066787
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066785687,
+      "content": "this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066784292,
+      "content": "jk not that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066740274,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31498748_542096902852005_1222150690881667072_n_542096896185339.png",
+          "creation_timestamp": 1525066739
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066712338,
+      "content": "hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066706415,
+      "content": "lmao its empty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066354498,
+      "content": "this is literally the first time im using it ever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066340472,
+      "content": "but not matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066335733,
+      "content": "like i can do dtft on paper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066326234,
+      "content": "legit this is  my progress",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066320526,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31562214_605736859786033_3249271402284449792_n_605736853119367.png",
+          "creation_timestamp": 1525066319
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066207182,
+      "content": "what are you stuck on lol lemme help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066194240,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066187706,
+      "content": "1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066186616,
+      "content": "which number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066173792,
+      "content": "i wanna learn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066169753,
+      "content": "literally no progress",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066164413,
+      "content": "want my answers lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066162807,
+      "content": "im stuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066158484,
+      "content": "hows the mat lab going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066154504,
+      "content": "im lazy dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066144713,
+      "content": "but thats the easy part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066137857,
+      "content": "ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066129554,
+      "content": "yea but not the report LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066087889,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066085241,
+      "content": "didnt u finish it tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066066164,
+      "content": "goddamn i dont wanna do this LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525066023089,
+      "content": "think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525066000682,
+      "content": "a zip?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525065999210,
+      "content": "what are we suppose to turn in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525064428972,
+      "content": "hm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525064372513,
+      "content": "you like gotta call the function and you receive an output from it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525064350207,
+      "content": "uh kinda lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525064162321,
+      "content": "and its wrong af \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525064151714,
+      "content": "cuz like dis all i got so far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525064146409,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31564181_605729076453478_4925210380403212288_n_605729073120145.png",
+          "creation_timestamp": 1525064145
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525064092596,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525064091620,
+      "content": "google",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525063293456,
+      "content": "whats the best advice you'd give to start this shiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525062668864,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525062586154,
+      "content": "wtf my guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525062583339,
+      "content": "matlab literally just finished downloading...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525057325434,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525056772977,
+      "content": "nvmm found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525056768901,
+      "content": "http://laptops.eng.uci.edu/software-installation/matlab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525056710594,
+      "content": "pls dont tell me ihave to buy it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1525056679774,
+      "content": "how do u download matlab lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976270342,
+      "content": "I'll def be asking you \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976264125,
+      "content": "If I have questions tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976259677,
+      "content": "Damn fshoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976257179,
+      "content": "Oh word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524976102266,
+      "content": "I think I finished it lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976094726,
+      "content": "Tryna do it together then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976088873,
+      "content": "So I'mma do Matlab assignment tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524976081169,
+      "content": "I got work 9-5 tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524944163651,
+      "content": "They only printed half of the blue test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524941871305,
+      "content": "Yeah lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896166963,
+      "content": "I heard you guys walked in and they changed it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524896157964,
+      "content": "Did they really push back your data management midterm LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524860331441,
+      "content": "Np my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524860313659,
+      "content": "Aight thanks my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524860308351,
+      "content": "Wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524860053778,
+      "content": "They did one problem and it was wild apparently",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524860044726,
+      "content": "Discussion notes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524860039792,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31437528_540984819629880_3249882292662829056_n_540984792963216.jpg",
+          "creation_timestamp": 1524860039
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524860035985,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31369579_540984752963220_1219459112186675200_n_540984679629894.jpg",
+          "creation_timestamp": 1524860035
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524855393016,
+      "content": "Still on m line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524855389704,
+      "content": "I'mma be a lil bit late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524852863224,
+      "content": "No lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524852631694,
+      "content": "Rip did you get the notes from your friends lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524850254059,
+      "content": "No I'm not lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524850249085,
+      "content": "Oops just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524846769165,
+      "content": "Are you doing to dis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621190782,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621185457,
+      "content": "I DONT WANNA FIX IT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621180374,
+      "content": "FUCK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621177756,
+      "content": "its all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621176854,
+      "content": "FUCK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621174429,
+      "content": "FUCK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621171597,
+      "content": "fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621170523,
+      "content": "u right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621170094,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621167860,
+      "content": "WAIT jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621166408,
+      "content": "nah cause like if n = 0 then z^-n  goes to 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621157731,
+      "content": "5delta(n) would be 5z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621149137,
+      "content": "right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621147765,
+      "content": "5 would be 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621140698,
+      "content": "no its 5z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621098011,
+      "content": "5delta(n)-> 5 not 5z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621090186,
+      "content": "how sway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524621083978,
+      "content": "bruhfr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621074726,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621073308,
+      "content": "I think you did part c wrong too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524621064767,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31171124_539655063096189_7513333921803665408_n_539655053096190.jpg",
+          "creation_timestamp": 1524621064
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524619654666,
+      "content": "yeye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524619646294,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524619337112,
+      "content": "-3delta(n+1)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524619318811,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31337750_539649196430109_9150111658700439552_n_539649193096776.jpg",
+          "creation_timestamp": 1524619318
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524619301084,
+      "content": "your 3 part a is wrong i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618532761,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618458486,
+      "content": "20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618395334,
+      "content": "We put 20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618391716,
+      "content": "Is B 10 Hz or 20 Hz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618384696,
+      "content": "im lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618384041,
+      "content": "For 2 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618382802,
+      "content": "im starting #3 now LOL im very tempted to just copy your answers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618374975,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618362998,
+      "content": "#2 was hella easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618231370,
+      "content": "Yeah fr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618174397,
+      "content": "idk what she wants lol the question is so weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618162245,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31219070_539644466430582_8801208714804592640_n_539644383097257.jpg",
+          "creation_timestamp": 1524618161
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618154377,
+      "content": "aight tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618150818,
+      "content": "SIIIIIICK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618128644,
+      "content": "i only did like half of part 1e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618123900,
+      "content": "I know I'm right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618112792,
+      "content": "i think im right but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524618109622,
+      "content": "Ur whale cum",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524618095360,
+      "content": "oh shit lmao hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524617995914,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31287468_603242133368839_2158613304128307200_n_603242123368840.jpg",
+          "creation_timestamp": 1524617995
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524617971741,
+      "content": "What was #1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524617966626,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/31239322_603242006702185_2225853061551620096_n_603241993368853.jpg",
+          "creation_timestamp": 1524617966
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524617966310,
+      "content": "#2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524615336500,
+      "content": "Nice lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613979815,
+      "content": "Still kinda working on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613973884,
+      "content": "And 2 I need some clarification",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613964016,
+      "content": "Gonna play fortnite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613959405,
+      "content": "In a bit tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613956135,
+      "content": "Lmao I'm widdit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524613895716,
+      "content": "I haven't even started 2&3 but I did 1 so wanna trade Loool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613382069,
+      "content": "cant do 1 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524613378780,
+      "content": "yeah so i finished  2 & 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611514357,
+      "content": "HMMM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524611427281,
+      "content": "Like the triangle looking things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524611420660,
+      "content": "I just did some arbitrary thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611376673,
+      "content": "how do i sample it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611369767,
+      "content": "so lets say i picked x(t) is cos(t)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611358178,
+      "content": "how do u do a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524611348519,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611163609,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611160214,
+      "content": "do u pick a random x(t)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611149370,
+      "content": "#1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611146957,
+      "content": "for dsp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524611144791,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524547997853,
+      "content": "Devin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524547828093,
+      "content": "i think i got number one but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524547814695,
+      "content": "idk man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524546934344,
+      "content": "Why is this hw so much harder than the notes :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524546856266,
+      "content": "alright lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524546561289,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524546077273,
+      "content": "did you get to number 1c?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524534728193,
+      "content": "I will tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534085989,
+      "content": "152* hw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524534078908,
+      "content": "Did you start on the 52?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524509232135,
+      "content": "Too much pressure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524509229276,
+      "content": "Oh shit I can't do this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524506631184,
+      "content": "it's up to you to ask all da questions now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524506617924,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1524506583193,
+      "content": "Yea np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524506354991,
+      "content": "I'll watch the recording later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524506349934,
+      "content": "Lmk what I miss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1524506339103,
+      "content": "Hey I won't be at lecture today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523901246769,
+      "content": "Left it blank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523901238572,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523900870486,
+      "content": "Did you get 2 f?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523899911901,
+      "content": "I just solved your eqn for the poles lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523899887737,
+      "content": "How'd you get that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523899859687,
+      "content": "Oooo hm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523899851131,
+      "content": "|z| > 1/alpha with alpha between 0 and 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523899812184,
+      "content": "I just 1/alpha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523899735925,
+      "content": "Did you get an ROC for 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523860379468,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/30726374_535933823468313_7398638048524632064_n_535928733468822.jpg",
+          "creation_timestamp": 1523860379
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523860024168,
+      "content": "my friends and i have no idea how to do it lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523860014048,
+      "content": "fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523859741602,
+      "content": "I just guessed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523859560063,
+      "content": "did you get #3 at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854897304,
+      "content": "Like there's proof you sent it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854890966,
+      "content": "I'd do canvas that way the submission can't get lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854876647,
+      "content": "Ill lyk tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854874310,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854873080,
+      "content": "So I'm still on 2c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854867619,
+      "content": "And dropping my bro off at Chapman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854858158,
+      "content": "I just got back from dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523854847123,
+      "content": "did you get 2 e?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523854833578,
+      "content": "Either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523854207918,
+      "content": "Do we turn it in in class or online?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523845376108,
+      "content": "Yea you got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845361389,
+      "content": "thanks b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845359832,
+      "content": "i think i get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845327789,
+      "content": "you set H(z) equal to x(z)/y(z) and solve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523845293909,
+      "content": "I'm not home but I'll show you in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523845288111,
+      "content": "I set H(z) = Y(z) / X(z) then multipled over the X(z) and the denomiter of H(z)  then inverse transformed everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845203370,
+      "content": "so isnt that already Y(z)/X(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845192092,
+      "content": "cuz they give us H(z)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845185382,
+      "content": "how do u do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523845133015,
+      "content": "Oh yea I got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845043908,
+      "content": "it asks for the difference eqn in part c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523845031578,
+      "content": "the H(z) one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523844999436,
+      "content": "Uh which one was that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523844875892,
+      "content": "for 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523844871684,
+      "content": "did you get part c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523844249351,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523844209486,
+      "content": "GOD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523844206700,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523844045621,
+      "content": "So it's outside the outer most pole",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523844036449,
+      "content": "Causal means right sided",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523843979200,
+      "content": "but idk about stability",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523843972296,
+      "content": "like if it was stable it would include the unit circle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523843958943,
+      "content": "so what does that mean for the ROC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523843952667,
+      "content": "so for #2, the system is causal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523841799321,
+      "content": "Oh nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523841743804,
+      "content": "its problem 2.7 in the book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523841708096,
+      "content": "#1 is kinda out of the book",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523841703368,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/30707058_598516847174701_6289936646729105408_n_598516837174702.png",
+          "creation_timestamp": 1523841702
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523841689606,
+      "content": "Devin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/DevinPatel_lrgLOV-Ubw/photos/30704148_598515683841484_1471755189189869568_n_598515673841485.png",
+          "creation_timestamp": 1523841688
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523839967207,
+      "content": "ahh for sur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523839890589,
+      "content": "Lemme know what you get lol*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523839865009,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523839692951,
+      "content": "Oh shoot lemme go what you get then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523839653605,
+      "content": "i finally have time to work on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523839645472,
+      "content": "no dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523839620724,
+      "content": "Did you finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523839618365,
+      "content": "I'm missing a bit tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523839613419,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523839590900,
+      "content": "did u finish dsp hw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523652550141,
+      "content": "Uh I'll let you know in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523652397015,
+      "content": "Did you get time invariant or nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523652380952,
+      "content": "1a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523640702677,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523640693902,
+      "content": "oh shoot yea man np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523640682375,
+      "content": "Hey dude my grandpa isn't doing well and he has to go the er so I won't be at school today, can u lmk what happens in DSP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523635256140,
+      "content": "I have stuff to this morning before I head to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523635241079,
+      "content": "Nah b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523633431475,
+      "content": "You going to 152a discussion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598455314,
+      "content": "Fshoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598428331,
+      "content": "just tedious and easy to mess up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598420109,
+      "content": "yea its not hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598409606,
+      "content": "At least it's easy stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598405696,
+      "content": "Gdi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598401874,
+      "content": "and fractions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598399307,
+      "content": "so much math lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598396414,
+      "content": "yea dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598391648,
+      "content": "Fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598385454,
+      "content": "Actually tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598375893,
+      "content": "fucking tedious dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598240489,
+      "content": "How is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523598157044,
+      "content": "damn rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598087688,
+      "content": "I have 122a hw to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1523598080026,
+      "content": "I'm doing it Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523597471434,
+      "content": "hey did you finsih the hw yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522820023842,
+      "content": "You're the best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522816031807,
+      "content": "there u go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522816026444,
+      "content": "https://drive.google.com/file/d/1yNEuWRi8qIG5G_GaYFJkGakTE9pOPpD2/view?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522815997181,
+      "content": "https://drive.google.com/file/d/1kdCWZpWWX33L22KBYTMbs74hjeNyRIu1/view?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522813827168,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522813826566,
+      "content": "alright fosho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522813809947,
+      "content": "Will send them in an hour or less",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522813768506,
+      "content": "Out rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522813657315,
+      "content": "hey can you send the book :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786793890,
+      "content": "Ofc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786786845,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786782436,
+      "content": "Doinks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786777620,
+      "content": "Lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786773094,
+      "content": "Too big to send over fb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786766636,
+      "content": "What's your email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786760937,
+      "content": "I'll send it later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786755157,
+      "content": "\u00f0\u009f\u0094\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786748229,
+      "content": "You god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786746197,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786743361,
+      "content": "I just got played so hard lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786741470,
+      "content": "I found the textbook solutions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786736298,
+      "content": "AND",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786734023,
+      "content": "I found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786731512,
+      "content": "PYSCH BISH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786727898,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786722397,
+      "content": "I actually couldn't find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522786720681,
+      "content": "You found it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786712785,
+      "content": "Guess what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522786710361,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522774592369,
+      "content": "\u00f0\u009f\u0094\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522774586955,
+      "content": "Yeet I'm the plug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522774544798,
+      "content": "tyty i heard you were the god of finding pdfs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522774529656,
+      "content": "I'll look for it today and lyk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522774520345,
+      "content": "Haven't looked yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522774475447,
+      "content": "?*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522774473086,
+      "content": "did you find the DSP book pdf>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222298702,
+      "content": "i just want to make hella money doing nothin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222282277,
+      "content": "that sounds like work ugh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222276611,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522222269125,
+      "content": "yea you have time to brainstorm at the event lmpa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222249005,
+      "content": "widdit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222246774,
+      "content": "widdir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222245177,
+      "content": "im lk widdir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222241645,
+      "content": "interesting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522222239414,
+      "content": "ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522222156634,
+      "content": "so like one would be like use their API or like make a game or somehting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522222135288,
+      "content": "that they dont annouce til the day of",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522222099471,
+      "content": "oh yea so like like the sponsors each have their own challenge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221899411,
+      "content": "wait is that a thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522221884241,
+      "content": "just wait til you get there lol you can make something for the sponsor competitions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221855323,
+      "content": "my group doesnt even know what to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221844059,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221843071,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522221834890,
+      "content": "idk im not feeling it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221815305,
+      "content": "everyone backing out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522221800521,
+      "content": "y tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1522221790892,
+      "content": "lol idk if imma go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522220453272,
+      "content": "do u have any idea what your team is gonna do lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522220432288,
+      "content": "ur going to la hacks right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devin Patel",
+      "timestamp_ms": 1522220427744,
+      "content": "wassup b",
+      "type": "Generic"
+    }
+  ],
+  "title": "Devin Patel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DevinPatel_lrgLOV-Ubw"
+}

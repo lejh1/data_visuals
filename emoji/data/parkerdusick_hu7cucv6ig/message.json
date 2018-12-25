@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Parker Dusick"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Parker Dusick",
+      "timestamp_ms": 1490653457161,
+      "content": "hpe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parker Dusick",
+      "timestamp_ms": 1490653454887,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parker Dusick",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ParkerDusick_hU7CUCV6ig"
+}

@@ -1,0 +1,520 @@
+{
+  "participants": [
+    {
+      "name": "Travis Wan"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538276934197,
+      "content": "LOL, just find a day that you all are free and I can work with",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538276794160,
+      "content": "Oh dang hahaha I told rose and he got hella hyped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538266612851,
+      "content": "Lol for sure, I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538266257006,
+      "content": "I just told them I played over the summer with some friends I made at my internship and they thought it sounded coool lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538266229026,
+      "content": "Hahaha it doesn\u00e2\u0080\u0099t matter!! Think about how fun it\u00e2\u0080\u0099d be playing with Michelle and rose lol they never played so it doesn\u00e2\u0080\u0099t matter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538265226534,
+      "content": "I won't lie I'm not the best at it, but I can definitely try haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538265215568,
+      "content": "Lol! I'll try my best, do you guys wanna a already written story line or I make up my own?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538265046235,
+      "content": "I played a game during the summer lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538265036125,
+      "content": "BROOOOO wanna DM a game for rose, me, Michelle and some other friends \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 cause rose and Michelle wanna try it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538264995041,
+      "content": "Yeah lol! I'm like a president of a club for those things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538264961913,
+      "content": "One of those",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538264958262,
+      "content": "GM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538264956564,
+      "content": "Dungeon Master",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538264937629,
+      "content": "Dm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538264919179,
+      "content": "Are you a DM lmao?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538264907122,
+      "content": "Random question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538243244631,
+      "content": "same! good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538243234552,
+      "content": "Anyways it was nice seeing you man, never thought I'd see you at an interview haha \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538243191560,
+      "content": "ohhhh I heard about it! I've mostly been focused on technical stuff, guess I should look into that huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538243165767,
+      "content": "That's where I learned lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538243159442,
+      "content": "Haha have you read cracking the code? They have a pretty good section on behavioral interviews",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538243110683,
+      "content": "Lol!!! I wanted to go more for the interview experience. Definitely need to be better at that. He asked me to describe myself and I almost blanked out haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538243053996,
+      "content": "And thanks! I dont think i really want the job but im up for the challenge haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538243035872,
+      "content": "Oh nice haha im sure youll do well!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538243008682,
+      "content": "In any case, good luck dude. Hope you get the job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242918271,
+      "content": "Oh nice! That's impressive dude. I've only been doing front end, I want to become a full stack developer. Was hoping an entry level position would teach me something, but I have a feeling I need to teach myself first. Was gonna try and use this quarter to build some stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242857744,
+      "content": "ive done one at a hackathon but i mean the only backend ive used was firebase lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242817717,
+      "content": "Really? I thought engineering is a money maker lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242808469,
+      "content": "Have you developed web apps?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242801280,
+      "content": "engineering doesnt pay much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242794878,
+      "content": "gotta keep my options opens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242786309,
+      "content": "ooo i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242781841,
+      "content": "Lol damn dude. I'm impressed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242774448,
+      "content": "im diverse haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242767337,
+      "content": "React actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242767285,
+      "content": "i like a good challenge here and there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242752402,
+      "content": "Honesty I'm still new to all this. I thought you were engineering dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242751742,
+      "content": "is that like MEAN but instead of anguluar youre using ruby or something lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242717117,
+      "content": "MERN,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242696564,
+      "content": "haha good luck!  A web app? What stack are you using?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242633186,
+      "content": "I'm not gonna lie, I still need to work on those projects still. I'm trying to make a full functional app still. My previous internship just made me preexisting code and not making something from scratch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242583719,
+      "content": "Yeah I think he wanted like a full stack kind of thing, with front and back implemented",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242565241,
+      "content": "I thought it was a summer internship, plus I can probably find a better job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242421896,
+      "content": "did you not know it was gonna start right away haha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242393870,
+      "content": "i might lol just cause",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242383895,
+      "content": "oh i applied for software engineer intern idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242368079,
+      "content": "oh what you couldve just threw some html/css and jquery real fast lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242256325,
+      "content": "Are you gonna go for it or no? I can't cause he wants it to be working now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242242018,
+      "content": "But he made my task sound so different",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242233685,
+      "content": "It was software developer internship",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242148599,
+      "content": "He just wanted me to make a website lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242140335,
+      "content": "He didn't care what I used",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242122268,
+      "content": "esp with ruby lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242116148,
+      "content": "website is extreme",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242112259,
+      "content": "what about you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242110046,
+      "content": "the intern lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242101218,
+      "content": "What position were you interviewing for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242089751,
+      "content": "I had to make a website lol!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242084316,
+      "content": "A Google sheet tool?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242062020,
+      "content": "half the interview was him getting the tool ready to explain lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242041867,
+      "content": "yea lol is it the google sheets tool?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242032037,
+      "content": "Did he do the same for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242024187,
+      "content": "And he said he wanted to give me an online assessment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538242013028,
+      "content": "like an hour? but i was the first one so it was really unprepared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538242009888,
+      "content": "He mostly asked about my last internship experience",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538241994740,
+      "content": "Lol, how long did you guys talk for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538241983051,
+      "content": "and nah i went home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538241979274,
+      "content": "whoa youre interview was fast haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538241454732,
+      "content": "Yeah I'm not taking the job, they want developers right now, and I can't do that honestly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1538241435495,
+      "content": "Lol! Are you still around?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1538240706952,
+      "content": "Good luck!!! I hope you get the job \u00f0\u009f\u0098\u0082 not too keen on using ruby lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1500437586809,
+      "content": "Thanks!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1500409586868,
+      "content": "Happy Birthday man!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1478580043606,
+      "content": "Also, how are you doing, Michelle told me you were sick, hope you feel better!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1478580024900,
+      "content": "or did you feel like it was managable despite everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1478580007043,
+      "content": "did you feel suffocated by everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478579982933,
+      "content": "It's definitely hard but doable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478579978029,
+      "content": "Idk it's really up to how you manage time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1478577254738,
+      "content": "I'm considering doing that during next quarter, but I wanted to have some preperation before I did it, and I wanted to ask how did you handle all that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1478577216141,
+      "content": "Hey Justin, how difficult was it to balence 16 units and working max hours for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1464573354674,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1464556749306,
+      "content": "or will people still get a ticket for parking there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Travis Wan",
+      "timestamp_ms": 1464556727259,
+      "content": "Hey Justin, do you know if the Mesa parking space in front of our hall is avaliable for visitors today",
+      "type": "Generic"
+    }
+  ],
+  "title": "Travis Wan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TravisWan_igjHMC8J3A"
+}

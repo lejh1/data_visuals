@@ -1,0 +1,660 @@
+{
+  "participants": [
+    {
+      "name": "Paula Hernandez"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Grace Zhu"
+    },
+    {
+      "name": "Jenn Chore"
+    },
+    {
+      "name": "Christine Ving"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Tiffany Sekacnap Yrettub Nguyen"
+    },
+    {
+      "name": "Marcus Wu"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1493709393112,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1493706729174,
+      "content": "No updates on my slide !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1493706294880,
+      "content": "Jacky I sent you a video for POW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491878332236,
+      "content": "oh okay nvm then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491878325431,
+      "content": "Gina linked it to us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491878320913,
+      "content": "We changed it in the excomm one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491876570232,
+      "content": "pm me when you got it down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491876559624,
+      "content": "for @Justin Le and @Kristin Chingburanakit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491876550625,
+      "content": "https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=sharing",
+      "share": {
+        "link": "https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491510463684,
+      "content": "Jacky Zhang added you and Kristin Chingburanakit.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Kristin Chingburanakit"
+        },
+        {
+          "name": "Justin Le"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491280042976,
+      "content": "I might skip class if im feel edgy enough \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491280018389,
+      "content": "i have all my classes on Tuesdays too so probably wont even get to you stuff it you do things late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1491280004982,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491279998222,
+      "content": "so just fyi it is imperative that you send in stuff early before excomm so that i can do the prezi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1491279997071,
+      "content": "uhoh how this gonna work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491279979480,
+      "content": "So if you didnt know I have class from 6:30-7:50 on tuesdays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1491185124902,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491185087292,
+      "content": "Jacky sent a link.",
+      "share": {
+        "link": "https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491184996192,
+      "content": "woops wrong one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1491069472865,
+      "content": "Jenn: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491067904921,
+      "content": "remember to fill out the excomm agenda thing but its called gbm agenda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1489619717709,
+      "content": "thanks Jacky !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489619715026,
+      "content": "Jenn: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489619707095,
+      "content": "ill message the link in the minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489619700435,
+      "content": "its okay my bad forgetting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489619686812,
+      "content": "Literally two minutes :( sorry. I just got on my break so I just saw it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489619670327,
+      "content": "IK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489619663985,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489619417217,
+      "content": "https://goo.gl/forms/3VehMzxzLYSQNhsg1",
+      "share": {
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScAUxIXHA8Oj0IXHsr4UKmsa1Pph0Ciba5ziNOwd1ebArfuLg/viewform?c=0&w=1&usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489613415876,
+      "content": "@Tiffany @Jennifer how do you vote for the houses?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489551544481,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1489551536952,
+      "content": "okok\nTalent -\nhttps://docs.google.com/forms/d/e/1FAIpQLScYk4aqdF3KJSwQGi05Sw4czdt3btjbytU6xRp92UpYz9174Q/viewform?usp=sf_link\n\nRetreat-\nhttps://docs.google.com/forms/d/e/1FAIpQLSeX94OckZLO7zfgR0vJbRl1RHieBdUuCpVejy_n9RWIlMnDcg/viewform?c=0&w=1&usp=send_form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489551518678,
+      "content": "yeah that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489551503305,
+      "content": "and also i didnt even get the forms\u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1489551501386,
+      "content": "LOL With links?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489551480122,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1489550622532,
+      "content": "@Jacky can you include our interest forms in the minutes ? Do you need us to resend it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489430394555,
+      "content": "Retreat and talent are finished/updated. Thanks Jacky!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489398043276,
+      "content": "Jacky: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1489395162658,
+      "content": "Hi Jacky! Tiff and I are doing some last minute changes to our retreat slide. It's not done yet since I still have to make a slideshow and add the link, but it should be done before Tuesday afternoon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489370287264,
+      "content": "idk if you know this but we at moss cove",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489180019482,
+      "content": "if you need help with anything i got you \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1489179873047,
+      "content": "reminder: https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=sharing",
+      "share": {
+        "link": "https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488933594032,
+      "content": "LOL you were distraacted from THAT SPIRIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488933573058,
+      "content": "good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1488933560806,
+      "content": "same... i tried to do it at the 1st gbm but I lost count and got distracted T_T",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488933526651,
+      "content": "LOL I'm just kidding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488933506930,
+      "content": "well i guess i wont count you guys for this one then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488933137994,
+      "content": "can I play now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488933133011,
+      "content": "I resign from my positions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1488933115349,
+      "content": "\u00f0\u009f\u0098\u009e damn it i wanted to win",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488929769452,
+      "content": "im talking about the prezi count competition",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488929767293,
+      "content": "what message thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488929696833,
+      "content": "fyi you cant do the message thing anymore because of this LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488929492099,
+      "content": "http://prezi.com/wk9rtj5wceld/?utm_campaign=share&utm_medium=copy",
+      "share": {
+        "link": "https://prezi.com/wk9rtj5wceld/a-gbm-4/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1488929184468,
+      "content": "Marcus sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/RecSecAppointed_AEEK15M_OA/photos/17160503_1569846536377600_1510601105_n_1569846553044265.gif",
+          "creation_timestamp": 1488929179
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488928988895,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488928165645,
+      "content": "I respond to jacket too sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488928158936,
+      "content": "i know it hapens to me all the time :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488928049452,
+      "content": "Tbh it auto corrected it to that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488928043262,
+      "content": "JKS LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488928011438,
+      "content": "ha you mean jacket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488927952377,
+      "content": "Thanks for keeping everything organized Jackey! :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488923109459,
+      "content": "Tiffany: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488921052481,
+      "content": "fyi yall im not changing music today yet cause i dont have a lot of time; also last week not everyone had a chance to have music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488752654681,
+      "content": "rip me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488752642448,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Ving",
+      "timestamp_ms": 1488752630965,
+      "content": "but we don't have the same requirements as neos!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488752593353,
+      "content": "still, appointed positiosn are Neos lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488752582258,
+      "content": "Jenn named the group Rec. Sec + Appointed.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488752569319,
+      "content": "JKS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488752527500,
+      "content": "what? yall are appointed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenn Chore",
+      "timestamp_ms": 1488752496009,
+      "content": "Jenn named the group Rec. Sec + NEOs.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488679272795,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1488678000340,
+      "content": "This is really helpful !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1488676689264,
+      "content": "thanks jacky!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488676316513,
+      "content": "remember you dont have to put stuff down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488676301636,
+      "content": "here is the link so yall can edit :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488676292991,
+      "content": "https://docs.google.com/document/d/1ngTOu2BcfrX0yS7g2ZA1vt9dgvgrS-4NTGQHA5lTZhU/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675893446,
+      "content": "so that i wont have message you all all the time for the info",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675874924,
+      "content": "okay well, idk what what justin has told you guys but i guess ill just send you guys a google doc so you can fill it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675846949,
+      "content": "That'll cover retreat and talent for Jenn and I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675833852,
+      "content": "You can share it with us at\nRhorhotalent@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675815562,
+      "content": "No ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675798694,
+      "content": "did you get it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675725176,
+      "content": "i have a separate google doc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1488675724476,
+      "content": "Yea justin mentioned it to us dw!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675717074,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675711617,
+      "content": "On agenda off agenda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675701760,
+      "content": "not a must",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675701253,
+      "content": "I thought we share our stuff at excom ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675697000,
+      "content": "i mean if you want to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675692859,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tiffany Sekacnap Yrettub Nguyen",
+      "timestamp_ms": 1488675688278,
+      "content": "OH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675681995,
+      "content": "yall are appointed positions and sometimes you will need to put stuff up during the gbms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1488675638509,
+      "content": "Hello, sorry for being trash and a bit late",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rec. Sec + Appointed",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/RecSecAppointed_AEEK15M_OA"
+}

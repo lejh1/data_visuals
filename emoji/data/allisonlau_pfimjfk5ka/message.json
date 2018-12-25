@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Allison Lau"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494787318588,
+      "content": "Say hi to your new Facebook friend, Allison.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Allison Lau",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AllisonLau_PFIMjfk5KA"
+}

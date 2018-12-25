@@ -1,0 +1,868 @@
+{
+  "participants": [
+    {
+      "name": "Serena Ang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533496197739,
+      "content": "The Caltrain boys arrive at 1, it takes 15 mins to go down, +need to allow for Uber order time so I\u00e2\u0080\u0099d say meet at 1:30",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533496129728,
+      "content": "Okay what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533496121606,
+      "content": "Like everyone meet there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533496117140,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/SerenaAng_5ixvUyb_3g/photos/38462775_2040191472960876_5455239813227610112_n_2040191426294214.jpg",
+          "creation_timestamp": 1533496116
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533496109157,
+      "content": "Okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533496108626,
+      "content": "Ok John says to meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533495789727,
+      "content": "Wait yea I just looked at the map...going up to Mountain View is like completely out of the way for you, me, john. Let\u00e2\u0080\u0099s meet them somewhere near the head of the trail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533495631908,
+      "content": "\u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f you can suggest that point haha I didn\u00e2\u0080\u0099t really look into where the trail is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533495594874,
+      "content": "Wait wouldn\u00e2\u0080\u0099t it make more sense to just meet them at the trail? Because going all the way up to mountain view but then back down to Los Gatos is out of the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533495450781,
+      "content": "Imma Uber cause there\u00e2\u0080\u0099s too many ppl to fit in my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533495351512,
+      "content": "What time are you leaving? Can I go with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533495308830,
+      "content": "Lol 1ish at MV train station I believe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1533495287428,
+      "content": "Dude what time are we meeting/where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1532585607490,
+      "content": "i registered and got a free ticket. ill be out of town so i want to give it to someone who will actually go. it seems that theyre trying to make it more exclusive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532559958734,
+      "content": "Oooo lemme see if anyone else is going! Why can\u00e2\u0080\u0099t you go?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1532552271148,
+      "content": "Are you interested in the travelers sunset rooftop party event on Friday? I can\u00e2\u0080\u0099t go but I was sent an email invite to access the event if you want my spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1532300495329,
+      "content": "Wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1532300395282,
+      "content": "COME BAKE WITH ME AND PLAY VIDEO GAMES WITH JOHN",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1532300382245,
+      "content": "HI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1532300380522,
+      "content": "YO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529859247432,
+      "content": "I\u00e2\u0080\u0099ll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859235537,
+      "content": "Oh okay nvm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529859228360,
+      "content": "Coming to 165",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529859223424,
+      "content": "I asked the conductor s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859202648,
+      "content": "I\u00e2\u0080\u0099m sure we can find seats again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859189209,
+      "content": "I\u00e2\u0080\u0099ll just get up and come look for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529859164314,
+      "content": "I\u00e2\u0080\u0099m between 169 and 223",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859159110,
+      "content": "Wya haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859087510,
+      "content": "I see 165",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859053624,
+      "content": "I\u00e2\u0080\u0099m on the top floor of some car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529859047584,
+      "content": "Okay uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529859041822,
+      "content": "Ok hi I\u00e2\u0080\u0099m inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858934513,
+      "content": "Left side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858934388,
+      "content": "Track 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858934186,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858877509,
+      "content": "The one near the entrance to the track",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858868828,
+      "content": "Closest as in what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858834395,
+      "content": "Get the closest one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858782071,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858776300,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858775863,
+      "content": "Get seats on the train",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858770994,
+      "content": "Ok I\u00e2\u0080\u0099ll be there in 2 Mina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858765123,
+      "content": "It\u00e2\u0080\u0099s ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858740153,
+      "content": "Also I\u00e2\u0080\u0099m out side!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858722542,
+      "content": "Okay I couldn\u00e2\u0080\u0099t find the youth discount thingy and I was starting to take to long so I bought the full price day pass I\u00e2\u0080\u0099m sorry!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858546447,
+      "content": "Don\u00e2\u0080\u0099t thank me yet I haven\u00e2\u0080\u0099t gotten close to buying it yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858525542,
+      "content": "Thanks so much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858402453,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858392212,
+      "content": "Do I get a day pass lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858369646,
+      "content": "Oh my okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858357730,
+      "content": "10 kind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858354633,
+      "content": "Lol like not close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858265189,
+      "content": "How far are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858124851,
+      "content": "Gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858082844,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858075904,
+      "content": "Do I need proof cause I don\u00e2\u0080\u0099t have my Student Id",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858045479,
+      "content": "Before putting in zone location, click discount then click student",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858037614,
+      "content": "Which ticket do I get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858021347,
+      "content": "Oh how do I do that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529858011978,
+      "content": "Get the youth discount 1/2 price",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529858004725,
+      "content": "Sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529857996246,
+      "content": "If it is can you get mine I\u00e2\u0080\u0099ll Venmo you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857993893,
+      "content": "Very",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529857990012,
+      "content": "Is the ticket line long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857798945,
+      "content": "It\u00e2\u0080\u0099s insanely crowded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529857659814,
+      "content": "Ok I\u00e2\u0080\u0099ll be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857650533,
+      "content": "I\u00e2\u0080\u0099m pulling up rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529857644570,
+      "content": "Lemme know when you get to the train station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853755516,
+      "content": "And okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853752612,
+      "content": "Oh hm I guess we could uber closer or walk idk haha I\u00e2\u0080\u0099m not used to Bay Area and all this public transportation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529853690881,
+      "content": "Lol yea I\u00e2\u0080\u0099m still down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529853670087,
+      "content": "The Caltrain station in SF is like not near the parade tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853644223,
+      "content": "You\u00e2\u0080\u0099re still down to go? I know you wanted more people to go so it\u00e2\u0080\u0099s okay if you wanna back out!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529853616867,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853595346,
+      "content": "So Bernard knows we are coming and I think will meet us at the station. Is it just us and his friends?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853557662,
+      "content": "You\u00e2\u0080\u0099re very on top of it with the whole planning thing and being prepared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529853517639,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/SerenaAng_5ixvUyb_3g/photos/36064773_2081785422034229_5956695167934136320_n_2081785415367563.jpg",
+          "creation_timestamp": 1529853516
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853324221,
+      "content": "I kinda wanna go see what gay pride in sf looks like since I\u00e2\u0080\u0099ll probably never go again lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853299594,
+      "content": "We probably won\u00e2\u0080\u0099t stay for long! Just to check it out then get lunch then whatever else Bernard has in mind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853255865,
+      "content": "Idk i didn\u00e2\u0080\u0099t really know it was hay pride until we established we were going to sf lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529853159995,
+      "content": "Wait lol so why are we doing to a gay pride again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529853023343,
+      "content": "I was just gonna wear some band shirt I own, joggers and running shoes lol imma just try to be comfy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852990013,
+      "content": "Me either lol and I don\u00e2\u0080\u0099t really own colors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529852959894,
+      "content": "I\u00e2\u0080\u0099ve never to been to this kind of parade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529852951296,
+      "content": "What are you wearing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852810084,
+      "content": "Alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529852800729,
+      "content": "I\u00e2\u0080\u0099ll ask Shivani rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852778204,
+      "content": "Awww",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529852772659,
+      "content": "Also Katie just texted me that she can\u00e2\u0080\u0099t go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852770439,
+      "content": "Gotcha okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529852763974,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529852750329,
+      "content": "So meet at the San Diridon station at 9:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529848948637,
+      "content": "Ohhh my okay this works!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529829487388,
+      "content": "https://hoodline.com/2018/06/a-survival-guide-to-san-francisco-s-2018-pride-parade",
+      "share": {
+        "link": "https://hoodline.com/2018/06/a-survival-guide-to-san-francisco-s-2018-pride-parade"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529829249322,
+      "content": "Serena sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/SerenaAng_5ixvUyb_3g/photos/36050593_2081502188729219_8123861435575959552_n_2081502165395888.jpg",
+          "creation_timestamp": 1529829249
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529829242082,
+      "content": "The train departs the station at exactly 9:51 and still need to purchase ticket so arrive ~9:30ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529829073840,
+      "content": "Let\u00e2\u0080\u0099s take the 9:51am baby bullet train (it\u00e2\u0080\u0099s the first red column north bound)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529829043100,
+      "content": "http://www.caltrain.com/schedules/weekend-timetable.html",
+      "share": {
+        "link": "http://www.caltrain.com/schedules/weekend-timetable.html"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529823050874,
+      "content": "but anywayssss, what time do you think we should meet up at caltrain?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529823027993,
+      "content": "idk like half the people aren't responding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529782328749,
+      "content": "What do you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529781454892,
+      "content": "Yea actually tho. What if the others made a different plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529772447490,
+      "content": "Yea same but no one is responding it\u00e2\u0080\u0099s weird. I\u00e2\u0080\u0099m probably gonna go regardless if anyone else goes so lemme know if you wanna catch the train together or something!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529769104990,
+      "content": "I think so, but I want other people to go tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529768768571,
+      "content": "Are you going Sunday? No one is responding in the group chat lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529714339578,
+      "content": "I apparently asked the right person lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Serena Ang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529713651080,
+      "content": "If you\u00e2\u0080\u0099re in north San Jose, great mall in Milpitas is not to shabby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529713612844,
+      "content": "But Santana row parking can be pretty bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529713586449,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529713426103,
+      "content": "Eastridge...maybe....but it\u00e2\u0080\u0099s not the greatest. It\u00e2\u0080\u0099s in east San Jose tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529713373036,
+      "content": "South San Jose: oakridge mall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529713363557,
+      "content": "West San Jose: Santana row theatre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529712862547,
+      "content": "Hi what\u00e2\u0080\u0099s a safe a movie theater to go to in San Jose? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529433508685,
+      "content": "Yea! I\u00e2\u0080\u0099ll add her",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529431556807,
+      "content": "What about Katie? Is she okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529431530191,
+      "content": "Oh yea I didn\u00e2\u0080\u0099t really like him either it\u00e2\u0080\u0099s okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529431515910,
+      "content": "Omg I\u00e2\u0080\u0099m being so mean\u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529431499792,
+      "content": "And the spitting dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529430494555,
+      "content": "Oh yea him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529430185877,
+      "content": "This guy named nabeil(?) he was the one who kept messaging me during the event and when I looked his last name up it was like the name for isis militant fighters and then he found all my social media and tried requested to friend me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429961413,
+      "content": "I know Calvin is one lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429951374,
+      "content": "Who?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529429942339,
+      "content": "Lol np it\u00e2\u0080\u0099s fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529429923658,
+      "content": "But I don\u00e2\u0080\u0099t want to put it in group chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529429910652,
+      "content": "Omg yes there\u00e2\u0080\u0099s like 5 guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529365061727,
+      "content": "Oh yea maybe I\u00e2\u0080\u0099ll try that. Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529364946643,
+      "content": "The taco place we passed yesterday? La Victoria taqueria",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529364809983,
+      "content": "That you recommend ^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529364792589,
+      "content": "What\u00e2\u0080\u0099s a place in San Jose where I can get a quick dinner that\u00e2\u0080\u0099s not fast food lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529326286486,
+      "content": "Oh my he\u00e2\u0080\u0099s a bit insecure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529306570854,
+      "content": "\u00e2\u0080\u009cMmm i guess cause you didnt wanna ride with me?\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529306184541,
+      "content": "\u00e2\u0080\u009cDid I do something to annoy you?\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529304337160,
+      "content": "I\u00e2\u0080\u0099m so sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1529304334327,
+      "content": "Omg wow lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Serena Ang",
+      "timestamp_ms": 1529303598516,
+      "content": "Omg Calvin just messaged me \u00e2\u0080\u009cconnected a lot with justin?\u00e2\u0080\u009d",
+      "type": "Generic"
+    }
+  ],
+  "title": "Serena Ang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SerenaAng_5ixvUyb_3g"
+}

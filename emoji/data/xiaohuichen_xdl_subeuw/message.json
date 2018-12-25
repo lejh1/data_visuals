@@ -1,0 +1,445 @@
+{
+  "participants": [
+    {
+      "name": "Xiaohui Chen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1500787164225,
+      "content": "Jw lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1500787129869,
+      "content": "Nope lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1500787034709,
+      "content": "Justin are you working today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496456255277,
+      "content": "Xiaohui: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496454797603,
+      "content": "Idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496454793573,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1496451195716,
+      "content": "Justin what time are you going to be at cha night \u00f0\u009f\u0098\u008a just making sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495337017108,
+      "content": "Thanks don't worry this won't happen again lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336984292,
+      "content": "It's cooool I rather you bother me than be stranded lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336905803,
+      "content": "Sorry for wasting your time I really appreciate it troop leader \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336776029,
+      "content": "Have a nice walk lo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336770101,
+      "content": "Thanks troop leader \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336757077,
+      "content": "Lol k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336734617,
+      "content": "If you're close to home just go back LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336720501,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336718989,
+      "content": "Want me go back home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336714238,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336710288,
+      "content": "Why did google say it was an hour walk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336702573,
+      "content": "I think I might be closer than I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336695138,
+      "content": "Wait lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336573388,
+      "content": "I'll pull over when I see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336566693,
+      "content": "Okay keep going up university",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336564455,
+      "content": "Xiaohui sent a live location.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336556050,
+      "content": "Just crossed jamboree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336550981,
+      "content": "I'm on university",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336531321,
+      "content": "Jamboree or university",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336525562,
+      "content": "Towards uci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336521073,
+      "content": "Which way you walking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336511880,
+      "content": "Do you want me to stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336510519,
+      "content": "Oooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336505184,
+      "content": "No I started walking back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336502741,
+      "content": "lol I don't wanna get lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336493668,
+      "content": "So you're at a bus station rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336484112,
+      "content": "Ik it's the last because google map doesn't show anymore routes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336473939,
+      "content": "Then I went back the last bus passed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336463321,
+      "content": "So I rushed to get change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336458470,
+      "content": "And only 20$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336454851,
+      "content": "And then I realized I didnt have change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336445368,
+      "content": "So like I was at the bus station",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336431644,
+      "content": "So you're off the bus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336394264,
+      "content": "I'm on jamboree x university now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336372054,
+      "content": "And it was the last one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336367312,
+      "content": "The bus just passed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336362063,
+      "content": "I'm sorry troop leader \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336337320,
+      "content": "Lolol I'll be there in like 10 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336266813,
+      "content": "Thanks troop leader if you can make it \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336244108,
+      "content": "lol I'll see if I can get you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336241854,
+      "content": "Am I!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336235123,
+      "content": "Oh god you're far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336214082,
+      "content": "Ther we go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336209248,
+      "content": "Xiaohui sent a live location.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336195875,
+      "content": "How do I share it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336191371,
+      "content": "Map",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336189519,
+      "content": "Location",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336168807,
+      "content": "Lmaoooo where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336146703,
+      "content": "It's an hour walk away but like 4 minutes by car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336136358,
+      "content": "I missed my last bus stop \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad could you pick me up it's fine if ou can't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495336114552,
+      "content": "Laying in bed why lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336103823,
+      "content": "Justin what are you doing rn!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1495336092333,
+      "content": "Justin what are you doing rn!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493254968611,
+      "content": "XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493254945335,
+      "content": "You're fucked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493254932165,
+      "content": "TROOP LEADER",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493254927876,
+      "content": "NO PLEASE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493254922367,
+      "content": "You'll get a signature at cha night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493254918389,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493254913773,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493254912098,
+      "content": "You suck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493253948439,
+      "content": "I'll reschedule to another day lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xiaohui Chen",
+      "timestamp_ms": 1493249131211,
+      "content": "Hey Justin may I interview you at 6pm today? I understand if you cant because its on short notice.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492601670464,
+      "content": "Say hi to your new Facebook friend, Xiaohui.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Xiaohui Chen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/XiaohuiChen_xDL_suBeUw"
+}

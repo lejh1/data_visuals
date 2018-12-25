@@ -1,0 +1,186 @@
+{
+  "participants": [
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1537667373539,
+      "content": "I am Justin Le, a fourth-year Computer Engineering student at University of California, Irvine. Being a Computer Engineering major, I was always torn between pursuing a career in software or hardware. This past summer, I had the opportunity to intern at an aerospace company (SSL) working on testing low-level bus internal communication network systems and developing Python tools to help automate data flow and power analytics for spacecraft systems. While the low-level work was interesting and a high learning curve, I grew fond of working on the Python tools because I really enjoyed the aspect of being part of the problem-solving side of work rather than testing someone else\u00e2\u0080\u0099s solutions. I found excitement in looking at the data flow and figuring out what data structures and algorithms could be implemented to automate the process of previous manual data entry. \nBecause of this interest, I decided that I wanted to improve my skills in high-level software and pursue a career in Software Engineering or Data Engineering. I took it upon myself to start reading \u00e2\u0080\u009cCracking the Coding Interview\u00e2\u0080\u009d and enrolled in University of Michigan\u00e2\u0080\u0099s online course \u00e2\u0080\u009cApplied Data Science with Python\u00e2\u0080\u009d. Therefore, the Software Engineering Intern position at Ultra Mobile interests me because it will give me an opportunity to learn and improve my skills while also teaching me how to best apply myself that will benefit a company such as yours. I saw this posting on Glassdoor and at the time, I did not know a lot about Ultra Mobile. However, Ultra Mobile specifically interests me because after reading the overall positives Glassdoor reviews, it seems like an amazing, fun place to work and a great place to grow as an aspiring Software Engineer.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1537666013751,
+      "content": "Being a Computer Engineering, I was always torn between pursuing a career in software or hardware. This past summer, I had the opportunity to intern at an aerospace company (SSL) working on low-level bus communication network systems and developing Python tools to help automate data analytics for spacecraft systems. While the low-level work was interesting, I grew fond of the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1537575478185,
+      "content": "https://uci.joinhandshake.com/jobs/1816380?ref=web-app-job-search&search_id=f3ce7c94-6cd9-40c7-928c-a069a56b400c",
+      "share": {
+        "link": "https://uci.joinhandshake.com/login"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528659506494,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/34919398_560031567725205_4784769914806206464_n_560031561058539.jpg",
+          "creation_timestamp": 1528659506
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527190958929,
+      "content": "https://stackoverflow.com/questions/9196514/using-a-stack-to-traverse-and-solve-a-maze-java",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525120344958,
+      "content": "http://gifsstore.com/public/upload/gifs/15251203291525120327.gif",
+      "share": {
+        "link": "http://gifsstore.com/public/upload/gifs/15251203291525120327.gif"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525119733060,
+      "content": "You sent a GIF.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/gifs/30831946_542384096156619_592045440568918016_n_542384092823286.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523758846950,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/30705095_535386303523065_2184068780722749440_n_535386300189732.jpg",
+          "creation_timestamp": 1523758844
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523758128412,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/30709177_535383456856683_759819623498514432_n_535383450190017.jpg",
+          "creation_timestamp": 1523758126
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521962890633,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/29404528_525733264488369_202794012_o_525733264488369.jpg",
+          "creation_timestamp": 1521962890
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521925929685,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/29391225_525551607839868_1802125743_o_525551607839868.jpg",
+          "creation_timestamp": 1521925929
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520324874097,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/28822069_516694912058871_427958874_o_516694912058871.jpg",
+          "creation_timestamp": 1520324873
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520324869827,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/28822271_516694905392205_1470407606_o_516694905392205.jpg",
+          "creation_timestamp": 1520324869
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520020045109,
+      "content": "https://www.ae.com/swimwear-aerie-cheeky-bikini-bottom-emerald/aerie/s-prod/1754_9819_311",
+      "share": {
+        "link": "https://www.ae.com/swimwear-aerie-cheeky-bikini-bottom-emerald/aerie/s-prod/1754_9819_311"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520020033551,
+      "content": "https://www.ae.com/swimwear-aerie-wrap-scoop-bikini-top-emerald/aerie/s-prod/0753_9853_311",
+      "share": {
+        "link": "https://www.ae.com/swimwear-aerie-wrap-scoop-bikini-top-emerald/aerie/s-prod/0753_9853_311"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518464448930,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/28124891_506721893056173_164703174_o_506721893056173.jpg",
+          "creation_timestamp": 1518464446
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518461756661,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JustinLe_mCYzv5A04g/photos/28052552_506702273058135_597995982_n_506702273058135.png",
+          "creation_timestamp": 1518461756
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin Le",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JustinLe_mCYzv5A04g"
+}

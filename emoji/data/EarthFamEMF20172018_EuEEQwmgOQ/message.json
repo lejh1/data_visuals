@@ -1,0 +1,1957 @@
+{
+  "participants": [
+    {
+      "name": "Priscilla Luu"
+    },
+    {
+      "name": "Christina Hanna"
+    },
+    {
+      "name": "Rory Walsh"
+    },
+    {
+      "name": "Ani Sarkissian"
+    },
+    {
+      "name": "Christine Tran"
+    },
+    {
+      "name": "Tree Otniugs"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Aubrey Yuen"
+    },
+    {
+      "name": "Alec Vartanians"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1511390114441,
+      "content": "Hey fams come through tomorrow if you\u00e2\u0080\u0099re around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1511390110219,
+      "content": "Christina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EarthFamEMF20172018_EuEEQwmgOQ/photos/23825716_10215258732330201_448338714_o_10215258732330201.jpg",
+          "creation_timestamp": 1511390109
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510957936165,
+      "content": "Hey fams! I added you to the Potluck event page, please feel free to edit anything/ plan it out with Tristan and I (:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1510034072197,
+      "content": "Hello pls message your mentees and confirm if they are going  tomorrow so we can carpool and stuff if we need to :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509928556418,
+      "content": "Hello! I hope y\u00e2\u0080\u0099all are having a beautiful Sunday \u00f0\u009f\u0098\u008a if you haven\u00e2\u0080\u0099t already, please fill out the poll on our fam page for tacos this Tuesday (pls come through it\u00e2\u0080\u0099ll be fun I promise) and if you haven\u00e2\u0080\u0099t already added your mentees to the page, please do! Thank you much love \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509758397185,
+      "content": "Also please add your mentees to the Facebook page \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509755937966,
+      "content": "Come through Vdc for some Mochi and funs at 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509080885576,
+      "content": "Did you take a pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509080492813,
+      "content": "@Christina I hung out with my mentee are you happy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Aubrey Yuen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509055841208,
+      "content": "I\u00e2\u0080\u0099m sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509055831667,
+      "content": "nah",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1509055812272,
+      "content": "YO HANG OUT WITH YO MENTEES YALL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508692639629,
+      "content": "Hey fam! Come brighten your day with a bouquet of flowers at the Vdc court yard from 11:00-12pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508560263254,
+      "content": "Yassss we can like do taco Tuesday or something soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1508560174644,
+      "content": "We can try doing a group thing",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508560089204,
+      "content": "Maybe make it like a \u00e2\u0080\u009cStudy sesh\u00e2\u0080\u009d so she can\u00e2\u0080\u0099t cancel if she\u00e2\u0080\u0099s \u00e2\u0080\u009cstudying\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508560004604,
+      "content": "Awww I\u00e2\u0080\u0099m sorry just keep trying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508559992602,
+      "content": "Ya but she keeps canceling on me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508559975411,
+      "content": "Tbh same is yours replying??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508559961161,
+      "content": "I haven't met my mentee yet rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508559957974,
+      "content": "This ones for the mentors \u00f0\u009f\u0099\u0088",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508559948586,
+      "content": "No lol we\u00e2\u0080\u0099ll make another chat for all of us soon tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508559925433,
+      "content": "Do we add them to the chat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1508559337417,
+      "content": "Hey beautiful people! Don\u00e2\u0080\u0099t forget to add your mentees to the earth fam page!! Have a beautiful weekend y\u00e2\u0080\u0099all \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1507938682090,
+      "content": "Hope to see everyone at the reveal at the esc room soon!!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1507841161433,
+      "content": "Hey fam!!! I'm having a networking night program today from 5-7 at the graduate villa and I'd love it if you came through. There's gunna be hella food and there's a raffle in the end for home supplies. I hope I see you tonight \u00f0\u009f\u0098\u008a\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tree Otniugs"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1507675493784,
+      "content": "Also if you missed our last family meeting, please make sure you get your dues in by today (in person or via venmo to Miran). Feel free to let me or Tristan know if you have any Qs \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1507674687706,
+      "content": "HEY FAM!!! This is a reminder that the mentor-mentee mixer is still on today at 7-8, meet at ics 219 and then we'll go to the ics plaza where the couches are!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506374840161,
+      "content": "Thanks for the invite though! Next time for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506374829049,
+      "content": "Sushi isn't really my thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ani Sarkissian",
+      "timestamp_ms": 1506374763528,
+      "content": "do u want to meet us there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ani Sarkissian",
+      "timestamp_ms": 1506374756356,
+      "content": "in diamond jamboree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ani Sarkissian",
+      "timestamp_ms": 1506374751574,
+      "content": "yes! we are going to kula revolving sushi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506374726203,
+      "content": "Is food still going on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506369294593,
+      "content": "I was being stupid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506369287811,
+      "content": "Found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1506369286660,
+      "content": "ICS 219",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1506369237984,
+      "content": "Yea should be the ics building",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506369193936,
+      "content": "Isn't it the one where he interviews and everything we're held?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1506369171288,
+      "content": "Where is the emf room?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1506359913161,
+      "content": "@Justin Le Venmo @mirangovind $10, make sure EMF dues is in the subject line and let Ani and I know if you use venmo through a screenshot! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1506351935160,
+      "content": "I can't make the meeting today at 1 \u00f0\u009f\u0098\u0094 I have sorority recruitment stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1506348400630,
+      "content": "You guys should be able to soon,  I'll update you with details later today or this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506348097989,
+      "content": "@Aubrey can we venmo?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aubrey Yuen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aubrey Yuen",
+      "timestamp_ms": 1506325049430,
+      "content": "Quick reminder, please bring $10 for mentor dues at the meeting! Ani or I will be there to collect them :) If you have any problems paying for the dues, let both or either of us know as soon as you can! They help us pay for socials and tshirts this year :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1506283176081,
+      "content": "Can't wait to see everyone's beautiful face <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1506271462075,
+      "content": "Hi guyssssss I'm just reminding y'all we have a meeting at 1 tomorrow at the esc room see ya there \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christine Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alec Vartanians"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1504119715370,
+      "content": "YASSSS \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1504118526455,
+      "content": "I may come thru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1504117056128,
+      "content": "Awwwww \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1504117042903,
+      "content": "\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1504117017368,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad I have work I wish I could come I'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1504116963633,
+      "content": "Hey y'all it's program time again!!! I'm having a coffee/board game program at the graduate villa tomorrow night from 6-8pm and I'd appreciate it if you guys came through \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1503351188123,
+      "content": "Christina sent a GIF from Tenor GIF Keyboard.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/EarthFamEMF20172018_EuEEQwmgOQ/gifs/19359480_280082825728737_2332917675593826304_n_10214490235038249.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1503349390081,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851540_313422262151927_13966834_n_313422258818594.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1503349219788,
+      "content": "Hello beautiful people! It's time to get down to business (to defeat the Huns). As a family of mentors, we need to have three meetings per quarter so can y'all fill out the when2meet with your fall quarter availability by this Friday (: The meetings will range anywhere between 30min-hour and the first meeting is mandatory for all mentors to show up! https://www.when2meet.com/?6277438-jmBpV",
+      "share": {
+        "link": "https://www.when2meet.com/?6277438-jmBpV"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502495229573,
+      "content": "Thank you <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502493701177,
+      "content": "Get better co :((((",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502493695504,
+      "content": "Come check it ou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502493691763,
+      "content": "Got a fresh cut today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492493581,
+      "content": "Send pics \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492489545,
+      "content": "Bless your souls y'all should go bother Tristan without me tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1502492467814,
+      "content": "Oh no! I'm sorry \u00f0\u009f\u0098\u0094 rest & feel better!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492451414,
+      "content": "*limps to boba*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492446326,
+      "content": "I ain't no bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492437972,
+      "content": "That's true lmao and thank you Christine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1502492436217,
+      "content": "Yesss get some rest please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1502492422501,
+      "content": "oh no, get better christina!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1502492401184,
+      "content": "we can just go another day!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502492379970,
+      "content": "So like about tonight... yo girl rolled her ankle and is going to the hospital so depending on what they tell me I may or may not go bother Tristan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502341775268,
+      "content": "Yaaasssssssss \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502341491025,
+      "content": "5:30 - 12:00",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502341483249,
+      "content": "boba on me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502341248862,
+      "content": "Probably just gunna bother Tristan and then go from there lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502341237068,
+      "content": "Aww okie it's chill if anyone else is free Friday night, let us know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1502339763325,
+      "content": "like 8/8:30 but I'm going home afterwards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502338964905,
+      "content": "Awwww man what time do you get off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1502337954930,
+      "content": "I have work too, but have fun guys!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502335180048,
+      "content": "Nah we coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1502335168413,
+      "content": "Make us drinks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502335149066,
+      "content": "Spare me pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502335137883,
+      "content": "Down af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1502335118776,
+      "content": "Can we hangout at 85",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1502335078079,
+      "content": "I have work:( but have fun!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502324944588,
+      "content": "Boomers and food?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502324931821,
+      "content": "Yooo same I'm free Friday night let's do something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1502323936193,
+      "content": "I'm free Friday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1502323221831,
+      "content": "I'm free after 5 everyday! Except for Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1502313728240,
+      "content": "Hey fams is anyone down for food sometime this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1501272188673,
+      "content": "Hey y'all shameless plug: I'm having a tie-dye program this Sunday so bring your shirts/pants/underwear and make it beautiful hahaha it's from 5-7 at the graduate villa in VDC and I bought a shit ton of ice cream so come out \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500326585219,
+      "content": "Ya for sure take your time lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1500326533296,
+      "content": "I'll do this when I can access a computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500325973053,
+      "content": "Thank you \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500325942712,
+      "content": "https://docs.google.com/spreadsheets/d/1QYspwaVHZBnIRWCUkwqCTYbaSTX_uTOBtk_SrkifOKc/edit#gid=0",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1QYspwaVHZBnIRWCUkwqCTYbaSTX_uTOBtk_SrkifOKc%2Fedit&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1QYspwaVHZBnIRWCUkwqCTYbaSTX_uTOBtk_SrkifOKc%2Fedit&ltmpl=sheets"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1500325901129,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500325896073,
+      "content": "I'll link it rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500325858943,
+      "content": "Could you potentially add them to the contact list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1500325826823,
+      "content": "I have friends who are in research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1500325799487,
+      "content": "Hey y'all does anyone in research/ have any friends in research that'd be willing to be contacts for freshman with questions about research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1500251648019,
+      "content": "Thank you! @Alec Vartanians @Tristan Guinto @Christine Tran",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Alec Vartanians"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1500247794869,
+      "content": "Happy birthday Michelle!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1500246208724,
+      "content": "Happy birthday!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1500245484412,
+      "content": "Happy birthday @Michelle Tanaka!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499737494583,
+      "content": "Christina Hanna added Ani Sarkissian and Aubrey Yuen.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ani Sarkissian"
+        },
+        {
+          "name": "Aubrey Yuen"
+        }
+      ]
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499737375909,
+      "content": "For the end of fallquarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499737349487,
+      "content": "We're also planning a secret Santa and white elephant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499736805376,
+      "content": "So if there's one thing y'all really wanna plan, we can do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499736791115,
+      "content": "This is what we discussed during kbbq lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499736774176,
+      "content": "Christina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EarthFamEMF20172018_EuEEQwmgOQ/photos/19830006_10214088510475386_217661211_o_10214088510475386.jpg",
+          "creation_timestamp": 1499736773
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1499736728973,
+      "content": "Hey y'all we need to start planning a social for fall quarter (one small or one big)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498949831842,
+      "content": "Thank you all for coming out!! We'll have more socials soon \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Michelle Tanaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Alec Vartanians"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498940736388,
+      "content": "We are in the back !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498940519673,
+      "content": "We're waiting for a table anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498940510974,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498940446570,
+      "content": "I'll be there in 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498940195481,
+      "content": "We here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498940181094,
+      "content": "I'll be there in 10!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498939737604,
+      "content": "Okay! We just got here! Should I grab a table?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498939706515,
+      "content": "No, sorry, I just got home so I'm about to head out \u00f0\u009f\u0098\u00ae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498939672148,
+      "content": "@Christine Tran are you there already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498939626370,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498939620440,
+      "content": "No worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498939614854,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498939310622,
+      "content": "I'm sorry should've send it earlier \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498939207402,
+      "content": "Went to wrong one",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498939203689,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938758300,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498938740744,
+      "content": "See y'all there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498938736560,
+      "content": "Okie we're heading to this one rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498938730569,
+      "content": "Christina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EarthFamEMF20172018_EuEEQwmgOQ/photos/19620038_10213976578797164_309430811_o_10213976578797164.jpg",
+          "creation_timestamp": 1498938730
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498938361159,
+      "content": "Imma go myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938189135,
+      "content": "Lmao okay see you there then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498938152286,
+      "content": "Oh jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938152012,
+      "content": "Want us turn around?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938146432,
+      "content": "Well like we were in Tustin LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938133013,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498938127461,
+      "content": "LOL do you wanna take one car still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498938119158,
+      "content": "We haven't left yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498938114757,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498938110009,
+      "content": "Okay we are on our way rn!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937780659,
+      "content": "\u00f0\u009f\u00a4\u0099",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498937766708,
+      "content": "Kk I'll go get Christina then \u00f0\u009f\u00a4\u0099",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937557056,
+      "content": "At shik^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937407910,
+      "content": "I also have @Michelle Tanaka with me lol I dragged along. You can just meet us there! \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498937370877,
+      "content": "Should we wait for them LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937354028,
+      "content": "They closed Harvard ave so i had to take a detour rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937315391,
+      "content": "I have my car so I can drive myself tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498937306495,
+      "content": "Uh so i have to deliver this key to someone so imma be a bit late sorry \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498937148135,
+      "content": "Okay! Let me know once you guys leave irvine and I can start heading over :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498937107776,
+      "content": "Save *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498937103889,
+      "content": "@Christine be there by 1:15-1:30 to be safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498937086946,
+      "content": "I think we're good with the rides but if you wanna car pool with us, you can park at vdc Norte and come in Tristan's car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498936796816,
+      "content": "So I'm at uci. I can pick up anyone that needs ride",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498936766580,
+      "content": "Should I be at shik by 1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498889925759,
+      "content": "It's any of you are on the way, within reason, maybe I can pick you up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498889896840,
+      "content": "This may be a little late, but I'm driving down from LA, so I'll taking the 2 to the 5 to the 605 to the 405 (cue Californians reference)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498887199797,
+      "content": "Okay!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498886006584,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498885995409,
+      "content": "Be ready by like 12:30??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498885988002,
+      "content": "Tristan is driving lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498885982307,
+      "content": "Yeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498884897410,
+      "content": "So one car then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498883469364,
+      "content": "Let's go to garden grove one and we'll take one car to you haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christine Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498883099123,
+      "content": "I'm cool with either one(:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498873991410,
+      "content": "If y'all are down for that one, let's do it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498873978182,
+      "content": "I was thinking the one on culver by 7leaves but the GG is lowkey better lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498871909750,
+      "content": "oh if we're going there I can drive myself since I live nearby(:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498871899023,
+      "content": "shik do rak in GG?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498871791318,
+      "content": "@Alec are you able to come tomorrow? \u00f0\u009f\u0098\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498871582325,
+      "content": "Awww it's all good I hope whatever it is gets resolved \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rory Walsh",
+      "timestamp_ms": 1498871548123,
+      "content": "Hey guys, I'm really sorry, something came up so I won't be there. Hopefully I can make it to a meet up later this summer. Have fun!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498871411791,
+      "content": "Shik do rak or red castle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498871385831,
+      "content": "which kbbq place are we going to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498871372686,
+      "content": "christina, I'll go with you!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498870793436,
+      "content": "So that's 3 of us for my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498870786142,
+      "content": "Tree: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498870673452,
+      "content": "Tristan!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498870657934,
+      "content": "So does Tristan and 7 of us are going total so like pick a car haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498870611188,
+      "content": "I have four spots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498870178137,
+      "content": "I am also at Norte!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498869565282,
+      "content": "Nice! I'm up at vdc grad if anyone is around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498869535430,
+      "content": "I can hop in with tristan at norte! We live close by",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498869023099,
+      "content": "I believe Tristan and I are driving but if someone else needs to leave early/etc, feel free to let us know and we'll arrange it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498868990611,
+      "content": "So where's a good place for y'all to be picked up/meet up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498710826055,
+      "content": "It's all good fam! I hope you have a beautiful week \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498710626374,
+      "content": "yes!! Please! I'm sorry guys!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498710611102,
+      "content": "Awww ok we'll miss you but we'll have more hang outs \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498707007087,
+      "content": "Hey guys I'm sorry... but I don't think i can come.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498605161616,
+      "content": "oh sick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498605159015,
+      "content": "I thought move ins were this weeknd?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498605156673,
+      "content": "Until July 6th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498605147888,
+      "content": "Bc move in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498605145359,
+      "content": "They're not checking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498605140603,
+      "content": "Yes you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498605118143,
+      "content": "mm it can't be vdc or norte lol cuz we all can't park there for free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498604800719,
+      "content": "Where's a good meeting place for y'all so we can carpool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498604785602,
+      "content": "Yayayayay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498603870745,
+      "content": "I SHOULD be able to though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498603805817,
+      "content": "I'm not sure at the moment \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498603760738,
+      "content": "Come meet your fam \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498603429616,
+      "content": "we're all gunna go eat kbbq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498603420884,
+      "content": "this saturday at 1!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498603330952,
+      "content": "I'm so sorry.... what day and time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498603280859,
+      "content": "@Priscilla Luu are you down?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498603266204,
+      "content": "Yayayay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498602170041,
+      "content": "I'm in LA, but I have to come down anyway",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498579242793,
+      "content": "Tristan and I can drive",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498578241214,
+      "content": "Yay! So who can drive?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498573555857,
+      "content": "Ya for sure we'll split into two cars \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rory Walsh",
+      "timestamp_ms": 1498570510157,
+      "content": "Sorry for the late response but can I tag along too? If that's too many though then I don't have to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498544449633,
+      "content": "Yayaya we can carpool \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498543288009,
+      "content": "I think that's 5? Me Christina Christine Michelle Justin?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michelle Tanaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498543245006,
+      "content": "Tree: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498539809177,
+      "content": "Ya for sure 1 works! Can I get a head count (like this message) so we can figure out rides pls \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christine Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498539765970,
+      "content": "Yes!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498539734686,
+      "content": "can we do it at 1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498539731927,
+      "content": "yeah!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498539675181,
+      "content": "So like does kbbq around 12-1pm this Saturday work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498347617627,
+      "content": "Down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498344766556,
+      "content": "Oh no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498344759672,
+      "content": "For @Justin Le to pay \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498344750956,
+      "content": "I'm also down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498344486044,
+      "content": "So you're paying? @Justin Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498344349208,
+      "content": "I'm good with it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498344198483,
+      "content": "So like y'all good with kbbq or would you prefer another food place/activity? We're open to suggestions lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498344041615,
+      "content": "Michelle voted for \"Lunch\" in the poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498343026356,
+      "content": "You voted for \"dinner\" in the poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498343023199,
+      "content": "You voted for \"Lunch\" in the poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498341415190,
+      "content": "Tree voted for \"Lunch\" in the poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498341393624,
+      "content": "Christine voted for \"Lunch\" in the poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498341355021,
+      "content": "Christina created a poll: Lunch or dinner? \u00f0\u009f\u0098\u00ae.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498341308249,
+      "content": "Lunch or dinner? \u00f0\u009f\u0098\u00ae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498339651881,
+      "content": "@Tristan Guinto if you pay for me \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michelle Tanaka"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498338190361,
+      "content": "Are y'all down for kbbq? Or maybe something cheaper LOL",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498338163025,
+      "content": "Tree: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498330689689,
+      "content": "So does Saturday of week 1 (a week from today) sound good?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498285267356,
+      "content": "Michelle voted for \"Saturday\" and 1 other option in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498284674176,
+      "content": "Alec voted for \"Saturday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rory Walsh",
+      "timestamp_ms": 1498283009856,
+      "content": "Rory sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/EarthFamEMF20172018_EuEEQwmgOQ/photos/19441331_10207408620494332_1268076779_n_10207408620494332.jpg",
+          "creation_timestamp": 1498283009
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christine Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tree Otniugs"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rory Walsh",
+      "timestamp_ms": 1498282994334,
+      "content": "Rory voted for \"Saturday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498282939498,
+      "content": "Christine voted for \"Saturday\" and 4 other options in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282912069,
+      "content": "Tree voted for \"Saturday\" and 3 other options in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498282896699,
+      "content": "Christina voted for \"Saturday\" and 2 other options in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498282868688,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282839528,
+      "content": "I was low key driving and making this poll LOL",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498282404191,
+      "content": "@Tristan Guinto gree? Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282394662,
+      "content": "Tree removed vote for \"Saturday\" and 4 other options in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282390074,
+      "content": "Tree voted for \"Saturday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282387779,
+      "content": "Tree voted for \"Friday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282386090,
+      "content": "Tree voted for \"Thursday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282380884,
+      "content": "Tree voted for \"Wednesday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282371110,
+      "content": "Tree changed vote to \"Tuesday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282343718,
+      "content": "Tree voted for \"Monday\" in the poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498282335252,
+      "content": "Tree created a poll: What days are y'all most gree.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498282194960,
+      "content": "Yaya what days are y'all the most free? Weekend maybe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498281812914,
+      "content": "\u00e2\u00ac\u0087\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498281455513,
+      "content": "I'm down(:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498281085054,
+      "content": "I am also down!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498281062145,
+      "content": "I'm down! \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498280949430,
+      "content": "Okie for those of you who'll be around, would you be down to grab some food sometime in the next two weeks and get to know your fam? If you're not around, don't worry! We'll be having more mini socials \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Priscilla Luu",
+      "timestamp_ms": 1498185936591,
+      "content": "I'm sorta be around...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Tran",
+      "timestamp_ms": 1498185363238,
+      "content": "I'll be around! \u00f0\u009f\u0099\u008b\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1498182074364,
+      "content": "No :(",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Michelle Tanaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1498179867180,
+      "content": "Same!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michelle Tanaka"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498179847740,
+      "content": "Me \u00f0\u009f\u0099\u008b\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498179618837,
+      "content": "Who's gunna be around this summer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498157437348,
+      "content": "Tree named the group Earth Fam EMF 2017-2018.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tree Otniugs",
+      "timestamp_ms": 1498157410888,
+      "content": "Tree changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michelle Tanaka",
+      "timestamp_ms": 1498151436906,
+      "content": "Yessssss \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00e2\u0098\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Christina Hanna"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1498144995770,
+      "content": "Hey!!! Are y'all ready to be a down to EARTH fam? \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    }
+  ],
+  "title": "Earth Fam EMF 2017-2018",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/EarthFamEMF20172018_EuEEQwmgOQ"
+}

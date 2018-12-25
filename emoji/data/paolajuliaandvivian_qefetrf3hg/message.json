@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Julia Wong"
+    },
+    {
+      "name": "Justin Le"
+    },
+    {
+      "name": "Vivian Sweha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1486327257302,
+      "content": "Of course\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486327151783,
+      "content": "When I have time I will!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1486327111469,
+      "content": "Anytime troopie \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1486327050517,
+      "content": "Soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1486327048905,
+      "content": "come eat w us sooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486327048803,
+      "content": "Luuuv yyaaa\u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1486327043552,
+      "content": "\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486327039384,
+      "content": "\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486327038288,
+      "content": "THANK YOU GUYS\u00e2\u0098\u00ba\u00e2\u0098\u00ba\u00e2\u0098\u00ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486327021742,
+      "content": "You created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paola, Julia and Vivian",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/PaolaJuliaandVivian_QefetrF3hg"
+}

@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Jerimi Vindua"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594888659,
+      "content": "meet at the student center stage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594868215,
+      "content": "lmfao fml i think i got mixed up\ni thought we were meeting at the flagpoles at 3:50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594813267,
+      "content": "wait meet time is 4 anyways LOL so you're good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594775564,
+      "content": "oh no i just got confused because we're not doing it at the flagpoles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594745317,
+      "content": "is there something i'm forgetting??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594739212,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594737765,
+      "content": "yaaaaah LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594728190,
+      "content": "are you talking about the photoshoot LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594719655,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594710159,
+      "content": "are you sure? like at the flagpoles??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594691120,
+      "content": "that's cool i can stay then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594685292,
+      "content": "i'm free after 4 on tuesdayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478594667324,
+      "content": "wait so what time are you free on tuesday :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594637938,
+      "content": "what should i do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594633914,
+      "content": "and class from 3-5 on wed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1478594627570,
+      "content": "Hey y'all sorry to be a pain in the ass\nbut i got assigned a shift for research from 2-4....",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin, Lawrance, Jerimi and Kristine",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinLawranceJerimiandKristine_BGXJ4bkpLw"
+}

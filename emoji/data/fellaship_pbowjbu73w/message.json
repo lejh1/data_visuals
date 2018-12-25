@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Jenny Tran Nguyen"
+    },
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenny Tran Nguyen",
+      "timestamp_ms": 1477197236348,
+      "content": "Jenny named the group Fellaship.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenny Tran Nguyen",
+      "timestamp_ms": 1477197221846,
+      "content": "Jenny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734331_1601168636781721_1823464284_n_1601168630115055.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477196127480,
+      "content": "Yes!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenny Tran Nguyen",
+      "timestamp_ms": 1477191063433,
+      "content": "after you're done with logging the sign in sheet can you give us the sign in sheets ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenny Tran Nguyen",
+      "timestamp_ms": 1477191034679,
+      "content": "yay fellowshippp",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fellaship",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/Fellaship_PbOwJBU73w"
+}

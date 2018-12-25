@@ -1,0 +1,5207 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Kenny Tat"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512461183521,
+      "content": "Come thru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512461180399,
+      "content": "I'm about to leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512460697786,
+      "content": "Ye I'll review it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512459810824,
+      "content": "justin can u tell me when ur about to leave so i can come and hoard your table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512459698488,
+      "content": "@Andrew Huynh can you look at it/print it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512459689490,
+      "content": "kk i think its done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512459052457,
+      "content": "ty bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512458835006,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1MBhLSxyp4ChBL_7WbixrDWTDhflWvIHrSsWXDbKVZzg/edit?usp=drivesdk",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fspreadsheets%2Fd%2F1MBhLSxyp4ChBL_7WbixrDWTDhflWvIHrSsWXDbKVZzg%2Fedit%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fspreadsheets%2Fd%2F1MBhLSxyp4ChBL_7WbixrDWTDhflWvIHrSsWXDbKVZzg%2Fedit%3Fusp%3Ddrivesdk&ltmpl=sheets"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458781876,
+      "content": "watchu mean what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458768610,
+      "content": "oh what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458714683,
+      "content": "cause i don't think our final pictures are square waves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458631170,
+      "content": "yo did we even take a picture of the input and output signal at square wave LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512458621813,
+      "content": "Rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512458619478,
+      "content": "I link",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458126367,
+      "content": "bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458121337,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458120029,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458116432,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458113424,
+      "content": "Can you put the good ones in the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458104914,
+      "content": "yah cause u guys were like take every fucking picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458104040,
+      "content": "Hey man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458101584,
+      "content": "Which ones are the good ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458099248,
+      "content": "cause we took so fucking many",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458096642,
+      "content": "That's like a ton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458096591,
+      "content": "choose which ones you wanna put in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458090596,
+      "content": "our pictures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458078025,
+      "content": "What's what lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512458074975,
+      "content": "Why the fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458065125,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24883030_1892649450762740_1588820262_o_1892649450762740.jpg",
+          "creation_timestamp": 1512458064
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458063651,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24740136_1892649427429409_637958558_o_1892649427429409.jpg",
+          "creation_timestamp": 1512458063
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458062653,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24879086_1892649420762743_1359399788_o_1892649420762743.jpg",
+          "creation_timestamp": 1512458061
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458061024,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24740354_1892649414096077_1687206345_o_1892649414096077.jpg",
+          "creation_timestamp": 1512458060
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458059568,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24879480_1892649390762746_1333509192_o_1892649390762746.jpg",
+          "creation_timestamp": 1512458059
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458058290,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24879015_1892649370762748_668329795_o_1892649370762748.jpg",
+          "creation_timestamp": 1512458057
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458057313,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24726262_1892649357429416_1776777617_o_1892649357429416.jpg",
+          "creation_timestamp": 1512458056
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458055295,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24581162_1892649347429417_1026414720_n_1892649347429417.jpg",
+          "creation_timestamp": 1512458054
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458053954,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24740289_1892649330762752_367931336_o_1892649330762752.jpg",
+          "creation_timestamp": 1512458053
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458052667,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24726381_1892649304096088_1521965078_o_1892649304096088.jpg",
+          "creation_timestamp": 1512458052
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458051220,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24818955_1892649287429423_1000545124_o_1892649287429423.jpg",
+          "creation_timestamp": 1512458050
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512458049828,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24825851_1892649274096091_1797367664_o_1892649274096091.jpg",
+          "creation_timestamp": 1512458049
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512457512239,
+      "content": "justin fuck u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512456837077,
+      "content": "Jk didn't link it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512456829211,
+      "content": "very sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512456811698,
+      "content": "R u sure I didn't link it yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512456800890,
+      "content": "Okokok I still at Disneyland",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512456406096,
+      "content": "@Andrew Huynh @Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512456080790,
+      "content": "this shit is like really close to being done lol we just need to change the values and put in the proper pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512456021093,
+      "content": "LOOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512455874052,
+      "content": "you didnt send the data lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512455867294,
+      "content": "pero",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512455846289,
+      "content": "But we basically did the previous lab with mosfet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512455836653,
+      "content": "I wrote down what we did in the data table lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512455248176,
+      "content": "i like dont remember what we did in lab lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512454806226,
+      "content": "i got the circuit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512454765433,
+      "content": "no circuit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512454719142,
+      "content": "I did not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512454470294,
+      "content": "did anyone take a picture of the board?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512454265247,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1bQyomtBaQ1HYl9k9qs13ALlsiuFogY5IpI4AlnZi37w/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512453986237,
+      "content": "Wanna work on it now@@Kenny Tat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512447966461,
+      "content": "She is even having us use the same rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512447955092,
+      "content": "You're still at Disney",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512447947027,
+      "content": "But it's super similar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512447943592,
+      "content": "Im at Disney",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512446917153,
+      "content": "Tbh we just need to change some values and shit and we are Gucci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512446832254,
+      "content": "ur not down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512446829149,
+      "content": "tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512445868190,
+      "content": "Can we just like copy our old lab and change BJT->mosfet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512445849601,
+      "content": "When are you free ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1512445823794,
+      "content": "when're u guys tryna do the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1512427216277,
+      "content": "Just exam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1512427084911,
+      "content": "do we have another lab to do tmr? or is it just the exam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511916430881,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511916330586,
+      "content": "or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511916328483,
+      "content": "as the pdf she gave us?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511916322929,
+      "content": "the same question like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511916286085,
+      "content": "So I got asked number 3 the same questions that's on the test lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511916267561,
+      "content": "Okay well like she was unprepared so she didn't have any questions lined up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511916208700,
+      "content": "how easy is easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511916108772,
+      "content": "Lab exam is easy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511887722659,
+      "content": "I at work rn but I can work on it after around 12 ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511880467270,
+      "content": "I think it's this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511880463012,
+      "content": "http://www.electronics-tutorials.ws/amplifier/amp_4.html",
+      "share": {
+        "link": "http://www.electronics-tutorials.ws/amplifier/amp_4.html"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511872873376,
+      "content": "Mmmm I still don't know where there is distortion. Ian didnt know. Justin can you ask crystal please?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511857114695,
+      "content": "andrew carry me daddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511857111461,
+      "content": "okieeeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511857075285,
+      "content": "Andrew gotssss it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511857004354,
+      "content": "Like, it's finished or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511856982262,
+      "content": "Uh I think we are good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511856955487,
+      "content": "and the reason for distortion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511856945207,
+      "content": "procedure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511856934877,
+      "content": "Uh is there anything left?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511856923186,
+      "content": "y'all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511856920773,
+      "content": "so do y'all want me to work on the lab anymore or are y",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511842972179,
+      "content": "okieeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511842872637,
+      "content": "I'ma ask someone lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511841707834,
+      "content": "i have like no idea why there is distortion LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511840174302,
+      "content": "Okay sure. Can't hurt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840160785,
+      "content": "cause we had four",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840159003,
+      "content": "gonna put all four",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840157281,
+      "content": "im just",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511840136645,
+      "content": "Could be wrong tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511840128822,
+      "content": "Mmm I think it was 3 according to the rubric?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840123702,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840122376,
+      "content": "and then the new wave at the cutoff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840117252,
+      "content": "the square wave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840112228,
+      "content": "the input and output for sin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840108243,
+      "content": "the switching circuit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511840085893,
+      "content": "wait isn't it four pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839968041,
+      "content": "yah man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511839886537,
+      "content": "Forgot about the distortion one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511839877196,
+      "content": "Oh there needs to be 3 pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839765122,
+      "content": "the last one is like the distortion one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839758200,
+      "content": "two of them are like zoom ins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511839742171,
+      "content": "Should only have to add two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511839736616,
+      "content": "I noted in the doc where to put the pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839711146,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24169644_1883539675007051_1008266589_o_1883539675007051.jpg",
+          "creation_timestamp": 1511839710
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839709734,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24201416_1883539655007053_529198295_o_1883539655007053.jpg",
+          "creation_timestamp": 1511839708
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839706578,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24201081_1883539498340402_1095696340_o_1883539498340402.jpg",
+          "creation_timestamp": 1511839705
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839703255,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24169349_1883539288340423_1435769695_o_1883539288340423.jpg",
+          "creation_timestamp": 1511839702
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511839702466,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/24167286_1883539268340425_596702773_o_1883539268340425.jpg",
+          "creation_timestamp": 1511839701
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511782883840,
+      "content": "we just have to do the last sub bullet point of the rubric \"explain why there is distortion.\" And add the pictures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511782840516,
+      "content": "Okay I think most of it is done beside the brocedure b/c Justin is a lazy fuck.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511769873585,
+      "content": "board*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511769867471,
+      "content": "can you send the pic ofthe bopard pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511769077137,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc/edit?usp=drivesdk",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc%2Fedit%3Fusp%3Ddrivesdk&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc%2Fedit%3Fusp%3Ddrivesdk&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511769071834,
+      "content": "Kk changed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511768980514,
+      "content": "Fuck my bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511768935072,
+      "content": "me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511768850903,
+      "content": "and can you send the pic of the board pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511768383867,
+      "content": "change it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511768382006,
+      "content": "view only",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511768376793,
+      "content": "you made it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511766708300,
+      "content": "Oh yea I should do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511766675809,
+      "content": "kk ima start it after i finish 114 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511766609023,
+      "content": "Kk I'll help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511766494994,
+      "content": "tryna get all the hw out of the way so i can study lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511766478789,
+      "content": "yea might as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511766470569,
+      "content": "Oh you're starting it rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511766440867,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Embk0fal4ix-5Xp2g2qjR0TslyztNqx2egY--PkdqRc%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1511309678808,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1VxGNp177WRXbJwM6N7kZlqAUPAx5Q28xgepEc-Da6Gc/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fspreadsheets%2Fd%2F1VxGNp177WRXbJwM6N7kZlqAUPAx5Q28xgepEc-Da6Gc%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fspreadsheets%2Fd%2F1VxGNp177WRXbJwM6N7kZlqAUPAx5Q28xgepEc-Da6Gc%2Fedit%3Fusp%3Dsharing&ltmpl=sheets"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511250186004,
+      "content": "ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511250167781,
+      "content": "lmk if there's anything i need to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511250163416,
+      "content": "kk ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511250151402,
+      "content": "uh youre fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511250133603,
+      "content": "or is there something else u need me to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511250121830,
+      "content": "can i make dinner rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511250052305,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511250046548,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511250043500,
+      "content": "are they good to transfer over?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511249417416,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249406244,
+      "content": "convert all the mV ones to volts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249388989,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511249381107,
+      "content": "I'll start from the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511249375730,
+      "content": "Yea I was about to ask you if I can lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249352481,
+      "content": "and taking out the v's and shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249349886,
+      "content": "to current",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249348018,
+      "content": "justin can u help me by converting the values on the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511249008935,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1gsfFd_NGfy_0OmD6-Z-l-I5O0jGmakG8AtKcrlCzzZ0/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248918396,
+      "content": "i'll plot rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248915342,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511248191924,
+      "content": "Lab is super easy. We just need the plots and answer one question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511248174151,
+      "content": "It's cool LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248170784,
+      "content": "ILL BE BACK SOON",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248168028,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248166474,
+      "content": "sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248165047,
+      "content": "fak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511248154033,
+      "content": "Oh fk you only gave us view power lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248135418,
+      "content": "i\u00e2\u0080\u0099ll be home in 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511248121740,
+      "content": "kk ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511248120060,
+      "content": "From voltage to current",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511248112441,
+      "content": "@Kenny Tat imma start changing the data for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246477144,
+      "content": "imma start the write up then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246459626,
+      "content": "np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511246456377,
+      "content": "need to go to the bank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511246453363,
+      "content": "yeah give me aminute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246406280,
+      "content": "can you work on the data stuff rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246389350,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1M6xxWjc4AKxdT9CXeCBWKTFWVgVQMaXAk1dCLJZLvuA/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1M6xxWjc4AKxdT9CXeCBWKTFWVgVQMaXAk1dCLJZLvuA%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1M6xxWjc4AKxdT9CXeCBWKTFWVgVQMaXAk1dCLJZLvuA%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511246350898,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1gsfFd_NGfy_0OmD6-Z-l-I5O0jGmakG8AtKcrlCzzZ0/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246241376,
+      "content": "can you asend the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1511246231047,
+      "content": "down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1511246212964,
+      "content": "lets do the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510690858459,
+      "content": "ok its done then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510690846532,
+      "content": "that\u00e2\u0080\u0099s all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510690844615,
+      "content": "just do the percent error for that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510690041569,
+      "content": "@Kenny Tat was there anything else to do besides the theoretical Vr for the second part?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510690017201,
+      "content": "ok i think the lab report is done unless i missed something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510689531247,
+      "content": "It wasn't hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510689527414,
+      "content": "Uh idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510689445192,
+      "content": "is there anything else that needs to be done besides theoritical Vr?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510689429668,
+      "content": "you guys did like everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510689420959,
+      "content": "wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510687959894,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510687189954,
+      "content": "what if andrew doesnt wake up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510651439330,
+      "content": "Eh Andrew can do it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510651433826,
+      "content": "I'm trying to find it can't remember where it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510651401986,
+      "content": "I finished all my parts except for the comparison of the expected and measured V_R for the bridge rectifier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510650990633,
+      "content": "what was the expected V_R",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510650695503,
+      "content": "5 for input and Vr is output I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510650640860,
+      "content": "what's our peak voltage for input and output for the bridge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510649039388,
+      "content": "lmao i didnt even se that its cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648906050,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648905559,
+      "content": "it's on the data sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648901302,
+      "content": "oh fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648832236,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510648823109,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648797701,
+      "content": "so I need to divide it by the resistance rn right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510648774965,
+      "content": "to get I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510648773094,
+      "content": "but didnt divide by resistance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510648763303,
+      "content": "its cause we measured voltage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510648751746,
+      "content": "check the lab report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648716194,
+      "content": "so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648714727,
+      "content": "or some shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648713730,
+      "content": "we put V instead of amps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648695705,
+      "content": "yo for the currents: I_R and I_F",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510648314793,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23600793_1868732759821076_1104968748_o_1868732759821076.png",
+          "creation_timestamp": 1510648311
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647927444,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23634283_1868729836488035_1204229820_o_1868729836488035.jpg",
+          "creation_timestamp": 1510647926
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647923064,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23574279_1868729803154705_764413804_n_1868729803154705.jpg",
+          "creation_timestamp": 1510647922
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647921857,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23600925_1868729793154706_365660072_o_1868729793154706.jpg",
+          "creation_timestamp": 1510647921
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647920212,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23600188_1868729779821374_12673837_o_1868729779821374.jpg",
+          "creation_timestamp": 1510647919
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647919241,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23585165_1868729763154709_448056060_o_1868729763154709.jpg",
+          "creation_timestamp": 1510647918
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647913110,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23601004_1868729723154713_335188703_o_1868729723154713.jpg",
+          "creation_timestamp": 1510647912
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647307055,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510647301440,
+      "content": "and discussion? ill work on the the procedure and calcs and andrew can do part 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647283324,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510647272563,
+      "content": "uh data formatting and making plots as per the rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647144028,
+      "content": "what part do you want me to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647138899,
+      "content": "for the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510647136957,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/17BsrCldMnMdToT-kLURay1Y8Kn_D35R2-MM-ezDpAy8/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646591299,
+      "content": "i h8 u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646585657,
+      "content": "parts 1-4 on the rubric btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510646582755,
+      "content": "all of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646565932,
+      "content": "and like maybe some more if you want i dont mind. just lemme know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510646548612,
+      "content": "gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646545634,
+      "content": "ill do either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646542285,
+      "content": "can you leave me like either 1-4 of part 1 or part 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510646538368,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510646529718,
+      "content": "kk bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510646515438,
+      "content": "hey so im really tired i havent slept in 27 hours. ill work on the post lab when i wake up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510646072541,
+      "content": "Jks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645693384,
+      "content": ">.>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645689602,
+      "content": "cause i saw you with ellen",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510645674929,
+      "content": "why so many questions LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645671658,
+      "content": "but we are your friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510645352632,
+      "content": "from hanging out with friends bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645285638,
+      "content": "huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645284773,
+      "content": "from what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510645256999,
+      "content": "almost home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645239606,
+      "content": "wya\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510645147370,
+      "content": "when i get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510645144497,
+      "content": "i\u00e2\u0080\u0099ll share it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645133567,
+      "content": "https://docs.google.com/document/d/1vUvkg0hpulrFhXMu59NZ7M_ESd-m6_r7TIfX2nZv4YQ/edit?usp=sharing",
+      "share": {
+        "link": "https://docs.google.com/document/d/1vUvkg0hpulrFhXMu59NZ7M_ESd-m6_r7TIfX2nZv4YQ/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510645123118,
+      "content": "https://docs.google.com/document/d/1vUvkg0hpulrFhXMu59NZ7M_ESd-m6_r7TIfX2nZv4YQ/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510644853552,
+      "content": "Did you share the data btw? @Kenny Tat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510641346711,
+      "content": "Okay that's chill lol we have time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510641335892,
+      "content": "i\u00e2\u0080\u0099m currently out rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510641319599,
+      "content": "Can you start the doc? Like the procedure or formatting data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510641301644,
+      "content": "Oh sorry we got stuck doing our project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510640987211,
+      "content": "yah so when u guys start on it just tell me what to do and i\u00e2\u0080\u0099ll do it when i\u00ef\u00b8\u008f get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510629027980,
+      "content": "so just lmk what i need to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510629023449,
+      "content": "i\u00ef\u00b8\u008f might be out at that time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510629020264,
+      "content": "fsho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510629001748,
+      "content": "9ish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510627981602,
+      "content": "when\u00e2\u0080\u0099re y\u00e2\u0080\u0099all tryna start the post lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510046658959,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510045950187,
+      "content": "kk kenny i finished the diss imma print it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510045269054,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510045263532,
+      "content": "uh nah i think thats find",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510045152198,
+      "content": "othewise im just gonna say that the last parts were easy af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510045142645,
+      "content": "any other struggles you want me to talk about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044811939,
+      "content": "kaykay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044759868,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044758863,
+      "content": "<-9V",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044755158,
+      "content": "um",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044629320,
+      "content": "do we know what value the breakdown voltage was supposed to be for the pn  diode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044402427,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044385065,
+      "content": "ill just put see discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044378822,
+      "content": "for points 7 aqnd 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044369802,
+      "content": "why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044367721,
+      "content": "okie okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044362328,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044360509,
+      "content": "in the discussion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044356184,
+      "content": "are you explaining why we dont have pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044354231,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510044346760,
+      "content": "wait @Kenny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044141699,
+      "content": "kaykay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044136875,
+      "content": "lmao just say what you said then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044117534,
+      "content": "$10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044116566,
+      "content": "i'm poor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044114975,
+      "content": "ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044112057,
+      "content": "we can like attach $20?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044108773,
+      "content": "i was looking for the rubric during the lab and i coulnd't find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044101427,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044100510,
+      "content": "that's why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044098714,
+      "content": "yeah she did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044084961,
+      "content": "like after lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044081612,
+      "content": "wait but didnt she send that to us late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044071150,
+      "content": "tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044070032,
+      "content": "during the lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044069181,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044068153,
+      "content": "the rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044065431,
+      "content": "since we didn't have a rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044061876,
+      "content": "just say we forgot to take a picture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044041155,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044039736,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044037452,
+      "content": "we r fucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044036295,
+      "content": "just give me some bullshitreason that will give us points",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044033519,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044030734,
+      "content": "reason?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044029612,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044029098,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044016839,
+      "content": "we might just have to say that we didnt take a pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510044014941,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510044009497,
+      "content": "hey kenny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043114048,
+      "content": "we are trying to message ppl rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043105482,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510043091743,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043086569,
+      "content": "can you do the diss while we figure this out lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043055667,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510043053718,
+      "content": "our asses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510043052692,
+      "content": "fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043041057,
+      "content": "the thing is that the other labs didnt need to take a pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043030804,
+      "content": "just for part three tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510043027074,
+      "content": "oh yea huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042968287,
+      "content": "\" a plot of what you measured in xy mode\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042959836,
+      "content": "number 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042953348,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042952243,
+      "content": "so do we really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042948911,
+      "content": "its not in the rubric tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042931583,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042929490,
+      "content": "need that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042926983,
+      "content": "we",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042918251,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042916496,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510042914316,
+      "content": "oh sorry just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042246906,
+      "content": "from like tristan or whoever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510042241979,
+      "content": "do we have a picture of the xy plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041404445,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041401724,
+      "content": "but yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041400024,
+      "content": "or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041397609,
+      "content": "i think ta said its like >-25V",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041383822,
+      "content": "next to us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041382846,
+      "content": "to the other group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041381448,
+      "content": "she said that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041379411,
+      "content": "caiuse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041376169,
+      "content": "doesn't have a breakdown",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041374255,
+      "content": "and i also said \"see discussion for more deats\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041373403,
+      "content": "the shawty diode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041370197,
+      "content": "i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041358573,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041356944,
+      "content": "i explained it under the graph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041355634,
+      "content": "mark as no breakdown or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041350297,
+      "content": "just leave it as is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041340087,
+      "content": "so what u want me to do with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041333658,
+      "content": "we don't really have a breakdown voltage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041329525,
+      "content": "for the pn diode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041327402,
+      "content": "whale",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041325132,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041323352,
+      "content": "lemme know when they are done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041321244,
+      "content": "i'll replace them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041318091,
+      "content": "just leave them there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041315735,
+      "content": "okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510041314333,
+      "content": "f u c k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041311477,
+      "content": "etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041311052,
+      "content": "where its off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041307977,
+      "content": "and like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041307236,
+      "content": "i needsta label where the breakdown is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510041299461,
+      "content": "wait don't copy the graphs yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040988049,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040983407,
+      "content": "and like idk make it seem like we understand it now LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040972256,
+      "content": "can you write something along the lines that for the pn data we stopped at -9v because we thought we reached the breakdown but we were wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040931142,
+      "content": "i'll bs some processes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040928280,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040908563,
+      "content": "pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040907086,
+      "content": "can you do the discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040530705,
+      "content": "uh good enough lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040405314,
+      "content": "done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040391981,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040390908,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040388911,
+      "content": "-10 -> .2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040384365,
+      "content": "WAIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040372513,
+      "content": "probs for pn unless we get other data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040358799,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040358026,
+      "content": "cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040357711,
+      "content": "cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040356917,
+      "content": "wait jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040346178,
+      "content": "want me to do that for all of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040336648,
+      "content": "done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040325390,
+      "content": "so like -10 -> 10 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510040315074,
+      "content": "uh can you make another one for shotty but cut it off at -10 input v",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510040142720,
+      "content": "ok i just did it to where it plots null values too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510039955251,
+      "content": "and then for the pn ill try to look at diff data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510039937376,
+      "content": "like zoom in or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510039933088,
+      "content": "can you try changing the scaling for the shotty lol idk how it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510039911738,
+      "content": "uh fk okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510039798827,
+      "content": "and idk how to get a breakdown voltage from the pn since there really is no drop for the reverse bias",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510039734430,
+      "content": "das what im saying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510039720359,
+      "content": "why does shotty look so weird lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510039406620,
+      "content": "the pn and schottky graphs are weird tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510039374314,
+      "content": "graphs are done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038589017,
+      "content": "kkkkkkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038585698,
+      "content": "Yea diode voltage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038555943,
+      "content": "not input voltage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038551631,
+      "content": "right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038551186,
+      "content": "graph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038550411,
+      "content": "for the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038548001,
+      "content": "the voltage of the diode",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038545830,
+      "content": "we using",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038536226,
+      "content": "What lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038525814,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038525328,
+      "content": "IV_diode right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038516086,
+      "content": "yah im reading the rubric rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038501161,
+      "content": "You're making an IV curve btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038450680,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038440838,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038419952,
+      "content": "so all the voltages are in V right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038400560,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038397774,
+      "content": "It's only there because I got lazy so I did =Divide to convert from mv to v",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038374330,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038373516,
+      "content": "ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038366627,
+      "content": "Use the stuff on the right of t LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038354304,
+      "content": "this bigass black box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038351276,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038341709,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038311983,
+      "content": "S o like use the ones on the right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038299959,
+      "content": "The data below it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038288930,
+      "content": "the data below it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038284757,
+      "content": "what do i ignore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038280371,
+      "content": "u put ignore this kenny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038197187,
+      "content": "sup bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510038151530,
+      "content": "Lmao hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510038052484,
+      "content": "AIGHT LETS DO THIS SHIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036956714,
+      "content": "okay after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510036955959,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510036954217,
+      "content": "ill do it in like 20 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036952954,
+      "content": "im rearranging the data rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510036949067,
+      "content": "kk doing the quiz rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036948339,
+      "content": "wait actually kenny can you make the graph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036937684,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1ovQOJzyP3xp20HzPXVAjCiMQ57qDB3HiUs-v9Wy6C0M/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036641831,
+      "content": "@Kenny Tat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510036638192,
+      "content": "I'm doing the pn graph rn Kenny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510035784945,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23336577_1740691642621877_272853981_o_1740691642621877.jpg",
+          "creation_timestamp": 1510035784
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510034067130,
+      "content": "nah i've been listening to the discussion chill lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510034053989,
+      "content": "i thought you already started it like two hours ago lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510034037478,
+      "content": "first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510034036644,
+      "content": "yah lemme do the quiz fist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510034015996,
+      "content": "kenny can you make the graphs from the data?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510033868056,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1_ek49HbBQv4dMt0EYEsWmhQ47g19V8Ad4zJ8LU3wKW8/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1_ek49HbBQv4dMt0EYEsWmhQ47g19V8Ad4zJ8LU3wKW8%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1_ek49HbBQv4dMt0EYEsWmhQ47g19V8Ad4zJ8LU3wKW8%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032946860,
+      "content": "ya know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032941484,
+      "content": "like if it was a simple circuit it would be fine but idk how the diode affects it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032922630,
+      "content": "tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032867602,
+      "content": "um does the volatage drop change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032856199,
+      "content": "first part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032724295,
+      "content": "or which part are we talking bout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032708841,
+      "content": "or looking for current",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032703211,
+      "content": "right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032702302,
+      "content": "cause we're finding current riht",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032700900,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032697299,
+      "content": "isn't it just a ratio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032692978,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032690880,
+      "content": "hey my mom is a nice lady",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032690312,
+      "content": "and we used 10k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032683755,
+      "content": "the problem is the other labs used a 300 ohm resistor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510032681045,
+      "content": "Jk we got some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510032675116,
+      "content": "yes but",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510032674667,
+      "content": "I think we still need ur mom's phone number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1510032651259,
+      "content": "did we get any data yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1510031317709,
+      "content": "Got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510031279822,
+      "content": "check your emails",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509957954809,
+      "content": "I'll ask Ian maybe too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509957950802,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509957807506,
+      "content": "Should we just ask Tristan??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509957743106,
+      "content": "We needa ask people lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509957726830,
+      "content": "Oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509957287891,
+      "content": "WE HAVE NO DATA LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509957283334,
+      "content": "so uh how are we gonna do the post lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509483554581,
+      "content": "I'll teleport it's okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509483529190,
+      "content": "okieeeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509483521846,
+      "content": "Omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509483517144,
+      "content": "Just parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509483505460,
+      "content": "wya andrewbb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509483495325,
+      "content": "oh my anal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509483486210,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509483430296,
+      "content": "I just woke\nUp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436261991,
+      "content": "Okie okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436226934,
+      "content": "i got this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436223945,
+      "content": "jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436209584,
+      "content": "but like it wasnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436202405,
+      "content": "then put like how our data was inconstient for some voltages for the 4 point probe thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436179920,
+      "content": "oh hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436173509,
+      "content": "i did that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436169562,
+      "content": "so we were getting weird readings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436164331,
+      "content": "just put how we didnt put the voltmeter on dc at first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436152645,
+      "content": "uhmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436111817,
+      "content": "but like the waiting thing can i actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436103651,
+      "content": "pls no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509436100163,
+      "content": "yea do it pussy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509436089789,
+      "content": "can i actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509435985543,
+      "content": "put the biggest challenge was trying to understand the ta through her thicc and sexy accent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509435919160,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509435918526,
+      "content": "can i put that the biggest challenge was waiting to use the four point probe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509435858748,
+      "content": "kk ty bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509435355386,
+      "content": "lmao okay ill finish it up then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509435116483,
+      "content": "THANKS MAN I TRIED RLLY HARD ON THEM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509435089106,
+      "content": "those are some nice ms paint pics wtf LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509434917922,
+      "content": "i'm pretty sure it's all finished now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509434914454,
+      "content": "aight so like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427877257,
+      "content": "im boutta ms paint this bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427854730,
+      "content": "the probing shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427847574,
+      "content": "all we need to do is include the schematic for like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509427843142,
+      "content": "Just need to do the drawing for part 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427838975,
+      "content": "Oh idk I haven't read it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427823309,
+      "content": "isn't part 1 basically done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427813712,
+      "content": "Are you drawing or doing all of part 1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427785845,
+      "content": "Yesssir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427782892,
+      "content": "<333",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427782000,
+      "content": ",3333",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427780604,
+      "content": "can u do the discussion @Justin Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427776264,
+      "content": "ill draw the schematic for part 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427759429,
+      "content": "Yea pretty much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427756913,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23107356_461998340861862_1147541555_o_461998340861862.jpg",
+          "creation_timestamp": 1509427756
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427622247,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427621523,
+      "content": "and then find the impurity concentration from what i calculated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427610276,
+      "content": "all i had to do was get the graph, find the trendline, get the slope of the trendline, and calculate all the shit right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509427295041,
+      "content": "I don't have free printing at gw cuz the one I use is broken :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427289505,
+      "content": "I can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509427279123,
+      "content": "Can someone else print it btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509427018369,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509427010602,
+      "content": "280micrometers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426970451,
+      "content": "what's the thickness of the sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426726217,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509426713463,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509426711123,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426667748,
+      "content": "the correction factor is 4.54 right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426521818,
+      "content": "ty bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509426519466,
+      "content": "not sure if i have to reshare",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509426512978,
+      "content": "okay i changed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426511447,
+      "content": "and i have the value of Rs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509426510209,
+      "content": "https://docs.google.com/a/uci.edu/document/d/14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426505705,
+      "content": "i already did it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509426500361,
+      "content": "Did you wanna do the line of best fit Kenny?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426303835,
+      "content": "i can only view",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426300829,
+      "content": "give me access to edit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509426298323,
+      "content": "can y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425794935,
+      "content": "<33",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425794039,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509425793813,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425793381,
+      "content": "HAHAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425792462,
+      "content": "if he linked it or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425790510,
+      "content": "didn't remember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425786850,
+      "content": "i deadass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509425775240,
+      "content": "And now it's linked again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509425769883,
+      "content": "It's already lonked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509425768314,
+      "content": "https://docs.google.com/a/uci.edu/document/d/14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509425766601,
+      "content": "I know then why you asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425752615,
+      "content": "the same thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425750823,
+      "content": "it's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509425738504,
+      "content": "Do you like google drive better than google doc lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509425675115,
+      "content": "can y'all share the lab with me on google drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509394778865,
+      "content": "I'll do some tonight too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509393636134,
+      "content": "kk lemme know if you need any help or have any questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509393213298,
+      "content": "do it*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509393208859,
+      "content": "yah i'll od i totnight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509387146360,
+      "content": "and then calculating restivity, sheet resistance, and impurity concentration is pretty simple",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509387097115,
+      "content": "results",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509387093087,
+      "content": "can somone get the line of best fit for part 2 in the resukts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509387082313,
+      "content": "so for the lab report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509269991441,
+      "content": "Btw Kenny has the pics lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509263749310,
+      "content": "you have to post another spicy pic on your insta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509263721235,
+      "content": "justin because im doint the lab report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509262181457,
+      "content": "ty have fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509262176560,
+      "content": "LOL ayeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262044562,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23023119_1852439074783778_886195949_o_1852439074783778.jpg",
+          "creation_timestamp": 1509262044
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262043006,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23030813_1852439031450449_1078707039_o_1852439031450449.jpg",
+          "creation_timestamp": 1509262042
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262040495,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/22906424_1852438981450454_754716227_o_1852438981450454.jpg",
+          "creation_timestamp": 1509262040
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262037579,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/23022963_1852438944783791_656424296_o_1852438944783791.jpg",
+          "creation_timestamp": 1509262037
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262022029,
+      "content": "i\u00e2\u0080\u0099m too drunkfor did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1509262019711,
+      "content": "fck all u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261884591,
+      "content": "smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261883144,
+      "content": "while im slaving away at our lab report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261873501,
+      "content": "raving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261872000,
+      "content": "look at you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509261828901,
+      "content": "Fk you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261818174,
+      "content": "i bet justin is hella fucked up rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261809546,
+      "content": "who has the pics we took? :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1509261797292,
+      "content": "https://docs.google.com/a/uci.edu/document/d/14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F14WAxHkXP6pV4tzaf_nUdK5Hsc6oRIKyX1idysad3mYE%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508881178318,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/22812915_1847857661908586_1431707116_o_1847857661908586.jpg",
+          "creation_timestamp": 1508881177
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508856954601,
+      "content": "Yuh yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508830079514,
+      "content": "gotchu bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508830076527,
+      "content": "I'll do it when I get home :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508830071356,
+      "content": "Pls leave me some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829965868,
+      "content": "just need the cutoff frequencies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829961165,
+      "content": "i did most of the results already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829717384,
+      "content": "Yeyeye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829713820,
+      "content": "10^-5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829712361,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829711596,
+      "content": "that's what i meant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829710117,
+      "content": "-5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829701750,
+      "content": "-5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829692539,
+      "content": "I think it was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829689390,
+      "content": "1*10^5 right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829676807,
+      "content": "theoretical",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829671406,
+      "content": "Measured or theoretical?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829635807,
+      "content": "what was our calculated tao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829274568,
+      "content": "Welp fuck our asses",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kenny Tat"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829265978,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829228999,
+      "content": "i aint got a function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508829058760,
+      "content": "Maybe graph the function on a graphing calculator and see where it intersects y = 3db",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829017269,
+      "content": "from the graph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829013310,
+      "content": "cause i need to find the frequency at -3DB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508829001268,
+      "content": "fuck my ass",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrew Huynh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508828834625,
+      "content": "Hmmm I'm not too sure tbh. I guess you can graph a line at the point you're trying to find",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508828614248,
+      "content": "get a certain point on an excel graph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508828608143,
+      "content": "how do u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826517146,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508826511826,
+      "content": "yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826501902,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826501179,
+      "content": "want me to past them onto the lab report now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826340513,
+      "content": "all the graphs are basically good then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508826334351,
+      "content": "he shall do everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508826329379,
+      "content": "trust in the andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826290318,
+      "content": "okieee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508826251564,
+      "content": "Yea if anything we are graded on the lab report not the results so as long as we can explain what happened in the results and discussion I say fk it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508826217346,
+      "content": "Oh hmmm. I guess we can just keep it and then explain why it's skewed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826191153,
+      "content": "skewed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826190435,
+      "content": "is kinda like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826188126,
+      "content": "cause our high pass bode plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826183767,
+      "content": "part 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508826174997,
+      "content": "Are you talking about part 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508826148758,
+      "content": "so what do y'all wanna do about the high pass bode plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508822006599,
+      "content": "that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508822005281,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508821960117,
+      "content": "cut off frequency",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508821936460,
+      "content": "waht was the value 15.9kHz called lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508821919309,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819859248,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819847748,
+      "content": "but i got it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819844946,
+      "content": "i forgot to responf like 3min ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819821368,
+      "content": "nigga idonno anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819817915,
+      "content": "like on ur phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819591316,
+      "content": "first pic for part 2 is high pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819563167,
+      "content": "or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819562893,
+      "content": "first pick is low pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819543506,
+      "content": "i put something like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819519142,
+      "content": "on the excel sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819516273,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508819491874,
+      "content": "Measuring the time constant is when we measured where the voltage decayed by like 33% or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819485925,
+      "content": "im talking about the pics i sent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819480473,
+      "content": "what is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819448413,
+      "content": "at part 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819431934,
+      "content": "it\u00e2\u0080\u0099s on the excel sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819420906,
+      "content": "i think the first one is lowpass but i wanna confirm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819410184,
+      "content": "would you happen to know which pic is which cause i forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819306192,
+      "content": "and that time diff is tao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819301164,
+      "content": "to the value at 66.67 or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819292402,
+      "content": "the value at the top",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819288823,
+      "content": "it\u00e2\u0080\u0099s just from",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819284911,
+      "content": "tao-8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508819283731,
+      "content": "for two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819144725,
+      "content": "You sent 2 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/22790591_459371571124539_1748155699_o_459371571124539.jpg",
+          "creation_timestamp": 1508819143
+        },
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/22790924_459371574457872_2041954009_o_459371574457872.jpg",
+          "creation_timestamp": 1508819143
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508819064686,
+      "content": "uh idk i cant remeber what we did in lab for some reason lol it feels like years",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818938110,
+      "content": "wasn\u00e2\u0080\u0099t there a formula for impulse response or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818905594,
+      "content": "is that just the pics?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818899977,
+      "content": "so like when it says measure the impulse response",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818879177,
+      "content": "and the tao right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818874610,
+      "content": "the pictures",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818871009,
+      "content": "it was just",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818797871,
+      "content": "whats our data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818787209,
+      "content": "wait what did we measure for part 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818113487,
+      "content": "like the first value or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818112532,
+      "content": "idk nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508818105029,
+      "content": "wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508818064966,
+      "content": "uh idk 1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817992353,
+      "content": "which value?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508817982429,
+      "content": "i think one of our values is wrong lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817968862,
+      "content": "i sent you the google sheet @Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817920883,
+      "content": "i'll look into that later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817918410,
+      "content": "soo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817917610,
+      "content": "ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817917219,
+      "content": "our high pass one looks kinda weird in log scale",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817910689,
+      "content": "i graphed everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508817887384,
+      "content": "do you remeber the pulse width we used? 1 microsec?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508817757761,
+      "content": "I have it written down but I'm walking to my car rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508817746481,
+      "content": "I'll double check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817693812,
+      "content": "yeah i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508817686191,
+      "content": "1 nf?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508817681959,
+      "content": "what was the value for the capacitor lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817377127,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817376775,
+      "content": "Yeah that's what i thought but wasn't sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508817363795,
+      "content": "i think it was 10Vpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817347120,
+      "content": "was it also 20Vpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817343355,
+      "content": "what was the vin for part 1?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508817000666,
+      "content": "okie ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816992544,
+      "content": "10log(|Pout/Pin|) = -3db",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816968124,
+      "content": "here is the power one though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816961809,
+      "content": "i thought we were plotting voltage though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816914473,
+      "content": "one for the voltages, and one for the powers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816909741,
+      "content": "like there were two formulas right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816906164,
+      "content": "what about the one for power?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816870943,
+      "content": "ill work on it after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816866660,
+      "content": "still at meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816863677,
+      "content": "mhmm np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816856727,
+      "content": "okie ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816818492,
+      "content": "20log(|Vout/Vin|) = -3db",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816788848,
+      "content": "so the formula for the cut off frequency is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816763040,
+      "content": "yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816758702,
+      "content": "what it was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816756360,
+      "content": "i don't remember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816754916,
+      "content": "for the bode plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816753478,
+      "content": "yah but there's still a formula",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816753192,
+      "content": "oh like the formula?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508816746775,
+      "content": "wait i thought kenny took the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816744555,
+      "content": "lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508816728794,
+      "content": "@Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508816724785,
+      "content": "@Andrew Huynh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508816714441,
+      "content": "uh i think andrew has it written down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816689823,
+      "content": "what was the formula",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816686129,
+      "content": "like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508816684068,
+      "content": "what's our bode plot again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508816145048,
+      "content": "kk check your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815417473,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508815403427,
+      "content": "Lol okay I'm on my phone driving home rn I'll edit the doc when I get home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815336187,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815334434,
+      "content": "edit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815332997,
+      "content": "i still can;t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508815316542,
+      "content": "Uhhh can you make the graphs/tables for now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815313046,
+      "content": "shared it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815311680,
+      "content": "share dit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508815286017,
+      "content": "Lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508815280375,
+      "content": "https://docs.google.com/document/d/13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o%2Fedit&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o%2Fedit&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508815145037,
+      "content": "can u guys give me your emails so i can link you data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508814453407,
+      "content": "what part do you want me to doi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508814448378,
+      "content": "for permission to edit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508814444583,
+      "content": "but i just asked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508814442448,
+      "content": "nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508810163379,
+      "content": "Can you edit with this link?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508810156105,
+      "content": "https://docs.google.com/document/d/13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o%2Fedit&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13yfZDdthGQpGm3YlQDeDc3C2-REnVwxD7w7jM_OlW0o%2Fedit&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508778030692,
+      "content": "kk straight to it daddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508778015683,
+      "content": "All of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508778006727,
+      "content": "i\u00e2\u0080\u0099ll do it 2nite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508778003963,
+      "content": "give me a part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508777937150,
+      "content": "We gotta do the post lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508225581360,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508225580304,
+      "content": "e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508225579940,
+      "content": "ty bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508224342384,
+      "content": "yea ill do the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508224338397,
+      "content": "sorry i just got home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218489617,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218488375,
+      "content": ">3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218487505,
+      "content": "3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218487095,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218486594,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218484154,
+      "content": "@Andrew Huynhbigdick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218480951,
+      "content": "ill print it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218474048,
+      "content": "who's gonna print it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218473983,
+      "content": "@Andrew @Andrew @Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218461528,
+      "content": "<33333",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218460219,
+      "content": "ANDREW IT'S ALL U BABY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218456697,
+      "content": "kk we gucci then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218452504,
+      "content": "i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218451897,
+      "content": "and stuff right>?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218448648,
+      "content": "like he already calculated the formula",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218446826,
+      "content": "yuea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218444304,
+      "content": "doesn't andrew have all that data and shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218441433,
+      "content": "hm lets make andrew do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218392763,
+      "content": "ah i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218377793,
+      "content": "so we should probs include that somewhere in our lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218358112,
+      "content": "she gives us a rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218354901,
+      "content": "experiment 1*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218351597,
+      "content": "and search up experiment one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218339522,
+      "content": "go on your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218336209,
+      "content": "put it in a table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218334201,
+      "content": "get our data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218332095,
+      "content": "we also have to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218324658,
+      "content": "cause it seems kinda short",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218318693,
+      "content": "procedure, data, and discusssion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508218309173,
+      "content": "can you confirm that thats all we need to do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218287474,
+      "content": "u need me to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218285647,
+      "content": "anything else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508218267233,
+      "content": "kk discussion is finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216423765,
+      "content": "YOU HAVE THE DATA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216416707,
+      "content": "do your part bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216413566,
+      "content": "fuck them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216412040,
+      "content": "bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216412037,
+      "content": "ihy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508216408693,
+      "content": "I'm still in meeting :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508216403792,
+      "content": "Yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216400345,
+      "content": "yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216380248,
+      "content": "kk i shall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216370371,
+      "content": "uh dicussion? cause i think andrew has the data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216356802,
+      "content": "so what do you want me to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216356264,
+      "content": "You named the group CpE Lifting Club.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216318817,
+      "content": "i already did the first part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216312559,
+      "content": "we only need three sections i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216306768,
+      "content": "B. Post-Lab\n1. Procedure (1 or more paragraphs): How you measured/built/designed. Show\nschematics.\n2. Results and analysis (1 or more paragraphs): What you measured. (Figures)\n3. Discussion (1 paragraph): How well did it work?\n*Please put experiment title, your name, ID, partner\u00e2\u0080\u0099s name and bench # on the front page.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216289729,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216280546,
+      "content": "do da lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216278443,
+      "content": "let\u00e2\u0080\u0099s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216276118,
+      "content": "ye a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508216274869,
+      "content": "what up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216271372,
+      "content": "ru guys free rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216267428,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508216265993,
+      "content": "yi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508213176108,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CpELiftingClub_stVjjvw6eg/photos/22553825_456569018071461_465357947_o_456569018071461.jpg",
+          "creation_timestamp": 1508213175
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508207548409,
+      "content": "https://docs.google.com/document/d/17PiCWSEEZ3dEYV9-CSAcKgDyKYmaDjQmbUE6K9LnEsM/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508185813420,
+      "content": "don\u00e2\u0080\u0099t worry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508185809671,
+      "content": "I haven't looked at what we need yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508185808741,
+      "content": "I GOTCHU BRO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508185803530,
+      "content": "Jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508185802445,
+      "content": "Everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508185794335,
+      "content": "and i\u00e2\u0080\u0099ll do it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508185792006,
+      "content": "just tell me what to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508185787621,
+      "content": "tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508185773345,
+      "content": "Let's just meet up and discuss how to divide the work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508185761481,
+      "content": "Okay that's fine. I also have stuff until 10:30. But I can work on in during meeting too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508184848694,
+      "content": "otherwise i\u00e2\u0080\u0099ll be free like at 10:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508184826234,
+      "content": "i\u00e2\u0080\u0099m only free for an hour after 70a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1508184562111,
+      "content": "I'm free after 70a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508182093266,
+      "content": "????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508182091755,
+      "content": "in like an hour or two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Tat",
+      "timestamp_ms": 1508182088357,
+      "content": "lets do that bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508181130666,
+      "content": "We need to do the post lab",
+      "type": "Generic"
+    }
+  ],
+  "title": "CpE Lifting Club",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/CpELiftingClub_stVjjvw6eg"
+}

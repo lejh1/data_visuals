@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Lim"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517373829394,
+      "content": "nah i was just wondering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Lim",
+      "timestamp_ms": 1517373159891,
+      "content": "Yeee do u needa use it for one of ur projects?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517371868763,
+      "content": "Ooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Lim",
+      "timestamp_ms": 1517368721221,
+      "content": "Uhhh smartenit is a startup in OC and its API is pretty much just used for IoT and mqtt stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Lim",
+      "timestamp_ms": 1517368688092,
+      "content": "Yo shoot my bad bro I didn't see this message lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1517359102203,
+      "content": "hey i have a question, whats Smartenit Api?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jonathan Lim",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JonathanLim_8mNeZTbJxw"
+}

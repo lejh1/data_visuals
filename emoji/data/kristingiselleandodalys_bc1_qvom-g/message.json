@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Giselle Quintana"
+    },
+    {
+      "name": "Odalys Orellana"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giselle Quintana",
+      "timestamp_ms": 1492657722725,
+      "content": "a tripod",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giselle Quintana",
+      "timestamp_ms": 1492657716842,
+      "content": "i'll see if i can check one out!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655633912,
+      "content": "Can you bring a camera and have someone man the camera! Do you guys have like a tripod or something? I would hate for someone to hold the camera for 2 hours taking pics lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giselle Quintana",
+      "timestamp_ms": 1492649826596,
+      "content": "do you need us to just have a camera?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giselle Quintana",
+      "timestamp_ms": 1492649813053,
+      "content": "someone should be able to bring their camera",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1492649388915,
+      "content": "Hello hello! just checking, that you guys or the interns will still be able to help run the photobooth during NYSD? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491864074358,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giselle Quintana",
+      "timestamp_ms": 1491864046802,
+      "content": "Hi, yeah that should be fine we just have to check schedules with everyone",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491863974394,
+      "content": "HELLLLOOO! So we are planning to make a photobooth at NYSD. Is it possible to have Historians/interns to help us with it?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin, Giselle and Odalys",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinGiselleandOdalys_Bc1_QVoM-g"
+}

@@ -1,0 +1,190 @@
+{
+  "participants": [
+    {
+      "name": "Lily Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1527709085623,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527709062482,
+      "content": "Leave me alone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1527660459370,
+      "content": "Thx juj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527655896905,
+      "content": "3rd floor rockwell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527655891843,
+      "content": "undergraduate student affairs office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1527655285431,
+      "content": "Which office",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527653598058,
+      "content": "You can go ask tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527653594055,
+      "content": "Oh idk that one is hard lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1527653331559,
+      "content": "I\u00e2\u0080\u0099m undeclared and I need classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527652644947,
+      "content": "you probs need to talk to a counselor tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527652635246,
+      "content": "uh it depends on like your reasons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1527651768769,
+      "content": "Hey juju can I go to the engineering offices to get the major restrictions lifted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523836848061,
+      "content": "Getting the ticket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523836841252,
+      "content": "I\u00e2\u0080\u0099m here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523836591381,
+      "content": "When are you going then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523836584662,
+      "content": "Yea it was a typo lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523836013111,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523836010901,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523835995836,
+      "content": "7149336161",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523835983952,
+      "content": "I think you gave me the wrong number LOL cause I just copy pasted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523835968922,
+      "content": "U didn\u00e2\u0080\u0099t text me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523835965006,
+      "content": "What do you mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523835955579,
+      "content": "Also you never texted me back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523835950718,
+      "content": "When are you going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523835947521,
+      "content": "Not yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523835934434,
+      "content": "You there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lily Nguyen",
+      "timestamp_ms": 1523835929760,
+      "content": "Yes I\u00e2\u0080\u0099m coming but late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523835905436,
+      "content": "Are you still going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1520717100651,
+      "content": "Say hi to your new Facebook friend, Lily.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lily Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LilyNguyen_4wHFzN-Uzw"
+}

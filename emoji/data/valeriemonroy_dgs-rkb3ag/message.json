@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Valerie Monroy"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490982213124,
+      "content": "\u00f0\u009f\u0098\u0082 apparently he did invite Michelle she just didn't tell me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490980560085,
+      "content": "OMG you should yell at Kevin hehe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490941771930,
+      "content": "oh what tfti we live like 20min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490941635996,
+      "content": "But I'm also bad at checking messenger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490941625874,
+      "content": "Haha I went to Disneyland yesterday!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490941587057,
+      "content": "do you just like disappear for a bit or are you ignoring me LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490941562510,
+      "content": "HAHA yeah you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490936230675,
+      "content": "That was kinda late dontcha think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490936057193,
+      "content": "what in tarnation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490815042804,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10541018_313423568818463_302512478_n_313423565485130.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Valerie Monroy",
+      "timestamp_ms": 1490760137792,
+      "content": "Say hi to your new Facebook friend, Valerie.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Valerie Monroy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ValerieMonroy_Dgs-Rkb3Ag"
+}

@@ -1,0 +1,214 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491632691364,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491632406863,
+      "content": "tape*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491632402973,
+      "content": "yeah ill need the taoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491620604234,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491620406336,
+      "content": "cool let me checl if anyone has any though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491620370754,
+      "content": "we can buy it with the SPC budget",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491620349214,
+      "content": "i dont havr the tape though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491620306140,
+      "content": "yeah that looks goof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491617790353,
+      "content": "You would just need black electric tape and make a track",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491617776224,
+      "content": "It still works Jacky. Do you wanna use it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491617771240,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/KristinandJacky_mUAZQKm6Rw/videos/video1491617770_372230869838610.mp4",
+          "creation_timestamp": 1491617767,
+          "thumbnail": {
+            "uri": "messages/inbox/KristinandJacky_mUAZQKm6Rw/videos/thumbnails/17779642_372230876505276_8462244836332797952_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491613785042,
+      "content": "Okie I'm still not sure if my robot works lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491612081540,
+      "content": "i did robot challenges so it should be goof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491612040165,
+      "content": "yeah i got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491610046935,
+      "content": "And I could even see if the circuits thing is in out budget so you can have a two parter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491610019751,
+      "content": "You could let the kids make the track and demonstrate how it works?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491609999730,
+      "content": "Yeee I found my old robot and I think it still works I just need black electric tape",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491609975850,
+      "content": "so any info on the robot?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554458208,
+      "content": "its so cute I built it in highschool, it follows a black tape track using photosensors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554418202,
+      "content": "I also am at home home rn and may have a robot you can use LOL if i can find it and if it works still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554380093,
+      "content": "ill talk it over with the SVPs tomorrow tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554368704,
+      "content": "it lowkey looks fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491554356074,
+      "content": "its not to bad compared to other things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491554347268,
+      "content": "im down to buy it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554323561,
+      "content": "kinda pricey tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554313407,
+      "content": "this is what I was talking about before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491554304736,
+      "content": "https://www.amazon.com/Snap-Circuits-SC-100-Electronics-Discovery/dp/B00008BFZH/ref=pd_bxgy_21_img_3?_encoding=UTF8&pd_rd_i=B00008BFZH&pd_rd_r=YZX2417YC5XXKMCNAE0X&pd_rd_w=9pPu4&pd_rd_wg=aXcup&psc=1&refRID=YZX2417YC5XXKMCNAE0X",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491553334120,
+      "content": "This is a harder one t o thinkof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491553311799,
+      "content": "hmmmmmmmmmmm ill get back to you on that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1491553113825,
+      "content": "i dont have an idea yet sorry \u00f0\u009f\u0098\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491553052988,
+      "content": "Hi Jacky!! We were just wondering what your idea was for your NYSD Booth :)?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Jacky",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandJacky_mUAZQKm6Rw"
+}

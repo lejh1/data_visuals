@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jigar Hira"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jigar Hira",
+      "timestamp_ms": 1538715412597,
+      "content": "Say hi to your new Facebook friend, Jigar.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jigar Hira",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JigarHira_Tt556RXt2Q"
+}

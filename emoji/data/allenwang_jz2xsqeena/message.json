@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Allen Wang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492636603434,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492636598124,
+      "content": "Oh haha alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492636578872,
+      "content": "Okay! Well I don't need anymore drivers anymore but if you still want to go you can always message your pmoms and they can add you I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492636529868,
+      "content": "Hey Justin! Im down to go if its not too late to sign up!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588469981,
+      "content": "I'll let you know tomorrow if it's too late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492588439008,
+      "content": "Is it too late to sign up though? Or..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492588428662,
+      "content": "Because like Im not entirely sure I can go but yeah Ill just let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492588363088,
+      "content": "Ill confirm tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492588351749,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492587410897,
+      "content": "Ooooo really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492587212964,
+      "content": "I might be able to drive on Friday for NYSD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allen Wang",
+      "timestamp_ms": 1492587204227,
+      "content": "Yo Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492582062948,
+      "content": "Say hi to your new Facebook friend, Allen.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Allen Wang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AllenWang_JZ2XSQEenA"
+}

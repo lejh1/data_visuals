@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Carmen Tse"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carmen Tse",
+      "timestamp_ms": 1477549231220,
+      "content": "Ok! Thank you for responding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477549210161,
+      "content": "I can no longer go! I'm sorry for the late notice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477549197694,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Carmen Tse",
+      "timestamp_ms": 1477548219556,
+      "content": "Hi Justin!\n\nI'm from Habitat for Humanity and we were wondering if you were still interested in attending the Youth Leadership Summit this Saturday, 10/29. If you could let us know ASAP we would greatly appreciate it. Thank you!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Carmen Tse",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CarmenTse_QD0VsOccCw"
+}

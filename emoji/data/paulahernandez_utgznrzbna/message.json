@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Paula Hernandez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1494864818445,
+      "content": "GBM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494835796425,
+      "content": "Hellllllo, would you like me to bring the drinks to GBM or somewhere else before. I'm free pretty much all day Tuesday after 4 so I can bring them wherever you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1492810183741,
+      "content": "Where r u??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477375959719,
+      "content": "Say hi to your new Facebook friend, Paula.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paula Hernandez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PaulaHernandez_utgZnRZbnA"
+}

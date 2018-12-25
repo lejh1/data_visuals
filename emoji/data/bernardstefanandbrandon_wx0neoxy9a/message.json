@@ -1,0 +1,205 @@
+{
+  "participants": [
+    {
+      "name": "Bernard Laveaux"
+    },
+    {
+      "name": "Stefan Aleksi\u00c4\u0087"
+    },
+    {
+      "name": "Brandon Blaesing"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989104233,
+      "content": "Yea i didn\u00e2\u0080\u0099t really wanna eat there haha it\u00e2\u0080\u0099s just the only spot I knew from memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534989062156,
+      "content": "Can we go somewhere else btw? But I\u00e2\u0080\u0099m down to meet by there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534989040987,
+      "content": "Meet around little sheep?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534987572929,
+      "content": "I\u00e2\u0080\u0099ll wait for you at the station tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534987526991,
+      "content": "Should have checked the time sooner. Ended up running half the way",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534987520068,
+      "content": "Wait the Caltrain station is right next to downtown Mountain View lol I don\u00e2\u0080\u0099t need to pick you up",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Bernard Laveaux"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534987514210,
+      "content": "I'm on the Caltrain btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534987509404,
+      "content": "I'm open for whichever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534987504701,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534984462500,
+      "content": "@Bernard there\u00e2\u0080\u0099s also crepevine which I know you love",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534984451432,
+      "content": "I\u00e2\u0080\u0099m thinking just some random place on Castro st so either hotpot, there\u00e2\u0080\u0099s this Italian place I saw on yelp, or a BBQ place I saw on yelp too or Thai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984388010,
+      "content": "Oh lol I think you and Bernard will be good friend s",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Brandon Blaesing"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Justin Le"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Blaesing",
+      "timestamp_ms": 1534984351093,
+      "content": "Okie doke, as long as there are non-fish options I'm happy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984323230,
+      "content": "Stefan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534984298739,
+      "content": "Might be a little later maybe 7:15 cause I have to get Bernard at the train station around 7:05",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984225185,
+      "content": "We are getting food at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984220783,
+      "content": "Hey Brandon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984215275,
+      "content": "Stefan Aleksi\u00c4\u0087 added Brandon Blaesing.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Brandon Blaesing"
+        }
+      ]
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534984201549,
+      "content": "None for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534984133747,
+      "content": "Any preferences for food?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bernard Laveaux",
+      "timestamp_ms": 1534982296697,
+      "content": "\u00f0\u009f\u0098\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stefan Aleksi\u00c4\u0087",
+      "timestamp_ms": 1534982159701,
+      "content": "Stefan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982158789,
+      "content": "@Stefan Aleksi\u00c4\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982154933,
+      "content": "Bernard is coming!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534982154540,
+      "content": "You created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bernard, Stefan and Brandon",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BernardStefanandBrandon_Wx0neoXY9A"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Melissa Maldonado"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487932872262,
+      "content": "Say hi to your new Facebook friend, Melissa.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Melissa Maldonado",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MelissaMaldonado_ZTkAlrSh2g"
+}

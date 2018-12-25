@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Aaliyah Freeman"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1463649208234,
+      "content": "Make me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aaliyah Freeman",
+      "timestamp_ms": 1463649158139,
+      "content": "Go to sleep!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aaliyah Freeman",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AaliyahFreeman_dWNXsPnB3g"
+}

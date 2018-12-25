@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Bea Ordo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1477877887208,
+      "content": "We will keep going straight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1477877878087,
+      "content": "Uhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1477877864086,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877862188,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877860511,
+      "content": "Keep driving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877853748,
+      "content": "Where are you hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877853734,
+      "content": "Which one???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877853510,
+      "content": "UHHH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1477877828528,
+      "content": "We're here. Go to the intersection.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477801940691,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/BeaOrdo_R8TQ-IJQ9g/videos/video1477801939_290152418046456.mp4",
+          "creation_timestamp": 1477801935,
+          "thumbnail": {
+            "uri": "messages/inbox/BeaOrdo_R8TQ-IJQ9g/videos/thumbnails/14510920_290152444713120_2168167128165777408_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477801923784,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/BeaOrdo_R8TQ-IJQ9g/videos/video1477801921_290152228046475.mp4",
+          "creation_timestamp": 1477801915,
+          "thumbnail": {
+            "uri": "messages/inbox/BeaOrdo_R8TQ-IJQ9g/videos/thumbnails/14767842_290152234713141_6788892618232168448_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Bea Ordo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BeaOrdo_R8TQ-IJQ9g"
+}

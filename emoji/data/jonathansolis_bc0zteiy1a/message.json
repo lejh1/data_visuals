@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Solis"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509152754643,
+      "content": "Say hi to your new Facebook friend, Jonathan.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jonathan Solis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JonathanSolis_bc0ZtEiY1A"
+}

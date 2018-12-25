@@ -1,0 +1,139 @@
+{
+  "participants": [
+    {
+      "name": "Jesseca Lam"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "Carol Li"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477618116203,
+      "content": "https://docs.google.com/presentation/d/1To1gGUdmE3p9IPnkvXag_1Sv6-vDERA_PiXcnOyXSNM/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1477617424842,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477617424577,
+      "content": "Left side tables",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477617414585,
+      "content": "I'm on the 4th floor of Langson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477603274319,
+      "content": "Adina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477603080582,
+      "content": "okie!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477603072028,
+      "content": "Also could you guys bring your laptops :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477603061812,
+      "content": "At langson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477603025086,
+      "content": "where will u be hosting them??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477603021735,
+      "content": "hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477437121745,
+      "content": "Okies thanks for letting me know\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1477437101549,
+      "content": "going on thurs too ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1477437099595,
+      "content": "same!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477437082369,
+      "content": "im gonna go thursday!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477437071123,
+      "content": "Who is coming today for the retake?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477376592173,
+      "content": "Mhm np!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1477376582530,
+      "content": "thank you \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1477375917757,
+      "content": "Hi guys! i will be hosting retakes this week. so on Tuesday at 6.30pm, Wednesday at 7pm, and Thursday at 6.30pm",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jesseca, Amberly, Adina and 2 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JessecaAmberlyAdinaand2others_4gdCWYvaKQ"
+}

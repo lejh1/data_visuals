@@ -1,0 +1,904 @@
+{
+  "participants": [
+    {
+      "name": "Jesseca Lam"
+    },
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480383954822,
+      "content": "Paola: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480383951735,
+      "content": "okay 6:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383156408,
+      "content": "And get grace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383151447,
+      "content": "Annas*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383148308,
+      "content": "And I need to go to Amanda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383144254,
+      "content": "Jk can we meet at 6:45 LOL it'll only take me 15 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480382041674,
+      "content": "In my bin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480382039935,
+      "content": "What should I write",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379648781,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379647440,
+      "content": "And you keep the rest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379644281,
+      "content": "Of Gatorade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379640992,
+      "content": "Put one bottle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379637950,
+      "content": "Lets just",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379633224,
+      "content": "Oh shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480379592017,
+      "content": "Thats not all gonna fit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379584515,
+      "content": "I can take out the Gatorade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379579495,
+      "content": "This haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379576655,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JessecaandPaola_t4BDL2N23Q/photos/15231532_306269933101371_325002787_o_306269933101371.jpg",
+          "creation_timestamp": 1480379575
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379533262,
+      "content": "Wait what do you have again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379524832,
+      "content": "dude idk if that stuff is gonna fit with my stuff LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379519823,
+      "content": "Keep the sharpies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379517294,
+      "content": "Cuz I'll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379512988,
+      "content": "expensive LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379504674,
+      "content": "But it's chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379490534,
+      "content": "I just paid like 50 including the sharpies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379472463,
+      "content": "You don't have to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379469063,
+      "content": "You already chopped in too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379465232,
+      "content": "But since Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379457471,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/JessecaandPaola_t4BDL2N23Q/photos/15224749_10154211550419506_1251769629_o_10154211550419506.jpg",
+          "creation_timestamp": 1480379456
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379431482,
+      "content": "I got them this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379385384,
+      "content": "I already put in $30, thier bin is actually getting full but we can stuff stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480379357156,
+      "content": "sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480379338477,
+      "content": "how much?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379309133,
+      "content": "Do you guys mind chipping in some money",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379293644,
+      "content": "It to them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379289532,
+      "content": "Cold and bad by the time we get time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379281132,
+      "content": "I think nuggets would be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379271785,
+      "content": "I got other gifts for them p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379267496,
+      "content": "Btw I don't think we should get nuggets anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480379168336,
+      "content": "good*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480379161571,
+      "content": "okay sounds goof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379131016,
+      "content": "To get flowers and balloons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379127886,
+      "content": "Cuz I need to go to Albertsons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379122070,
+      "content": "Lets still meet at 6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379117577,
+      "content": "Actually probably later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480378630512,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480378329638,
+      "content": "Probably around 5?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480378326470,
+      "content": "I'm at michaels r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480378320018,
+      "content": "When are you getting here??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480378312136,
+      "content": "We can do sharpie, it'll be easier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480377353656,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480377000748,
+      "content": "Um sharpie is fine TBH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480377000249,
+      "content": "True LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480376822520,
+      "content": "So we should like do it asap or do you think it's fine if we use sharpie?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480376796626,
+      "content": "That puffy paint might take awhile to dy LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480376791371,
+      "content": "I'm going there soon? What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480376774464,
+      "content": "I realized",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480376771067,
+      "content": "Hey r u guys at the tents rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480358590935,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480357790152,
+      "content": "For pledge meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480357785980,
+      "content": "Lets meet in our room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480357071336,
+      "content": "Where are we meeting to decorate and put everything together ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480357037708,
+      "content": "oh jk I just read through the messages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480356318839,
+      "content": "I'll probably be at the tents soon so I can get the bin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330597349,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330589946,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330581358,
+      "content": "oh shit okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330573381,
+      "content": "I can decorate it rly fast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330570679,
+      "content": "okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330565009,
+      "content": "Both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330559083,
+      "content": "or to put everything together?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330553322,
+      "content": "to decorate?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330534397,
+      "content": "B4 the meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330528305,
+      "content": "Yeah can we meet at like 6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330512620,
+      "content": "will you still have time to decorate the bins lol cause im terrible at decorating??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330498469,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330496611,
+      "content": "For sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330488621,
+      "content": "We can venmo you money",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330478615,
+      "content": "Wait thatll be really cool!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330474355,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330468942,
+      "content": "Oh really?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330454901,
+      "content": "I can get the nuggets!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330440642,
+      "content": "Also idk when we can even buy the nuggets lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480330418224,
+      "content": "I can probably get it! I get out of class at 11:50 so ill just ask him to leave it at the tents !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330348152,
+      "content": "10-12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480330331382,
+      "content": "I'm sorry is it possible for you guys to get it from him at like 10-11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480329929637,
+      "content": "But I'm kinda confused rn so I think Marcus has all the bins rn but I won't be back on campus till like 3 pm or 4\nPm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480329898420,
+      "content": "I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480312671652,
+      "content": "that seems like a lot of work tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312449666,
+      "content": "you decide LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312447446,
+      "content": "uhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480311122519,
+      "content": "idk should we",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480309154247,
+      "content": "?*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480309151479,
+      "content": "Wanna do the 100 nugget thing still,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480309145545,
+      "content": "$30 rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480309119553,
+      "content": "how much did you spend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480309113089,
+      "content": "alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480309012182,
+      "content": "But if you have anything in your bins you wanna put in you can!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480308995897,
+      "content": "Uhhh I'm iffy about the nugget thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480308735412,
+      "content": "okay is that all we're putting??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480308621036,
+      "content": "Hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480308610198,
+      "content": "LOL hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480308603059,
+      "content": "Omg Im so late to this, sorry guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480234330166,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480234326960,
+      "content": "I can chip in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480233524652,
+      "content": "and then maybe the nugget thing but im running out of money LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480233509338,
+      "content": "LOL okay so rn what im putting is hand towels, gatorade (cause they thirsty), candy, condoms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480233383803,
+      "content": "I'll see if I can get anything in SF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480233378173,
+      "content": "LOLLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480225299141,
+      "content": "I'm buying hand towels with an S and an A on it cause yolo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480217457490,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480217250921,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480217247071,
+      "content": "Oooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480217019525,
+      "content": "Allen and Sherman love nuggets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480217011259,
+      "content": "Imma try to go to McDonald's and order 100 nuggets and put it on a nice platter for them LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211404584,
+      "content": "Ooo LOL ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211394587,
+      "content": "LOL i have some dw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211383602,
+      "content": "We should ask grace zhu I remember she was passing out free condoms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211372837,
+      "content": "Okkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211348812,
+      "content": "ohhh yea okay LOL ill put a condom in each and write a note like \"Now that our abstaining days are over, use these wisely\" or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211244541,
+      "content": "Give them back a condom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211236747,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211235437,
+      "content": "Hmmm anything random",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211222997,
+      "content": "I'm in SF rn so I won't be back till Monday afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211215729,
+      "content": "what should we put inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211211161,
+      "content": "yeaaaaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211209975,
+      "content": "okay so they are the gifts?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211207840,
+      "content": "Can you guys get the stuff inside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211199245,
+      "content": "And decorate it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211195928,
+      "content": "I'll go get it from her on Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211190404,
+      "content": "Grace zhu has the 2nd one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211184016,
+      "content": "I have one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211181663,
+      "content": "But",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211180108,
+      "content": "Ooo nvm LOL I thought we were supposed to get a separate gift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211164847,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211164227,
+      "content": "aw fk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211160412,
+      "content": "wait the bins arent the gifts??????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211154350,
+      "content": "I'll prepare the bins can you guys get the gift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211151336,
+      "content": "who has them LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211143114,
+      "content": "And the bins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480211139785,
+      "content": "Oh fuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480211126680,
+      "content": "uhhh are troop gifts due monday LOL",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jesseca and Paola",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JessecaandPaola_t4BDL2N23Q"
+}

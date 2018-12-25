@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Lloyd"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Lloyd",
+      "timestamp_ms": 1463851031230,
+      "content": "Say hi to your new Facebook friend, Jessica.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jessica Lloyd",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JessicaLloyd_jPhqGaTSwg"
+}

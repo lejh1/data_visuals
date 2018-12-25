@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Thomas D Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492791082909,
+      "content": "Alright sounds good c:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492781068986,
+      "content": "Ooooo okay well you were just signed up for the event shift originally right? If so then it's fine you can just show up for the event shift only. Just be responsible for making sure the pledges all get there. And then you can either hop in a car with them or take yourself up to you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492765403343,
+      "content": "I can also drive to the event directly if its all too much of a problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492765386226,
+      "content": "Oh so I'm now chair for the event hahah\nI got all the rides set and everything, but quick question: it says my chair shift starts at 2:30 and in the description it says that i need to be at jack 40 mins prior, but i finish class at 1:50. Do i have to be at jack at 1:50 or can I be at Jack at 2:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492713455925,
+      "content": "Oh haha alright! Sounds good then~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713422770,
+      "content": "Or hop in someone's car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713416584,
+      "content": "And I have enough drivers now! But if you want to show up as a back up you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492713401229,
+      "content": "Well okay then. SO being a booth leader was something that took awhile to plan so really you're not gonna be doing anything lol. You'll just be going to the event. But thanks for signing up! Imma just switch your name to the regular shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492712264725,
+      "content": "Oh and I can drive as well! My car can take 4 other people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492712228055,
+      "content": "Hi Justin! I'm one of the pledges rushing this quarter, and I signed up as a booth leader for NYSD. Just wondering; what do I do as booth leader?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Thomas D Nguyen",
+      "timestamp_ms": 1492655794994,
+      "content": "Say hi to your new Facebook friend, Thomas.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Thomas D Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ThomasDNguyen_I5ylDLumjg"
+}

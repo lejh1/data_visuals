@@ -1,0 +1,4803 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Echeverria"
+    },
+    {
+      "name": "Jesseca Lam"
+    },
+    {
+      "name": "Michael Monh"
+    },
+    {
+      "name": "Kenny Yu"
+    },
+    {
+      "name": "Helen Tran"
+    },
+    {
+      "name": "Bea Ordo"
+    },
+    {
+      "name": "Sarah Vann"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Grace Zhu"
+    },
+    {
+      "name": "Brian Lee"
+    },
+    {
+      "name": "Jessica Ho"
+    },
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Hector Vega"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Kirstin Catapang"
+    },
+    {
+      "name": "Jerimi Vindua"
+    },
+    {
+      "name": "Agnes Tang"
+    },
+    {
+      "name": "Evie Ta"
+    },
+    {
+      "name": "Marcus Wu"
+    },
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Jocelyn Jicky Wu"
+    },
+    {
+      "name": "Jonathan Pho"
+    },
+    {
+      "name": "Yuuki Aotake"
+    },
+    {
+      "name": "Abraham Castro"
+    },
+    {
+      "name": "Peter V. Nguyen"
+    },
+    {
+      "name": "Grace Nacho-dip"
+    },
+    {
+      "name": "Kevin Loc"
+    },
+    {
+      "name": "Juliane Ignacio"
+    },
+    {
+      "name": "Julia Wong"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Adriana Baldibia-Bejar"
+    },
+    {
+      "name": "Aaron Buzon"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    },
+    {
+      "name": "Vivian Sweha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1487462672637,
+      "content": "A contact voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1487232398126,
+      "content": "Grace voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "timestamp_ms": 1487192158790,
+      "content": "A contact voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1487191377434,
+      "content": "Kevin voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1487191143816,
+      "content": "Brian voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1487190915230,
+      "content": "Paola voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1487189484374,
+      "content": "Kristin voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kirstin Catapang",
+      "timestamp_ms": 1487189030650,
+      "content": "Kirstin voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1487169344340,
+      "content": "Sarah voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1487160585964,
+      "content": "Jessica voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1487149414317,
+      "content": "Kevin voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1487148984437,
+      "content": "You voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1487148773016,
+      "content": "Hector voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1487148349145,
+      "content": "Kenny voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1487147988106,
+      "content": "Michael voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1487147936763,
+      "content": "once majority is reached then it the remainder of the funds will go towards our fees, #democracy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1487147717773,
+      "content": "Melanie voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1487147244218,
+      "content": "Reeva voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nelson Echeverria",
+      "timestamp_ms": 1487146526987,
+      "content": "Nelson voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1487146350548,
+      "content": "Bea voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1487146333918,
+      "content": "Helen voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter V. Nguyen",
+      "timestamp_ms": 1487146227021,
+      "content": "Peter voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1487146184952,
+      "content": "Jonathan voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1487146161315,
+      "content": "Yuuki voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1487146033491,
+      "content": "Evie voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Nacho-dip",
+      "timestamp_ms": 1487145992143,
+      "content": "Grace voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1487145722425,
+      "content": "Agnes voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1487145514082,
+      "content": "Jesseca voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1487145492984,
+      "content": "Lawrance voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1487145454800,
+      "content": "Kristine voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1487145423102,
+      "content": "Amberly voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1487145306584,
+      "content": "Jerimi voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1487145281267,
+      "content": "Juliane voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1487145254472,
+      "content": "Julia voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1487145242118,
+      "content": "Jocelyn voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1487145210301,
+      "content": "Abraham voted for \"yes\" in the poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1487145201171,
+      "content": "Abraham created a poll: Would you like to reduce fees with the left over money yes or no? You can add another option if you want its consideration.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1487145155711,
+      "content": "Kevin: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1487145118864,
+      "content": "Jerimi: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1487145115650,
+      "content": "Jocelyn: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1487145113632,
+      "content": "Melanie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1487144737662,
+      "content": "Bea: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1487144693350,
+      "content": "Helen: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1487144640174,
+      "content": "Reduce plz!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1487144582980,
+      "content": "Yuuki: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1487144536539,
+      "content": "Yes reduce the duesss \u00f0\u009f\u0098\u0088",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1487144447584,
+      "content": "^^ ditto",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1487144422004,
+      "content": "Paola: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1487144417039,
+      "content": "Julia: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1487144410208,
+      "content": "yesss^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1487144268438,
+      "content": "Hector: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1487144219212,
+      "content": "I agree with jerimi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1487144201876,
+      "content": "highkey same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1487144181769,
+      "content": "(I'm so down for reducing our dues LMFAO)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1487144119686,
+      "content": "Hey y'all!! Hope everyone has been having a great quarter. Good luck with midterms if you're not done yet!! So I just wanted to double check with everyone on what y'all wanted to do with the remaining money for our pledge class.. do you want it all of it to go to our dues to get them reduced? Or were y'all still planning to use some to purchase a pledge parent gift and then the remaining money after that to go towards our dues? Or do y'all want to use it for something else? I can create a poll if y'all want but I'm leaving it up for discussion amongst y'all and it's up to our class to decide what we do with it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1481087466228,
+      "content": "Thanks sm Grace!\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1481087230853,
+      "content": "Don't forget to dance and don't leave the dj dancing alone LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1481087098130,
+      "content": "zayumm. pbros for life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1481087087589,
+      "content": "you got business grace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1481087086767,
+      "content": "But you and Hector killed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1481087077766,
+      "content": "^^^^SAME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1481087055386,
+      "content": "Grace, when you plan my wedding in the future I promise you your budget will be so much better lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1481082435852,
+      "content": "Kevin sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851568_396469623830477_2084168344_n_396449307165842.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1481082432418,
+      "content": "Jessica sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1481082361747,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1481082340597,
+      "content": "Bea sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734288_1530358637204945_306090827_n_1530358633871612.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1481082321917,
+      "content": "ty ty ty <3 <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1481082315360,
+      "content": "Thank you \u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1481082308631,
+      "content": "Helen sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48573190_1960951497354487_1956060202612555776_n_629290447187272.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481082290972,
+      "content": "Thank youu\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1481082271127,
+      "content": "woohoo ty gracie \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1481082180226,
+      "content": "Melanie sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48570654_1881527625290699_4411765847828201472_n_832506916859447.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1481081549102,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481081533023,
+      "content": "Yas grace ty!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1481081467163,
+      "content": "Yayy thanks grace\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1481081432137,
+      "content": "\u00f0\u009f\u0092\u0095 thanks grace for everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1481081409588,
+      "content": "Hi everyone so the photographer just finished finalizing the digital of our photos from the photobooth so I will be getting the USB from him tmr or sometime this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480919993040,
+      "content": "Facebook User: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480916248824,
+      "content": "\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480914727141,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480914159277,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480912279622,
+      "content": "Before y'all leave, take a pic with me pls \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480907855032,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480907845896,
+      "content": "Hi do we bring in the gifts when we come in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480905496650,
+      "content": "RIP omg ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480905485931,
+      "content": "LMFA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480905484242,
+      "content": "i mean ya grand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480905478491,
+      "content": "tables arw first come first serve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480905472150,
+      "content": "hopefully ya mom saves you a spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480905326765,
+      "content": "Heads up... might be a little late \u00f0\u009f\u0098\u0094\u00f0\u009f\u0098\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480904113042,
+      "content": "I found it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480903231839,
+      "content": "Or outside the door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480903227384,
+      "content": "The party favor sign should be on the small table on the dance floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480902000442,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480901761619,
+      "content": "I be there at 6:30 tho. Ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480900782480,
+      "content": "Yes pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480900458846,
+      "content": "U still need bobby pins?? I can bring",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480899781152,
+      "content": "The party favor signs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480899775719,
+      "content": "Oh fuck bobby pins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480899749004,
+      "content": "Okay ty btw can someone get me Bobby pins and a curler lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480899708783,
+      "content": "that says AH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480899706819,
+      "content": "like the table u have set up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480899701373,
+      "content": "big n lil is on one of the seats in the main area",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480899590824,
+      "content": "Kristin and Helen where are the other signs btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480899369477,
+      "content": "omg LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480899295725,
+      "content": "I'll start walking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480899290339,
+      "content": "Lolol rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480899245879,
+      "content": "When justin isn't on the list LOL rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480899080274,
+      "content": "so basically i already set up rides for those who needed it. if i didn't contact you you're good to go and don't need to take anyone else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480898961965,
+      "content": "Grace sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15311487_10211397438598769_12049602_o_10211397438598769.png",
+          "creation_timestamp": 1480898960
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898821744,
+      "content": "there*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898819623,
+      "content": "so just to be clear: here isn't a list?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480898781325,
+      "content": "People with no rides are contacted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480898774953,
+      "content": "You're good just drive yourself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480898764666,
+      "content": "If you're not contacted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480898750270,
+      "content": "Hector said that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898740237,
+      "content": "cool cool. thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480898730567,
+      "content": "Okay I'll let u know after hector drops ppl back in irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898597015,
+      "content": "cuz if i am driving, i'd like to know cuz i needa allot time to get gas \u00f0\u009f\u0099\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898573329,
+      "content": "when i asked last night, it wasn't sent out so i'm just not sure how it's all working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480898560146,
+      "content": "We got u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480898551265,
+      "content": "Hector got the rides list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480898517780,
+      "content": "Ty Melanie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480898517192,
+      "content": "so i'm guessing rides are just \"find your own ride\"?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480898468095,
+      "content": "Color scheme @abraham",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480898463876,
+      "content": "Melanie sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15311019_1308151575872922_1920527339_o_1308151575872922.jpg",
+          "creation_timestamp": 1480898463
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480898128495,
+      "content": "So cuteeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480898027905,
+      "content": "THAT IS SO PRETTY\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480898009182,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15322396_10154227771519506_46685449_o_10154227771519506.jpg",
+          "creation_timestamp": 1480898008
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480897983727,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15368831_10154227770684506_1144455047_o_10154227770684506.jpg",
+          "creation_timestamp": 1480897974
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480897971326,
+      "content": "You need to sign this thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480897965173,
+      "content": "When you sign I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480897962651,
+      "content": "Everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480897765571,
+      "content": "Is the color scheme on the page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480897453684,
+      "content": "Oh okie\n\nThanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480897442749,
+      "content": "I just don't know how long it'll take for them to get someone out to you cause I don't think anyone that's trained for it is in rn other than the lead and he was busy doing stuff when I left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480897379943,
+      "content": "They're open\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nelson Echeverria",
+      "timestamp_ms": 1480897047564,
+      "content": "Nelson voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480896957905,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480896955341,
+      "content": "Are they open sundays??!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480896032180,
+      "content": "Anteater roadside assistance!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480895947957,
+      "content": "Wait sos my car won't start I've been getting AAA all this time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480895385921,
+      "content": "Yeah but money tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480894974557,
+      "content": "we actually got drinks from costco so don't worry about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894470982,
+      "content": "We mostly need help the hr before when the photographer comes at 6.30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894442319,
+      "content": "Okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894427167,
+      "content": "It's okay but come if you are on ur way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894311788,
+      "content": "Wait so what do I do \u00f0\u009f\u0098\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894267281,
+      "content": "Unless ppl want to make props for photobooth because it's eh rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894246943,
+      "content": "Kenny got it! We are actually almost done setting up!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894230707,
+      "content": "I'm omw then if no one needs a rde",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894220960,
+      "content": "Okiiiiieeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480894199436,
+      "content": "you dont have to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480894197294,
+      "content": "cat its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894159416,
+      "content": "*wait let",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894147298,
+      "content": "Wet me double check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894133724,
+      "content": "I'm omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894129442,
+      "content": "Kennys not bring it?\n\nOkie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480894103050,
+      "content": "The projector from vdc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480894070608,
+      "content": "I'm driving over rn does anyone need a ride or anything fr here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480893996218,
+      "content": "There will only be water and ice/hot tea if you want soda or juice please bring some!!! And desserts! Please msg us if you do tho! ask ur family to make a quick trip to Albertson pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480892027328,
+      "content": "Kenny is getting it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480891947530,
+      "content": "The tech guy need it befor 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480891885484,
+      "content": "jesseca can get it later she said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480891880876,
+      "content": "oh shoot jesseca & us just left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480891866000,
+      "content": "63921 Arroyo Dr in VDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480891863381,
+      "content": "IS ANYONE DRIVING HERE NOW AND CAN PICK UP THE PROJECTOR BEFORE 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480887946739,
+      "content": "Helen changed vote to \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480887906536,
+      "content": "Abraham voted for \"candy goodie bags\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1480886575552,
+      "content": "Yuuki voted for \"candy bar\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480886452422,
+      "content": "You voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480886295793,
+      "content": "Melanie voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480883163287,
+      "content": "Brian voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480847222535,
+      "content": "Jonathan voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480846536961,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480846314381,
+      "content": "Jerimi voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480846293341,
+      "content": "Hey ya'll. I'm not sure if I missed it.. but were we linked the spreadhseet with the drivers list?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480846259296,
+      "content": "Julia voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480839964083,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480839925320,
+      "content": "It's white",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480838895430,
+      "content": "*does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480838886219,
+      "content": "Hey do anyone happen to know what the back drop for the photo booth looks like?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480838795676,
+      "content": "Sarah voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480838781363,
+      "content": "Hector voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480838714214,
+      "content": "Kristin voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480838457981,
+      "content": "Michael voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480838116254,
+      "content": "Kristine voted for \"candy goodie bags\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480838091393,
+      "content": "Helen voted for \"candy goodie bags\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480838059202,
+      "content": "Bea voted for \"candy goodie bags\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480838020184,
+      "content": "Grace removed vote for \"none\" and 1 other option in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480838011719,
+      "content": "Grace voted for \"none\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480838007168,
+      "content": "Grace voted for \"candy goodie bags\" in the poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480837988891,
+      "content": "I have more \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837987934,
+      "content": "Grace created a poll: Candy bar, candy goodie bags, or nah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480837964165,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837958575,
+      "content": "Wait I'll just make a poll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837943128,
+      "content": "It's okay we would need a lot of candy :(it's okay we think ppl wouldn't want candies anyway.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480837906910,
+      "content": "why do you have so much candy o.+",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480837818873,
+      "content": "Is this okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480837813605,
+      "content": "Agnes sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15292656_1487787501248761_274490792_o_1487787501248761.jpg",
+          "creation_timestamp": 1480837811
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837765950,
+      "content": "Jk nvm no candy bar too expensive lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837458316,
+      "content": "Can people help bring candies I'm broke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480837447337,
+      "content": "Grace sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15354208_10211389124190914_1548360458_o_10211389124190914.jpg",
+          "creation_timestamp": 1480837446
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480835531404,
+      "content": "kk so helen and vanessa. that means i have 2 more spots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480835515507,
+      "content": "Me plss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480835484983,
+      "content": "who am i taking ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1480835455643,
+      "content": "Helping at 1 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480834237733,
+      "content": "also helping at 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480834183041,
+      "content": "Coming at 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480834159283,
+      "content": "moi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480834147545,
+      "content": "I'm helping at 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480834095395,
+      "content": "Btw can we know how many ppl are coming to help set up tmr and needs a ride we are going there at 1pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adriana Baldibia-Bejar",
+      "timestamp_ms": 1480833967137,
+      "content": "The amount kind of depends on how much the dj and photo booth end up being but yeah we do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480833753968,
+      "content": "Adriana !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480833719695,
+      "content": "wait do we have leftover money to buy moms something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480833321891,
+      "content": "Hector sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15328394_1300149663331072_1690385614_n_1300149663331072.png",
+          "creation_timestamp": 1480833321
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480833296929,
+      "content": "^ this one lol srry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480833250662,
+      "content": "Grace sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15292689_10211388913865656_348780233_o_10211388913865656.png",
+          "creation_timestamp": 1480833248
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480833194056,
+      "content": "Hector sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15328240_1300148579997847_1813933263_n_1300148579997847.jpg",
+          "creation_timestamp": 1480833193
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480833118581,
+      "content": "Info is on the Facebook event page! I'll upload the program soon when I get the file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480833098780,
+      "content": "Mkkay TY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480833089749,
+      "content": "6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480833071667,
+      "content": "7 right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480833063356,
+      "content": "What times does banquet start at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480816948581,
+      "content": "Jonathan sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480813364188,
+      "content": "looks pretty af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480813359215,
+      "content": "wow much sorority",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480813277589,
+      "content": "Grace sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15292688_10211386755491698_1785881505_o_10211386755491698.png",
+          "creation_timestamp": 1480813275
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480813220909,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480813120109,
+      "content": "Rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480813117947,
+      "content": "Big little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480813115499,
+      "content": "Can I design the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480813059601,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480813002577,
+      "content": "Maybe we should have everyone sign on the balloons when we do registration",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480812962561,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480812955688,
+      "content": "So niceee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480812876022,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480812826241,
+      "content": "Yay!!! Thanks omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480812817138,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480812804650,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15311443_10154224973764506_1960438863_o_10154224973764506.jpg",
+          "creation_timestamp": 1480812803
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480812636240,
+      "content": "Bea: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480812626352,
+      "content": "1pm!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480812619221,
+      "content": "What time tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480812604644,
+      "content": "No need to come everyone we almost done! We just need people to help set up tmr!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480810079103,
+      "content": "We are almost done!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1480808907717,
+      "content": "Will anyone be there around 10?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480808705574,
+      "content": "Im coming rn to helpp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480805101514,
+      "content": "fasho fasho :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480805046375,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480805001714,
+      "content": "I'm going to be heading home around 4:30 or 5. Can I drop by 205 for the thumbprint?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480804917084,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480804900628,
+      "content": "ill be there 3:30/4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480797920817,
+      "content": "i can go around 3ish!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480797848000,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480797840761,
+      "content": "Me and Helen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480797772395,
+      "content": "Okie! Ill go around 7 ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480797757146,
+      "content": "anyone coming soon ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480797740924,
+      "content": "yeah pretty much , or however long we need to finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480797694164,
+      "content": "Are you gonna be there the whole day?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480794580860,
+      "content": "Oops sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480794575715,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480794574161,
+      "content": "Jesseca: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480794084189,
+      "content": "Hey everyone I know everyone's busy with finals, but banquets tmrw and if everyone can do something to help, it'd go by really fast! We've been working really hard to make banquet a success for everyone, and we just really need help! \n\nWe will be at 205 Berkeley and if you need a ride back at night we will drive you!\n\nAlso we need EVERYONE'S THUMBPRINT so please come by even for 1 min to do so. Jesseca has been painting the pmom gifts and will probably have it done for yall to come around 2?. \n\nIf you won't be around the campus area to do so or please let us know.\n\nIf you can't come out to help please help upload photos to the historian drive (link was provided). I said it yesterday but Noone uploaded anything :\"(\n\nI just want us to have a great banquet but it's really hard when only a few people actually help.\n\nI really appreciated those who have been coming out this week so yall get first pick on party favors. If you didn't help I'm sorry there's not enough party favors for you to get one only for your bigs and troop leaders :\"(\nThanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480764717620,
+      "content": "Brian: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480727433640,
+      "content": "Damn I just got off class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480727368908,
+      "content": "we just finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480727101403,
+      "content": "Are you guys still at hector's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480726070517,
+      "content": "Omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480726068324,
+      "content": "I didn't do it!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480726005300,
+      "content": "ok !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480725991303,
+      "content": "I'll go to office Depot tmr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725983731,
+      "content": "still get it ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725976958,
+      "content": "$21",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725971618,
+      "content": "wait it's $20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725920673,
+      "content": "this is so weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725883287,
+      "content": "ITS YOU GUYS \nYOURE ALL SO ANNOYING AND UGLY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480725880446,
+      "content": "Who's on jesseca account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480725858753,
+      "content": "yikes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725841362,
+      "content": "THATS NOT ME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480725840749,
+      "content": "oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725838526,
+      "content": "ME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725837219,
+      "content": "THATS NOT KE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725833483,
+      "content": "Holy fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725828262,
+      "content": "FUCK ALL OF YOU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725805929,
+      "content": "we're buying it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725790172,
+      "content": "Wtf I didn't write tat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725786218,
+      "content": "JESSECA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725780462,
+      "content": "Jesseca sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48623288_1878321752289659_256480951402496000_n_460938520694663.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725761876,
+      "content": "ew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725753072,
+      "content": "Sarah sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15271284_10211350592225639_1801181540_o_10211350592225639.jpg",
+          "creation_timestamp": 1480725752
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725711400,
+      "content": "i think its ugly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725693637,
+      "content": "wait what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480725682535,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725674595,
+      "content": "het them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725672163,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725657319,
+      "content": "Sarah sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15293283_10211350586345492_149162602_o_10211350586345492.jpg",
+          "creation_timestamp": 1480725656
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725637610,
+      "content": "says the grace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725633248,
+      "content": "pics pleas e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725630497,
+      "content": "yes clear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480725626236,
+      "content": "is it clear ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480725623262,
+      "content": "Should we open the floor for discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725556029,
+      "content": "yes or no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480725508582,
+      "content": "hello they have the labels at fedex, 250 for $15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480720260582,
+      "content": "Can anyone get this please?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480720260237,
+      "content": "Juliane sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15321457_1070735613024201_1763052035_o_1070735613024201.jpg",
+          "creation_timestamp": 1480720259
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480719586721,
+      "content": "Melanie sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/48681420_1878324532289381_1339078753153712128_n_460938434028005.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480719572867,
+      "content": "IM OMW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480719549465,
+      "content": "they aren't sharpies but are basically the same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480719539252,
+      "content": "i just finished using it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480719533540,
+      "content": "they are in one of the bins!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480719501088,
+      "content": "DOES ANYONE HAVE SHARPIE PENS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter V. Nguyen",
+      "timestamp_ms": 1480719110611,
+      "content": "Peter: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480718946369,
+      "content": "come on through! we are currently working on stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480718684014,
+      "content": "Agnes: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480718537569,
+      "content": "Wifi down at work so im gonna get off early lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480718527579,
+      "content": "DO U GUYS STILL NEED HELP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480717108984,
+      "content": "ratchet music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715992923,
+      "content": "Yay ty justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480715982847,
+      "content": "I'm on my way hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715938517,
+      "content": "*like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715934194,
+      "content": "Hey the dj asked what kind of music yall wlike",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480715535249,
+      "content": "ill be there at 2 but ill only be there for an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715412140,
+      "content": "*are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715402619,
+      "content": "the pmom gifts is a class effort so we need everyone's help pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480715392522,
+      "content": "you could help with the collage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480715352990,
+      "content": "We need help with the collage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480714210371,
+      "content": "If that's even worth it? Should I come?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480714149740,
+      "content": "I can come at 2 but only for an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480714126265,
+      "content": "I'll bring nail Polish remover",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480713914467,
+      "content": "the more people the merrier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480713912620,
+      "content": "i can come after 5!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480713908443,
+      "content": "we are going to finish spray painting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480713889336,
+      "content": "anyone have nail polish remover? also can people come at 2 or no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480713193545,
+      "content": "yeah ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480713081096,
+      "content": "Hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480712364048,
+      "content": "Is anyone at 205 Berkeley right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480711595586,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1480711544507,
+      "content": "Done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480711535426,
+      "content": "or accepted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480711529631,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480711527643,
+      "content": "i need access to the file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480706052759,
+      "content": "LOL \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480706050850,
+      "content": "Pls make photo collages like this put them on the Google Drive whenever u all have time ty \u00e2\u009d\u00a4\u00ef\u00b8\u008f\n\nhttps://drive.google.com/drive/mobile/folders/0BzSbYF5U-OJmbXJQRzBLdFJoem8?usp=drive_web",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmobile%2Ffolders%2F0BzSbYF5U-OJmbXJQRzBLdFJoem8%3Fusp%3Ddrive_web&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmobile%2Ffolders%2F0BzSbYF5U-OJmbXJQRzBLdFJoem8%3Fusp%3Ddrive_web"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480705907588,
+      "content": "Credits to Kristin",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15310987_10211462550066081_1378168231_o_10211373687805014.jpg",
+          "creation_timestamp": 1480705907
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480705437154,
+      "content": "Also we need everyone's fingerprint so even for 5 min tmr whenever come out to stamp ur fingerprint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480705281223,
+      "content": "205 Berkeley",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480705272705,
+      "content": "*we need more gold glitter glue!! And golden and silver spray paint!\n\n*We need to print photos of anything related to us. I want to hang them on the branches. Just like scrapbooking can some people start making collages of 4 per photo sheets so I can go print them out tmr. \n\n*spray paint the glass bottles \n\n*finish painting the props for photobooth\n\n*make a banner for photobooth\n\n*make the collage for the pmoms\n\n*paint the UP picture for the pmom\n\n*finish the party favors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480704946019,
+      "content": "Where are we meeting today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480704925239,
+      "content": "What do we still need? Can you make a list??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480704890076,
+      "content": "I know after activation there's a celebration but we are wayyy behind in making stuff so please help when you can. Only 2 more days! Thank you \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\n\nBTW thanks to everyone who came out yesterday a nd the days before it meant a lot!! \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480673150915,
+      "content": "so i'm going to pick up the photos from costco at 12 so if anyone wants to go to costco meet me at 205 berkeley",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480672324211,
+      "content": "But yeah get pictures of adina and Jenny first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480672262110,
+      "content": "Omg stop spamming I'm tryna play the game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480672257038,
+      "content": "also could you guys choose what pictures i should print for the collage ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480672232935,
+      "content": "you never told me this XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672223225,
+      "content": "wth hector LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672219206,
+      "content": "yeaa since last year...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1480672216773,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480672194828,
+      "content": "this whole quarter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672184754,
+      "content": "-___-",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672182611,
+      "content": "AND YES I DO WORK @hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480672176272,
+      "content": "Ih8 u all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672170587,
+      "content": "he wont even let u cut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480672169140,
+      "content": "... ._.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672167522,
+      "content": "lmaooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480672159268,
+      "content": "you can come for emtional support",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480672146351,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480672143993,
+      "content": "I can draw stick figures if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672141803,
+      "content": "let him cut the pictures or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672128710,
+      "content": "GRACE HECTOR JUST DONT LET HIM DO ANYTHING ART RELATED",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480672127619,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672083081,
+      "content": "anyone but brian :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480672076465,
+      "content": "dont let brian draw please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480671984693,
+      "content": "Ask Melanie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480671981291,
+      "content": "But I'm also terrible at art too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480671972564,
+      "content": "I can help at 12 if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480671836018,
+      "content": "you work ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480671673603,
+      "content": "I have work 12-5pm :( srry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480671629618,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480671608703,
+      "content": "so help 12 to 1:30 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480671591925,
+      "content": "I can do till 1:30 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480671576768,
+      "content": "Jocelyn: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480671573470,
+      "content": "His place!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480671559913,
+      "content": "12... where are you going to be at? I might be able to help until like 1:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480671514989,
+      "content": "Hey guys i need help at 12 making the collage for the pmom gift. im really arts dumb so i cant really do this on my own. can someone volunteer to help me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480652858380,
+      "content": "BLESS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480652848216,
+      "content": "Kristin sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=33.64809064266%2C+-117.83649330237&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480652774622,
+      "content": "Can y'all drop a pin? We're lost\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652328112,
+      "content": "OK LMK I COME LATER TONIGHT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652324165,
+      "content": "I meant i signed up to help saturday too not tmrw ^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480652315793,
+      "content": "We'll probably need help later tonight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480652279086,
+      "content": "You can go write your paper!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652218241,
+      "content": "I signed up to help tmrw too if anything :) but lmk if u guys still need help tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652198795,
+      "content": "WAIT DO U GUYS STILL NEED HELP THEN? If not im gonna go write my paper before I forget what my professor said LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480652147743,
+      "content": "Julia and I are walking there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480652146701,
+      "content": "We're going to ask Anna rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480652144158,
+      "content": "uhjmmm i left to go study so i'm not sureee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652135245,
+      "content": "like r u guys there...? can i just come in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480652121837,
+      "content": "In total",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480652116128,
+      "content": "Who's there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480652104532,
+      "content": "LOL is there anyone home then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480652001095,
+      "content": "take your time :) they're leaving for a bit LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480651815610,
+      "content": "OMWWW SRRY PROFESSOR TALKED TOO LONG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480649745595,
+      "content": "Here if someone can help carry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480649541974,
+      "content": "There's masking tape and u can start wrapping the top half of each shot glasses because we are spraying the bottom half",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480649489543,
+      "content": "I'm 3 min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480649022497,
+      "content": "oh shit. yeah I thought we were all waiting for grace rip sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480648969606,
+      "content": "Is there stuff to do? Or waiting to start after grace gets everything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480648969155,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480648956717,
+      "content": "do u guys have the supplies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480648935845,
+      "content": "yeah , it's just me and grace diep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480648365489,
+      "content": "Is anyone there rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480646129668,
+      "content": "Check if my apt door is open so someone can get the supplies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480646034288,
+      "content": "No sorry :( let me l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480645940732,
+      "content": "Is she there yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480644449467,
+      "content": "205 berkeley, grace hasn't finished shopping yet though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480644422217,
+      "content": "Hi hello where will we be meeting up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480642262557,
+      "content": "Ok ty justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480642227720,
+      "content": "I'm also going to be late sorry I have class \u00f0\u009f\u0098\u009e til 9. If y'all still working I'll come but if not I'll sign up for a different day :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480641443150,
+      "content": "We might have to move it to ICS same place as showcase if hector doesn't get out in time but I will let u all know when to come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480641146703,
+      "content": "I will be late! Be there around 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480640884448,
+      "content": "Okie dokie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480640845267,
+      "content": "Yeah around 6! But rn Helen and I are gonna go buy supplies if anyone wants to come!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480640796049,
+      "content": "Is there party favor making at 6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480640551518,
+      "content": "Can someone bring a stack of newspaper there should be a lot of the schools paper by the tents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1480640546038,
+      "content": "The call ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1480640538615,
+      "content": "Yuuki started a call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480634784958,
+      "content": "yes pls :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480634739941,
+      "content": "Omggg the pearl white maybe with blue might be cute idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480634458026,
+      "content": "need any of these??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480634454265,
+      "content": "Jerimi sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15310794_1562269357133006_1159670849_o_1562269357133006.jpg",
+          "creation_timestamp": 1480634452
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480631747005,
+      "content": "if you have photos of our pmom please upload them here \nhttps://drive.google.com/drive/folders/0B0R_S4lJCLUJZS1tZF9wTURjRjA",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B0R_S4lJCLUJZS1tZF9wTURjRjA&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B0R_S4lJCLUJZS1tZF9wTURjRjA"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Peter V. Nguyen",
+      "timestamp_ms": 1480627424403,
+      "content": "Peter: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480621098629,
+      "content": "Ohhh mkay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480621041605,
+      "content": "We have it but it's not thick enough for canvas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480620978492,
+      "content": "Can we use the paint we used to make props?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480618911559,
+      "content": "Jocelyn: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480618174911,
+      "content": "Ooo we can instead of getting frames!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480618061976,
+      "content": "Are we mKing the collage shaped as an A and H?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480615817190,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15311561_10154218505509506_2061507745_o_10154218505509506.jpg",
+          "creation_timestamp": 1480615816
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480615744974,
+      "content": "Thanks jerimi!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480615726729,
+      "content": "I might have some acrylic paint at home (not 100% sure tho) and if I do, it'll be very limited on colors, but i'll check!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480615515819,
+      "content": "Does anyone have a microphone we can use for banquet like a karaoke one if your family karaokes\n\nAlso can we borrow someone's set of acrylic paints for the pmom gifts\n\nIf you guys still want to do the collage present lmk or else we aren't going to do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480555703966,
+      "content": "The shoe idea was good too lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480555699247,
+      "content": "I think letters are nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480555642787,
+      "content": "It's actually not that expensive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480555636414,
+      "content": "Yeah LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480555622372,
+      "content": "whats it even mean to get tickets to vegas \u00f0\u009f\u0098\u0082 hotel? LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480555587364,
+      "content": "We should get begas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480555506191,
+      "content": "LOL grace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480555500784,
+      "content": "yall voted on the collage lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480555497015,
+      "content": "Rip Coachella is too much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480555476384,
+      "content": "Shoes for Jenny??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480555456855,
+      "content": "tickets to vegas wowow so uh coachella for adina \u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480555436108,
+      "content": "\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480555429500,
+      "content": "But we might have to give it to them after banquet or next term",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480555407103,
+      "content": "Hey so I've talked to other terms and they got their pledge parents really nice gifts like tickets to Vegas or letters. We might have some money leftover after paying for banquet if you guys want to use it for our pmom gifts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480548948751,
+      "content": "The Smell is horrible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480548934596,
+      "content": "Anyone got a bandana or a mask so we can spray paint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480525618033,
+      "content": "If you are coming to help out today please let me know what time you are coming in a separate message thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480525377265,
+      "content": "I have class, but I'm gonna help out after Cha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480525336930,
+      "content": "To help out at 12?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480525333272,
+      "content": "Is anyone free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480488957979,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480479944436,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15228029_10154214437944506_532177568_n_10154214437944506.jpg",
+          "creation_timestamp": 1480479943
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480479668451,
+      "content": "I clicked the link and it only leads to banquet committee sign up sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480478495596,
+      "content": "If anyone wants to know the exact name of the theme colors it's on the link jesseca just sent ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480471341744,
+      "content": "KEN graciously donated 6 bottles we good! Thank the #1 active \n\nOh serious note we have exactly 90 for head count so if you haven't paid for a guest they won't get a seat I'm sorry \nI'll try to ask for 95 chairs but I won't do 100 seats because we don't want to pay for empty seats!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480469461099,
+      "content": "Guys we should really help out with the banquet committee, honestly banquet won't just magically be ready for us to go on Sunday, we agreed on the date like a month ago so it should be no surprise that it's right before finals week. And it was announced that everyone will eventually be in the banquet committee.  So having to study for finals is not an excuse. Kristine has finals on sat and sun and she's been contributing and helping out and she also signed up for at least a day to help out. Everyone has finals and everyone are sleep deprived but if everyone helps out it would be much easier and less stressful for the banquet chairs because they are burning out :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480467843994,
+      "content": "if you sign up for a day make sure to at least show up for an hour please. Grace is trying her hardest ad we cant get this done without the help from all of you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480467092576,
+      "content": "Hey I noticed a lot of people signed up to help out today but only David came out....and Jacky lmao I hope to see yah at panda later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480466549288,
+      "content": "O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480466456817,
+      "content": "I have 2!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480466441225,
+      "content": "They have plastic now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480466433936,
+      "content": "i threw min away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480466409229,
+      "content": "@those who are going to the fellowship today tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480466380399,
+      "content": "dont have any sowee ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480466134217,
+      "content": "Can people donate roasting water bottles?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480459305093,
+      "content": "Update: if you have free time to help just message me PRIVATELY and I'll let you know where we'll be\nRn at the tents collecting branches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480455548664,
+      "content": "Grace are beer bottles okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480454925553,
+      "content": "Okie :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480454885002,
+      "content": "They are separate we will do both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480454759157,
+      "content": "Jesseca sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/1614061702229729/permalink/1634540406848525/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480454490827,
+      "content": "Is the collage the same as the fingerprint thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480454133347,
+      "content": "Kenny voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480453554777,
+      "content": "Jesseca voted for \"jenny gets shoes and adina something\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480453417156,
+      "content": "Amberly voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yuuki Aotake",
+      "timestamp_ms": 1480452326350,
+      "content": "Yuuki voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480451905970,
+      "content": "Reeva voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480451864068,
+      "content": "Hector voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1480451815042,
+      "content": "Kevin voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kirstin Catapang",
+      "timestamp_ms": 1480451803856,
+      "content": "Kirstin voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1480451512521,
+      "content": "Marcus voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480451210723,
+      "content": "Agnes voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julia Wong",
+      "timestamp_ms": 1480449957591,
+      "content": "Julia voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480449817925,
+      "content": "Michael voted for \"jenny gets shoes and adina something\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jocelyn Jicky Wu",
+      "timestamp_ms": 1480449592714,
+      "content": "Jocelyn voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480449472722,
+      "content": "Jessica voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evie Ta",
+      "timestamp_ms": 1480449050861,
+      "content": "Evie voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1480448370967,
+      "content": "Bea voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480448195395,
+      "content": "Sarah voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aaron Buzon",
+      "timestamp_ms": 1480447629493,
+      "content": "Aaron voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480447378026,
+      "content": "Wait smarter idea can ppl donate their roasting water bottles easier to get honestly \nStill might use wine bottles if we have enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480447357663,
+      "content": "Melanie voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480446902622,
+      "content": "Juliane voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480446776175,
+      "content": "Vivian voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480446746367,
+      "content": "Kristin voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter V. Nguyen",
+      "timestamp_ms": 1480446628223,
+      "content": "Peter voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480446211595,
+      "content": "Jerimi voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445840572,
+      "content": "Kristine voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480445638841,
+      "content": "If we do get Jenny shoes and split it with everyone it'll be like $4 a person",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480445617458,
+      "content": "Brian voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480445587938,
+      "content": "Helen voted for \"the collage of pictures\" in the poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480445565323,
+      "content": "Grace created a poll: Pmom gifts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480445469566,
+      "content": "Or donate spray bottles of silver or gold",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480445441131,
+      "content": "It is! Ty kristine for contributing to ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445423822,
+      "content": "you're doing a great job okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480445423319,
+      "content": "Updates and how to help out:\nStill need a confirmation on pmom gifts so we can get it by banquet\nGo ask around for bottles or collect branches and nature",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445406572,
+      "content": "Sowee Grace I thought gifts were a part of banquet ; - ; but i'll help out!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480445334238,
+      "content": "Sorry for interrupting \nso can everyone PAY ATTENTION to what's happening and stop spamming this chat unless it is related specifically to banquet. I don't want people to mute this chat or to keep on asking the SAME questions that is asked over and over again. Fucking take 2 mintues to Scroll Up To read the announcements. I have been patient and lenient enough to let people off and doing whatever they want but am not your mother and it's so stressful repeating myself over again and chasing people and begging people to volunteer. You guys are all part of the banquet committee so please act like one and help out. \nIf you really do have questions just message privately.\nHonestly I am really disappointed when I open every form I created and it's always the same people stepping up to help. I really appreciate those who do help out (shoutout to jerimi for helping out with the asking esp). I'm slowly at at breaking point wheneevr the date is getting close and very few ppl responds and whoever removed my name from Mackie's spreadsheet lol if I don't cross Goodluck on banquet because im not gonna be there to help \u00e2\u009c\u008c\n\n Tl;Dr help out or ur going in last for banquet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445257329,
+      "content": "LMAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445255973,
+      "content": "gawdayum",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480445250709,
+      "content": "jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480445247015,
+      "content": "coachella tickets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445227271,
+      "content": "Kristine sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15231614_326107634443293_2083727570_o_326107634443293.jpg",
+          "creation_timestamp": 1480445225
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480445221438,
+      "content": "ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445217542,
+      "content": "i already asked barron",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480445206912,
+      "content": "i think melanie should ask baron what adina wants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445134671,
+      "content": "i love that idea & im pretty sure adina would be really thankful but we're getting jenny expensive af shoes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445098527,
+      "content": "like an outfit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480445094137,
+      "content": "can we add onto the candy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480445022964,
+      "content": "should we all make one kandi for her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480444186786,
+      "content": "rave outfits, rave tickets, candies, jewelry, temporary tattoos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1480443947386,
+      "content": "Brian sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15228023_1633641403597004_565278446_n_10207559049163603.gif",
+          "creation_timestamp": 1480443946
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480443930678,
+      "content": "play with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480443917117,
+      "content": "Jesseca u needa stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480443801737,
+      "content": "i thought were playing rage case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480443734794,
+      "content": "Ohh okay beer bottles are too small?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480443696006,
+      "content": "boughtI*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480443691621,
+      "content": "has adina boght her countdown ticket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480443682586,
+      "content": "It has to big enough to hold branches tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480443631339,
+      "content": "Wait so do you guys want beer sized bottles?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440940990,
+      "content": "@david @karina lololololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480440840861,
+      "content": "Ask ur bigs!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480440830160,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480440746817,
+      "content": "Should we ask actives too LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480440656756,
+      "content": "Also anyone else have wine bottles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440615639,
+      "content": "okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480440607999,
+      "content": "Ask barron!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440127331,
+      "content": "or should we ask barron \u00f0\u009f\u00a4\u0094 or ask david to ask adina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440103665,
+      "content": "do i just ask her straight up orrr \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440078611,
+      "content": "idk if adina wanted shoes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480440074081,
+      "content": "what would we be getting for adina though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1480439980961,
+      "content": "I rly like the fingerprint thing!! But shoes sound nice too LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480414924015,
+      "content": "Btw what are we getting jenny and adina  for pmom gifts? Are we still doing the collage and up fingerprint thing or are we gonna get them shoes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480414037605,
+      "content": "Hector sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/13689328_10157254997540096_1373092928_n_1294405253905513.gif",
+          "creation_timestamp": 1480414037
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480413944451,
+      "content": "Alcoholic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480413862696,
+      "content": "but i kinda like the idea of playing rage cage with smirnoff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hector Vega",
+      "timestamp_ms": 1480413849323,
+      "content": "i have two wine bottles too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480413417914,
+      "content": "Actually gimme them incase we can't drink tmr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480413244591,
+      "content": "Too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480413241137,
+      "content": "I have the nasty wine yoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480412889234,
+      "content": "Jerimi sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15293279_1559012604125348_201141824_o_1559012604125348.jpg",
+          "creation_timestamp": 1480412885
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480412839048,
+      "content": "fasho gimme a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480412833589,
+      "content": "Pics?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480412826066,
+      "content": "I have like... wine sized bottles. Do you still want em?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480412795624,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480412792552,
+      "content": "i got plastic costco bottles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480412771977,
+      "content": "Tmr we will be at the student center food court (panda express) to help make stuff for banquet around 3-7 so please msg when ur coming thanks! \n\nAlso bring empty bottles like clear ones (perferably the size of a smirnoff ice)...we will be emptying some after gbm if anyone is down lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480397980849,
+      "content": "Let us know when they coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480397780684,
+      "content": "just say it's the last clue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480397776081,
+      "content": "surprise!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480397764990,
+      "content": "Or do we just tell them this is their clue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480397752761,
+      "content": "Wait is it still a surprise? Do we act like were the last ones between them that are gonna win the scavenger hunt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480397382254,
+      "content": "let us know when they get to Phoenix Grill!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480397227571,
+      "content": "Agnes: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480397217951,
+      "content": "Except them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480397209256,
+      "content": "wait wat about the tent ppl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480397185722,
+      "content": "Everyone go back to the room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480387481337,
+      "content": "Omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480387473552,
+      "content": "Yeah we're coming with the flowers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480387471373,
+      "content": "yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480387461209,
+      "content": "Peldge meeting rm??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480387458371,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480387456624,
+      "content": "So meet outside room first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480387445324,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480387365203,
+      "content": "Do you still need a box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480387025925,
+      "content": "phosho phosho i got my notebook anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480387004349,
+      "content": "Like so it looks like ppl are playing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480386991360,
+      "content": "Grace: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1480386984901,
+      "content": "will line paper work for u ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480386819930,
+      "content": "Can someone bring scrap papers lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480384642279,
+      "content": "So do you still need my help? Or are we set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480384190783,
+      "content": "\u00e2\u009c\u008c\u00ef\u00b8\u008f\u00ef\u00b8\u008f hopefully it's okie with everyone!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480383846782,
+      "content": "Bless jerimi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480383761442,
+      "content": "Paola: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480383759666,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383633287,
+      "content": "Paola and Sarah, Kristin and Melanie\nplease inch your way up to the front when we start sending people off to go just to make sure y'all get there in time \u00f0\u009f\u0098\u0081 ideally we'd like to get the pmoms after all you pairs have been sent out... but it might look a bit too sketch if ts so planned out LLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383541952,
+      "content": "thanks!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480383537109,
+      "content": "Okie dokie \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383526349,
+      "content": "yeah! then just give the roses and send them off to the next location with the clue!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383517895,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15224601_10154211659529506_202722781_o_10154211659529506.jpg",
+          "creation_timestamp": 1480383516
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480383494824,
+      "content": "Go to location",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383490419,
+      "content": "again please dress warm (and in white hahah) in case the locations aren't opennnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480383489395,
+      "content": "So basically pair up during ice breaker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383473695,
+      "content": "Yayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1480383469591,
+      "content": "I can go with Adriana (y)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383467358,
+      "content": "Is that box too small",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480383463731,
+      "content": "Jesseca sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15204255_10154211654559506_1072638305_o_10154211654559506.jpg",
+          "creation_timestamp": 1480383462
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480383371047,
+      "content": "Gotchuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383356094,
+      "content": "is that cool?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383329870,
+      "content": "Paola and sarah: wendy's\nyou have the card sending them to flagpoles\n\nkristin and melanie: flagpoles\nyou have the card sending them to tents\n\nAgnes and Vivi: Tents\nyou have the card sending them to phoenix \n\nGrace and Hector: Phoenix\nsending them to EHL\n\nAdriana and _____ : ELH (GBM room!)\nsending them to Classroom (where everyone should be done decorating so please text someone that the pmoms are on their way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480383079596,
+      "content": "(also when we instruct y'all to pair up, can you get your partner quick so that the pmoms are only left with each other? LOLOL)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480383064857,
+      "content": "Saa just assign locations to ppl honestly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480383050510,
+      "content": "Yay Vivian we need someone to go with adriana",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480383027942,
+      "content": "But Amberly and kristine can't meet up so we need 2 more volunteers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480383019136,
+      "content": "I can go with agnes if Amberly isn't going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480383016928,
+      "content": "amberly isnt either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480383010086,
+      "content": "wait i'm not there anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480383002456,
+      "content": "Thats the pairingg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480382998998,
+      "content": "paola and Sarah\nAgnes and Amberly\nKristine and Adriana\nKristin and Melanie\nGrace and hector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480382995687,
+      "content": "Yeah I wrote down the pairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382945216,
+      "content": "do y'all at the very least know who you wanna be paired with so we can just randomly assign..? LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382750812,
+      "content": "Who wants wendys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382730258,
+      "content": "kristin and melanie: flagpoles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382720650,
+      "content": "o nvm LOL but yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382697146,
+      "content": "i'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382695805,
+      "content": "oh shit wrong chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382684623,
+      "content": "we don't want y'all getting too cold if the pmoms have a hard time figuring it out LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382673919,
+      "content": "also dress warm \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382669648,
+      "content": "SAAs will be giving instructions and then helping decorate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480382664856,
+      "content": "Flagpolessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382646584,
+      "content": "plz volunteer cuz we don't wanna have to assign ppl LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382636563,
+      "content": "and the flagpoles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382634488,
+      "content": "so who's going to be at Wendy's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382269665,
+      "content": "Classroom won't need people, it'll just be the decorated classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382256414,
+      "content": "then they can just make their way back\n\nwendy's > flagpoles > Tents > Phoenix > ELH > classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480382183069,
+      "content": "Me and kristin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480382177227,
+      "content": "Can i call classroom lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382171144,
+      "content": "the first location should probably be the farthest. I'm thinking food court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382155015,
+      "content": "then there's one more LOL i forget",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382150269,
+      "content": "phoenix food court(outside)\nELH\nTents\nWendy's\n...\nClassroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480382100056,
+      "content": "What are the locations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480382079552,
+      "content": "who wants to be the first location???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480382079362,
+      "content": "Okay yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1480381990029,
+      "content": "I can help too if u guys need more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381741974,
+      "content": "Meet by the door at 6.45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480381676985,
+      "content": "But can someone message me separately and give me the run through or game plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abraham Castro",
+      "timestamp_ms": 1480381653837,
+      "content": "I can help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480381507343,
+      "content": "Find me a back up too plz! Chem review session too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381423073,
+      "content": "We still need another person",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381396804,
+      "content": "Let's meet at 6:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381396054,
+      "content": "That why we are meeting at the door before the meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480381311347,
+      "content": "we need to designate pairs and locations before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1480381298798,
+      "content": "wait who am i giving the clues to??? i have em",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480381240557,
+      "content": "issokiiie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381196310,
+      "content": "Whoever has the hint and the markers pls meet at the door before the meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381098123,
+      "content": "Can someone replace kristine to put the rose in their bag sorry kristine :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381059831,
+      "content": "Sorry trying to type as fast as I can so ppl stop spamming lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480381048632,
+      "content": "Melanie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480381020304,
+      "content": "So someone bring scrap paper and give them to the SAAs\nThe 12 ppl meet outside of the meeting room before the meeting starts \nJesseca will be giving the 12 ppl the roses and hide them in ur backpack.\nThe SAAS will tell everyone to pair for a scavenger hunt and Jenny and Adina will be a pair.\nThe SAA will be passing out the scrap paper as each pair go out the door a decoy to the pairs and everyone looks at their paper trying to figure out their hints\nThe 12 ppl take their backpacks and run to there location",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480381019233,
+      "content": "Just hide the flowers in a paper bag at the assigned location?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480380916536,
+      "content": "If y'all need me call me. 3235406532",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480380907554,
+      "content": "Currently driving so I can't read/type much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380756121,
+      "content": "Wait let me explain what's going to happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380722217,
+      "content": "Do you want more balloons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380712497,
+      "content": "Is that ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380706864,
+      "content": "Balloons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380704893,
+      "content": "I got gold and blue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380492136,
+      "content": "Um idk maybe we have a backup for kristine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480380480577,
+      "content": "Grace were not ninjas lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380449948,
+      "content": "study*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380447570,
+      "content": "bc im out from 7-850 for a chem stusy sesh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380440095,
+      "content": "what time is this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380437648,
+      "content": "oh shid wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380400553,
+      "content": "We somehow need to give them the flowers without them seeing it....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380352025,
+      "content": "paola and Sarah\nAgnes and Amberly\nKristine and Adriana\nKristin and Melanie\nGrace and hector and everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480380260570,
+      "content": "I can volunteer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480380257487,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480380252421,
+      "content": "Someone pair with me \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380239882,
+      "content": "i can be w adriana \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380225701,
+      "content": "Need 3 more pairs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480380201947,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380168966,
+      "content": "Pls little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480380163978,
+      "content": "LOLOLO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380161954,
+      "content": "Damnberly***",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480380160249,
+      "content": "Rip big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480380157081,
+      "content": "Amberly**",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380149232,
+      "content": "Amberley and I will be a pair too:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380101396,
+      "content": "Hector and I can be the last clue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480380090322,
+      "content": "Sarah***",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1480380082919,
+      "content": "Sara and I will be a pair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380078555,
+      "content": "I have a huge box in my room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480380072061,
+      "content": "Actually I have boxes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380057961,
+      "content": "So we need 12 people and pair up!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380041967,
+      "content": "Oh cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Vann",
+      "timestamp_ms": 1480380033919,
+      "content": "we already have all the locations! that was one of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380032747,
+      "content": "People are at the tents making the messages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380023602,
+      "content": "lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380020036,
+      "content": "Pin*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Tang",
+      "timestamp_ms": 1480380016616,
+      "content": "One of the location can be GBM room cos that's where we crossed!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480380008183,
+      "content": "Can u put the balloons in the box and pretend u r donating to banquet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480379996514,
+      "content": "I can grab what I have but Idk if y'all wanna use it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379980903,
+      "content": "The last location will be back in the meeting room so the people who are not going to be at the locations \"come\" back to the meeting room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379980618,
+      "content": "Wait I am keeping the roses and balloons in my car when do I get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379966944,
+      "content": "I can go to usps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480379965688,
+      "content": "Kenny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/BanquetUpdates_13s3fkJGMg/photos/15292652_10155517562711040_1061476354_o_10155517562711040.jpg",
+          "creation_timestamp": 1480379964
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1480379964547,
+      "content": "Meeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jesseca Lam",
+      "timestamp_ms": 1480379963576,
+      "content": "GG I was at Michaels",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1480379953008,
+      "content": "Box is a lot smaller than I expected :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1480379941454,
+      "content": "Meeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1480379935999,
+      "content": "\u00f0\u009f\u0099\u008b\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379916001,
+      "content": "We need 12 people to volunteer for the asking for tonight so here's the idea:\nWe will be doing the asking during one of the Saa icebreakers \nEveryone will be pretending to participate in the scavenger hunt of finding meaningful messages or whatever. \nWe will have Jenny and Adina pair up and play along\n\nThe 12 people (6 groups of 2 pairs) will run to their assigned location with the roses and the paper with the hints.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1480379738849,
+      "content": "\u00f0\u009f\u0098\u009b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480379717451,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379708037,
+      "content": "Hi this chat is for banquet stuff only bec know people don't really check the class chat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379485667,
+      "content": "Grace Zhu added Jessica Ho.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jessica Ho"
+        }
+      ]
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379389629,
+      "content": "Grace Zhu added Sarah Vann and 2 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Sarah Vann"
+        },
+        {
+          "name": "Reeva Reyes"
+        },
+        {
+          "name": "Yuuki Aotake"
+        }
+      ]
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379298942,
+      "content": "Grace Zhu added you and 21 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Nelson Echeverria"
+        },
+        {
+          "name": "Helen Tran"
+        },
+        {
+          "name": "Bea Ordo"
+        },
+        {
+          "name": "Kristin Chingburanakit"
+        },
+        {
+          "name": "Kevin Kuang"
+        },
+        {
+          "name": "Amberly Thai"
+        },
+        {
+          "name": "Lawrance Huynh"
+        },
+        {
+          "name": "Melanie Young"
+        },
+        {
+          "name": "Kirstin Catapang"
+        },
+        {
+          "name": "Jerimi Vindua"
+        },
+        {
+          "name": "Evie Ta"
+        },
+        {
+          "name": "Marcus Wu"
+        },
+        {
+          "name": "Paola Chavez"
+        },
+        {
+          "name": "Jocelyn Jicky Wu"
+        },
+        {
+          "name": "Jonathan Pho"
+        },
+        {
+          "name": "Peter V. Nguyen"
+        },
+        {
+          "name": "Grace Nacho-dip"
+        },
+        {
+          "name": "Kevin Loc"
+        },
+        {
+          "name": "Juliane Ignacio"
+        },
+        {
+          "name": "Julia Wong"
+        },
+        {
+          "name": "Justin Le"
+        },
+        {
+          "name": "Vivian Sweha"
+        }
+      ]
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1480379063091,
+      "content": "Grace named the group Banquet Updates.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Banquet Updates",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BanquetUpdates_13s3fkJGMg"
+}

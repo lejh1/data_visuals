@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Christina Hanna"
+    },
+    {
+      "name": "Ani Sarkissian"
+    },
+    {
+      "name": "Tree Otniugs"
+    },
+    {
+      "name": "John Aki"
+    },
+    {
+      "name": "Aubrey Yuen"
+    },
+    {
+      "name": "Owen Yang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510110218061,
+      "content": "So we realized there are still hella midterms going on, so no earth taco tuesday tonight \u00f0\u009f\u0098\u009e \nGood luck on midterms everyone!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Owen Yang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Owen Yang",
+      "timestamp_ms": 1510094520962,
+      "content": "Owen Yang added John Aki.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "John Aki"
+        }
+      ]
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510082451648,
+      "content": "Christina named the group Taco Tuesday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510082433904,
+      "content": "Please add your mentees/anyone else that may have been interested and didn\u00e2\u0080\u0099t like a post etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510082408426,
+      "content": "Hello I think y\u00e2\u0080\u0099all were down for tacos tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christina Hanna",
+      "timestamp_ms": 1510082408033,
+      "content": "Christina created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Taco Tuesday",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/TacoTuesday_HLiiQioL6g"
+}

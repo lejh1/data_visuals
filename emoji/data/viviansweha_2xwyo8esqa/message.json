@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Vivian Sweha"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1492814034235,
+      "content": "Justin we are stuck in traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492812271306,
+      "content": "Okie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1492810834729,
+      "content": "For our 3:30 shift for NYSD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1492810824920,
+      "content": "Hey friend me Paola, julia, and Kirstin are gonna get picked up by hector from Mesa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1491884788372,
+      "content": "I took a nap and then never replied lmaooooo i suck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1491884770440,
+      "content": "HI HELLO SORRY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491870444917,
+      "content": "Hi help",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vivian Sweha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VivianSweha_2XWyo8eSQA"
+}

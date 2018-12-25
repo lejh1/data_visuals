@@ -1,0 +1,193 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Helen Chau"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489529124192,
+      "content": "Yep!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1489529111545,
+      "content": "?*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1489529109867,
+      "content": "so we could do like a superhero or disney theme/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489528998050,
+      "content": "Oh okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489527373966,
+      "content": "Nah, not really. It's completely up to you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489524258524,
+      "content": "Help! So do we have to pick a theme for NYSD like education, cultural, literacy, science etc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021177119,
+      "content": "Helen sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KristinandHelen_6PxYNOrKFA/photos/17200692_10202837927744738_1946094598_o_10202837927744738.jpg",
+          "creation_timestamp": 1489021176
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021136144,
+      "content": "It gives ideas and all that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021129679,
+      "content": "There's a handbook on that same page tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489021098666,
+      "content": "I'm not so sure I like that\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021083213,
+      "content": "Hahah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021081939,
+      "content": "That means you guys have more freedom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021073440,
+      "content": "Maybe they didn't set a theme this year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489021065987,
+      "content": "Hmm I just looked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1489020925959,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020838745,
+      "content": "Idk I'm also at work so I skimmed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020828631,
+      "content": "I looked that up but I couldn't find the theme?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020735270,
+      "content": "If you look up nysd apo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020730655,
+      "content": "The theme is a national theme on apo's national website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020709480,
+      "content": "And at the end there was prizes for the top 3 that finished all I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020690740,
+      "content": "So each booth leader stamps of marked the kid's ticket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020674858,
+      "content": "We had a kid tell one of the adults in charge at the boy's and girl's club that it was the best day ever for him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1489020659747,
+      "content": "did you come up with a theme yourselves ? O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020648866,
+      "content": "But I will say it was really fun and rewarding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020638631,
+      "content": "I'll help with whatever I can guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1489020634057,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020626129,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020608936,
+      "content": "So we don't spam Helen with individual messages LOL",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Helen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandHelen_6PxYNOrKFA"
+}

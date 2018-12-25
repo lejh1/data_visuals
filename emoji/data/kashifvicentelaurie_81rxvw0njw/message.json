@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Kashif Vicente Laurie"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kashif Vicente Laurie",
+      "timestamp_ms": 1465193778477,
+      "content": "Good Luck!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192572295,
+      "content": "thanks again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192565605,
+      "content": "Okay sweet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kashif Vicente Laurie",
+      "timestamp_ms": 1465192485895,
+      "content": "Lulz no worries. But for the most part, if you can answer most of the questions you should be able to pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192456491,
+      "content": "i skipped a couple classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192446228,
+      "content": "Im not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192432459,
+      "content": "And okay thank you. I am very excited to not have a class with yue zhang anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kashif Vicente Laurie",
+      "timestamp_ms": 1465192429309,
+      "content": "Did he mention that in your class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465192398786,
+      "content": "there are conceptual problems?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kashif Vicente Laurie",
+      "timestamp_ms": 1465192311868,
+      "content": "With the exception of the two conceptual problems, I think the practice final was very similiar to the actual one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188450361,
+      "content": "Cause you said the midterm was and you were right lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1465188436386,
+      "content": "Hey do remember if your math 3D final was also exactly the same as the practice final?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kashif Vicente Laurie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KashifVicenteLaurie_81RXvW0nJw"
+}

@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "J.j. Hsu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1496776533302,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1496776527795,
+      "content": "Youll be at cha night right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1479542982802,
+      "content": "We good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541126619,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541117802,
+      "content": "And say that she left her phone lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1479541117470,
+      "content": "He just added me.cool ok ill jist call him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541104993,
+      "content": "I'll message people tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1479541094822,
+      "content": "Mmm i guess soo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541083700,
+      "content": "So they might be on the road",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541076811,
+      "content": "We all pretty much left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541069412,
+      "content": "Idk if she needs it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479541060628,
+      "content": "UH idk TBH lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1479540754082,
+      "content": "Hector drove her?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "J.j. Hsu",
+      "timestamp_ms": 1479540728842,
+      "content": "Jessica left her phone at theappt.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479457952114,
+      "content": "Say hi to your new Facebook friend, J.j.",
+      "type": "Generic"
+    }
+  ],
+  "title": "J.j. Hsu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JjHsu_0VlSiidNGA"
+}

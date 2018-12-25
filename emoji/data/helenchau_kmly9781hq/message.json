@@ -1,0 +1,750 @@
+{
+  "participants": [
+    {
+      "name": "Helen Chau"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492066645215,
+      "content": "Thank you!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492061436368,
+      "content": "I'd say always have more than you expect because you never know. Items can always be added into inventory! Sorry I was at work earlier so I was pretty short.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492051070028,
+      "content": "Oh that's true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050959484,
+      "content": "Idk cause the coordinator said that since it's on a Friday not many people gonna show up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050935471,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050930419,
+      "content": "And okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050927178,
+      "content": "Wrong person",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050924119,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050922082,
+      "content": "She'll know how many to expect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050919612,
+      "content": "My laundry tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050915583,
+      "content": "Ask Monica too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050793427,
+      "content": "Oh wow that's a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050760689,
+      "content": "It won't hurt to have extra stuff at the end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050750929,
+      "content": "I'd say 100 just to be safe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050708659,
+      "content": "Like 70?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492050705612,
+      "content": "Hmm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050694857,
+      "content": "Most of our materials were gone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050684769,
+      "content": "Prepare for lots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492050680401,
+      "content": "Expect a lot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492046948613,
+      "content": "Idk how many kids to expect lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492046941955,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492045881753,
+      "content": "no.... \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492039568431,
+      "content": "Do you know how many people went to NYSD tour term \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1492039475909,
+      "content": "Hiiiii yes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492038155237,
+      "content": "Hi help :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007144050,
+      "content": "LOL but it'll be good when it's over I promise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007131494,
+      "content": "This is stressful lol I wished you warned me \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007116887,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007056350,
+      "content": "Hahaha it might be a little gross but usually the cardboard isn't super dirty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007040026,
+      "content": "And look around dumpsters nearby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007036459,
+      "content": "Okay!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007035124,
+      "content": "And it might bite back lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007033139,
+      "content": "Ask around for cardboard!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007029259,
+      "content": "I haven't put a lot of thought into it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007026151,
+      "content": "Hahaha yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491007015758,
+      "content": "Hmmm okay! Budget is the hardest thing tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007009562,
+      "content": "Like at the Mesa dumpsters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491007004417,
+      "content": "I even think I went around looking for cardboard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491006994997,
+      "content": "Just stay within the budget",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491006988869,
+      "content": "But it doesn't really matter!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491006984148,
+      "content": "Ummm I think I used both lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491006785451,
+      "content": "Or just card board lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491006779494,
+      "content": "Did you use poster boards last time for your booths?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491006765092,
+      "content": "Yay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1491006754966,
+      "content": "Ofc!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491006620348,
+      "content": "Can I bother you again :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565333132,
+      "content": "i hope \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565277391,
+      "content": "Haha pls! You will do gr8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565263588,
+      "content": "we hope to make your proud lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565261184,
+      "content": "Np np!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565256257,
+      "content": "Thanks a lot for all your help!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565246148,
+      "content": "ooooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565237218,
+      "content": "No I didn't. I created it last term when I was SVP so Jenn was the first one to have that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565207338,
+      "content": "also did you every use the SPC email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565205602,
+      "content": "Mhmm! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565197367,
+      "content": "okay! Thank you!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565130139,
+      "content": "But it depends where you're doing it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565117575,
+      "content": "Ummm I don't remember... Maybe 1-4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565105936,
+      "content": "Yeah we just coordinated with the boys and girls club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565102060,
+      "content": "what time did you start?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490565077561,
+      "content": "2 hour event? hm okay!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565043495,
+      "content": "But that's if you're doing booths",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565038144,
+      "content": "And then we had like 2 booth leaders for each activity",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565027220,
+      "content": "And then all active members had to sign up for at least one hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565014060,
+      "content": "One hour break down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565008519,
+      "content": "2 hour event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565005271,
+      "content": "One hour set up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490565001249,
+      "content": "I think it was 4 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490564998050,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490564981826,
+      "content": "like start time, end time, clean up time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490564968283,
+      "content": "okay I was just wondering about your term's timing for the NYSD event :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490564929838,
+      "content": "HI!!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490564915888,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490564913956,
+      "content": "What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1490564912615,
+      "content": "Yes ofc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559167708,
+      "content": "Hi!!! Can you answer a quick question I have \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489108590635,
+      "content": "LOL YAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489101904444,
+      "content": "K LOL I submitted my application!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489101884587,
+      "content": "I'd say ignore that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489101877603,
+      "content": "Ummmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489098391319,
+      "content": "are they the booths?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489098385587,
+      "content": "what are the service project commitees?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489098374194,
+      "content": "Hi!!! I had a quick question. What does it mean that \"Service Project Chairs will encourage Actives to create their own service project committees and provide guidance to these committees.\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020614598,
+      "content": "Oooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020582557,
+      "content": "We had a cotton candy machine too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020576709,
+      "content": "Helen missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020572348,
+      "content": "You have so much freedom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020568049,
+      "content": "Like how you wanna do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020563951,
+      "content": "It's really up to you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020559348,
+      "content": "But thank you for the info!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020555890,
+      "content": "You guys can make a group chat with me so it's easier :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020548155,
+      "content": "But it's so ambiguous on what to do \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020536844,
+      "content": "Lol yea I'm talkin to her about it! We are gonna try running together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020520490,
+      "content": "Haha your twin just messaged me rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020503907,
+      "content": "Like making friendship bracelets etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020495639,
+      "content": "And each booth had a fun activity related to the books",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020480563,
+      "content": "I had booths representing different children's books",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020471629,
+      "content": "So when I did it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489020466141,
+      "content": "We do it ourselves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489020429686,
+      "content": "I'm ready over the application and what the carnival is and stuff. I'm a bit confused on the booths tho \u00f0\u009f\u0098\u009e I don't really understand how they work? Are we trying to find organizations that will educate children or are doing that ourselves?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489017110463,
+      "content": "No problem!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016986099,
+      "content": "Okay yay thanks a lot!! I'll probably be asking a lot of questions within the next couple days \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016927619,
+      "content": "Don't worry. That's how it always is! Once you get the position and like get things rolling, it doesn't seem that way as much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016882659,
+      "content": "Wow thank you!!! Okay I'll think about it :) idk the application is making me feel overwhelmed. There's so much to answer just to apply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016808780,
+      "content": "The ideas kinda come as time goes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016799995,
+      "content": "But I'll also help you if need be!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016792178,
+      "content": "Hmm there's a video on YouTube from a couple terms ago.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016760040,
+      "content": "I just read the minutes and thought it would be fun to try to run for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016735988,
+      "content": "Oooo I'm asking people rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016728972,
+      "content": "Is there anyway I can look into NYSDs from the past? I need ideas haha I'm very bad at this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016697703,
+      "content": "PLUS the SVPs will always be there to help :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016681234,
+      "content": "Do you have a co in mind?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016670576,
+      "content": "hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016641123,
+      "content": "SUPER EASY!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016640498,
+      "content": "\u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016631644,
+      "content": "It's just like planning an event.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016607271,
+      "content": "I like service! But I know nothing about planning one LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1489016504337,
+      "content": "HI! :) Omg, you should do it! I think spring SPC is way more fun and easy than fall. As long as you like service and planning and kids, you'll do gr8 :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489015644838,
+      "content": "HELLO PSUEDO, my big told me to talk to you about SPC cause I was thinking about applying for it! I have no background in service so do you think it'll be to hard for me to do \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479160509795,
+      "content": "Hi I'm chair for the service! I'm running a little late but I'll be there soon to collect the material!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Chau",
+      "timestamp_ms": 1478889299418,
+      "content": "Clean up the campus. If you see trash, pick it up, if you see bottles and can recycle them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478887062227,
+      "content": "Hiii! For the clean up Uci, what do you actually want us to clean up",
+      "type": "Generic"
+    }
+  ],
+  "title": "Helen Chau",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HelenChau_KmLy9781HQ"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Alec Vartanians"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alec Vartanians",
+      "timestamp_ms": 1500251344210,
+      "content": "Say hi to your new Facebook friend, Alec.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alec Vartanians",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlecVartanians_frZv97GnMQ"
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jenny Tran Nguyen"
+    },
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476218955257,
+      "content": "\u00f3\u00be\u008c\u00b5\u00f3\u00be\u008c\u00b5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jenny Tran Nguyen",
+      "timestamp_ms": 1476218916162,
+      "content": "Jenny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/11409220_1659201987658368_1876253247_n_1659201980991702.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1476218897952,
+      "content": "okies we will check it :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476218831445,
+      "content": "https://docs.google.com/a/uci.edu/spreadsheets/d/1tGIuwZpAQ7t-oxwBmUqoXvY4wvMWhlmvu4seuVKumjc/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476218830011,
+      "content": "Hi moms! I made this spreadsheet so my pbros can know what fellowships they need and how many more they need! I'm going to give you guys edit powers feel free to make any changes or let me know if there is anything i am missing!! <3 I will post this in the facebook group later in the week once i know everything is perfect!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenny and Adina",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JennyandAdina_sn2X3aZfpQ"
+}

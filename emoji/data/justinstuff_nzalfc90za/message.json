@@ -1,0 +1,154 @@
+{
+  "participants": [
+    {
+      "name": "Alex Lebroski"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505930015562,
+      "content": "@alexlebroski",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505930008387,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505930005182,
+      "content": "It is on the first floor, when you walk in the building make 3 rights and you'll find #130 boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505929997383,
+      "content": "Awesome. You take venmo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505929964595,
+      "content": "21 california ave #130",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505929956918,
+      "content": "That is fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505929053338,
+      "content": "Could I possibly pick it up around 11:10AMish? If not it's totally fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505928412782,
+      "content": "Alright sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505925892302,
+      "content": "21 california ave - harvard manor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505925878983,
+      "content": "You can swing by around 12:30 if ya want boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505925865072,
+      "content": "Yee sorry ktfo'd \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505921537715,
+      "content": "Hey man everything okay? You never messaged me back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505874397307,
+      "content": "Alright awesome see you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505874186852,
+      "content": "I live at Harvard Manor behind Albertsons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505874176326,
+      "content": "I'll update you before I drive home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505874169656,
+      "content": "I won't be home until 10pm ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505874162089,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505873252656,
+      "content": "I can also pick up tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505873247791,
+      "content": "Alright then I'll take it for the original price if no one has confirmed it yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alex Lebroski",
+      "timestamp_ms": 1505873182605,
+      "content": "hi there. I currently have people messaging me for the price as is, but just waiting for someone to confirm and show up. I can't lower the price boss :( sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505872898553,
+      "content": "Could I get the table desk for $25? I can pick it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505872898463,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505872897205,
+      "content": "You named the group Justin \u00c2\u00b7 Stuff.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 Stuff ",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinStuff_nzalfc90ZA"
+}

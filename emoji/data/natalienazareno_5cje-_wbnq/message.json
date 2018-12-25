@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Nazareno"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Nazareno",
+      "timestamp_ms": 1493064759972,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493061193818,
+      "content": "For now see you on Wednesday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493061185889,
+      "content": "I might have to cancel but I'll keep you updated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493061174508,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493061165780,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Natalie Nazareno",
+      "timestamp_ms": 1493051980697,
+      "content": "Hi Justin! I just scheduled an interview for wednesday at 11:30...lmk if you are still available or if I would need to move it! Thanks!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Natalie Nazareno",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NatalieNazareno_5CJE-_WbnQ"
+}

@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Linh Ly"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251469683,
+      "content": "We here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251401398,
+      "content": "Ok thanks !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251382495,
+      "content": "Lemme know when you\u00e2\u0080\u0099re at the top",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251376350,
+      "content": "Okay sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251372379,
+      "content": "we are climbing the stairs rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251363876,
+      "content": "Can u let us in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251351265,
+      "content": "Jonathan and I are stuck downstair lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251335768,
+      "content": "Yes I am what\u00e2\u0080\u0099s up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251331470,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251329649,
+      "content": "Do you happen to be at Calplug?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251322880,
+      "content": "Hello!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1528251303625,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Linh Ly",
+      "timestamp_ms": 1528251262756,
+      "content": "Hey Justin!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Linh Ly",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LinhLy_7HKLr_pFSQ"
+}

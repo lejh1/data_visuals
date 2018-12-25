@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Brian Truong"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492539144092,
+      "content": "WHO ARE YOU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Truong",
+      "timestamp_ms": 1492539136322,
+      "content": "yo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrew and Brian",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AndrewandBrian__EYJ7deY2Q"
+}

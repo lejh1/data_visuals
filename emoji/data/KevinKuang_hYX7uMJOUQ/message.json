@@ -1,0 +1,1069 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1510893628185,
+      "content": "Math 3a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1510893624591,
+      "content": "Eecs 50? I think it was or maybe 55",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1510893609327,
+      "content": "Eecs 31L",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1510893603161,
+      "content": "Physics 51",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1510893599074,
+      "content": "Umm I haven\u00e2\u0080\u0099t really picked them out but my thoughts are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510893252308,
+      "content": "Hey what classes are you taking next quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495604396048,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/video1495604395_394269497634747.mp4",
+          "creation_timestamp": 1495604395,
+          "thumbnail": {
+            "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/thumbnails/18724026_394266947635002_5043187333818482688_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495604391957,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/video1495604391_394269490968081.mp4",
+          "creation_timestamp": 1495604391,
+          "thumbnail": {
+            "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/thumbnails/18724051_394266817635015_4484395961006686208_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495604387889,
+      "content": "You sent a video.",
+      "videos": [
+        {
+          "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/video1495604387_394269477634749.mp4",
+          "creation_timestamp": 1495604387,
+          "thumbnail": {
+            "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/videos/thumbnails/18717109_394266987634998_8175865917503176704_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1495604302994,
+      "content": "can I see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495604296361,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1495604285730,
+      "content": "kristin's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1495604252670,
+      "content": "Justin did you get Kristine whole speech",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494388657847,
+      "content": "Mmmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1494388652551,
+      "content": "Muhammed or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494388615768,
+      "content": "Who's the professor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494388607640,
+      "content": "Actually you could do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494388599506,
+      "content": "Uhhh Idk about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1494388546427,
+      "content": "its over 5 weeks so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1494388540490,
+      "content": "do you recommend doing 31L in the summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493541894523,
+      "content": "Idk I said hi I'm replying to confirm LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493539258042,
+      "content": "Do I have to reply?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493538931762,
+      "content": "I just did it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493538376137,
+      "content": "You send it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537737298,
+      "content": "Lejh1@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537731249,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493537730900,
+      "content": "And instructions I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493537726285,
+      "content": "You have to sign this thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537721824,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537718916,
+      "content": "Oh why what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493537714624,
+      "content": "I'll forward the stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493537711191,
+      "content": "Okay what's your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493537707806,
+      "content": "Lit haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537696515,
+      "content": "I got you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493537694769,
+      "content": "Yeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493536916387,
+      "content": "you can cover?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493061032899,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493060877800,
+      "content": "from the service still?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493060874423,
+      "content": "yea np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493060866928,
+      "content": "Might need to squeeze tho cause my car is full of shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493059909275,
+      "content": "LOL ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493059686020,
+      "content": "Sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493059681885,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1493059448523,
+      "content": "Justin can me and your twin hop w/ y'all before the meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492639056421,
+      "content": "Yup np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492639015774,
+      "content": "Ty bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492639007133,
+      "content": "Thanks I'll check it out later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492638862019,
+      "content": "There ya go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492638803244,
+      "content": "Kuangkevinnn@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492638791649,
+      "content": "What's your email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492638696475,
+      "content": "I think I have that yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492638386107,
+      "content": "8th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492638262285,
+      "content": "I think so. What edition is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492638216788,
+      "content": "Is this the cover?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492638213037,
+      "content": "Kevin sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KevinKuang_hYX7uMJOUQ/photos/18049835_1501666883179121_1268957129_o_1501666883179121.jpg",
+          "creation_timestamp": 1492638212
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1492638205550,
+      "content": "Kuangkevinnn@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485131479963,
+      "content": "Ill try LOLL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485131473938,
+      "content": "hmm okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131363246,
+      "content": "There might be an easier way but tbh python was over a year ago so that's all I can think of LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131304818,
+      "content": "The reason you start at 1 is so you can ignore the decimal point which would have the index of 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131285144,
+      "content": "So I would would take the number - int(number) so you only have the numbers after decimal places i.e. (65.567-65=.567) then I would change that value to a string. Then run it through a for loop from 1 through M. Each iteration you would print X[i] where x is the value and i is the iteration number.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131191152,
+      "content": "Oh okay cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485131185819,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131158430,
+      "content": "Like how x=\"Kevin\" and x[3]=\"i\"?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131114639,
+      "content": "Before I go on. Do you know about strings and indexes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131101369,
+      "content": "Wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485131007378,
+      "content": "Okay so what I would do to get the decimals numbers would be kinda weird but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130964941,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130959552,
+      "content": "Okay do you know about for loops?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130803482,
+      "content": "Lemme think about that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130799537,
+      "content": "Hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130507885,
+      "content": "like step 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130472903,
+      "content": "do you know how I would get the order of the decimals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130460626,
+      "content": "sigh aight ill try man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130381933,
+      "content": "I'm pretty suree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130376374,
+      "content": "A lot of it will just be N= eval(input(\"Enter value\")) then just using N in formulas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130319087,
+      "content": "It's just the math that sounds difficult lol but you just need to google the formula I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130297184,
+      "content": "The lab is a lot easier than you think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130285721,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130282144,
+      "content": "Do you know about eval(input...)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130273895,
+      "content": "like I don't know anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130269434,
+      "content": "Hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130266402,
+      "content": "Yea that's a lot lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130266323,
+      "content": "thats what I don't get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130260948,
+      "content": "and he gives us this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130257302,
+      "content": "its only the second week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130253039,
+      "content": "What part confuses you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130248079,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130195684,
+      "content": "ill try to understand LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130187144,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485130185317,
+      "content": "hmm okay thansk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130173176,
+      "content": "As for coding wise I don't really remember a lot of python lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485130082497,
+      "content": "Use the equations to find Lucas series (using N as the value and N-1), Fibonacci series (using N as the value and N-1 ), and Golden Ratio value. Then use the numbers you get to find the error",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129966408,
+      "content": "Then write code to ask for an N value and M value",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129946850,
+      "content": "So like once you find them you can hard code it into your program",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129930647,
+      "content": "I suggest googling the equations for Lucas series , Fibonacci series , and Golden Ratio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129907209,
+      "content": "So you make a program that takes in the desired values then use it in the equations you're suppose to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485129781479,
+      "content": "I guess so but I just started so I don't really get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129757694,
+      "content": "I think it's just like a simple input output thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485129727352,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129726963,
+      "content": "Hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129721551,
+      "content": "I forgot lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1485129719534,
+      "content": "AW FK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1485129705282,
+      "content": "yo Justin do you understand my assignment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771681298,
+      "content": "harder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771679341,
+      "content": "I compared it with the assignments for ics 31 and this class is a lot harer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771653640,
+      "content": "yea np just whenever you can since I don't understand anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771643792,
+      "content": "eecs 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484771640943,
+      "content": "But I'll try to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484771636838,
+      "content": "I'll look at it more later I'm kinda busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771635332,
+      "content": "python",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484771628942,
+      "content": "What language is this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771390590,
+      "content": "I have no prior knowledge of coding and this class is moving faster than I thought it woudl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771370563,
+      "content": "hey Justin do you understand this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1484771362700,
+      "content": "https://eee.uci.edu/17w/18000/files/HW2.pdf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448742550,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448730934,
+      "content": "Yea thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448714067,
+      "content": "Yea sorry man hopefully you can find someone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448697259,
+      "content": "Alright thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448683865,
+      "content": "Oh I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448658825,
+      "content": "So they wouldn't be able to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448641804,
+      "content": "Oh like I'm busy 10-10:50 because of my major classes and they are taking the same things as me LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448601079,
+      "content": "What do you mean only ones your year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448589790,
+      "content": "I took it fall quarter also which was my major requirement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448570607,
+      "content": "Oh really mmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448566399,
+      "content": "I'm not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448563103,
+      "content": "Idk my eecs 12 class was small ish like 75ish people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448537674,
+      "content": "Will it even fill up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448531083,
+      "content": "Ooooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448527853,
+      "content": "Uhh only ones my year and we are taking the same classes so they can't sign up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448522843,
+      "content": "Cause like Guzman told me to ask someone to put it on hold and when restrictions lifted I get in when they get out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448496359,
+      "content": "Why tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448494168,
+      "content": "Do you know any eecs majors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448487911,
+      "content": "Yea sorry man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448481033,
+      "content": "Crap LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448473383,
+      "content": "Have a class^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448467497,
+      "content": "No I'm actually busy that time alll days LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448445149,
+      "content": "Are you free at 10-10:50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448421096,
+      "content": "Could you see if you could sign up for eecs 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481448368971,
+      "content": "What's up man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448360062,
+      "content": "it prolly wouldnt work worth a try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1481448345577,
+      "content": "justin could u do me a favor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480470804295,
+      "content": "Or even kevin de Guzman since he's an engineer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480470791226,
+      "content": "Hmmmm you can try talking to the counselors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480469772625,
+      "content": "It's with Lin, K idk if you know her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480469757454,
+      "content": "So you think I should just take it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480469750735,
+      "content": "Hey like I wanna do electrical but 12 is the only one offered this year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480466434988,
+      "content": "im jk im dumb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480466412819,
+      "content": "hey justin how come some physics 2 tut overlap with the lec?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480296920187,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480296289089,
+      "content": "If you have memory you can always download windows and it'll be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480296266996,
+      "content": "Yea idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480295868228,
+      "content": "dang... really? ):",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295373185,
+      "content": "Macs aren't that good if you're going engineer because you would have to boot camp windows anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295350031,
+      "content": "Probably like 1:4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480295290750,
+      "content": "whats the macs to windows ratio in your classes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480295272805,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295257986,
+      "content": "Pretty bad uh I can give you the specs later but my laptop is like 3 years old",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480295139138,
+      "content": "waht are the specs on your computeR?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480295132820,
+      "content": "okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295123080,
+      "content": "Um idk it depends on the major TBH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295113066,
+      "content": "For my major it's a lot of IDEs for coding.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480295091529,
+      "content": "A lot, usually most courses have a program you would use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480293442526,
+      "content": "how often do you use your own computer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1480293436793,
+      "content": "in your engineering classes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1478886841640,
+      "content": "Hey is anyone at the tents for the service?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1478478171774,
+      "content": "Ahhhh aight haha ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478478034494,
+      "content": "Okay it's a no lol. You need to do one still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478477782488,
+      "content": "Hmmm I think no but I'll ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Kuang",
+      "timestamp_ms": 1478477566443,
+      "content": "Yo Justin if we did our fam fellowship before does it still count towards our family event?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Kuang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KevinKuang_hYX7uMJOUQ"
+}

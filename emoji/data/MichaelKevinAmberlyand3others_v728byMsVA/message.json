@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Michael Monh"
+    },
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Jerimi Vindua"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478890492197,
+      "content": "aposervicevps@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478890483464,
+      "content": "dont forget to email pic to poservicevps@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Monh",
+      "timestamp_ms": 1478887519367,
+      "content": "Michael sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/MichaelKevinAmberlyand3others_v728byMsVA/photos/15045419_10155421512379112_803670299_o_10155421512379112.jpg",
+          "creation_timestamp": 1478887518
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael, Kevin, Amberly and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/MichaelKevinAmberlyand3others_v728byMsVA"
+}

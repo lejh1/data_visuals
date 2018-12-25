@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Courtney Pon"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495585209453,
+      "content": "Say hi to your new Facebook friend, Courtney.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Courtney Pon",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CourtneyPon_5NCTySioOA"
+}

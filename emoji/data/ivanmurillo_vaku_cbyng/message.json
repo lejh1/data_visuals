@@ -1,0 +1,196 @@
+{
+  "participants": [
+    {
+      "name": "Ivan Murillo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492726388218,
+      "content": "Ooooo hold on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492726270849,
+      "content": "hey justin im gonna cover alan for the service today. is there anything you want done for the posters?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492543010770,
+      "content": "will do boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492543005486,
+      "content": "Ivan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542949624,
+      "content": "You can go through the cabinet and see if any of the cardboard drawings need to be finished. And then finish them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542846653,
+      "content": "Um well for your shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542841186,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492542830742,
+      "content": "ill still be there from 3-4 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492542810758,
+      "content": "ok alan said he would cover me from 4-6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492542435527,
+      "content": "Ivan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542422574,
+      "content": "Message Alan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542420245,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542418884,
+      "content": "Yea you need to find a cover for that last part of your service",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492542395029,
+      "content": "*chair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1492542387931,
+      "content": "hihi\n\nso i messed up and forgot i have work at 5 and i hair until 6. do i still need to find a cover?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492542254008,
+      "content": "Hello I see that you are signed up for prep as chair today. So us SPCs can't make it today so I'll just give you a list of things that need to get done!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486072987530,
+      "content": "i can help you get her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486072425846,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486072157033,
+      "content": "r u her assassin? lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486070323296,
+      "content": "idk just wondering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486070316759,
+      "content": "oh ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486070207615,
+      "content": "why do you ask?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486070195590,
+      "content": "id aasume bio tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486070183883,
+      "content": "uhm as far as i know shes a bio major rn but last time she tried switching into education",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1486070130622,
+      "content": "hihi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069640762,
+      "content": "what is liza's major LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069634065,
+      "content": "question*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069630028,
+      "content": "i have a quetion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069623800,
+      "content": "hello there",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ivan Murillo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/IvanMurillo_vAKU_cByNg"
+}

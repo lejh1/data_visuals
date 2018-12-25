@@ -1,0 +1,21 @@
+{
+  "participants": [
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479263579633,
+      "content": "https://docs.google.com/presentation/d/1cbt_naEA65WlOB2Mzt2AM9oV4_efCK76wGUph1mbVDM/mobilepresent?slide=id.g13f44167d3_0_102",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1cbt_naEA65WlOB2Mzt2AM9oV4_efCK76wGUph1mbVDM%2Fmobilepresent%3Fslide%3Did.g13f44167d3_0_102&followup=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1cbt_naEA65WlOB2Mzt2AM9oV4_efCK76wGUph1mbVDM%2Fmobilepresent%3Fslide%3Did.g13f44167d3_0_102&ltmpl=slides"
+      },
+      "type": "Share"
+    }
+  ],
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/xuQhu-zdaQ"
+}

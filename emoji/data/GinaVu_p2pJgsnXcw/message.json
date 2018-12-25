@@ -1,0 +1,4677 @@
+{
+  "participants": [
+    {
+      "name": "Gina Vu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521366229920,
+      "content": "Lol there's not many anymore \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345818147,
+      "content": "Represent the engineers in APO \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345809429,
+      "content": "They are lucky to have u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345804679,
+      "content": "Not surprising :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345766678,
+      "content": "Surprisingly lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345762277,
+      "content": "I am! And yea I am active",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345691079,
+      "content": "R u even an active",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345684828,
+      "content": "Haha u are still stuck there \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345678125,
+      "content": "Hope u are doing well btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345666742,
+      "content": "Well you are cause you graduated LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345659099,
+      "content": "Yes yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345642074,
+      "content": "We are survivors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345628532,
+      "content": "Such stress",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345628355,
+      "content": "I\u00e2\u0080\u0099m sure if they found ppl with less obligations then they would be free to do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345625988,
+      "content": "Good times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345624237,
+      "content": "True haha you didn't have much help either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345614082,
+      "content": "And u were taking engineering classes and had work and a gf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521345599271,
+      "content": "That\u00e2\u0080\u0099s bc you didn\u00e2\u0080\u0099t get much help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345078184,
+      "content": "I wouldn't do it again \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521345071712,
+      "content": "Yes such good memories lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521344111138,
+      "content": "U should apply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521344103919,
+      "content": "Doesn\u00e2\u0080\u0099t this bring up great memories tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521344096296,
+      "content": "At least they\u00e2\u0080\u0099re planning this before spring break",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1521344088386,
+      "content": "Noo we didn\u00e2\u0080\u0099t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521344078210,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521344073909,
+      "content": "And you thought we started late lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521344064218,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/29356098_522447611483601_3424269170450104320_n_522447601483602.jpg",
+          "creation_timestamp": 1521344063
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494092458143,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494091828135,
+      "content": "Noon ish I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494091823761,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494091822648,
+      "content": "Anddddd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494091819929,
+      "content": "I thought I worded at 12 but I actually end at 12 Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494090912985,
+      "content": "Do you know how long we are allowed to drive into Aldrich park for? :O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494090697024,
+      "content": "It's okay! Thanks for letting me know :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494090078436,
+      "content": "Work *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494090072167,
+      "content": "I woke at 10 tomorrow w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494090039673,
+      "content": "I can't pick the stuff up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494090035078,
+      "content": "So awk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494020220058,
+      "content": "Mhm!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494015014709,
+      "content": "Thanks for doing this Justin \u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494015009211,
+      "content": "That should be fine \u00f0\u009f\u0098\u008a all you'd have to do is drive it over to VDC. I suggest parking your car in the loading area behind Phoenix. Then Alan, Norman, and whoever else is at the booth will walk it over there and you can drive it over to VDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494014938463,
+      "content": "Uh I can try! I just need to be done by 11:30ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494014693737,
+      "content": "It won't conflict :) you'd just have to pick up the items when relay for life is over on Sunday 10 AM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494014568586,
+      "content": "Mmmmm I might be able to but I might cover for that one pledge \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494014150132,
+      "content": "You're the only one out of all of us who has a car \u00f0\u009f\u0098\u00ad and I have to meet with my senior design group that day to work on a project so I can't go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494014115930,
+      "content": "Are you free Sunday 10 AM to help transport the relay for life material back to Norman's place?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1494014087400,
+      "content": "Hey Justin! :) I have a favor to ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493939682469,
+      "content": "LOL okay :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493939618267,
+      "content": "im all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493939615041,
+      "content": "nah nvm!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493939605680,
+      "content": "Kinda busy but what's up? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493939343453,
+      "content": "wanna do me a favor if youre not busy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493938566590,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493938509827,
+      "content": "Mhm!! It's during summer break but who knows maybe we can help out lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493937713595,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493937192707,
+      "content": "I forwarded you an email!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493791883838,
+      "content": "Bye!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493791618977,
+      "content": "Okay enjoy your dinner I won't bother you \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493791610798,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493791583493,
+      "content": "B DUBS!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493791571329,
+      "content": "11 isn't dinner \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493791561327,
+      "content": "I'm at dinner too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493791551187,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493791383825,
+      "content": "Why can't more people be like you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493791378271,
+      "content": "God bless your fast replies \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760847662,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760522668,
+      "content": "thanks ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760519755,
+      "content": "okay I will ask :) at some point I was scared you guys just left it at the beach LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760501944,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760493622,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760490093,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760487682,
+      "content": "In his apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760484359,
+      "content": "Alan has them!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760256881,
+      "content": "also remember the beach blankets from the beach cleanup for rush? do you have them? :O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760237437,
+      "content": "and she's in hawaii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760232129,
+      "content": "I think its taking long bc the president has to approve also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760221149,
+      "content": "but hopefully he gets the reimbursements soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760214106,
+      "content": "haha I'd be so mad if I didn't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760051091,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760049858,
+      "content": "You're never getting that money back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760044084,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760033802,
+      "content": "its week 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760030946,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760029739,
+      "content": "yeah he hasn't reimbursed me for the things I bought during rush even",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760026997,
+      "content": "It hasn't been a week yet so idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760016461,
+      "content": "LOL RIP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760015080,
+      "content": "I will soon tho I hope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760011115,
+      "content": "Uh nooope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493760005805,
+      "content": "did you get reimbursed yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760005268,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493760002926,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493759999831,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493759998495,
+      "content": "I just keep forgetting bc I have to print it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759996322,
+      "content": "Just making sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759991872,
+      "content": "Yayy!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493759987264,
+      "content": "I'm going to hand it to anthony tonight :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759981469,
+      "content": "I would hate for you to lose so much money",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759973015,
+      "content": "But did you ever do the reimbursement for the popcorn/cotton candy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493759958442,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493759957289,
+      "content": "hiiiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759954860,
+      "content": "I just remembered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493759948999,
+      "content": "Hellllllooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493347086768,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493347080784,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493347079172,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346689925,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493346685689,
+      "content": "OKAY ON MY WAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346674766,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493346667545,
+      "content": "WAIT so can I come now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346663003,
+      "content": "LOL yeah usually if I'm abrupt with my messages im either driving or in class and have to message quickly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346642039,
+      "content": "LOL I just got home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493346622703,
+      "content": "Jk I'll be there at 8!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493346112322,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346089280,
+      "content": "I'm at a red light now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493346082058,
+      "content": "No it's cuz I'm driving haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493346013936,
+      "content": "I feel that there's slight annoyance in that text",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493345900391,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493345835686,
+      "content": "So I got off early and I might have to drop the stuff off after I eat? Is that okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343582296,
+      "content": "I will be at your apartment at 8",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343574499,
+      "content": "Okay!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493343486008,
+      "content": "Thanks Justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493343483275,
+      "content": "8 PM works :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493343086161,
+      "content": "I can do either! I can come at 8pm or If you're busy then I can come later too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493341074257,
+      "content": "Sorry for bothering you again about this \u00f0\u009f\u0098\u00ad but I have hw due at 8 am tmrw and it needs to use a program that's only available at UCI computer labs. And I'm at work until 7 today so no time to do it. But I also really need the materials for tomorrow's poster making. What time should you be at my place? Closer to 8 PM or closer to late night so I can plan when to be at home :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493322858018,
+      "content": "Okie I can drop it off I think",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493322783482,
+      "content": "Just let me know then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493322777042,
+      "content": "That's good with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493322760435,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493322757564,
+      "content": "Hmmmm I'm busy til 8 reallyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493318063665,
+      "content": "What time today are you free to give me the inventory back? :) and do you want me to go pick up from your place or you drop off at my place?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493258748417,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493258716993,
+      "content": "Lolol okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493258696438,
+      "content": "It's alright haha. I imagine it would be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493258687487,
+      "content": "Okay :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493258684439,
+      "content": "It's reasllly unorganized btw \u00f0\u009f\u0098\u00b6\u00f0\u009f\u0098\u00b6\u00f0\u009f\u0098\u00b6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493258668609,
+      "content": "It's okay! I'm putting stuff together rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493258365400,
+      "content": "Yeah sorry for having you hold on to them for so long \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493258351734,
+      "content": "Hm okay I will deliver the stuff to you tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493258338320,
+      "content": "I am not but I will be free after 2 tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493258321184,
+      "content": "Are you free rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493068715077,
+      "content": "Gina sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/14106595_1775291576044880_1445182879_n_1775291572711547.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493068481539,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493067890671,
+      "content": "I can get it on thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493067886530,
+      "content": "thanks for letting me know haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493067880484,
+      "content": "friday :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493067852190,
+      "content": "When do you need it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493067852186,
+      "content": "I have not organized it yet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493067852182,
+      "content": "In my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493067852021,
+      "content": "I indeed still have them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493067828712,
+      "content": "I need it for a service coming up soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1493067822706,
+      "content": "Hey Justin! Let me know if you still have construction paper, makers, and colored pencils and sharpies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492919468250,
+      "content": "Aw sorry for the trouble \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492918638613,
+      "content": "Of course! I didn't even mean too but someone told cleanup to leave the stuff next to my car lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492914914662,
+      "content": "Thanks so much for transporting them :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492914906884,
+      "content": "LOL okay sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492914860243,
+      "content": "Lolol imma move them to my room cause I have to drive for ICDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492914785115,
+      "content": "You can just keep them as long as you want TBH \u00f0\u009f\u0098\u0082 but I feel like you'd want to get rid of it to make room in your car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492914747623,
+      "content": "I'm free after 8 PM tmrw and all day on Monday if you wanna bring back the things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492809708943,
+      "content": "Yayay",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492809706673,
+      "content": "Oh okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492809575987,
+      "content": "Every thing is all good :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492809571230,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492809569270,
+      "content": "Only one person in the other car was at Jack when I was there so we left early and she waited for her car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492809521347,
+      "content": "Why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492809517169,
+      "content": "Oh really?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492809510699,
+      "content": "Only one person in the other car is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492809502686,
+      "content": "My car is on the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492809484635,
+      "content": "Updates \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492808368238,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492808235613,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492808223058,
+      "content": "I did indeed!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492808196016,
+      "content": "Did you print out the signin sheet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805696357,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805570359,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805553375,
+      "content": "Cool lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805545308,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805501029,
+      "content": "Does this link work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805499822,
+      "content": "https://drive.google.com/open?id=0B78M_FDJRqnjdG1OZDJDWG8xWVU",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B78M_FDJRqnjdG1OZDJDWG8xWVU%2Fview%3Fusp%3Ddrive_web&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B78M_FDJRqnjdG1OZDJDWG8xWVU%2Fview%3Fusp%3Ddrive_web"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805495494,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805343344,
+      "content": "but warn Rochelle that we have like 60 people coming so they should print that many",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805326571,
+      "content": "just post on fb to fill out the volunteer form when they get there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805306101,
+      "content": "oh they can just fill it out there LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805302110,
+      "content": "Either or!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805297002,
+      "content": "They will have copies at the place too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492805296640,
+      "content": "do you need to print it out beforehand or is it already printed out there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805283509,
+      "content": "Should I post it on the fb page?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492805277144,
+      "content": "So Rochelle just sent me the volunteer forms lol rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492804508762,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492804161741,
+      "content": "Oooo the good and bad times LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803886131,
+      "content": "Paramore, fall out boy, linkin park, Avril, green day \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803858311,
+      "content": "Those were the best I miss them \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803849501,
+      "content": "Okay for sure just wanted to check :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492803709842,
+      "content": "Yes lol the good ol scene days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492803697774,
+      "content": "Um I think that should be fine lol I also don't know traffic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803575483,
+      "content": "Dude I love that song haha. All America rejects right? XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803561655,
+      "content": "I told the setup people to meet at Jack at 1:50 for setup at 2:30. Is that okay? I literally don't know how traffic works LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492803529341,
+      "content": "Yes I far bring garbage bags",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802951698,
+      "content": "Dirty little secrets is playing Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802943471,
+      "content": "Its great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802934492,
+      "content": "I'm listening some old middle school emo music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802730415,
+      "content": "Oo can you bring the garbage bags from the inventory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802717370,
+      "content": "I will!!! Thank you!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492802338986,
+      "content": "Oh you poor thing \u00f0\u009f\u0098\u00ad lemme know if there's anything I can do to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492802280657,
+      "content": "Thank you for the drink and food \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad I forgot eating was a necessity to surviving Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492797039485,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492797033087,
+      "content": "You have more beads!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796760976,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796555355,
+      "content": "Thats even better LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796541445,
+      "content": "Closer to 12 LOL. My friends and I left class early to eat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796483888,
+      "content": "Ooooo uh can I get a house coffee with 3 shots of espresso \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796466942,
+      "content": "Then I can drop it off around then lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796454596,
+      "content": "Ummmmmm you said you'll be at the tents by 11:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796427682,
+      "content": "What drink do you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796423821,
+      "content": "And I'm getting 7 leaves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796412559,
+      "content": "What time will you be dropping off the flyers at the tents? And yeah I can organize drivers for the first shift. Dont worry about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796403106,
+      "content": "I'm stressed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796277391,
+      "content": "Cause then maybe other actives can help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796265543,
+      "content": "Is that okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796261676,
+      "content": "Oh right lol. The tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492796238036,
+      "content": "Okay when and where are we cutting fliers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796210992,
+      "content": "Can you be in charge of drivers for the set up shifft :) I'll meet you guys at the boys and girls club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796186141,
+      "content": "Hi so imma skip class to go pick up stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492788477116,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492788064816,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492787568284,
+      "content": "Btw I might be there like 11:30 bc I didn't wake up early enough before class to get all the cotton candy popcorn and water bottles to my car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492783995280,
+      "content": "It's ok :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492782363133,
+      "content": "Riiight I'm still planning that sorry I just woke up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492781494498,
+      "content": "Yeah I can. And the popcorn and cotton candy. What time and where did you want to meet for cutting out the flyers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492781303127,
+      "content": "Can you bring the beads and the empty water bottles \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748409154,
+      "content": "Okay I shall bring them !",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492748168112,
+      "content": "I can help when I get out of class at 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492748153883,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748143704,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748142288,
+      "content": "But they are half page so I need them cut\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492748138505,
+      "content": "Bc the pledges can't access it on our fb page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492748128949,
+      "content": "Make sure the pledge parents post the list on their fb page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748125720,
+      "content": "Alsooo I printed out like a lot of flyers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492748115613,
+      "content": "Ok thanks for letting me know :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748111813,
+      "content": "I'll add him to the list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492748102795,
+      "content": "Oh yea that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492747988978,
+      "content": "Oh I meant 3:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492747269976,
+      "content": "Uh 2:30-5:30? As in setup and clean up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492747170419,
+      "content": "Hey Justin! Michaelangelo (pledge) wants to be added to the 2:30-5:30 shift for NYSD tmrw but doesn't have a ride. Are there enough rides for him to be added?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723976198,
+      "content": "Good enough I'll make a post rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723970999,
+      "content": "Cool okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723965301,
+      "content": "I can click on it and I am on my phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723947409,
+      "content": "I'm on my phone so idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723942711,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723941461,
+      "content": "Does this link work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723939683,
+      "content": "https://docs.google.com/spreadsheets/d/1tHoF2EPWMUBsfVLe8CVnv9Cd2tbRji0BDge4bhfqICU",
+      "share": {
+        "link": "https://docs.google.com/spreadsheets/d/1tHoF2EPWMUBsfVLe8CVnv9Cd2tbRji0BDge4bhfqICU/edit?usp=embed_facebook"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723934968,
+      "content": "What's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723933347,
+      "content": "Work at 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723929715,
+      "content": "Can you test something for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723925677,
+      "content": "Are you at work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723717128,
+      "content": "Okay!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723659571,
+      "content": "Yeah I messaged her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723651293,
+      "content": "Uh does Christine ving know she doesn't have to drive if she doesn't need to \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723444294,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723431280,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723427052,
+      "content": "when I get out of work at 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723425859,
+      "content": "Yay ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723423069,
+      "content": "How'd he sign up? Isn't it locked?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723420393,
+      "content": "I'll move him to the main event shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723414762,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723412855,
+      "content": "yeah I saw LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723409883,
+      "content": "I was like \"no\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723406002,
+      "content": "Okie some pledge messaged me saying he signed up as a booth leader lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723394918,
+      "content": "but if I do I will tell you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723386276,
+      "content": "nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723281522,
+      "content": "Has anyone been added to the event btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723265974,
+      "content": "Yea true.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723218645,
+      "content": "since we have enough drivers I feel like when the day comes tmrw we should be okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723191224,
+      "content": "I say just adjust the spreadsheet to the best of your ability and post it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492723170173,
+      "content": "I'm sorry to hear you're dealing with that :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492723005251,
+      "content": "Lolol idk what to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492722997754,
+      "content": "I haven't been able to post the spreadsheet cause people keep changing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492722983828,
+      "content": "People keep causing me problems with drivers and getting added lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672989484,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492672776856,
+      "content": "Ooo okay I'll update it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672545549,
+      "content": "Good job in the driver spreadsheet btw :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672528682,
+      "content": "Btw Lai is not doing 2:30-3:30 shift anymore, she is doing 3:30-5:30. Paula was on the wait list for 2:30-3:30 so she's taking Lai's place. Lai messaged me about it this morning, just thought you should know in case it messes with your driver spreadsheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672341659,
+      "content": "same :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672340016,
+      "content": "sorry to hear you've been busy :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672322600,
+      "content": "morning :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492672191368,
+      "content": "Or should I wait for the morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492672186093,
+      "content": "I've been busy \u00f0\u009f\u0098\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492672176916,
+      "content": "Imma post the drivers thing soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492672164984,
+      "content": "Thankssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672099135,
+      "content": "I will let them know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492672095765,
+      "content": "okay sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671895612,
+      "content": "But mostly we need them cut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671886230,
+      "content": "Mmm just cutting, there's some that aren't fully painted I think so if they see that then they can finish them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492671837450,
+      "content": "all of the cardboard with baymaxes and whatever have been drawn and painted. but none of them are cut. you want all of them cut into cutouts. that's what they're doing tmrw, purely cutting? or are they drawing/painting more?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492671792114,
+      "content": "okay. so let me get this straight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671781748,
+      "content": "We have box cutters in the bin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492671771108,
+      "content": "and do we have box cutters to cut them out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671770236,
+      "content": "Lolol they are already done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492671757776,
+      "content": "Kristin said she wanted those done at some point? or are they already done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492671745364,
+      "content": "what about goodie bags?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671743924,
+      "content": "If that's possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671739148,
+      "content": "That's pretty much it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671732951,
+      "content": "I need all of them cut out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492671726499,
+      "content": "Uh alllllll the cardboard cutouts. And the blue bin lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492670149805,
+      "content": "I don't mean to burden you but do you have a list of things for the prep people to do tomorrow? And the things I need to bring to the tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492670119688,
+      "content": "Hello Justin \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659395051,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659385315,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659382602,
+      "content": "Bye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659378710,
+      "content": "Well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659369784,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/18042787_1240913279340543_1400656232_o_1240913279340543.jpg",
+          "creation_timestamp": 1492659369
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659363991,
+      "content": "I'm eating KBBQ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659360036,
+      "content": "Well if it makes you feel better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659358704,
+      "content": "2 more hours rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659353816,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659348495,
+      "content": "It's boring lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659136301,
+      "content": "How is work? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659130913,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492659089014,
+      "content": "I'm on break hi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492659050142,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492655985269,
+      "content": "Helllloo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492638675206,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492638643245,
+      "content": "So you don't need to ask Francis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492638634893,
+      "content": "Actually Monica Chou can take the stuff back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492637417171,
+      "content": "\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492637402515,
+      "content": "*and",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492637393957,
+      "content": "Aww you're welcome! Thanks for putting in so much if your time be work \u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492637199016,
+      "content": "Thanks for all your help btw!\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492637117730,
+      "content": "Yea he can cover me and I'll ask him rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492637073405,
+      "content": "Did you talk to Francis and he said he can cover you? Can you also ask him to bring back the bin and cardboard to his place? I asked Excomm but no one answered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492635156603,
+      "content": "Have fun at work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492635149454,
+      "content": "I'll be at work then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492635145291,
+      "content": "Let me know if you need any help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492635144078,
+      "content": "Okay sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492635104808,
+      "content": "And I can grab more stuff in my small gap so that they have know to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492635091523,
+      "content": "Oh yay! Yea he can cover me!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634996760,
+      "content": "Look at your post :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634989242,
+      "content": "What class is it for? You have all quarter to make it up and the event is almost over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634981132,
+      "content": "Oh really I didn't get a notification",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634968297,
+      "content": "Aw I'm sorry \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634961603,
+      "content": "He said he could cover",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634956264,
+      "content": "Francis replied to your post",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634951377,
+      "content": "I just failed my quiz rn too \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634938040,
+      "content": "It's okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634931946,
+      "content": "Sorry I'm a mess rn \u00f0\u009f\u0098\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634914156,
+      "content": "And hmm I might try to leave class early to see if I can grab more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634899879,
+      "content": "Francis didn't say anything about covering me but yea I'll come out for an hour but I have work at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634844746,
+      "content": "I have work soon so I cannot get more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634837699,
+      "content": "Is there anywhere on campus they can get more? If they run out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634827218,
+      "content": "Just that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634824560,
+      "content": "This is the cardboard I got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634813296,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/18053346_1240647766033761_1044447525_o_1240647766033761.jpg",
+          "creation_timestamp": 1492634812
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492634787961,
+      "content": "Are you still going to the event today for an hour? Or is Francis covering you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634393711,
+      "content": "They need to paint and cut them out if possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492634384579,
+      "content": "Hello here's the list: using the cardboard can prep people just make photo booth props like mustaches, bows etc idk have them google whatever is a typical prop!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492631063747,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/18052087_378236545904709_1041274217_o_378236545904709.jpg",
+          "creation_timestamp": 1492631058
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492629568541,
+      "content": "I think it's enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492629560025,
+      "content": "I got a very large piece with many folds :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492629475877,
+      "content": "Is there anyway to get more? Just wondering\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492629402526,
+      "content": "It's been a long night lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492629396093,
+      "content": "Sorry again!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492629384123,
+      "content": "So there's only one piece of cardboard? Ummmm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492629334667,
+      "content": "Please come up with a list of things for them to do, thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492629323338,
+      "content": "I already got the stuff. I got one large piece of cardboard just in case you needed it and it's already at the tents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492629303666,
+      "content": "It's okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492629193339,
+      "content": "Sorry \u00f0\u009f\u0098\u009e I ended up pulling an all nighter and accidentally slept through class cause I forgot to put an alarm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628987436,
+      "content": "Hello I hope I wasn't too late LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628535557,
+      "content": "And the Fitness poster board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628525405,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628524160,
+      "content": "Can you grab as much of the card board drawings as you can fit it your car",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628502581,
+      "content": "I never finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628498465,
+      "content": "Did you grab the stuff already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492628491416,
+      "content": "Hi sorry I fell asleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492626988437,
+      "content": "Just the blue bin? You don't want any cardboard?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492612697867,
+      "content": "Hmm or I could always ask Excomm and see who has a car and is free to help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492612324396,
+      "content": "Alan might be able to take it back on Thursday, depends on how class schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492603033527,
+      "content": "its kinda a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492603029090,
+      "content": "wait actually do we even have anyone to bring the stuff back to francis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492602960971,
+      "content": "List of NYSD stuff to grab from francis place:\n-The blue box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492600773060,
+      "content": "Can you let Christine Ving know that she doesn't have to drive  anymore !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492597973199,
+      "content": "Oh 10 at night lol? I have work til 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492593757323,
+      "content": "LOL I'll swing by your place around like 10 if that's k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492593739957,
+      "content": "Oh wait actually I have dinner plans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492593727906,
+      "content": "*tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492593719977,
+      "content": "I'll swing by to your place after work tire to get you the water bottles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588839488,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588837230,
+      "content": "Oh god that's a lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588798071,
+      "content": "I would hate for you to get a flake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588783875,
+      "content": "yes do ask pledges :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588779006,
+      "content": "24",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588747093,
+      "content": "And maybe I can try!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588741707,
+      "content": "So wait if I have 20 hours to do and I flake this service. I have to do 22? Or 24 lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588717005,
+      "content": "since the service is at the tents, should be super convenient and easy to find people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588701452,
+      "content": "could be a pledge too even",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588697395,
+      "content": "maybe find someone who's just sitting at the tents and ask them to cover? LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588696708,
+      "content": "It's okayy!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588684777,
+      "content": "I really wish I was free to cover :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588672220,
+      "content": "2 of the hours you missed plus another 2 for flaking :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588644494,
+      "content": "If I show up for the first hour do I only have to make up 2 extra hours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588630889,
+      "content": "So it looks like I'm flaking the service lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588484262,
+      "content": "Thank you sooo much",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588479962,
+      "content": "Okay!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588329771,
+      "content": "I will be at the tents 12-2 on Wednesday for interviews and will leave them with someone to hand it to the prep people 2-3. For Thursday I will bring the materials and be there 2-2:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588252293,
+      "content": "At noon or at 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588246371,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588246017,
+      "content": "Are you just gonna leave them at the tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492588237959,
+      "content": "I shall!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492588105214,
+      "content": "Anyways, please let me know exactly what I need to bring from Francis' by tomorrow noon. Thank for everything Justin \u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499543205,
+      "content": "Do it",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499466565,
+      "content": "I'll buy myself a beer when it's over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499435751,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499434498,
+      "content": "Ew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499429855,
+      "content": "I'll buy you a beer when it's over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499220094,
+      "content": "I'm so over it",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499217316,
+      "content": "I'm excited to be done with it \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499186127,
+      "content": "how are you feeling?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499175097,
+      "content": "Yayayay",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Gina Vu"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499151827,
+      "content": "ok the items will be here by Thursday ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499116330,
+      "content": "Might be a lot but we can always do something with the extra!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499104780,
+      "content": "I said $85 in the google sheet so yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499084084,
+      "content": "is this ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499080731,
+      "content": "total for both popcorn and cotton candy is $87.99",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499047143,
+      "content": "I am down for pink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499037968,
+      "content": "and I was jk LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492499032906,
+      "content": "okay. each carton is 1/2 gallon, so 4 cartons of cotton candy then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499028812,
+      "content": "At this point I don't care LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499022426,
+      "content": "The the other half gallons something else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499013605,
+      "content": "You could do 1 gallon of pink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492499002047,
+      "content": "You can buy whatever!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498997386,
+      "content": "I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498995742,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498995019,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498993405,
+      "content": "And then I was thinking maybe 2 gallons of cotton candy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498992284,
+      "content": "I am so curious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498988442,
+      "content": "are you sure you don't want banana cotton candy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498953261,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498951997,
+      "content": "So I was thinking 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498944852,
+      "content": "Idk how it works really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498925584,
+      "content": "there's 6, 8 and 12 ounces",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498913541,
+      "content": "how many ounces of popcorn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498904985,
+      "content": "https://www.amazon.com/Gold-Medal-3202-Vanilla-Flossugar/dp/B006ZOUI2U/ref=sr_1_3_a_it?ie=UTF8&qid=1492037696&sr=8-3&keywords=gold%2Bmedal%2Bfloss%2Bsugar&th=1",
+      "share": {
+        "link": "https://www.amazon.com/dp/B006ZOUI2U/ref=tsm_1_fb_lk"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498867222,
+      "content": "https://www.amazon.com/Jolly-Time-Kernels-Popcorn-Machines/dp/B007PCVIFM?th=1",
+      "share": {
+        "link": "https://www.amazon.com/dp/B007PCVIFM/ref=tsm_1_fb_lk"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498827788,
+      "content": "I'll send it again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498822984,
+      "content": "Hold one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498818872,
+      "content": "It's on the google spread sheet!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498811544,
+      "content": "I don't trust myself LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498807764,
+      "content": "ok just send me links for the popcorn and cotton candy just in case I get the wrong one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498794904,
+      "content": "Just cause it's basic :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498788404,
+      "content": "The pink sugar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492498781903,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498766162,
+      "content": "or horrible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498764440,
+      "content": "that sounds amazing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498762200,
+      "content": "OMG there's banana cotton candy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498746469,
+      "content": "the google just gave me a ton of different ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498736901,
+      "content": "does it matter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492498734423,
+      "content": "which one am I buying exactly LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401645196,
+      "content": "But like I'm graduating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401639374,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401638015,
+      "content": "That's the spirit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401628274,
+      "content": "lol it's okay I'll just go inactive!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401280098,
+      "content": "I'm sorry :( you're putting in so much work for this already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401267776,
+      "content": "okay, if you say so!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401256206,
+      "content": "aww :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401243655,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401242188,
+      "content": "i think ill take the flake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401233502,
+      "content": "hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401226351,
+      "content": "8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401164275,
+      "content": "Does GBM start at 8 or 8:30 this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492401058834,
+      "content": "I won't judge you. and it seems like you just got your work schedule too, and after the 72 hour lock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401027385,
+      "content": "Imma look dumb \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492401015595,
+      "content": "This is gonna be awk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492400999343,
+      "content": "Yeah you can ask for a cover LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400941920,
+      "content": "Cause I can just beg for a cover idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400930481,
+      "content": "Is that allowed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400927725,
+      "content": "Are you sure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492400918185,
+      "content": "but I can just take you off haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492400912382,
+      "content": "I think you told me to add",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400614645,
+      "content": "rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400612256,
+      "content": "i have work so i cant even make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492400598929,
+      "content": "did you add me to the prep service on wednesday or did i do that myself LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492298852796,
+      "content": "LOL I can take you off some shifts if you didn't want all 3 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492298719858,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492298718649,
+      "content": "Rip okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492290929202,
+      "content": "Ok I added you to all 3 hours LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492290601639,
+      "content": "Do you want to be there for all 3 hours of prep day 6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492290001295,
+      "content": "They both can take 4 ppl!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492289995899,
+      "content": "Yes!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492288965986,
+      "content": "For the NYSD event right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492288951452,
+      "content": "Yeah for sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492286312485,
+      "content": "can you add jerimi vindua as a driver too pls :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492280467971,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492278205915,
+      "content": "Is that possible lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492278202333,
+      "content": "Can you add Grace Zhu as a driver for NYSD event shift :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492274290939,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492274084819,
+      "content": "Can you add me to prep day 6 please! I forgot to sign up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228883988,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228881781,
+      "content": "Can you just tell justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492228867257,
+      "content": "Ok I'll stand outside the door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228867051,
+      "content": "Parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228865902,
+      "content": "I'm on your street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228862373,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492228860544,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492228857889,
+      "content": "Ok lemme know when you're here :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492228857021,
+      "content": "I'm lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492227953044,
+      "content": "47 Georgetown\nIrvine CA 92612",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492218805505,
+      "content": "the aesthetic area in the district where Milkbox is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492218748435,
+      "content": "Union Market",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492218729414,
+      "content": "What's union marker lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492218513247,
+      "content": "Hmm okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492218435690,
+      "content": "I get off at 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492218422427,
+      "content": "its across the street from michaels and close to Walmart and joanns",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492218404755,
+      "content": "The union marker in the district at tustin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492218324154,
+      "content": "Where do you work btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492218318356,
+      "content": "Rip yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205317735,
+      "content": "But yeah that's really annoying \u00f0\u009f\u0098\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205306433,
+      "content": "And he didn't do it so I just looked into it myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205295048,
+      "content": "I told Alan to look into volunteering for the Disney half marathon a week and a half ago LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205275075,
+      "content": "I know how you feel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205271351,
+      "content": "Aww I'm sorry you're doing so much work \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205263554,
+      "content": "The one you just messaged us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205257257,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1492205241059,
+      "content": "What list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492204984578,
+      "content": "I asked Kristin to make that list but she never did \u00f0\u009f\u0098\u0092",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940806862,
+      "content": "hahahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940806039,
+      "content": "xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940803003,
+      "content": "but yes I get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940799686,
+      "content": "LOLOL you're so lame",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940786442,
+      "content": "get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940784782,
+      "content": "LOLOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940782516,
+      "content": "cause gina nose all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940773431,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940772441,
+      "content": "its a nose...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940767749,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940763342,
+      "content": "what the fuck is that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940750683,
+      "content": "\u00f0\u009f\u0091\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940747740,
+      "content": "You set the emoji to \u00f0\u009f\u0091\u0083.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940619806,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940604374,
+      "content": "i shall send it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940601083,
+      "content": "lol yay ty!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940568586,
+      "content": "I changed it to adress their names and also say we are from APO since they probably get emails from a lot of organizations but then again it does say APO in your signature so it doesn't matter as much LOL. it looks good! ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491940474364,
+      "content": "ok I just read it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940357794,
+      "content": "thats why i messaged you again lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491940351852,
+      "content": "yay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491939936195,
+      "content": "I will read it soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491939927546,
+      "content": "LOL awk I just remembered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491938939458,
+      "content": "did you get a chance to read my email :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491929616782,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929610464,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929608661,
+      "content": "Engineering life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491929566692,
+      "content": "You can ask him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491929561712,
+      "content": "Yeah I'm busy all day today too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491929556999,
+      "content": "Okay LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929544500,
+      "content": "UH I can see if Alan can drop it off lol I don't have time today/not going to the prep today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491929441168,
+      "content": "Actually can you and Alan pick up the things (scissors, markers, construction paper) from my place LOL. I was going to skip class to go home and get it and drive it to Francis' but I forgot I had to go to turn in HW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491927134235,
+      "content": "okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491927115405,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491927112731,
+      "content": "But you guys can stop by whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491927107047,
+      "content": "I'm out all day until GBM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491927102056,
+      "content": "Ask Alan he has the key",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491927084078,
+      "content": "is there a time today where i can get a look at the inventory in person? Some of the stuff on the excel sheet are vague lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491926479034,
+      "content": "yayay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491926473722,
+      "content": "For sure LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491926309469,
+      "content": "I am going to send an email and i want you to approve first lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491926288402,
+      "content": "when youre not busy could you check out the SPC email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491926275586,
+      "content": "LOL hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491926233110,
+      "content": "Yeah I got class LOL what's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491925718146,
+      "content": "are you busy rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491859156220,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491858894756,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858249923,
+      "content": "can you ask Jackie if they have a helium tank to blow balloons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858236704,
+      "content": "And we have red and white balloons in the inventory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858225072,
+      "content": "for NYSD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858219085,
+      "content": "Also I signed up to drive for setup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858186589,
+      "content": "i have work but lemme know if you need any help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858177915,
+      "content": "Good luck on your first Prep day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491858169723,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491858104339,
+      "content": "LOL I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491857957768,
+      "content": "go email them now LOL you still have time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857955532,
+      "content": "I'll do it rn lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491857947986,
+      "content": "shame on you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491857942317,
+      "content": "Yes you have to do 50 push-ups and sacrifice a child to the service gods as punishment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857357950,
+      "content": "Cause I'm chair?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857354581,
+      "content": "Am I in trouble",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491857347305,
+      "content": "Um I forgot to email people about the thing today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787319404,
+      "content": "No one knows them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787313648,
+      "content": "Lolol thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491787247530,
+      "content": "Lucky you haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491787239450,
+      "content": "Ooooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787236813,
+      "content": "And mowgli",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787228370,
+      "content": "I'm waiting in line to see them rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787223254,
+      "content": "No one knows them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491787217790,
+      "content": "YAY FINALLY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491787177117,
+      "content": "Haha yeah why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491786387520,
+      "content": "Or did lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491786381245,
+      "content": "Do you listen to the Maine?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491784142267,
+      "content": "Gina: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491784127109,
+      "content": "Okay thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491784124790,
+      "content": "Lololol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491783813847,
+      "content": "Let us know if you guys need any help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491783806468,
+      "content": "We will take shots \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491783800133,
+      "content": "You're going to feel great when it's done too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491783792845,
+      "content": "Aww I'm sure it'll go great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783752347,
+      "content": "But I don't really care anymore I just wanna finish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783739764,
+      "content": "Lol but like at this point yes whatever. I feel like it's not gonna go well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491783513389,
+      "content": "Ah I know how you feel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783492905,
+      "content": "I'm getting annoyed cause people aren't replying lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783479759,
+      "content": "It's cause no one responds to me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783474116,
+      "content": "Ty*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491783471956,
+      "content": "Lol th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491782896335,
+      "content": "How are you feeling for NYSD? Still nervous?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491782880611,
+      "content": "I like that you reply quickly :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491620318272,
+      "content": "to make it easier for him to say yes, tell him that it can be saved for future SPCs to use, thus saving money in the long run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491620278239,
+      "content": "i have to go somewhere so I can't ask for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491620264744,
+      "content": "Ask Anthoney Galicia :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491620046173,
+      "content": "Is something like this in our budget?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491620039084,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/17838379_372243869837310_1557726535_o_372243869837310.jpg",
+          "creation_timestamp": 1491620038
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616988320,
+      "content": "Okay good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616953148,
+      "content": "Gonna*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616946627,
+      "content": "I'm on a work with Jacky to make a big engineering booth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616932397,
+      "content": "Lol yea we might just make another one and have 9 booths",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616915329,
+      "content": "or that too LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616907601,
+      "content": "for the 2 leftover booths",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616902773,
+      "content": "for booth leader I guess just design the booths and just have a random active be in charge of running it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616901414,
+      "content": "Yea she hasn't texted me back yet so I'm just waiting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616889308,
+      "content": "I think Kristin and I might be able to make an extra booth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616881783,
+      "content": "Ask Jackie just to make sure about the matches in case we get in trouble",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616820810,
+      "content": "if I can get a cover I can sign up for booth leader",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616737589,
+      "content": "aw :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616713823,
+      "content": "At this point I'm so downn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491616698084,
+      "content": "Are you going to start a fire in the middle of the gym ad sacrifice the children",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616140442,
+      "content": "So currently we have  8 booths cause people decided to drop out last second",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616110762,
+      "content": "Imma say yes lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616103732,
+      "content": "Do you think matches are allowed in the gym?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491604154467,
+      "content": "LOL oh justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603511691,
+      "content": "It was like an email but in text version",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603501015,
+      "content": "It was odd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603499512,
+      "content": "I just texted Jackie a very formal text lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603490216,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603488749,
+      "content": "That would suck huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603412721,
+      "content": "such a shame",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603407302,
+      "content": "Yeah then we won't have an SPC besides Kristin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603376263,
+      "content": "Or blow up lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603368608,
+      "content": "True lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603309052,
+      "content": "and at least your car won't be breaking down and leave you stranded anytime soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603273553,
+      "content": "dont be mad at your mom :)  at least it's not on the actual NYSD day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603248219,
+      "content": "take me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603240754,
+      "content": "i wanna go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603237655,
+      "content": "ooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603233803,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603231813,
+      "content": "Oh yea I know where it is! It's kinda small",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603231242,
+      "content": "I was considering just hitching a ride to sectionals just to check out the original Redlands Nectar store",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603220058,
+      "content": "I'm very mad at my mom but at the same time she fixed my car so idk what to feel lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603210400,
+      "content": "The original Nectar Clothing store is in Redlands and most of my coworkers are from there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603132284,
+      "content": "I'm like a mile away from university of redlands lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603114739,
+      "content": "Mhm! Sigma beta!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603106234,
+      "content": "youre from Redlands?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603100521,
+      "content": "Haha okay sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603088468,
+      "content": "I just need to tell Francis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603077348,
+      "content": "He told me he can't go lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603074777,
+      "content": "that you can't make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603072783,
+      "content": "This is rather unfortunate lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603070864,
+      "content": "does Alan know already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603062391,
+      "content": "Yeah definitely ask!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603024669,
+      "content": "Okay! Maybe there's an event next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603018177,
+      "content": "I'll keep it short lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603014072,
+      "content": "okay thanks Justin :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491603008851,
+      "content": "I'm sure Jackie won't mind if you tell her why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491603001968,
+      "content": "Yea I can def make it to beach clean up don't worry.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491602987231,
+      "content": "can you still make it to beach cleanup tmrw or nah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602985571,
+      "content": "Yea I told her we would go tho so I feel bad \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491602973529,
+      "content": "I cant get out of work and going there isn't mandatory or anything, just thought it would be good for you guys to see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491602950362,
+      "content": "It's okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602910758,
+      "content": "I don't think I'll be able to make it to the boys and girls club lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602897281,
+      "content": "SO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602892669,
+      "content": "My mom wanted me to come home so my sister can use my car for her drivers license test and so she could change my cars oil so I came back last night. Well she took it in this morning around 9 and she also decided it was a good time to change the tires and everything about my car. So instead of going back home at 11 so I can make it to class I'm stuck in redlands waiting for my car to be done still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602760569,
+      "content": "Lol well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491602693338,
+      "content": "What happened LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602628581,
+      "content": "There's a problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491602615463,
+      "content": "Gina!!! Are you able to get off work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494869791,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494867868,
+      "content": "Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494866109,
+      "content": "But I will give you a helpful answer later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494854303,
+      "content": "I gotta go to class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494849838,
+      "content": "That's how I feel about rush week and NYSD and relay for life and services for everyone in the fraternity to get 20 hours of service in 5 categories",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494816204,
+      "content": "Did you know that every time I think about NYSD I get stressed \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494790874,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494787419,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494783850,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494780703,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494779204,
+      "content": "No I meant like NYSF",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494768225,
+      "content": "It's just in Dartmouth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1491494760590,
+      "content": "LOL they can walk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491494735520,
+      "content": "I need help figuring out drivers \u00f0\u009f\u0098\u009e how should I do it? Currently there's no one that can drive for the set up shifts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490716636890,
+      "content": "Can I get an ETA? Cause I'm still getting ready lol\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490679120687,
+      "content": "Okay!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490676267317,
+      "content": "LOL ok :) I'll see you tmrw!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490676107546,
+      "content": "Hmmm this might work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490676102298,
+      "content": "UC Irvine Medical Center, 28700 Arroyo Dr, Irvine, CA 92617",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490675971343,
+      "content": "but yeah give me your address bc I forgot which part of VDC you live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490675758178,
+      "content": "HAHAHA LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490675750690,
+      "content": "LOLOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490675749230,
+      "content": "and you just really wanted to hear my voice too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490675741801,
+      "content": "is my spam not enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490675732731,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490675731133,
+      "content": "Oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490675728224,
+      "content": "Gina missed a call from you.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490675726705,
+      "content": "Mmmm I live in vdc norte! I'll be by the Norte clubhouse tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490675634580,
+      "content": "message me your address so I can pick you up tomorrow :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639955884,
+      "content": "Oooo okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639634497,
+      "content": "And Alan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639632540,
+      "content": "Bring your twin haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639623887,
+      "content": "Oh nooo I don't wanna go alone \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639606588,
+      "content": "Sorry I can't be of more help \u00f0\u009f\u0098\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639599144,
+      "content": "If Tuesday doesn't work out, maybe schedule it after you get your car :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639579217,
+      "content": "Oh I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639576290,
+      "content": "So it's hard to schedule things in LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639569131,
+      "content": "Oh myyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639567878,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/17549064_1219621611469710_116342076_o_1219621611469710.jpg",
+          "creation_timestamp": 1490639567
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639565429,
+      "content": "Gina sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/GinaVu_p2pJgsnXcw/photos/17619331_1219621561469715_783519425_n_1219621561469715.jpg",
+          "creation_timestamp": 1490639565
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639564731,
+      "content": "I get my car this weekend lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639558360,
+      "content": "My schedules pretty busy this week and next week LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639556585,
+      "content": "Hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639549960,
+      "content": "Let's hope for Tuesday then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639543632,
+      "content": "Oh I see LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639531120,
+      "content": "I don't have my car yet \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639507880,
+      "content": "if tuesday doesn't work out, I think you'd just have to go there yourself sometime this week :/ you have a car so its no prob right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490639502110,
+      "content": "Nahhh whenever you're free I'll be ready \u00f0\u009f\u0098\u008a!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639479660,
+      "content": "I called her just now to see if tuesday works but she didn't answer. left her a voicemail and email. will get back to you when she replies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490639453123,
+      "content": "LOL I got a busy schedule this week. unless you'd want to go without me, which is fine too :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490637484443,
+      "content": "Do we have a date for the tour? If Tuesday is busy I am also free like every day lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490593394137,
+      "content": "Gina sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10574699_313423852151768_478941586_n_313423848818435.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490593359808,
+      "content": "Okay cool!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490580688508,
+      "content": "Sorry, I was at work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490580683071,
+      "content": "Yes that sounds great! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490566748795,
+      "content": "the email said clean up is from 6-6:30 but i figured we might need more time so I am going to bring it up in my email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490566721292,
+      "content": "im thinking Set-up:3-4, Carnival:4-6, Clean up 6-7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490566679759,
+      "content": "im thinking about maybe 2 hours for the event? what do you think?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559738138,
+      "content": "OKAY lol \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a thank ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559699528,
+      "content": "I can help you more once I'm off work at 4 :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559682414,
+      "content": "Haha IDK I haven't checked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559658661,
+      "content": "Mmm do I have a signature for the spc email? Or do I just put sincerely justin le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559421447,
+      "content": "Okie dokie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559409597,
+      "content": "You don't have to have your ideas finalized, just let her know the general ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559386345,
+      "content": "Okay for sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559310703,
+      "content": "I shall! I will try to send out the email by tonight! I wanna clean up the word doc first and find out the best times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559245092,
+      "content": "Lemme know if you guys need any help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559186690,
+      "content": "No it's okay!!! We are definelty crunched for time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559181885,
+      "content": "But yeah the earlier you guys plan, the less work it is for later ^_^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490559166141,
+      "content": "It's okay! Sorry for pushing you guys so hard. You guys were all at beyond so it's understandable :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559124623,
+      "content": "I don't really know how to write and email btw so I'm a bit scared hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1490559108558,
+      "content": "Yes okay!! I will talk to past spcs to see when they did theres. Sorry Gina for being so behind! I just got back from beyond \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gina Vu",
+      "timestamp_ms": 1490558750446,
+      "content": "I'm aiming to go to the boys and girls club Tuesday after 2 PM :) I will call the coordinator tomorrow to schedule it, since it's Sunday now. Please respond to her email with the booth ideas doc and start time-end time if you haven't already, thanks \u00e2\u009d\u00a4",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gina Vu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GinaVu_p2pJgsnXcw"
+}

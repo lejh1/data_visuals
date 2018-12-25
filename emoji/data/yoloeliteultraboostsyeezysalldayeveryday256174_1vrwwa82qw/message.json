@@ -1,0 +1,682 @@
+{
+  "participants": [
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Parker Dusick"
+    },
+    {
+      "name": "Adam Ycneda"
+    },
+    {
+      "name": "Patrick Le"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440788119,
+      "content": "A-dawg: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496440412491,
+      "content": "Lmao I wanna play later tonight if you're down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440368102,
+      "content": "Anyone wanna play overwatch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496440366160,
+      "content": "Lol the closet? It's pretty big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440350814,
+      "content": "I like harry poter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496440231428,
+      "content": "There's a Harry Potter room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496440205220,
+      "content": "Free parking",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Rosalio Cruz"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496440200732,
+      "content": "U can live at my place no lie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440175033,
+      "content": "If u guys got some propane ill cook u eggs every morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496440162635,
+      "content": "Adam you can sleep under my bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440155455,
+      "content": "I have a tent and a portable stove",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496440135256,
+      "content": "We can make you a little room from all the cardboard we have. Like build a wall in the living room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496440058780,
+      "content": "Can i sleep on your guys' kitchen floor? Ill cook food for yall in the morning and not make any noise during the night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496440026127,
+      "content": "sorry baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496440021279,
+      "content": "maybe maybes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439938398,
+      "content": "Fk man we got so many maybes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439923337,
+      "content": "but as of right now no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439916136,
+      "content": "we MIGHT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439904047,
+      "content": "Must rescind my sublease",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439889282,
+      "content": "Wait we're not getting the apt over the summer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439870627,
+      "content": "high bois",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439862430,
+      "content": "live in the clouds adam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439850771,
+      "content": "Lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439849543,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439844008,
+      "content": "Either on the street or in the bushes under my apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439805767,
+      "content": "Then where ya gonna live",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439738366,
+      "content": "oh shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439737089,
+      "content": "Gonna try to swoop one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439724669,
+      "content": "My apartmate has two people subleasing his single LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439707419,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439702540,
+      "content": "post on fb Adam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439671439,
+      "content": "Holy shit i was just begging my apartmates to give me a subleaser for my room cuz my whole apt is subleasing the summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439659597,
+      "content": "no problemo, just let us know bb \u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439626437,
+      "content": "That's the fownside",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Colin Ku"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439622116,
+      "content": "And pay double rent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439618073,
+      "content": "Or get butt boned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439613490,
+      "content": "u might have to sublease your places if we get it over summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439596778,
+      "content": "i've been getting emails so we still got that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439587990,
+      "content": "yes yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439582693,
+      "content": "@Rosalio Cruz??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439580195,
+      "content": "A-dawg: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439575772,
+      "content": "U guys have UTC right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439570136,
+      "content": "But if it fails",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439564972,
+      "content": "Hm nothing reallys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439508590,
+      "content": "BUN BAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439497650,
+      "content": "literal bun baos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439484073,
+      "content": "^^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439466482,
+      "content": "Mmmm okay so what do you need from us. How do we help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439413379,
+      "content": "I feel jew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439385158,
+      "content": "U feel me fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439381477,
+      "content": "1. Us 3 apply for house and we say we in grad school and have internships so it looks more..trusting? Then we can try to add you guys on after or 2. We all try and looks less appealing cuz mucho students",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439285228,
+      "content": "So basically situation is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439274686,
+      "content": "Like I said it's complicated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439242781,
+      "content": "No you guys can be on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439232973,
+      "content": "Rose is the only one out of us who can be on the lease",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439219586,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439211501,
+      "content": "And then we sneak u fags in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439204971,
+      "content": "And they will be like oh they responsible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439189922,
+      "content": "and I don't make that much LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439184575,
+      "content": "It just might look better if there's like 3/4 of us aka me parker and Brandon that have pretty decent income/careers.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1496439183046,
+      "content": "I can be on the lease but I gotta find my pay stubs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439159913,
+      "content": "I have no income",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439128940,
+      "content": "No you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439123872,
+      "content": "The more people in the house the higher income needed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439119335,
+      "content": "I cant be on the lease then LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439111059,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439107901,
+      "content": "Just standard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439104554,
+      "content": "it's every house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439095424,
+      "content": "And it has to be higher than 3x the monthly rent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496439084148,
+      "content": "Which house is this?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439079325,
+      "content": "financial aid doesn't count or parental help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496439065319,
+      "content": "Cuz they want to see income of everyone i.e. Pay stubs/bank statements",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496439005152,
+      "content": "Id like to be on the lease but it doesnt mean too much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496438995094,
+      "content": "complicated situation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496438966201,
+      "content": "No way we get a place saying there's 6/7 ppl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496438927520,
+      "content": "Why you ask that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496438882941,
+      "content": "New question. Who needs to be on the lease",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496438861682,
+      "content": "Does everyone have to be on the lease",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1496438853006,
+      "content": "Question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1496438827327,
+      "content": "When can we move in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1495422333261,
+      "content": "BUN BAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397629943,
+      "content": "no one can know the true meaning of the group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495397612735,
+      "content": "Why do you do this bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397590503,
+      "content": "Fuck boy uno named the group yolo elite ultra boosts yeezys all day everyday 2.56174.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1495397570793,
+      "content": "Im down for bdubs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397502809,
+      "content": "Fuck boy uno set the nickname for Adam Ycneda to A-dawg.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495397497393,
+      "content": "You set the nickname for Colin Ku to Fuck boy tres.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495397477874,
+      "content": "@Adam Yoneda? What's the farthest we could get a house?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397461275,
+      "content": "Fuck boy uno set the nickname for Rosalio Cruz to Bun bao.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397451549,
+      "content": "Fuck boy uno set the nickname for Parker Dusick to Fuck boy dos.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397446840,
+      "content": "Patrick set his own nickname to Fuck boy uno.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495397419482,
+      "content": "Fuck boy uno set your nickname to Little fag.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396825958,
+      "content": "Aye perfect LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396817411,
+      "content": "That's exactly what we were looking at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396808276,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396794302,
+      "content": "But up to you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396788982,
+      "content": "I think like where Buffalo Wild Wings is, is the furthest ill go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396744942,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396528492,
+      "content": "Lol is everyonr having a car?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396520545,
+      "content": "You dont mean that :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396489217,
+      "content": "Ihy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1495396482545,
+      "content": "Down for anything as long as i get to share a bed with justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Patrick Le",
+      "timestamp_ms": 1495396447685,
+      "content": "The father it is the cheaper it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1495396423367,
+      "content": "Idk i guess it depends on price",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396350601,
+      "content": "So what's the farthest we can get a house away from campus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495396237612,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "yolo elite ultra boosts yeezys all day everyday 2.56174",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/yoloeliteultraboostsyeezysalldayeveryday256174_1vRWwa82qw"
+}

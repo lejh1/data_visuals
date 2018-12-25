@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u009d\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d0\u00be\u00d0\u00bd \u00d0\u00ad\u00d1\u0088\u00d0\u00b2\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d1\u008f"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d0\u009d\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d0\u00be\u00d0\u00bd \u00d0\u00ad\u00d1\u0088\u00d0\u00b2\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d1\u008f",
+      "timestamp_ms": 1521133762587,
+      "content": "\u00d0\u009d\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d0\u00be\u00d0\u00bd \u00d0\u00ad\u00d1\u0088\u00d0\u00b2\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d1\u008f just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00d0\u009d\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d0\u00be\u00d0\u00bd \u00d0\u00ad\u00d1\u0088\u00d0\u00b2\u00d0\u00b5\u00d1\u0080\u00d0\u00b8\u00d1\u008f",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NelsonEsveria_6izNsCvkjA"
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Thuan Ha"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thuan Ha",
+      "timestamp_ms": 1508797894799,
+      "content": "I have someone picking it up already. If it falls thru I'll message you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508797859981,
+      "content": "I can pick up today if it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508796853252,
+      "content": "Coffee table still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508796853178,
+      "content": "You changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508796852370,
+      "content": "You named the group Justin \u00c2\u00b7 Moving Sale.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 Moving Sale",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinMovingSale_GMQFEilAxA"
+}

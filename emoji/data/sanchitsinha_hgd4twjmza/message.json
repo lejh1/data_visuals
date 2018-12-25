@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Sanchit Sinha"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanchit Sinha",
+      "timestamp_ms": 1523914866891,
+      "content": "Oh ok. Ya if there is already something, then it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523914841329,
+      "content": "Hm I mean I know that some research colleagues and I are taking him out to dinner but idk anything else lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanchit Sinha",
+      "timestamp_ms": 1523904669895,
+      "content": "I was wondering if there was anything happening for Jerry's bday. If not, I am down to help out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanchit Sinha",
+      "timestamp_ms": 1523904634217,
+      "content": "Hey man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanchit Sinha",
+      "timestamp_ms": 1519976008991,
+      "content": "Say hi to your new Facebook friend, Sanchit.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanchit Sinha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SanchitSinha_Hgd4TWjMZA"
+}

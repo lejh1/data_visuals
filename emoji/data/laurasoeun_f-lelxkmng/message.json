@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Laura Soeun"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495308399695,
+      "content": "Say hi to your new Facebook friend, Laura.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Laura Soeun",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LauraSoeun_F-LElXkmng"
+}

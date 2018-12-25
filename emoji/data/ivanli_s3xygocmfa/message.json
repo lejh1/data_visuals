@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Ivan Li"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivan Li",
+      "timestamp_ms": 1489465884489,
+      "content": "Whatever, I got a ride home! lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Li",
+      "timestamp_ms": 1489465768670,
+      "content": "Damnit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Li",
+      "timestamp_ms": 1489465767252,
+      "content": "I was 10 mins after you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489464429067,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489464424838,
+      "content": "We left already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489464421259,
+      "content": "Just to rub it in",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ivan Li",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/IvanLi_s3XYgOCmFA"
+}

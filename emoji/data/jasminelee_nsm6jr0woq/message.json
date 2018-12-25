@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jasmine Lee"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jasmine Lee",
+      "timestamp_ms": 1522618455935,
+      "content": "Say hi to your new Facebook friend, Jasmine.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jasmine Lee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JasmineLee_nSM6jr0wOQ"
+}

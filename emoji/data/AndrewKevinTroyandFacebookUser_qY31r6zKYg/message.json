@@ -1,0 +1,5803 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Huynh"
+    },
+    {
+      "name": "Kevin Troy De Guzman"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1507501148347,
+      "content": "lol I have it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1507400632958,
+      "content": "Hey who has the fpga?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480652067562,
+      "content": "Or PC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480652067413,
+      "content": "Help me with counter haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480652047793,
+      "content": "Take your time we have awhile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480652041156,
+      "content": "Omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480652036407,
+      "content": "Just parked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480651144068,
+      "content": "So like hurry cause I need help LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480651124959,
+      "content": "Ok im omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480649629867,
+      "content": "Wya Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480649340944,
+      "content": "Heading over now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480649034353,
+      "content": "They are on 4 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648593593,
+      "content": "*10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648590944,
+      "content": "So then theoretically we have until 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648584963,
+      "content": "Oh okay cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648580137,
+      "content": "We are the last group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648569232,
+      "content": "*?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648566804,
+      "content": "Well if it comes to us can we just move it back,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648554627,
+      "content": "Uhhh idk hopefully. I'll just tell them you're busy idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648537736,
+      "content": "If I get there at 8:30 will I make?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648504514,
+      "content": "I'm sitting on the floor cause there's so many people here lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480648474811,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648470257,
+      "content": "They are on 1 rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648465759,
+      "content": "Okay we are group 21",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480648131490,
+      "content": "I'll head over after my quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480648120852,
+      "content": "I'll go then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648104882,
+      "content": "Rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480648100800,
+      "content": "I think you put your name down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480647989005,
+      "content": "I'll go rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480647860065,
+      "content": "Fuck I hope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480647842796,
+      "content": "You sure?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480647822597,
+      "content": "We can go in at 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480647817150,
+      "content": "We don't have to be there rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480647774372,
+      "content": "Wait do we have to be in class rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480647751218,
+      "content": "How?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480647707667,
+      "content": "If possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480647704770,
+      "content": "Make sure to put us last",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480646515787,
+      "content": "We use something else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480646507670,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480646496740,
+      "content": "did we need one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480646471153,
+      "content": "We don't have one lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480646442972,
+      "content": "it's not in the controller",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480646438082,
+      "content": "where is muxsel1 located?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480641677794,
+      "content": "great lol!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480640128240,
+      "content": "Yes hha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480640089585,
+      "content": "wait you zipped the SUPER MEGA UPDATED one right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480640048319,
+      "content": "I'm at my girlfriends house and she has three different computers that are so old and crappy that none of them would freaking work but I finally figured it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480640006278,
+      "content": "haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480640004639,
+      "content": "holy shit that was cutting it pretty close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480639983122,
+      "content": "Haha sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480639980283,
+      "content": "I did it!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639866251,
+      "content": "okay where is daniel this is freaking me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480639624724,
+      "content": "Danielll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639617976,
+      "content": "any updates Daniel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639604891,
+      "content": "we have 14 minutes to turn it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480639552607,
+      "content": "I have the board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639352253,
+      "content": "Justin you have the FPGA ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639335072,
+      "content": "But we should all be at the lab around 8:30pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480639321981,
+      "content": "did we turn it in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480639304081,
+      "content": "So what time are we meeting up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480638179460,
+      "content": "I'll be home in a second and I'll do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480638063199,
+      "content": "Is it all turned in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480638025169,
+      "content": "Good job guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480638024849,
+      "content": "Yesss thank god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480637634929,
+      "content": "i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480637632332,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480637616185,
+      "content": "Well he said hey would so I trust",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480637581472,
+      "content": "I think Andrew did already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480637572139,
+      "content": "Justin can you replace the controller file for me? Just so I know it's done right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480637561468,
+      "content": "I think I'm group leader",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480637556738,
+      "content": "Yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480637549389,
+      "content": "Ok I'll do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480637426515,
+      "content": "so basically just go to the drive and zip everything then turn it in!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480637301250,
+      "content": "Yayy let's turn it in please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480637211032,
+      "content": "i think everything is good to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480637206746,
+      "content": "ok after you do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636999790,
+      "content": "drive*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636995837,
+      "content": "dont use the one on the frive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636989224,
+      "content": "i uploaded the wrong on e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636983647,
+      "content": "when you turn it in pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636979566,
+      "content": "hey use this file for the controller",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480636970492,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/files/Controller_308037952924569.sv",
+          "creation_timestamp": 1480636970
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634872611,
+      "content": "No worries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480634846293,
+      "content": "Kinda hard cuz I needa modify some stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480634837195,
+      "content": "Kk I'm trying to run it through a test bench my friend sent to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634364949,
+      "content": "Andrew try to do that ASAP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634358791,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480634355120,
+      "content": "I didn't get a chance to test them before work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480634347423,
+      "content": "Cause he needs to test if those are the right files too lol I uploaded them but I'm not sure if any of them are old",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480634316271,
+      "content": "Not until Andrew gives you the go. He's gonna look at it in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634306407,
+      "content": "Andrew did you add anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634296032,
+      "content": "So are we good to turn it in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480634253390,
+      "content": "Last night literally almost killed Andrew and I. That was so randomly hard and frustrating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634225771,
+      "content": "Like if I were to start over in the class I'd do well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634203816,
+      "content": "I'm finally starting to get it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634196537,
+      "content": "What's funny is I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480634193713,
+      "content": "Ily Andrew and Justin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480634185784,
+      "content": "Yup same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480634177493,
+      "content": "Except I did nothing haha you guys are my heroes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480634100396,
+      "content": "That's fine cause that's what we each did LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633998896,
+      "content": "Is that okay or do you wanna switch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633988986,
+      "content": "And Andrew for Data_mem and Register file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633967963,
+      "content": "Justin I have you down for Controller and ALU",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480633913759,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633903092,
+      "content": "Ok Kevin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633898196,
+      "content": "Andrew if you can talk about some errors we were coming across that would be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633897673,
+      "content": "yeah it's pretty simple",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633882645,
+      "content": "Kevin you wanna do SignEXT also?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633870990,
+      "content": "Yeah andrew just add anything you think helps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480633846967,
+      "content": "Ima look at the design report rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480633839399,
+      "content": "Wait so what do you need me to do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633804075,
+      "content": "lol can you put sign ext also haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633771339,
+      "content": "I divided things up at the bottom of the report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633758414,
+      "content": "So kevin you should be in charge of explaining Instruction_mem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633727203,
+      "content": "But it forms their impression of how well we did before they grade anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480633708161,
+      "content": "The demo is worth 25% of the grade lol not that much compared to this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633702672,
+      "content": "I couldn't necessarily think of the code but I can read it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633702529,
+      "content": "can you go over what the counter does again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633680993,
+      "content": "Yeah I know how it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633670522,
+      "content": "because they're going to ask questions for all of us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480633669539,
+      "content": "Cause I only explained like half the processor LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633660663,
+      "content": "Daniel, we need to know how this thing works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633635212,
+      "content": "I think our demo tonight is the most important thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633617966,
+      "content": "It looks solid to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633574196,
+      "content": "How is the report half assed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480633475652,
+      "content": "My test bench didn't work so idk how to make them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480633464866,
+      "content": "And the wave forms are okay idk if they are even ours lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480633447428,
+      "content": "The lab report is extremely half assed so idk if it'll get a good grade TBH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480633421313,
+      "content": "I think those are the best our waveforms can get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633397775,
+      "content": "I can't get a hold of Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633392526,
+      "content": "If the waves are correct I think we should turn it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480633379602,
+      "content": "Justin I think it looks solid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480632846240,
+      "content": "Is it done?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480632841069,
+      "content": "Yeah I can turn it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480628108017,
+      "content": "Its due at 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480628099310,
+      "content": "can you guys turn it in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480628091239,
+      "content": "ill try to finish the lab report on my phone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480628082545,
+      "content": "okay fuck gotta go to work now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480628072384,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480626043988,
+      "content": "But the waveforms don't have the right output values",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480626017727,
+      "content": "i guess we can keep the old wave forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480626008639,
+      "content": "imma start working on the lab report now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480625995762,
+      "content": "Okay so update, test bench does not work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621692308,
+      "content": "And I made a testbwnch so I think I can get all the wave forms too maybe idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621676825,
+      "content": "I have work at 2 tho so I'll try to finish it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621669680,
+      "content": "And yea imma work on the report when I get home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621650559,
+      "content": "Everything else -> aluresult",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621639263,
+      "content": "Load and store -> readdata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480621623005,
+      "content": "Yea pretty much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480621537571,
+      "content": "We should start editing the google doc too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480621526790,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480621385756,
+      "content": "Is it basically if the function doesn't need anything loaded or stored into the Data Memory then, the ALU result will just be the selected and be the write data input?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480621346998,
+      "content": "When does it select between Read Data and ALU Result? I know the MuxSel2 does but Which function determines it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480614457938,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480614084512,
+      "content": "But if you wanna get hers to compare that'll be cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480614076752,
+      "content": "Imma create a test bench and it'll probably work from that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480613830412,
+      "content": "I'll ask crystal for her waveform pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480612215590,
+      "content": "Idk if there's new waveforms. Idk how to do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480607695643,
+      "content": "I'll be back around 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480607684791,
+      "content": "Also tonight we sign up on the board when we want to go so let's try to go last haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480603431795,
+      "content": "Is there new waveforms? Crystal had one single screenshot that had everything on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480588120719,
+      "content": "read up on each file so we can present tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480588081877,
+      "content": "so YAY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480588080138,
+      "content": "anyway the new files are uploaded in the SUPER MEGA FILE and i tested the frpg and it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480588047635,
+      "content": "sorry for the late response i just got home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480563190159,
+      "content": "1) Fix regwrite and memwrite... possibly add muxsel 1 and muxsel 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480562533845,
+      "content": "Crystal says she did the counter and everything that calls it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480555076419,
+      "content": "https://drive.google.com/drive/folders/0B2w3zudMuGDTYXNCeTBSZU1ST1U",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480554340903,
+      "content": "I'm at that restaurant by the SSH building if you guys wanna meet up and test the thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480548892970,
+      "content": "At least it spits out numbers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480548885301,
+      "content": "Lol haha I dunno man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480548037839,
+      "content": "my pc is perfect lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480547443141,
+      "content": "I dunno but crystal said that's a good place to start with warnings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480545887186,
+      "content": "What's wrong with the counter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480545369906,
+      "content": "Well it wouldn't work with my virtual machine but I'm pretty sure it will with a real PC, it did everything else",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480545328855,
+      "content": "you ran it on the FPGA?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480545191329,
+      "content": "We need to fix the counter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480545185837,
+      "content": "So we got it to run but the values aren't right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480541881740,
+      "content": "Ok cool, I'll let you know what we can do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541818352,
+      "content": "its on the eecs31 google drive also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541794269,
+      "content": "https://drive.google.com/open?id=0B78M_FDJRqnjV05vUlF6ZmVCTEE",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B78M_FDJRqnjV05vUlF6ZmVCTEE%3Fusp%3Ddrive_web&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B78M_FDJRqnjV05vUlF6ZmVCTEE%3Fusp%3Ddrive_web"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480541724064,
+      "content": "can you send me a link?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480541710733,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541641932,
+      "content": "updated*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541635814,
+      "content": "called most updates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541631136,
+      "content": "i made a new folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480541623792,
+      "content": "done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480541354279,
+      "content": "Justin let me know when you finish uploading",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480539954868,
+      "content": "Yeah I'm studying too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480539944994,
+      "content": "andrew and i have to study for the final too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480539935059,
+      "content": "we also just have no time to work on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480539766900,
+      "content": "So no one has gotten back to you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480539535398,
+      "content": "its not going anywhere because we havent worked on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480539217518,
+      "content": "How's it going with the project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480530867114,
+      "content": "Did we get anything from Ryan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480530844666,
+      "content": "Welll yeah haha obviously!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480530829268,
+      "content": "we need it for the project presentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480530551558,
+      "content": "Bring it to what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480523114636,
+      "content": "Bring the frpg board today if you can please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480486948888,
+      "content": "I'm omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480486459319,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480486405798,
+      "content": "Almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480484205928,
+      "content": "Okay just get here as soon as you can and we can try to end by 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480484077404,
+      "content": "We can probably get there around 10:15...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480484035515,
+      "content": "by 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480484033646,
+      "content": "Justin when are you coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480484014268,
+      "content": "When?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480484012983,
+      "content": "Hey guys I have stuff to do at 11, so can we try to end by then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480483473456,
+      "content": "We can actually come earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480444586678,
+      "content": "Damn okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480444521859,
+      "content": "I have class from 7-10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480444515741,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480444510803,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480444477843,
+      "content": "Can we go to the Thursday lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480443670657,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480443637620,
+      "content": "Le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480443634645,
+      "content": "Just for a litt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480443630314,
+      "content": "Tonight yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480443567114,
+      "content": "are we meeting today at 11?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480404910047,
+      "content": "Aight 11 it is then haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480404856122,
+      "content": "Shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480404790097,
+      "content": "I am same as Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480404673955,
+      "content": "I have class from 1-2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480404498185,
+      "content": "i have class from 11-12 and 3-4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480404249734,
+      "content": "What are you guys doing before 4 on Wednesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480404220701,
+      "content": "But if we gotta haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480404054514,
+      "content": "That's laaate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480404036597,
+      "content": "Like 11ish...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480403963019,
+      "content": "So what time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480403678783,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480403644254,
+      "content": "After gbm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480403613983,
+      "content": "Actually we should meet together to get the FPGA running too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480403596134,
+      "content": "We just need to learn everything basically",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480403584315,
+      "content": "Yeah I'm down for either too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480403373417,
+      "content": "im down for either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480403296142,
+      "content": "Me and Kevin have a meeting tomorrow at 8:30 but like the presentation learning shouldn't take that long and we can like skype or something LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402772174,
+      "content": "It shouldn't take long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402767618,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402759634,
+      "content": "so sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402758354,
+      "content": "but im free after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402755840,
+      "content": "i have work till 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402752365,
+      "content": "8:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402747570,
+      "content": "Can we meet tomorrow night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402734131,
+      "content": "and going over everything so that our presentation goes smoothly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402720625,
+      "content": "ok next step is fpga",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402712026,
+      "content": "alright awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402698584,
+      "content": "Thanks Andrew! We did it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402685795,
+      "content": "Aight we good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480402682734,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480402680242,
+      "content": "At least we finished on time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480402660850,
+      "content": "It's okay man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402649469,
+      "content": "i had to ask a lot of people for help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402641978,
+      "content": "there were a lot of errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402619332,
+      "content": "ok sorry i cut it so close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402610183,
+      "content": "Okay zipping and submitting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402514177,
+      "content": "which is Load R6 <- DM(R6)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480402502618,
+      "content": "Hopefully the waveforms are okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402498295,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15303856_1367387813285597_126611733_o_1367387813285597.jpg",
+          "creation_timestamp": 1480402497
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402494631,
+      "content": "here is 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402489013,
+      "content": "I need 9 then we're done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402446691,
+      "content": "which is Store DM(R6) <- R5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480402445183,
+      "content": "Hi I'm out of meeting now. Let's turn it in omg SKETCH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402435104,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15224829_1367387013285677_527037244_o_1367387013285677.jpg",
+          "creation_timestamp": 1480402434
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402421329,
+      "content": "here is 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402417998,
+      "content": "fuck 1 sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402413264,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15271263_1367386483285730_928320684_o_1367386483285730.jpg",
+          "creation_timestamp": 1480402412
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402409722,
+      "content": "here is 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402368431,
+      "content": "So there's 8 and 9 right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402362213,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402279906,
+      "content": "which is R6 = R0 + 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402268702,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15293479_1367385573285821_104551210_o_1367385573285821.jpg",
+          "creation_timestamp": 1480402268
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402265164,
+      "content": "here is 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402215772,
+      "content": "which is R5 = R7 - R2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402205387,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15224796_1367385116619200_1060527396_o_1367385116619200.jpg",
+          "creation_timestamp": 1480402204
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402198908,
+      "content": "here is 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402142394,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15225341_1367384713285907_1460595415_o_1367384713285907.jpg",
+          "creation_timestamp": 1480402141
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402136186,
+      "content": "here is 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402075706,
+      "content": "which is R7 = R4 OR R3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480402071813,
+      "content": "Wait I still need 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402058163,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15225310_1367384183285960_168794997_o_1367384183285960.jpg",
+          "creation_timestamp": 1480402057
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480402053850,
+      "content": "5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401988736,
+      "content": "but its R4 = SLL R3 by 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401984084,
+      "content": "oh i fucked that one up...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401976911,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15271408_1367383723286006_516353300_o_1367383723286006.jpg",
+          "creation_timestamp": 1480401976
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401972527,
+      "content": "here is 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401916804,
+      "content": "which is R3 = R1 XOR R2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401904916,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15293350_1367383369952708_1624647031_o_1367383369952708.jpg",
+          "creation_timestamp": 1480401903
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401899569,
+      "content": "3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401845939,
+      "content": "which is R2 = R1 + 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401834865,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15271594_1367382936619418_2122207804_o_1367382936619418.jpg",
+          "creation_timestamp": 1480401833
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401828929,
+      "content": "here is function 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401788564,
+      "content": "sweet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401770445,
+      "content": "which is R1 = R0 + 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401755184,
+      "content": "here is 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401753860,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15302333_1367382559952789_935265986_o_1367382559952789.jpg",
+          "creation_timestamp": 1480401752
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401753464,
+      "content": "sweet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401721075,
+      "content": "which is NOP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401718909,
+      "content": "here is 0 function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401713700,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15292766_1367382376619474_105850216_o_1367382376619474.jpg",
+          "creation_timestamp": 1480401712
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401593837,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401572286,
+      "content": "cuz u cant really determine that from just the waves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401560128,
+      "content": "ima keep the stuff on the left tho because it shows the functions work at least",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401542602,
+      "content": "hurrryyyy ahhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401533846,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401530563,
+      "content": "ima start over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401527654,
+      "content": "dang alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401493487,
+      "content": "Make the waves bigger though, we dont need to see the stuff on the left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401467987,
+      "content": "i clicked zoom fit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401461470,
+      "content": "but is this better looking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401458856,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15303956_1367380643286314_828108050_o_1367380643286314.png",
+          "creation_timestamp": 1480401457
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401453557,
+      "content": "this isnt a wave form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401389212,
+      "content": "Okay actually click on zoom in then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401370852,
+      "content": "im clicking it but nothing is happening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401345615,
+      "content": "Kevin Troy sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15216152_1445332038830324_1093499606_o_1445332038830324.jpg",
+          "creation_timestamp": 1480401344
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401295759,
+      "content": "The magnification glass with the square around it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401283494,
+      "content": "So yeah Andrew click on the 3rd icon on the left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401260811,
+      "content": "Andrew?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401257511,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401232034,
+      "content": "Because it's showing at 10,000 ps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401229312,
+      "content": "Does it not currently?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401210456,
+      "content": "So that it actually shows the waveforms?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401192181,
+      "content": "to what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480401165884,
+      "content": "Is there a way to zoom fit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401154782,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401103583,
+      "content": "which is NOP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401101268,
+      "content": "here is function 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401097113,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15231490_1367377506619961_991275079_o_1367377506619961.jpg",
+          "creation_timestamp": 1480401096
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401044585,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401018879,
+      "content": "1 sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401017901,
+      "content": "wait i didnt give function 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480401008953,
+      "content": "okok good lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401007184,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480401001835,
+      "content": "Nvm it updated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400993407,
+      "content": "its \"R1 = R0 + 1\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400988414,
+      "content": "Shit you have to delete the old sv files haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400980807,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400972450,
+      "content": "its the fuction specified at address 1 in the instruction memory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400958238,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400953590,
+      "content": "ok i uploaded all the sv files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400902781,
+      "content": "which function is that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400894832,
+      "content": "for function 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400892371,
+      "content": "here is the first waveform",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400887592,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15292800_1367375783286800_1696538320_o_1367375783286800.jpg",
+          "creation_timestamp": 1480400886
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400883142,
+      "content": "make sure you rename them how he wants",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400880091,
+      "content": "re-upload them in case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400876014,
+      "content": "one sec lemme upload the current ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400870915,
+      "content": "i dont think they are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400869832,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400866099,
+      "content": "those arent updated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400859641,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400717856,
+      "content": "Yea fk this meeting it's so long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400709728,
+      "content": "Nooo I think Andrew probably edited them actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400695592,
+      "content": "Okay but are they all the most recent and working ones?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400667275,
+      "content": "It's old",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400663106,
+      "content": "Don't use FULL ADDER.sv tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400655046,
+      "content": "All the .sv files should be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480400633131,
+      "content": "lol I totally forgot you have a meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400625893,
+      "content": "Are all the .sv files updated in the drive?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480400616618,
+      "content": "After the waveforms I think we're good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400604258,
+      "content": "Sorta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480400601162,
+      "content": "Need me to do anything? I'm still at meeting but I can use my phone LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400320482,
+      "content": "ill send waveforms now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480400315241,
+      "content": "ok done with port descriptions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399890518,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399889010,
+      "content": "come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399886947,
+      "content": "so just add them as they cone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399881929,
+      "content": "ill post the waveforms on this groupchat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399873065,
+      "content": "after i do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399869563,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399621707,
+      "content": "There's 5 of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399616254,
+      "content": "They're highlighted at the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399367955,
+      "content": "But theres the port things at the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399359335,
+      "content": "I just put it in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480399347728,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk/edit?usp=sharing",
+      "share": {
+        "link": "https://www.google.com/a/uci.edu/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fa%2Fuci.edu%2Fdocument%2Fd%2F1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399312178,
+      "content": "can you link me the doc again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399289477,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15216146_1367357276621984_130809444_o_1367357276621984.jpg",
+          "creation_timestamp": 1480399288
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399279011,
+      "content": "of the processor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480399275932,
+      "content": "here is the new pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399261144,
+      "content": "No 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480399256133,
+      "content": "It's due 11:59 right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480399228653,
+      "content": "Shit guys clock's ticking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480398439475,
+      "content": "+1 (714) 366-0203",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480398420812,
+      "content": "Call Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480398418732,
+      "content": "I'm in a meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480398362833,
+      "content": "How many errors are there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480397790761,
+      "content": "Keep us posted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480397786771,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480397749653,
+      "content": "Still working on some errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480397741645,
+      "content": "Not yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480397048948,
+      "content": "Okay did you upload the pic?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480397030024,
+      "content": "The processor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480397000843,
+      "content": "And which picture do we need to replace?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480396972431,
+      "content": "If that's possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480396745473,
+      "content": "Just the waveform for each function would be sweet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480396696112,
+      "content": "and i got the correct output",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480396682250,
+      "content": "i tested it for the first function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480396675763,
+      "content": "so what do you need wave forms for again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480395091979,
+      "content": "Did you get it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480394208322,
+      "content": "which one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480393826567,
+      "content": "Actually just one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480393825932,
+      "content": "We also need to replace some of the pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480392075103,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480392065289,
+      "content": "Working on it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480391517678,
+      "content": "Andrew do you have the waveforms?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480389089079,
+      "content": "Okay I'll get on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388659492,
+      "content": "It didn't say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480388479173,
+      "content": "of the waveforms?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480388461987,
+      "content": "Do we need the timing analysis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388402123,
+      "content": "Yeah I'll do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480388379415,
+      "content": "Oh I was trying to make it fit nicely sorry man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388326396,
+      "content": "I just made everything so it fits nicely onto the pages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388316565,
+      "content": "Kevin try not to mess with the formatting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388238837,
+      "content": "Only 4 hours!! \u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388223831,
+      "content": "And we still need the waveforms when we get it working",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480388180925,
+      "content": "Andrew can you fill in the highlighted spots in the report google doc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387783151,
+      "content": "So you can see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387779836,
+      "content": "I can try to upload it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387766563,
+      "content": "Yea so I didn't think we should expand it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480387638993,
+      "content": "Oh shit seriously lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387627979,
+      "content": "Text*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387624949,
+      "content": "Takes up like 3 of my computer screens and you can't read the texr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387599525,
+      "content": "But like it's so fucking big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480387593934,
+      "content": "There is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480387370021,
+      "content": "For data mem and reg file there's no gates inside the actual block?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480386802447,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480386764365,
+      "content": "lemme know if u can see it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480386760129,
+      "content": "https://drive.google.com/drive/folders/0B2w3zudMuGDTYXNCeTBSZU1ST1U?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480386759265,
+      "content": "here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480386758467,
+      "content": "yea they are on the drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480386426851,
+      "content": "So ignore it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480386424750,
+      "content": "Do you have the pics?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480386422952,
+      "content": "That adder was the increment the flipflop but we just did a counter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480385974714,
+      "content": "I'm not sure what that does tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480385964159,
+      "content": "I don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480385929450,
+      "content": "Do we need that adder block with the PC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480385088385,
+      "content": "Cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480385081067,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480385074341,
+      "content": "u need the individual blocks right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480385061760,
+      "content": "for the time being i can send u the pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480385052551,
+      "content": "tryna figure that out rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480385039691,
+      "content": "Does it work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480384672096,
+      "content": "Yeah it looks like we have all of the blocks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480384406194,
+      "content": "here is a pic of the whole thing if you guys wanna look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480384396545,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/15293358_1367165033307875_1168972304_o_1367165033307875.jpg",
+          "creation_timestamp": 1480384395
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480381332209,
+      "content": "If it runs on the computer it'll run on FPGA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480380999584,
+      "content": "Should we run it through the FPGA to see if it actually runs before we turn it in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480373587026,
+      "content": "Yeah and a paragraph about errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480373325534,
+      "content": "We just need the  schematics and waveforms of each block right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480372621196,
+      "content": "try that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480372619516,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480371324142,
+      "content": "i still dont have access and i am using my uci email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480369874830,
+      "content": "Andrew how are you doin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480369236997,
+      "content": "That's Andrew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480369234465,
+      "content": "We haven't ran it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480369230805,
+      "content": "Uh I don't know the errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480368799078,
+      "content": "Justiiin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480363896196,
+      "content": "Could you give me a paragraph about the errors we encountered?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480362543934,
+      "content": "Andrew can you fill in the last bits?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480362535955,
+      "content": "I'm almost done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480361882066,
+      "content": "LOL okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480361872617,
+      "content": "More pages looks more impressive anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480361856143,
+      "content": "I'll make it work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480361719707,
+      "content": "Aw fuck that's gonna take a lot of space. You could just copy the my friends chart lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480361668202,
+      "content": "I am watching you format it. Very cute Daniel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480361183993,
+      "content": "I can do that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480360743880,
+      "content": "I will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480360519421,
+      "content": "Pls format the port mem I provided",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480360249352,
+      "content": "Okay so when we finish I need the pics of the schematics and waveforms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480351499830,
+      "content": "For the google doc you have to be logged in to your UCI email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331703454,
+      "content": "I can finish the rest tomrrow maybe but i dont know how to make it look nice on the doc. GOODNIGHT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331672457,
+      "content": "It is not fully done because i dont have all the files and also because andrew needs to explain data reg to me.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331598265,
+      "content": "Anyway this is the port memory stuff for the lab report (I dont have edit powers on the google doc) just format it to make it look nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331538919,
+      "content": "oops sent it twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331525720,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/files/Portmem_305952476466450.docx",
+          "creation_timestamp": 1480331525
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480331512534,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/files/Portmem_305952409799790.docx",
+          "creation_timestamp": 1480331511
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480319843049,
+      "content": "wave screenshots for each function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480319834748,
+      "content": "- schematics of each block with port descriptions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480318968674,
+      "content": "You sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/files/DesignReport_305889906472707.docx",
+          "creation_timestamp": 1480318968
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480316510937,
+      "content": "35052420",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480316502999,
+      "content": "13312939",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480316498245,
+      "content": "81586159",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480313255276,
+      "content": "https://docs.google.com/a/uci.edu/document/d/1Jbdr3W_j7boDKaGrve0aOO6MEuuWRqZ6BaF_JKWzbYk/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312821097,
+      "content": "ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480312792434,
+      "content": "You guys there right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480312779998,
+      "content": "Just got back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480311969514,
+      "content": "We are coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480311304116,
+      "content": "Here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480310884319,
+      "content": "I'm omw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480310477178,
+      "content": "Tell me when you're on the way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480310462245,
+      "content": "I needa grab my stuff and then I'll head over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480310438448,
+      "content": "Just got back in Irvine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480310222168,
+      "content": "Andrew?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480309903240,
+      "content": "Where's everyone at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480305524192,
+      "content": "I won't be there till like 9 also because I'm celebrating my girlfriend's birthday tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1480297694433,
+      "content": "Yea sure. I'm still in LA rn. I probably won't be back in Irvine till 9 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480292770444,
+      "content": "Andrew can you pick me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480292558902,
+      "content": "See you all at 8:30!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480232561695,
+      "content": "ALU and sign ext done, im pretty sure at least LOL we can test it tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480200422098,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1480199679109,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480197821493,
+      "content": "I know Crystals group is done and maybe Jay's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480197806790,
+      "content": "Try to finish it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480197804324,
+      "content": "Okay so let's plan on meeting again at 8:30 tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480130573059,
+      "content": "I'm stressin hard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480130461794,
+      "content": "Well if we don't we're screwed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480129338542,
+      "content": "Idk maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480124130401,
+      "content": "Are we gonna be able to finish it Sunday night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480124086625,
+      "content": "Okay and I'll work on the FPGA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480123213010,
+      "content": "and kevin is looking into the sign ext",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480123203279,
+      "content": "idk we did the pc and instru mem in lab. andrew is doing the mem stuff and i havent started fixing the alu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480123160059,
+      "content": "But how much have we done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480122995798,
+      "content": "we are still working on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480122980615,
+      "content": "Well how far did we get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480122942907,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480122941479,
+      "content": "uh sue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1480106228490,
+      "content": "Should we meet up again Sunday night?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479975079195,
+      "content": "Sorry I was with family",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479975065991,
+      "content": "How far did we get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479951076497,
+      "content": "I thought Kasra said Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479950293818,
+      "content": "Yea he is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479950276421,
+      "content": "tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479950273434,
+      "content": "our professor is fucked up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479950246314,
+      "content": "Did you know it's due Monday...???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479950168185,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479949989587,
+      "content": "You guys coming to lab?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479793106875,
+      "content": "Interesting...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479792897993,
+      "content": "i mean an 80.5 isnt bad, but really curious how we did so bad relative to the rest of the class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479792856748,
+      "content": "0.0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479792812179,
+      "content": "we got one of the lowest scores wtf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479792792333,
+      "content": "80.5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479792516974,
+      "content": "Bruh I'm bout to fail this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479792453341,
+      "content": "what did you guys get on the midterm project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479712591709,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479712543019,
+      "content": "It's all good. We made some good progress. Should get more done Wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479712367908,
+      "content": "How far are we though?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479712359673,
+      "content": "Sorry I didn't get to go over guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479704531558,
+      "content": "Lol wya I'll walk to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479704502927,
+      "content": "I went past it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479704489341,
+      "content": "\"3-4 min\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479704179261,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479703812182,
+      "content": "No lol nvm just go to the usual place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479703797162,
+      "content": "Is that where I always get you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479703698204,
+      "content": "Pick me up by the clubhouse?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479703675261,
+      "content": "I'm omw over now I'll be at your place in like 3-4 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479703652215,
+      "content": "Yea sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479703444154,
+      "content": "Andrewwwww",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479701991106,
+      "content": "lol can you pick me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479701961908,
+      "content": "im gonna be a bit late. my laundry is in the washer rn and should be done around 8:35 then ill head over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479696094543,
+      "content": "Gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479695926418,
+      "content": "Kevin don't forget the FPGA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479695918154,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479695876762,
+      "content": "Lol just start it without me I'll be 30min late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479695848125,
+      "content": "I'll be there 8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479695824943,
+      "content": "Justin this is important!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479695811662,
+      "content": "Like 9 idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479694983425,
+      "content": "So when?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479689608437,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479689436739,
+      "content": "I might be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479688220074,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479685091306,
+      "content": "Let's meet at my place again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479680745507,
+      "content": "Are we still good for 8:30 tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479506551384,
+      "content": "oh okay we already put yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479506538892,
+      "content": "Yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479506529750,
+      "content": "wait are we friends5ever?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479506473316,
+      "content": "I am down for yes as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1479506410152,
+      "content": "I'm down for \"yes\" on the sheet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479502327554,
+      "content": "Have we decided how we want our grade to be calculated?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479356033079,
+      "content": "Bring the FPGA board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479355493726,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479355452083,
+      "content": "8:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479355450243,
+      "content": "Let's meet up Sunday night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479342315071,
+      "content": "We can talk at lab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341952488,
+      "content": "So what is the downside to combining them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341928807,
+      "content": "Oh I thought class started at five for some reason \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479341756076,
+      "content": "just right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341748305,
+      "content": "When did he say that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479341692006,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479341690694,
+      "content": "The professor said no one completely did it right and that we won't get a good grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341652443,
+      "content": "We didn't finish the project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341646764,
+      "content": "I'm confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479341554178,
+      "content": "If we combine we have more time to rewrite the ALU but that means we have to put all our points into the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479341511208,
+      "content": "becasue our teacher said that the Midterm project was not as complete when he graded all of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1479341511169,
+      "content": "What's the difference?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1479341472926,
+      "content": "Do you guys want the midterm project to be graded separately from the Final Project (40% and 30%), or do you guys want both projects to be graded altogether (70%)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478041595338,
+      "content": "LOL okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1478041580884,
+      "content": "Eh who cares I didn't learn anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478041545408,
+      "content": "My bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478041540618,
+      "content": "Awwwww fuck I forgot about the workshop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477965223403,
+      "content": "Yeah same don't worry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477958538623,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477958109730,
+      "content": "I didn't understand a single thing when I went lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477958099405,
+      "content": "Sooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477944544628,
+      "content": "Mmm I see I see. I'll probably just stop by for a little bit then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477941245008,
+      "content": "I didn't have a micro USB so I couldn't connect it but it's whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477941147175,
+      "content": "The files are under preparation and just download the lab sources and lab docs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477941070052,
+      "content": "https://github.com/UCI-31L-Fall2016/Xilinx-workshop/wiki",
+      "share": {
+        "link": "https://github.com/UCI-31L-Fall2016/Xilinx-workshop"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477941053799,
+      "content": "basiclally you just have to follow the steps on the PDF file and then yeah they're going to be going over how to connect it to the FPGA board and see how it functions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477941016344,
+      "content": "And basically all you have to do is download the source files on the GITHUB and add them onto a new project on vivado",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477940973395,
+      "content": "Hey so I'm about to leave the workshop because we are on break right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477930563559,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477930283828,
+      "content": "Daniel, were there any other connections or wires that came with it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477930252983,
+      "content": "It's in Calit Building behind Enhineering hall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477892582092,
+      "content": "And what are the required wires for the FPGA?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477892562276,
+      "content": "It's in Calit Building room 3008. I have no idea where that is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477891294686,
+      "content": "What's the location of that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477891287007,
+      "content": "Oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477890632247,
+      "content": "Yes we did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477890610963,
+      "content": "And also don't forget that we have to go to workshops tomorrow and Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477889931246,
+      "content": "Did we turn it in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882734062,
+      "content": "It's weird",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882722028,
+      "content": "Guys just so you know you have to be logged into your UCI email to access the filder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882718679,
+      "content": "\u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0083\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882676149,
+      "content": "\u00f0\u009f\u0098\u0085 woo!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477882675226,
+      "content": "TRUE LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477882661603,
+      "content": "No GOOD SHIT ANDREW",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477882656200,
+      "content": "Itttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477882653993,
+      "content": "We did utter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477882651764,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882643900,
+      "content": "Kk ty. Good shit guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882637408,
+      "content": "Yea I thought so too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882637274,
+      "content": "Then I'll do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882634291,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477882627312,
+      "content": "Just one with our ids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882622083,
+      "content": "Ok cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882621011,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882619783,
+      "content": "I thought only one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882615668,
+      "content": "Yeah Andrew that's what I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882612397,
+      "content": "Do we all need to submit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477882605003,
+      "content": "Kevin Troy: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882602640,
+      "content": "Well we all need to submit it actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882599962,
+      "content": "So for the sv. Files just put our group id in front of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882587100,
+      "content": "I'm about to submit it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882581808,
+      "content": "So look through it and make sure its right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882567758,
+      "content": "Yea midterm should be correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882537550,
+      "content": "I assumed midterm project was the right onw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882526171,
+      "content": "Here's the folder to zip and submit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882516501,
+      "content": "https://drive.google.com/open?id=0B3tS4ygr8cXTM2hMSkdzOVdSVTA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882374270,
+      "content": "which one is right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882370375,
+      "content": "Also there's \"Midtern project.sv\" and \"Midterm project.sv\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882112576,
+      "content": "But how does this work with multiple .sv files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477882102250,
+      "content": "Okay so the midterm rubric says \"Remember to name your files as mtp GROUP-ID alu.sv and mtp GROUP-ID alu.pdf.\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477882001386,
+      "content": "so i couldnt run a simulation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881995807,
+      "content": "i didnt put \"`timescale 1ns / 1ps\" at the top of some of the sv files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477881967931,
+      "content": "Nevermind haha were fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881929789,
+      "content": "mmmmmmmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477881815689,
+      "content": "Maybe one more?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477881810023,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881729893,
+      "content": "i kept putting a ';' after end module",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881721069,
+      "content": "just a bunch on syntax errors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477881434406,
+      "content": "Any other errors I can put down?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881094692,
+      "content": "So I was getting the error \"o_flag might have concurrent drivers\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881072820,
+      "content": "I mean o_flag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881052938,
+      "content": "I wasn't attaching the output to a wire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477881043638,
+      "content": "So for the c_flag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477880800359,
+      "content": "All I have left are the errors and how we resolved them but I'm not sure what to put",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477880545180,
+      "content": "Also, how would you describe the error we were getting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477880530069,
+      "content": "For the report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477880527017,
+      "content": "Andrew can you give me a few sentences on how you resolved the Cin error?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477879099200,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477879089540,
+      "content": "All the ones on the Google drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477879022364,
+      "content": "Okay thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477879007896,
+      "content": "So input A=result",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477878997435,
+      "content": "Move returns the same file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477878798548,
+      "content": "Also I need a description for the move function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477878663337,
+      "content": "So which .sv files need to be in the zip?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477878653012,
+      "content": "Yeah I can do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477878567377,
+      "content": "can you get rid of the comments i made? forgot to do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477878558467,
+      "content": "oh shoot before you submit the 128bit sv file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477877806621,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477877507606,
+      "content": "So all the schematics are good except the one of the whole thing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477877419591,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477877400398,
+      "content": "\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477877377219,
+      "content": "I'll do it in 30 minutes!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477877171537,
+      "content": "Did Daniel leave?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477877019998,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477876965122,
+      "content": "\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477876949919,
+      "content": "Oh all the functions work perfectly btw. I tested them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874495283,
+      "content": "btw google drive will auto zip the folder if you just right click the folder and download it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874460074,
+      "content": "when youre done with the report can you also upload it onto the drive folder?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874444440,
+      "content": "ill link you again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874441102,
+      "content": "https://drive.google.com/drive/folders/0B2w3zudMuGDTYXNCeTBSZU1ST1U?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874321420,
+      "content": "can you do that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874318690,
+      "content": "all thats left to do is the report and compress everything into a zip file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874301405,
+      "content": "i also reuploaded all the sv files in their final form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874023740,
+      "content": "is there anything else you need for the report?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477874006187,
+      "content": "ok i uploaded the rest of the wave forms as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477872956634,
+      "content": "That random buffer isn't there at the end haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477872939073,
+      "content": "Oh shoot all the flags are there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872866300,
+      "content": "the others should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872861067,
+      "content": "just replace the picture of the final schematic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872838194,
+      "content": "there use that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872834167,
+      "content": "Andrew sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/14895511_1337143286310050_654436588_o_1337143286310050.jpg",
+          "creation_timestamp": 1477872833
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477872738844,
+      "content": "Could you take a screenshot for me? I'm not near my computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872658194,
+      "content": "sine i added the s_flag and z_flag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872648191,
+      "content": "and the 128 bit alu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477872644046,
+      "content": "youll have to update the schematic for thw whole project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477871481402,
+      "content": "Let me know when you do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870701012,
+      "content": "and then ill upload all the sv files",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870691954,
+      "content": "ima test all the other functions and take screenshots of the wave forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870671129,
+      "content": "one sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870668173,
+      "content": "hopefully the rest of the arithmetic functions work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477870661998,
+      "content": "What did you change??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477870661443,
+      "content": "Sweeeeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870652952,
+      "content": "i just tested add and it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870647601,
+      "content": "i think it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870643848,
+      "content": "ayyyyyyyyyyyyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477870496371,
+      "content": "Nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477870131469,
+      "content": "How???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477870120648,
+      "content": "OH SHIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477870107649,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870105758,
+      "content": "i think i might have gotten the code to work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477870098992,
+      "content": "oooooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477869877028,
+      "content": "So the wave forms then we are done??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477869554340,
+      "content": "Hit me up with the waveforms as soon as you can so I can finish the report",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477869513293,
+      "content": "Well worst case scenario we can use his right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477869226755,
+      "content": "trying to figure that out rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477869222557,
+      "content": "but im not sure why it works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477869218914,
+      "content": "yea my friend sent me his code",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477869200065,
+      "content": "Andrew have you made any progress?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477868754126,
+      "content": "Ohhhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477868737608,
+      "content": "Oh no that's if you use Latex to write equations. It's like an add on for Microsoft word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477868711754,
+      "content": "That's what it says on the midterm project submission",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477868680031,
+      "content": "Latex?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477868303276,
+      "content": "Okay so we just need waveforms and the entire latex code thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477867904525,
+      "content": "I need to submit the thing by 6 tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477867867218,
+      "content": "Like where are we at with everything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477867836574,
+      "content": "The what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477866773097,
+      "content": "What's the latest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477863326885,
+      "content": "As soon as we get it I need the rest of the waves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477862965580,
+      "content": "Oh idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477862350282,
+      "content": "I didn't understand it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477861900732,
+      "content": "Did you see the pic I sent you last night? Idk if it was helpful cause I didn't get a good look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477861874648,
+      "content": "Hm is it still the oflag?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477861852186,
+      "content": "naw.... Ima try to mess around with the code some more on my own I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477861784239,
+      "content": "Does our thing still not work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477861739946,
+      "content": "My friend said he would send me his code, but he hasn't gotten back to me yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477861714045,
+      "content": "My student id: 81586159",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477861578942,
+      "content": "What do you need?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477861575292,
+      "content": "Okay I'm off so what's the plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477859817335,
+      "content": "Do you guys not know anyone else in the class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477859809146,
+      "content": "I already asked the same guy multiple times lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477856350081,
+      "content": "Okay... Justin can you ask around and see what other people did?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477856002644,
+      "content": "but I counted 5,121 gates in the entire thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477855985386,
+      "content": "well Idk how to do the timing lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477855978300,
+      "content": "And working code haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477855964119,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477855954323,
+      "content": "Now we just need waveforms right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477855951026,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477855931834,
+      "content": "Nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477855793417,
+      "content": "Assign Cout: \n\nAdd function: when opsel is equal to 000 and cin is equal to 0, either op2 is Anded with cin, op1 is Anded with cin, or op1 is Anded with op2 denoted by the \u00e2\u0080\u0098&\u00e2\u0080\u0099 characters. \nSub with Borrowed Carry Function: when opsel is equal to 001 and cin is equal to 0, either an Inverted op1 is Anded with cin, Inverted op1 is Anded with op2, or op2 is Anded with cin. The Inverter is denoted by the \u00e2\u0080\u0098!\u00e2\u0080\u0099 character.\nMove Function: When opsel is equal to 010 then cout will just be equal to cin. \nSub Function: when opsel is equal to 011 and cin is equal to 1, either an Inverted op1 is Anded with cin, Inverted op1 is Anded with op2, or op2 is Anded with cin. The And is denoted by the \u00e2\u0080\u0098&\u00e2\u0080\u0099 character and the Inverter is denoted by the \u00e2\u0080\u0098!\u00e2\u0080\u0099 character.\nIncrement Function: when opsel is equal to 100 and cin is equal to 1, then op1 is Anded with cin. \nDecrement Function: when opsel is equal to 101 and cin is equal to 1, then an Inverted op1 is Anded with cin. \nAdd and Increment Function: when opsel is equal to 110 and cin is equal to 1, either op2 is Anded with cin, op1 is Anded with cin, or op1 is Anded with op2.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854691238,
+      "content": "I just need the actual wave forms for the ones with Cin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854668444,
+      "content": "Okay yeah that should be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477854557415,
+      "content": "okay I gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854554874,
+      "content": "If not I'll finish it at 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854546476,
+      "content": "Cout is easier to follow, it's just ands and it's if you can do it kevin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854524455,
+      "content": "That's for result",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854518214,
+      "content": "It's goes like this I think: \n000 - cin is 0 and A is xored to B which is xored to Cin\n001 - cin is 0 and A is xored to B which is xored to Cin \n010 - result = A ( nothing happens ) \n011 -  cin is 1 and A is xored to B which is xored to Cin\n100 - cin is 1 and A is xored to cin \n101 - cin is 1 and A is xored to cin \n110 -  cin is 1 and A is xored to B which is xored to Cin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854304374,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477854130392,
+      "content": "here I can just do the description of the Arithmetic block",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854128610,
+      "content": "Okay just send me something as soon as you get off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854087200,
+      "content": "Til 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854077895,
+      "content": "How long do you work for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854063069,
+      "content": "I'll give a brief",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854059550,
+      "content": "Dude I'm on my phone at work I can't do this rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477854037479,
+      "content": "I need like a sentence for each function. Look at what Andrew sent earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477854021761,
+      "content": "The couts are a little different",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477853979961,
+      "content": "Okay so it's pretty much just xor equations for results. All of them depend on cin being either 1 or 0. It's pretty much all the same, using full adders except for move",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477853934600,
+      "content": "I can't do the timing because the waveforms aren't zoomed in enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477853893804,
+      "content": "And the final .sv files obviously",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477853874718,
+      "content": "1. Descriptions for arithmetic block\n2. Waveforms of functions with Cin\n3. Whatever the timing thing is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477853808091,
+      "content": "How is the report looking right now? What do we need still?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477853768739,
+      "content": "I think we should if we cant figure this out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477853746582,
+      "content": "Are we meeting up again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477853731284,
+      "content": "Andrew where are we at with the code?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477853276254,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477853201506,
+      "content": "The arithmetic block is titled fulladder in the drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477853034279,
+      "content": "Andrew does",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477853018532,
+      "content": "Uhhh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477852371282,
+      "content": "I don't have that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477852362575,
+      "content": "I mean the code lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477852256549,
+      "content": "Can you send me a pic of the block? I don't remember all of it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477852172544,
+      "content": "I'm at work so I'll try to type it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477852167104,
+      "content": "Uh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477852058428,
+      "content": "I have plans and I can't bring my laptop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477852040626,
+      "content": "I really can't wait around all day haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477852021705,
+      "content": "Uh yea sure give me a couple hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477851850395,
+      "content": "Or logic whichever one you did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477851839039,
+      "content": "Justin can you give me a description of how we did each arithmetic function?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477851733990,
+      "content": "13312939",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477851715869,
+      "content": "35052420",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477851442456,
+      "content": "I need everyone's student Ids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477850525824,
+      "content": "Any updates?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477816773190,
+      "content": "So far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477811845502,
+      "content": "we only have waveforms for And, Compliment, XOR, move and OR?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477811734546,
+      "content": "If you look at the waves for each function it says how long it takes. Maybe we can just state the number of gates and the time for each",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477811685104,
+      "content": "I counted 5,121 Gates but I don't know how to calculate the timing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477811634541,
+      "content": "are there gates within a subtractor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477808494720,
+      "content": "Okay. Just need \n1. Your ID #s\n2. Descriptions for arithmetic block\n3. Waveforms of rest of functions\n4. Whatever the timing thing is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477808123539,
+      "content": "kk ill ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807981833,
+      "content": "And function: if opsel is equal to 000, then input 1 with be \"anded\" with input 2, as denoted by the '&\" character\nOr function: if opsel is equal to 001, then input 1 with be \"ored\" with input 2, as denoted by the '|' character\nxOr function: if opsel is equal to 010, then input 1 with be \"xored\" with input 2, as denoted by the '^' character\nxOr function: if opsel is equal to 010, then input 1 with be \"xored\" with input 2, as denoted by the '^' character\nCompliment function: if opsel is equal to 011, then input 1 with be complimented, as denoted by the '!' character\nShift left function: if opsel is equal to 101, then the first bit at op1[0] will become the c_flag for the next bit, and consequently the result of the next bit as well. By forcing the first c_flag to be zero through the utilization of a mux, the whole resulting output will be op1 shifted 1 bit to the left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807804222,
+      "content": "idk tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807799510,
+      "content": "I think block timing might be how long (nanoseconds) it takes to do all functions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807367986,
+      "content": "Also I need all your student IDs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807242387,
+      "content": "I don't think it's just counting the gates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807234950,
+      "content": "Can you ask your friends what \"Include a preliminary evaluation of your block timing in terms of number of gates\" means?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807169949,
+      "content": "Whatever you got",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807141087,
+      "content": "so i can give you a description for those, but justin made the arithmetic block",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807115125,
+      "content": "kk i only coded the logic block",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807095190,
+      "content": "how we coded them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807086894,
+      "content": "or how we coded them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807083579,
+      "content": "like what they do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807069578,
+      "content": "Can you give me a brief explanation of each of the functions we have waveforms of?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477807046776,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477807022641,
+      "content": "fixed the concurrent drivers error by making sure o_flag isnt assigned a value twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806985530,
+      "content": "fixed syntax errors by simply moving the object name after the object type",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806955736,
+      "content": "or o_flag might have concurrent drviers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806922129,
+      "content": "syntax errors like FA not defined",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477806889584,
+      "content": "Can you give me a list of some of the errors we encountered and how we resolved them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806859128,
+      "content": "and they said they would get back to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806851619,
+      "content": "i talked to my friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806847704,
+      "content": "not sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477806834641,
+      "content": "When will we be able to get everything working?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806787545,
+      "content": "i was only able to upload 5 of the wave forms because the other functions depend on cin and cout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806754069,
+      "content": "dont forget to count the number of gates in the 8 to 1 mux too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477806744029,
+      "content": "kk i uploaded the wave forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805693923,
+      "content": "Like number in 1 bit ALU and then total",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805670878,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477805589769,
+      "content": "Alright so I just have to count the number of gates in everything right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805560370,
+      "content": "Along with a brief description of how we did each",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805534146,
+      "content": "I need pics of the waveforms in each function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805102981,
+      "content": "Does it work now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477805097952,
+      "content": "Perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477804877936,
+      "content": "i put the schematics on there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477804873936,
+      "content": "see it this works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477804869337,
+      "content": "https://drive.google.com/drive/folders/0B2w3zudMuGDTYXNCeTBSZU1ST1U?usp=sharing",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U%3Fusp%3Dsharing"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477802549964,
+      "content": "Can you share it with me again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477802548713,
+      "content": "One sec. I'm having trouble testing the functions rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477802534583,
+      "content": "The Google drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477802456743,
+      "content": "Upload to what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477800841369,
+      "content": "Yea I'll upload them rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477800262496,
+      "content": "Andrew do you have the stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477793343848,
+      "content": "1. flags, o_flag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477793286719,
+      "content": "1.2 Project Deliverables\nYour submission should include the following:\n\u00e2\u0080\u00a2 Design report of 128-bit ALU including any assumptions you have made and the list of errors you have got and how you have solved them.\n\u00e2\u0080\u00a2 Your report should include the detail architecture of your design\n\u00e2\u0080\u00a2 Include a preliminary evaluation of your block timing in terms of number of gates\n\u00e2\u0080\u00a2 Waveform snapshot for each function with a brief explanation\n\u00e2\u0080\u00a2 SystemVerilog code file\nNote1: Remember to name your files as mtp GROUP-ID alu.sv and mtp GROUP-ID alu.pdf.\nNote2: Compress all your files in \u00e2\u0080\u009czip\u00e2\u0080\u009d or \u00e2\u0080\u009ctar\u00e2\u0080\u009d format and then submit the compressed file.\nNote3: Remember to upload the \u00e2\u0080\u009c.tex\u00e2\u0080\u009d file if you have prepared your report using Latex.\nNote4: Remember to include the group ID and the name and student ID of each group member and the the description of the task each member has performed in the report.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477793285239,
+      "content": "to do:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477793275841,
+      "content": "3. number of gates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477793260020,
+      "content": "2.wave form of every working function",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477793243976,
+      "content": "1.relevant schematics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477784028556,
+      "content": "Alright I'm coming now too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477783999785,
+      "content": "We are coming up the stairs now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477782734259,
+      "content": "Same spot I dropped you off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477782734007,
+      "content": "Ok I'll txt you when I'm there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477782034670,
+      "content": "Imma shower lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477782030495,
+      "content": "Pick me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477782025282,
+      "content": "On my way over. It's about a 15 min drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477782014997,
+      "content": "Just got out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477781726003,
+      "content": "How far are you Andrew?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477780500841,
+      "content": "Alright I'll come when you two get there because Andrew literally lives above me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477780432320,
+      "content": "Same I probably won't get out of work till 3:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477779746961,
+      "content": "I might be a little late sorry...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477771843057,
+      "content": "4 is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477768281118,
+      "content": "Okay sure, I have to leave at 6 tho so hopefully we can finish it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477767790604,
+      "content": "4 is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477763819234,
+      "content": "4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477760853233,
+      "content": "What time are we meeting up??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477642770028,
+      "content": "https://drive.google.com/drive/folders/0B2w3zudMuGDTYXNCeTBSZU1ST1U?usp=sharing",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B2w3zudMuGDTYXNCeTBSZU1ST1U%3Fusp%3Dsharing"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477642415561,
+      "content": "2. build another sv file that combines the cin mux and 128 bit alu\n3. figure out flags\n4. test\n5. polish\n6. report (screenshots)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477642123364,
+      "content": "1. build the mux that determines cin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477642116388,
+      "content": "one 8 to 1 mux (with opsel as the select) will decide the c_in for the arithmetic function. one 8 to 1 mux (with opsel as the select) will decide the c_in for the logic function. one 2 to 1 mux (with mode as the select) will choose whether to use the c_in from arithmetic or logic 8 to 1 mux's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477631971963,
+      "content": "No worries!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477631963485,
+      "content": "I just got out. I'll be there in 20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477631821178,
+      "content": "Yeah I'm on the bus back right now I'll be there in 10 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477631469156,
+      "content": "Kevin you cruisin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477630569596,
+      "content": "No worries. I think Justin gets off at 10 so he will probably be late too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477630546276,
+      "content": "Ok I'm omw. Ima be a bit late cause I needa stop for food lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477626228823,
+      "content": "lol hahaha nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477626209681,
+      "content": "Haha wtf I live in 63921",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477626048981,
+      "content": "63934 Arroyo. It's in VDC in the back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477626020010,
+      "content": "That sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477625356057,
+      "content": "Would probably be easier so we can avoid buses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477625346619,
+      "content": "We can meet at my apartment if you guys want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477601300408,
+      "content": "Uh yea I'm at work so I'll send it too you later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477601269273,
+      "content": "So I can write some reports and bugs on it too haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477601256816,
+      "content": "Ktdeguzm@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477601248829,
+      "content": "Can you send me the file too so I know what it looks like and try to figure out how it works lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477601220807,
+      "content": "Lemme know if you have any question about the file I sent you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477601042150,
+      "content": "Work on it individually before that if you can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477601015584,
+      "content": "Kk let's just meet at 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477598359538,
+      "content": "I'm fine with whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477597328230,
+      "content": "Yea I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477597311546,
+      "content": "Did you get my email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477597311528,
+      "content": "Whatever works",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477597102991,
+      "content": "Hey do you guys wanna just meet up at 10? Instead of 10 and 4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477536688322,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/14881501_288330388228659_413430259_o_288330388228659.jpg",
+          "creation_timestamp": 1477536687
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477534802282,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/14876003_288317278229970_1546152148_o_288317278229970.jpg",
+          "creation_timestamp": 1477534801
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477534404100,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg/photos/14859506_288316118230086_738684159_o_288316118230086.jpg",
+          "creation_timestamp": 1477534403
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1477490249757,
+      "content": "i can't go on tuesday, but i can go on monday in between my classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477432024344,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477432013723,
+      "content": "I can go on Monday. I'm gonna go to your guys' lab tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477431124285,
+      "content": "I can probably go to Tuesdays for a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477429509900,
+      "content": "Who wants to go to the FPGA Workshop? it's on Monday and Tuesday from 9am-5pm but we don't have to atten the entire thing and only 1 or 2 of us have to go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477429231406,
+      "content": "When are we meeting up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477259602912,
+      "content": "Yeah same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477259591690,
+      "content": "i have to study for math and physics this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477259577261,
+      "content": "but yeah let's meet up thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477259543614,
+      "content": "Should be able to convert it easily",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477259526800,
+      "content": "Oh sweet. We should get a lot done Wednesday night and Thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477259514473,
+      "content": "she coded in VHDL though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1477259494527,
+      "content": "no, but my friend sent me files of her project when she took it last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477259429941,
+      "content": "Have any of you made progress on the project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1477001076003,
+      "content": "Oh yeah maybe not Monday. Gotta study for physics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476987001540,
+      "content": "Yea we can do that for a bit. Daniel we have physics Tuesday tho just saying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1476986535755,
+      "content": "Monday is good for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476986501717,
+      "content": "I'll be at work then. So it's not due until the 30th now? We can plan a time next week to meet up. How's Monday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1476984097488,
+      "content": "I have a study room from 2-5 today at CSL if y'all wanna meet up there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476983590223,
+      "content": "Ummmmmmmmmmmmmmmmmmmmm I have a lot of studying to do but if you guys want I guess we can.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476980920068,
+      "content": "So are we still gonna meet up today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476915562100,
+      "content": "The midterm project is due the 30th?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1476844187686,
+      "content": "Kk sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476828561927,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1476828212995,
+      "content": "Yeah I'm down I finish class at 10 but we can meet up at someone's apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476828182292,
+      "content": "Thursday evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1476828171832,
+      "content": "Can we get together maybe Thursday as well to work on it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1476828135978,
+      "content": "I'll try and go to your lab tomorrow night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476828112654,
+      "content": "Damn okay I'll take a look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1476825450269,
+      "content": "What's up guys, so the midterm project is up on the website under assignments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475899324297,
+      "content": "Yea we did buy the board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Troy De Guzman",
+      "timestamp_ms": 1475898878528,
+      "content": "What's up guys! but yeah I got you Justin. Did you already buy the board?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Huynh",
+      "timestamp_ms": 1475893995011,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475893417824,
+      "content": "ryanoceros121 hey guys can you venmo $21 to that account",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475860935537,
+      "content": "This is the 31l group \u00f3\u00be\u0093\u00b6",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrew, Kevin Troy and Facebook User",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AndrewKevinTroyandFacebookUser_qY31r6zKYg"
+}

@@ -1,0 +1,478 @@
+{
+  "participants": [
+    {
+      "name": "Kenny Yu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491845504035,
+      "content": "I'll look in it later today! Thanks you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491816725548,
+      "content": "I've put together a quick powerpoint/pictures of fitness ways to get fit. font/formatting may need some work but lemme know what you think",
+      "files": [
+        {
+          "uri": "messages/inbox/KennyandKristin_2kRulYpmjw/files/Fitness_10156019497851040.zip",
+          "creation_timestamp": 1491816674
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491781169478,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491775319072,
+      "content": "I'll make a rough design",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491775314592,
+      "content": "I can gather up the info. Prob won't have time to put the poster board together cause I'll be at work/class but I'm there sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491774558850,
+      "content": "Or you can do it yourself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491774541533,
+      "content": "You could honestly just give us the info too and then I can print it and ask people at prep day to make your poster board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491774503252,
+      "content": "Yeah I can try to make that happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491774352991,
+      "content": "Pretty much you would just have info on why being active is important",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491774334243,
+      "content": "Yea if you go back to the doc and watch the alpha delta NYSD video then you can see how people did it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491774287583,
+      "content": "Yah so I need to design the poster?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491774277765,
+      "content": "Hiro * lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491773993673,
+      "content": "Make a push up competition at the end after stretching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491773975494,
+      "content": "Idk lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491773973009,
+      "content": "\"Baymax says...\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491773966449,
+      "content": "\"Heros need to stay active to save the world\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491773944643,
+      "content": "Yeah I guess I can do that. Just gotta guide me on what to relate from stretching to big hero 6 tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491773819463,
+      "content": "If anything you could just make the poster board and we can have someone else present",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491773778619,
+      "content": "Can you just do like a stretching routine? O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491773468645,
+      "content": "Hmm I'd still prefer not to lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491773319358,
+      "content": "Hey Kenny, do you still wanna be a booth leader?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491632519557,
+      "content": "You can do it Kenny! If anything someone else can present but we really need help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491630800051,
+      "content": "You can do stretching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491623836653,
+      "content": "@Kristin Chingburanakit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491623694059,
+      "content": "is it too late to drop from being a team leader? im pretty bad at presenting high key lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491622100900,
+      "content": "not really but you can make baymax do anything tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621903822,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621901814,
+      "content": "I didn't watch the movie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621897091,
+      "content": "Lol did big hero 6 have any sports?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621447432,
+      "content": "you could even tie in sports",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621416814,
+      "content": "maybe instead we could make like buttons or give stickers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621405458,
+      "content": "as for the the food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621401346,
+      "content": "and try to tie it back to big hero six",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621366302,
+      "content": "maybe just like info on why exercising is important?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621347063,
+      "content": "well these are little kids so thats kinda intense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621337508,
+      "content": "hm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621307325,
+      "content": "Was thinking the poster board would explain why taking protein shake after a workout helps rebuild muscles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621278273,
+      "content": "I can't give them candy or anything junk foodish cause it's fitness",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621251628,
+      "content": "maybe something else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621246244,
+      "content": "hmm i think there a liability issue with that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621235195,
+      "content": "Would that work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621231556,
+      "content": "Ohh so if I was planning on giving like a small sample of protein shake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621056861,
+      "content": "we should have poster boards for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491621047502,
+      "content": "no if you need materials then you can let me know and I can see if we can use our budget to buy it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491621015616,
+      "content": "If the thingy needs materials do I have to get it myself?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491620968863,
+      "content": "Ohh icic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491620878683,
+      "content": "nooope youll have brothers the day of the event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491620842338,
+      "content": "Am I doing this alone? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491619515321,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491619513789,
+      "content": "so you can change it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491619509235,
+      "content": "I mean like you can do the competition thing but make it so they have to dance or push up or etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491619481391,
+      "content": "lol thats okat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491619161052,
+      "content": "lol I can't dance tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491617721610,
+      "content": "You could also make them dance lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491617398505,
+      "content": "Push ups?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616356295,
+      "content": "What did you have in mind for the exercise?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491616323560,
+      "content": "LOL a protein shake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491614576909,
+      "content": "Or whoever that participates gets like a Costco sized sample of protein shake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491614536608,
+      "content": "And winner gets like a sample of a protein shake or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491614518739,
+      "content": "What about having them do like a exercise but compete against other kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491597352691,
+      "content": "That's hard lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491597295362,
+      "content": "and each booth would be some way educational for the kids and have some interactive game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491597286228,
+      "content": "Ohh hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491597272509,
+      "content": "and each booth is going to display a certain idea which relates to our overall theme of big hero 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491597225594,
+      "content": "its kinda like a carnival type of event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491597204782,
+      "content": "Lol what's the event about again? Didn't really have much Time to read about it clearly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491586304541,
+      "content": "Lolol that's cute I was jus thinking of putting him next to the rock wall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491586275461,
+      "content": "Talk about like 60 min of activity a day. And do like stretches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491586172221,
+      "content": "Fitnes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1491586156694,
+      "content": "What's your booth again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491586063958,
+      "content": "Actually I might have something for you just give me a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491586045972,
+      "content": "This one was an interesting booth because we didn't really have an idea for it. We were thinking somewhere along the lines of dancing maybe?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491585990641,
+      "content": "Ummm @Kristin Chingburanakit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1491555790589,
+      "content": "I don't have anything planned for my booth :( dunno what to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491553010831,
+      "content": "Hi Kenny!! We were just wondering what your idea was for your NYSD Booth :)?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kenny and Kristin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KennyandKristin_2kRulYpmjw"
+}

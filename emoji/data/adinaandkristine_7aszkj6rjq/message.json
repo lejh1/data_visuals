@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479766272722,
+      "content": "Okie\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1479765680198,
+      "content": "okies ty ty \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1479765612550,
+      "content": "yes motha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1479765538200,
+      "content": "Hi guys! if you get new fellowship sign in sheet, give it to me once you log them. Because i log the fellowship credits :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adina and Kristine",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AdinaandKristine_7AszKJ6RJQ"
+}

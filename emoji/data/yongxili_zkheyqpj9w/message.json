@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Yongxi Li"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yongxi Li",
+      "timestamp_ms": 1532321107030,
+      "content": "my big boy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yongxi Li",
+      "timestamp_ms": 1532321102414,
+      "content": "sup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yongxi Li",
+      "timestamp_ms": 1532320933975,
+      "content": "Say hi to your new Facebook friend, Yongxi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yongxi Li",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/YongxiLi_ZkHeyQpJ9w"
+}

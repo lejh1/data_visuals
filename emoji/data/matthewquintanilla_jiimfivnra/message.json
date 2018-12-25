@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Matthew Quintanilla"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495651923690,
+      "content": "Say hi to your new Facebook friend, Matthew.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matthew Quintanilla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MatthewQuintanilla_JiimfiVNRA"
+}

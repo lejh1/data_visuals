@@ -1,0 +1,365 @@
+{
+  "participants": [
+    {
+      "name": "Kenny Yu"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Jerimi Vindua"
+    },
+    {
+      "name": "Karina Martin"
+    },
+    {
+      "name": "Jonathan Pho"
+    },
+    {
+      "name": "Trevor Franco"
+    },
+    {
+      "name": "Ivan Murillo"
+    },
+    {
+      "name": "Adina Kabibolayeva"
+    },
+    {
+      "name": "JoceIyn Liu"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485498641610,
+      "content": "Yah I think I'm outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1485498569009,
+      "content": "Kristine sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=33.648153116708%2C+-117.82492384817&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1485498502069,
+      "content": "are u on ur way now ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1485498229880,
+      "content": "28825 arroyo dr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485498177060,
+      "content": "Address?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1485497539612,
+      "content": "Reeva sent 3 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KristinesBirthDAYLIT_APUYUoZA6w/photos/16326512_1586038798078447_1499938812_o_1586038798078447.jpg",
+          "creation_timestamp": 1485497536
+        },
+        {
+          "uri": "messages/inbox/KristinesBirthDAYLIT_APUYUoZA6w/photos/16357909_1586038804745113_1523157783_o_1586038804745113.jpg",
+          "creation_timestamp": 1485497536
+        },
+        {
+          "uri": "messages/inbox/KristinesBirthDAYLIT_APUYUoZA6w/photos/16357243_1586038801411780_734592588_o_1586038801411780.jpg",
+          "creation_timestamp": 1485497536
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1485496375321,
+      "content": "Wifi \nSSID: VDCN-Resident\n\nKey: AC86fm!6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1485379305361,
+      "content": "okie!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485377464967,
+      "content": "I'm off class at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1485377460683,
+      "content": "I can meet ya there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1485338568179,
+      "content": "If y'all want to get boiling point at 6pm on Thurs, come thruuuu. :3 \n\nlmk if you're going so we can figure out rides for those that need it. tyty \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1485157562299,
+      "content": "okie dokie ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1485155617930,
+      "content": "<3 I'll come through after class!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1485147513268,
+      "content": "anything for u roomie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1485147502314,
+      "content": "Jonathan sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47227395_1134363926737864_1577375903946637312_n_144885045685762.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1485147502062,
+      "content": "Jonathan sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1485147394050,
+      "content": "hi guys!!! okie so update. if y'all can be at Adina's around 10, that'd be great :3 \n\nI HOPE YOU GUYS CAN MAKEEE ITTTT it'll mean da world to me <3 <3 <3 but if you can't, i totally understand!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484346954802,
+      "content": "thanks boo \u00f0\u009f\u0098\u0089\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1484346681301,
+      "content": "Jonathan sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47227395_1134363926737864_1577375903946637312_n_144885045685762.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonathan Pho",
+      "timestamp_ms": 1484346679960,
+      "content": "u know i gotchu bitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1484346588532,
+      "content": "fite me irl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1484346522445,
+      "content": "In your dreams\u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1484346293871,
+      "content": "i was always cool unlike you you dweeb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1484346269462,
+      "content": "Wow now you are a cool kid Ivan\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Murillo",
+      "timestamp_ms": 1484346137985,
+      "content": "omg i have been invited to something wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484346013896,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Trevor Franco",
+      "timestamp_ms": 1484345647086,
+      "content": "Jamie and Jaeger on deck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Trevor Franco",
+      "timestamp_ms": 1484345610092,
+      "content": "Aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484345504255,
+      "content": "what HAHAH boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Trevor Franco",
+      "timestamp_ms": 1484345362221,
+      "content": "Are we down for the milk and cookies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1484345296427,
+      "content": "Yaaad co\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jerimi Vindua",
+      "timestamp_ms": 1484345261112,
+      "content": "awww yay<3 I should be able to go after my class!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1484343025146,
+      "content": "LOL I GOTCHU KRISTINEEE. and lmao momma \u00f0\u009f\u0098\u0082 sameeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adina Kabibolayeva",
+      "timestamp_ms": 1484342954144,
+      "content": "Adina sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/KristinesBirthDAYLIT_APUYUoZA6w/photos/16117685_968259399942290_1465464720_n_968259416608955.gif",
+          "creation_timestamp": 1484342952
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484342910847,
+      "content": "LOLOLOL THANKS DEEVA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1484342821943,
+      "content": "Reeva named the group \u00f0\u009f\u008e\u0089Kristine's\u00f0\u009f\u008e\u0089BirthDAY(LIT)\u00f0\u009f\u008e\u0089.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484342756569,
+      "content": "Kristine named the group \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484342512793,
+      "content": "Kristine Dayrit added Trevor Franco.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Trevor Franco"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kenny Yu",
+      "timestamp_ms": 1484342496292,
+      "content": "Kenny sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851575_392309924199653_28092788_n_392309920866320.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1484342473192,
+      "content": "Yaaas! \u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484342385657,
+      "content": "OMG LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JoceIyn Liu",
+      "timestamp_ms": 1484342381959,
+      "content": "YAASSS LITTLLLEEE TU \u00f0\u009f\u008e\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "JoceIyn Liu",
+      "timestamp_ms": 1484342372621,
+      "content": "JoceIyn sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851575_392309994199646_291720828_n_392309990866313.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1484342370891,
+      "content": "\u00f0\u009f\u0098\u00ad\u00e2\u009d\u00a4 yasssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1484342308409,
+      "content": "Hiii everyone \u00e2\u0098\u00ba\u00ef\u00b8\u008f so I wanted to do something small for my bday & I wanted to invite all of you guys :3 We're going to celebrate at Adina's apt (thanks pmom \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0092\u0095) on Jan. 26th. It'll start around 9:30-10pm. \n\nIt's a Thursday night bc i'm going home the next day. If you can't make it bc you have classes friday morning or something, please let me know ^^ \n\nAlso, since it's at Adina's apt, i'm keeping the amt of people low only out of Adina's respect & we're not tryna get rolled \u00f0\u009f\u0098\u0082 anyway I hope you guys can gooo!!! It'll mean a lot to me :')",
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00f0\u009f\u008e\u0089Kristine's\u00f0\u009f\u008e\u0089BirthDAY(LIT)\u00f0\u009f\u008e\u0089",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinesBirthDAYLIT_APUYUoZA6w"
+}

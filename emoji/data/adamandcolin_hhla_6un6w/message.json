@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Adam Ycneda"
+    },
+    {
+      "name": "Colin Ku"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1500848011932,
+      "content": "It's alll good Adam lol like colin said it was just Rachel that was an annoyance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1500843906437,
+      "content": "Haha its chill. I wasnt mad at any but rachel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1500843665766,
+      "content": "Yeah, thanks for going to cornell and justin for sleeping thru all that. We really shoulda just had it at my place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Colin Ku",
+      "timestamp_ms": 1500843413865,
+      "content": "Oh haha its fine lmao. Sorry for being ticked off. I was just kinda more upset with Rachel if anything. We good boss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1500843055368,
+      "content": "Hey my dudes, it's been a while since the party and I just wanted to apologize and say I'm really sorry for the way I left your place. Even with the events that happened because of Rachel, there's no excuse for leaving the place messier than the way we entered. Sorry guys, it won't happen again",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adam and Colin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AdamandColin_HHla_6UN6w"
+}

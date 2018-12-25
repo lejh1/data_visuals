@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jeanette Gredonia"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1493772392921,
+      "content": "Say hi to your new Facebook friend, Jeanette.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeanette Gredonia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JeanetteGredonia_tqb0qSzS8w"
+}

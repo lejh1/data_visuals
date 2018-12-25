@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Cooper Jasper"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cooper Jasper",
+      "timestamp_ms": 1527308628703,
+      "content": "its all good thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527308618913,
+      "content": "Oh sorry not anymore \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Jasper",
+      "timestamp_ms": 1527307436417,
+      "content": "hey bruh you still selling?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cooper Jasper",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CooperJasper_D8VGn7revw"
+}

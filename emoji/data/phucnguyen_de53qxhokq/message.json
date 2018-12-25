@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Phuc Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Phuc Nguyen",
+      "timestamp_ms": 1514054787208,
+      "content": "Say hi to your new Facebook friend, Phuc.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Phuc Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PhucNguyen_De53qXhOKQ"
+}

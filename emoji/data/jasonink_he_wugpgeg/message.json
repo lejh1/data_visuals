@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Jason Ink"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518322608713,
+      "content": "not atm, but me and my other roommate are gonna buy our own parts to make one I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518321653847,
+      "content": "Wait so do you have a micromouse to work on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518159275849,
+      "content": "Yea it\u00e2\u0080\u0099s all good, I understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518156144092,
+      "content": "Yea it's kinda a busy quarter for me lol like I don't even think I can make it out to meetings anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518156118063,
+      "content": "Lol with the full stack thing? No lol I just wanted to mess around with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518156110063,
+      "content": "didn\u00e2\u0080\u0099t know you were just tryna chill \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518156097647,
+      "content": "alright that\u00e2\u0080\u0099s cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518156091975,
+      "content": "Wait we\u00e2\u0080\u0099re u being serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518155943292,
+      "content": "Hm idk cause like I wanted to do it on my own cause I don't really have the time to commit to a team or what not lol. I'm not looking to compete either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518155912968,
+      "content": "Oh damn that's dank Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518155024104,
+      "content": "o shoot yea I know NICE stack and MEME stack that should suffice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518151104310,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518151102320,
+      "content": "MEAN stack, LAMP stack, etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518151081064,
+      "content": "Yea but I want a full stack software engineer on my team",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518150557731,
+      "content": "isn\u00e2\u0080\u0099t it just c and c++",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518150429102,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1518150329999,
+      "content": "Depends bro what's your stack",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1518146869740,
+      "content": "yo are still down to work on the micromouse together?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Ink",
+      "timestamp_ms": 1517807613456,
+      "content": "Say hi to your new Facebook friend, Jason.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jason Ink",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JasonInk_hE_WugPgeg"
+}

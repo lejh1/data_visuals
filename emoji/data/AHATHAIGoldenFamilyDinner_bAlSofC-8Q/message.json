@@ -1,0 +1,2687 @@
+{
+  "participants": [
+    {
+      "name": "Manny Deleon"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Phillip Do"
+    },
+    {
+      "name": "Irene Park"
+    },
+    {
+      "name": "Juliana Tam"
+    },
+    {
+      "name": "Allison Lau"
+    },
+    {
+      "name": "Nhi Mai"
+    },
+    {
+      "name": "Christine Nguyen"
+    },
+    {
+      "name": "Daniel Ung"
+    },
+    {
+      "name": "Lisa Promprasert"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526496501474,
+      "content": "Thanks fam! Appreciate y'all \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526495529241,
+      "content": "Kristin-Ching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526495444863,
+      "content": "Put your venmos here too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526495436801,
+      "content": "Oh yeah my venmo is Daniel-Ung",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526494118159,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526494068164,
+      "content": "So I split it by 7 people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526494043989,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526493998800,
+      "content": "So the you pay this much is \n\nEveryone pays that person that amount ?\n\nExcept to yourself ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526493875073,
+      "content": "Lol so basically pay Kristin $1.14, Lisa $1.00, Manny 6.33 etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526493664242,
+      "content": "I'm confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526493098504,
+      "content": "Daniel sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32639674_1166674926807687_1525574140180824064_n_1166674923474354.png",
+          "creation_timestamp": 1526493097
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526493089390,
+      "content": "Okay I just divided what people paid by 7 so here ya go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526414054477,
+      "content": "lol my b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526414050700,
+      "content": "https://docs.google.com/spreadsheets/d/17spOlwFLcntmIFlsL21jyjdeRLHH6XttPqfDINqUjhc/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526413986219,
+      "content": "it asks to request access",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526413908912,
+      "content": "i made this cool calculator here: https://docs.google.com/spreadsheets/d/17spOlwFLcntmIFlsL21jyjdeRLHH6XttPqfDINqUjhc/edit#gid=0",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F17spOlwFLcntmIFlsL21jyjdeRLHH6XttPqfDINqUjhc%2Fedit&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F17spOlwFLcntmIFlsL21jyjdeRLHH6XttPqfDINqUjhc%2Fedit&ltmpl=sheets"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526413871268,
+      "content": "also @Kristin Chingburanakit and @Christine Nguyen yall have the same profile pic lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526413853190,
+      "content": "@Christine Nguyen how much was did you spend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411660296,
+      "content": "I'm gonna use the other groupchat so we don't spam everyone else",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411643556,
+      "content": "errr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411379737,
+      "content": "I can ask in the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411367111,
+      "content": "I dunno",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411361810,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411333902,
+      "content": "the ones we have are american apparel so its lowkey bougie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411310402,
+      "content": "whats the quality like tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411280526,
+      "content": "i'll update ~",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526411276317,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411272422,
+      "content": "just send template and color and what not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411265219,
+      "content": "he said we can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411114855,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411102534,
+      "content": "4 small 4 medium ?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411096178,
+      "content": "What size ? :0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411080690,
+      "content": "if anything we can just save them for next term",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411056097,
+      "content": "Because there's not enough pledges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411045846,
+      "content": "I doubt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411041612,
+      "content": "if we just get one each then 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411036202,
+      "content": "in the case where all of us get twins 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526411027375,
+      "content": "4-8 i guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526411011946,
+      "content": "how many shirts we need?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410996037,
+      "content": "I'll call",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410981233,
+      "content": "and then usually guys get crew necks and girls get v necks but we stopped doing that last term to save money lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410954442,
+      "content": "Lisa sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32621006_2126656810947069_6404472468051853312_n_2126656804280403.jpg",
+          "creation_timestamp": 1526410953
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32508371_2126656797613737_6545589451127521280_n_2126656794280404.jpg",
+          "creation_timestamp": 1526410953
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32652412_2126656777613739_2504537593715097600_n_2126656774280406.jpg",
+          "creation_timestamp": 1526410953
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32698216_2126656790947071_6967064362934599680_n_2126656784280405.jpg",
+          "creation_timestamp": 1526410953
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410918946,
+      "content": "There's mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410916449,
+      "content": "Daniel sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32680599_1166201836854996_5966915575190913024_n_1166201803521666.jpg",
+          "creation_timestamp": 1526410915
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410914695,
+      "content": "Daniel sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32608398_1166201843521662_5412995751854735360_n_1166201786855001.jpg",
+          "creation_timestamp": 1526410914
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410901260,
+      "content": "LOL GIMME SEC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410896717,
+      "content": "Oh there's more pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526410880036,
+      "content": "Yeah we did it was attached in the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410876718,
+      "content": "are there stuff on the back of the shirt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410856880,
+      "content": "I don't have the shirt on me rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410826719,
+      "content": "so its risk management proof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410821741,
+      "content": "wait didnt we take alpha phi omega out of the G",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526410818942,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410791824,
+      "content": "but idk about quality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410788108,
+      "content": "Lisa sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32511931_2126655960947154_5397172289177387008_n_2126655957613821.jpg",
+          "creation_timestamp": 1526410778
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32530727_2126655947613822_4038786060300320768_n_2126655944280489.jpg",
+          "creation_timestamp": 1526410778
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32650673_2126655954280488_2309829640807514112_n_2126655950947155.jpg",
+          "creation_timestamp": 1526410778
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32673434_2126655974280486_7491892981205565440_n_2126655967613820.jpg",
+          "creation_timestamp": 1526410778
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410787744,
+      "content": "I forgot what it looks like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410784857,
+      "content": "the guy i talked to said this place may be better because they can do it faster and for smaller quantitites",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410763158,
+      "content": "do you wanna try calling?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410741090,
+      "content": "i have template",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410667511,
+      "content": "its basically DIY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410656748,
+      "content": "but the thing is that we need to have the template for the shirt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526410656593,
+      "content": "Also I spent 44.31 for dinner last night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410647338,
+      "content": "Imprints OC 7143457780",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526410642960,
+      "content": "Manny: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410641081,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410632770,
+      "content": "but he gave me another company",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410623561,
+      "content": "GG",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410612544,
+      "content": "They said last Wednesday was the last day for Friday rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410515528,
+      "content": "I'll go with medium",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410511555,
+      "content": "just order whatever sizes you guys think you guys will get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410502881,
+      "content": "if it's today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410500537,
+      "content": "if it's tomorrow then we'll call again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410472621,
+      "content": "ask when is the last day to place orders if we want it by friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526410461212,
+      "content": "What do I say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410439671,
+      "content": "it closes at 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526410420339,
+      "content": "7142328440 if anyone wants to try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526408818411,
+      "content": "We can try again later?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526406795995,
+      "content": "i called them and they didn't answer",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526402881122,
+      "content": "Like order more than we need and then call them later to say jk we only want this many shirts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526402034383,
+      "content": "Wdym change the order ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526401981962,
+      "content": "Should we just order 4 small/4 medium and then just change the order later?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526401663981,
+      "content": "They said phone calls start 10:30 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526401580277,
+      "content": "And if they small then I'll just give them mine HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526401546744,
+      "content": "I think I get medium",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526401539795,
+      "content": "Yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526401483721,
+      "content": "Should we call about the shirts today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526385516476,
+      "content": "41 pledges",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526385508275,
+      "content": "42 eligible bigs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526385498579,
+      "content": "Lisa sent 4 photos.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32647395_2126502990962451_3110962451647037440_n_2126503127629104.jpg",
+          "creation_timestamp": 1526385498
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32565074_2126502967629120_2891041168106192896_n_2126503134295770.jpg",
+          "creation_timestamp": 1526385498
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32486528_2126503014295782_1276023775640420352_n_2126503130962437.jpg",
+          "creation_timestamp": 1526385498
+        },
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32491998_2126502977629119_4116858751741329408_n_2126503124295771.jpg",
+          "creation_timestamp": 1526385498
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526359928774,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526358969825,
+      "content": "I can make a spreadsheet calculator and y'all can just add how much you spent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526358939981,
+      "content": "Who's splitting the costs again for tonight?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Christine Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526349727390,
+      "content": "Kay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526349676112,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526349594412,
+      "content": "Or nah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526349589191,
+      "content": "Picking up champagne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526349577567,
+      "content": "Omw rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526349279742,
+      "content": "@Manuel Deleon when will u be back by :0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526348807703,
+      "content": "Lisa sent a live location.",
+      "share": {
+        "share_text": "Last update May 14"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526348782899,
+      "content": "I\u00e2\u0080\u0099m outside at the BBQ area LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526348766954,
+      "content": "Lowkey lost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346830062,
+      "content": "Cabinet on top of fridge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346815967,
+      "content": "I have cups",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526346758559,
+      "content": "What about cups?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526346746568,
+      "content": "For spaghetti",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346746406,
+      "content": "Or just eat with hands",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526346738354,
+      "content": "Yes pls buy plates and utensils lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346738030,
+      "content": "Hands",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526346722788,
+      "content": "Utensils?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346710626,
+      "content": "But plates lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346705808,
+      "content": "And plates!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526346700731,
+      "content": "I don't have anything I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526346696607,
+      "content": "@Kristin Chingburanakit  Cuties I guess lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526346677263,
+      "content": "Do we have plates lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526346567001,
+      "content": "What fruits should I get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526345367953,
+      "content": "Meats in the fridge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526345353360,
+      "content": "https://panlasangpinoy.com/2009/03/01/beef-kaldereta/",
+      "share": {
+        "link": "https://panlasangpinoy.com/2009/03/01/beef-kaldereta/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526345351104,
+      "content": "But if y'all wanna start it for me tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526345303079,
+      "content": "I still gotta cook the Kaldereta when I get home tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526345294660,
+      "content": "Y'all can heat up the adobo since it's already finished in the pot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526344666358,
+      "content": "5x cups should be fine and then 5.5x cups of water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526344644694,
+      "content": "Water is the white Keurig at the fridge, but honestly yall can use tap and just wash the water",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526344615797,
+      "content": "Where can I get fresh water lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526344429116,
+      "content": "The rice is underneath the left cabinets underneath the counter p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526344415999,
+      "content": "Rise pot is in the dishwasher",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526344402906,
+      "content": "Did we make rice ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526341326243,
+      "content": "Nah the very last road before VDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526341148365,
+      "content": "thats like the 1st stop for norte?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526341125681,
+      "content": "It's like the tail end of Norte",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526341116737,
+      "content": "VDC Grad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526341009653,
+      "content": "40825 arroyo drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526340979271,
+      "content": "I think lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526340974604,
+      "content": "VDC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526340646550,
+      "content": "Is it in Norte?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339931062,
+      "content": "If you wanna park send @Manuel Deleon your license plate number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339905531,
+      "content": "Also if y'all need rides or anything I can come pick y'all up later",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339691958,
+      "content": "I have the keys now so we can use Manny's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526339661290,
+      "content": "my dumbass turned off the oven when i tried to cancel the timer",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526339648180,
+      "content": "actually I'm going to have to meet up with you after :c",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339547559,
+      "content": "Albertsons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526339367797,
+      "content": "Where u gonna go shopping at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526339358704,
+      "content": "I dooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339182558,
+      "content": "I'm gonna go run back to my place  to grab my car and go shopping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526339167003,
+      "content": "Does anyone wanna meet up rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christine Nguyen",
+      "timestamp_ms": 1526338908401,
+      "content": "\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085 charge me on Venmo too!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338624126,
+      "content": "I also reserved the grad lounge if we need the space since my space is a tad small",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338599727,
+      "content": "Of course fam \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338579220,
+      "content": "and thanks for letting us use the place @Manuel Deleon <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338495090,
+      "content": "I'll be back around 6:40 ish but I'll drop off the keys with @Daniel Ung",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338478334,
+      "content": "I' can get it on the way back then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338468519,
+      "content": "Ripppp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338464512,
+      "content": "she not 21",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338459234,
+      "content": "Champagne? I I could use it for mimosa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338447523,
+      "content": "@Kristin Chingburanakit maybe fruits?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338441767,
+      "content": "mkay~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338426298,
+      "content": "I definitely need that pot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526338299412,
+      "content": "Lmk if you guys need any last things from target I can grab it before I go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338268832,
+      "content": "do you still need the pot?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338251057,
+      "content": "mkay i baked but it doesn't finish until close to 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338227768,
+      "content": "And another dish that just needs to be cooked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526338221569,
+      "content": "I have food prepared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526338203716,
+      "content": "wait did we make any food at all?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526338069286,
+      "content": "I'm phone banking rn so I can take them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526338051515,
+      "content": "I wanna help cook but I have class till 6 \u00f0\u009f\u0098\u00a8",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526337537382,
+      "content": "I'll see if i can, I'm heading to campus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526337515817,
+      "content": "At someone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526337512472,
+      "content": "Can u drop the keys off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526337387978,
+      "content": "@Lisa Promprasert can you come over? I gotta go my dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526336472433,
+      "content": "Who's heading over rn? I need to leave soon but I need to give someone my keys lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526336293586,
+      "content": "From my line, Vanessa for sure and idk about Caroline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526336206677,
+      "content": "Only ken is going from my line",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526336176538,
+      "content": "So whos going? O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526320721795,
+      "content": "Rose is not coming",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Lisa Promprasert"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320364592,
+      "content": "I mean 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320361903,
+      "content": "dinner starts at 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320356034,
+      "content": "we should cook from 4-6 anyways tho~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320347691,
+      "content": "okay that's fine ~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526320333157,
+      "content": "I won't be free until after 4 :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320229787,
+      "content": "I was gonna make it at my house first in case you guys aren't free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320219503,
+      "content": "to make banana bread",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320212739,
+      "content": "umm i was gonna go buy ingredients from target",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526320199458,
+      "content": "so I'm free after 2 actually LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526320110871,
+      "content": "What time are we meeting up again to cook?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526271847247,
+      "content": "Lmk if u got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526271672063,
+      "content": "I'll forward it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526271660010,
+      "content": "mddeleon@uci.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526271637052,
+      "content": "Alrighty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526271512295,
+      "content": "Just let them know that you\u00e2\u0080\u0099ll need it before Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526271466569,
+      "content": "Bless you fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526270710498,
+      "content": "I ordered them Tuesday and got them on Friday !",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526270682657,
+      "content": "Like alpha theta got ours last reveal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526270669870,
+      "content": "I mean we can always give it later lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526270492962,
+      "content": "Aren't we just gonna have a supply,m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526270478143,
+      "content": "Because you don't know if you're getting twins ? And shirt size ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526270464291,
+      "content": "Without the phone calls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526270456798,
+      "content": "Do you want to order it now ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526270166439,
+      "content": "Side note, did anyone get the G shirts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526268430257,
+      "content": "You're always fams @Justin Le  \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526268417319,
+      "content": "I have wine and beer, but I was gonna make mimosas for everyone",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526268254826,
+      "content": "Wow it's a rare active",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1526268146445,
+      "content": "Hi all let me know how much I should venmo y'all so I can help out\u00f0\u009f\u00a4\u0097 I may be extremely MIA but I'm still part of the fams",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526267793524,
+      "content": "If anything wine a d beer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526267788514,
+      "content": "Probably not too much since it's Monday night",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526267744589,
+      "content": "Also alc, yes or no?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526266452386,
+      "content": "Bell peppers, sausage and tomatoes",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526265538146,
+      "content": "@Daniel Ung what do you want to put in the spaghetti?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265483774,
+      "content": "Y'all*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265482802,
+      "content": "Also I'm making beef kaldereta and pork spare ribs adobo, is that ok with yalla?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265481512,
+      "content": "Did y'all need me to grab anything?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265480063,
+      "content": "I'm buying some rn for my dishes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265396965,
+      "content": "Lol ok I'll keep that in mind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526265382351,
+      "content": "When do you want to buy the ingredients?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526265308568,
+      "content": "Shellfish and nuts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526265301172,
+      "content": "Yeah Vanessa's allergic too a lot of shit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526265270591,
+      "content": "Wait, are there any allergies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526265084772,
+      "content": "i can help you with the spaghetti",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526264988233,
+      "content": "But I get off work around 4ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526264971842,
+      "content": "I can make spaghetti",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526264629444,
+      "content": "Manny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32384013_10211331507698689_2492284825113722880_n_10211331507658688.png",
+          "creation_timestamp": 1526264628
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526264620449,
+      "content": "Manny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32595093_10211331507418682_375829034472308736_n_10211331507378681.png",
+          "creation_timestamp": 1526264619
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526264589389,
+      "content": "What are we thinking about cooking? Cuz I'm gonna cook adobo and kaldereta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526149064621,
+      "content": "I forgot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526149061838,
+      "content": "Fuuuu you right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526146645944,
+      "content": "I can go shopping with you tomorrow after 2/3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1526145285603,
+      "content": "I left for home this weekend and I won't be back until Monday around 11 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526145197650,
+      "content": "Bruh mother's day is tomorrow lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526145077717,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1526118468317,
+      "content": "Hey fam, let's plan stuff out later today. I was thinking we can hit Costco Sunday and cook Monday afternoon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526057108878,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1526057104007,
+      "content": "wooops i think cause i was trying to send it on my phone and it didnt want to send the whole file",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526056975817,
+      "content": "Thanks love",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526056973575,
+      "content": "Got em",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1526056731116,
+      "content": "ungdp@uci.edu ((:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1526056649000,
+      "content": "Sorry \u00f0\u009f\u0098\u00a2 can u try lprompra@uci.edu \n\nOr either @Manuel Deleon / @Daniel Ung emails",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1525997671454,
+      "content": "I know\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525997445945,
+      "content": "Add the r xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525997440066,
+      "content": "Lisa sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32214752_2124307114515372_8140140315110539264_n_2124307107848706.jpg",
+          "creation_timestamp": 1525997439
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1525991851050,
+      "content": "Lmk when you get it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525991759226,
+      "content": "Lisapromprasert@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525991749048,
+      "content": "Kristin can u send the email again \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987424698,
+      "content": "The only difficult thing is the banana leaf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987413438,
+      "content": "Yeah",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525987409095,
+      "content": "no nuts or shellfish tho right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987361832,
+      "content": "So like, garlic rice, meat, veggies, etc.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987344077,
+      "content": "Manny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/32215214_10211312345579648_623437493974335488_n_10211312345539647.png",
+          "creation_timestamp": 1525987343
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987332729,
+      "content": "I know that Lisa mentioned that she wanted to do a kamayan style dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525987311877,
+      "content": "I can cook Filipino food",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525987296542,
+      "content": "what are we cooking lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525390187958,
+      "content": "ahh fuck did i fuck up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525390182489,
+      "content": "wait waht",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525390174394,
+      "content": "Hi little",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1525390004817,
+      "content": "lol justin my new big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525389653183,
+      "content": "i dun think it matters but is there suppose to be a separate tree branch for kristin :o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525389461830,
+      "content": "our treemap is interesting HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1525366308702,
+      "content": "I'm free after 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525366242568,
+      "content": "I should be free after 7ish on 5/14",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525366212190,
+      "content": "@Kristin Chingburanakit ordered shirts last term(?)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525366115805,
+      "content": "But idk when or how because we haven't received shirt sizes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525366101359,
+      "content": "And then I think we need to order the golden shirt ~",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525366069909,
+      "content": "Im gonna make the event:3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525366058816,
+      "content": "What time r u guys free 5/14?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525363374716,
+      "content": "I can edit and add them but some people's classes are missing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525363360249,
+      "content": "The previous tree was incomplete with classes so i didn't know if I should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525336365910,
+      "content": "You might wanna put the classes on there too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525336354688,
+      "content": "Damn so pretty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525335657248,
+      "content": "updated family tree with @Daniel Ung correct name lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525335645406,
+      "content": "Manny sent an attachment.",
+      "files": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/files/GOLDEN_FAMILY_TREE_10211269599951034.pdf",
+          "creation_timestamp": 1525335637
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525330381737,
+      "content": "Lol yeah, but throwing it out there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525330132267,
+      "content": "Lunch is gonna be hard since it's a weekday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525329814755,
+      "content": "If we do lunch on 5/16 I could possibly host",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1525328409558,
+      "content": "Kristin voted for \"5/14\" in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525328124200,
+      "content": "5/16!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1525325946312,
+      "content": "LOL omg i spelled it wrong??? my bad\u00f0\u009f\u0098\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525324145791,
+      "content": "Thanks Kristin for spelling my name right the first time",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525324124738,
+      "content": "Lol I just spelt it like how it's supposed to be",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525324116760,
+      "content": "Of course fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525324116525,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525324112455,
+      "content": "It was spelt Danial",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525324112059,
+      "content": "Yesir \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1525324109435,
+      "content": "Okay thank you very much!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525324105285,
+      "content": "Lol did you fix my name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525324101575,
+      "content": "I'll send it when I get the chance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525324094001,
+      "content": "Yeah, it's on my computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525324082325,
+      "content": "@Manuel Deleon didnt you update it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1525324059487,
+      "content": "Also has anyone submitted the updated version of the family tree?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1525323953324,
+      "content": "Allison voted for \"5/16\" and 1 other option in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Allison Lau",
+      "timestamp_ms": 1525323824170,
+      "content": "I'm going home this weekend but all the following other weekends I should be staying here. Also I should be free most nights.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525323716206,
+      "content": "Daniel voted for \"5/16\" and 1 other option in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525323611027,
+      "content": "I'm free most nights except for next week, it's Hell Week for PACN and won't be free until after",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1525323588667,
+      "content": "Manny voted for \"5/18\" and 4 other options in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525287905019,
+      "content": "I'm free most nights after 8 tbh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525287847085,
+      "content": "Daniel voted for \"5/18\" in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525287840862,
+      "content": "(Preferably manny me Daniel Allison) \u00f0\u009f\u0098\u00ae but if everyone else can make it that'd be great \u00f0\u009f\u0098\u008d bonding time",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Daniel Ung"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525287812018,
+      "content": "I'm okay with 12/18 if it's lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525287792715,
+      "content": "Lisa voted for \"5/16\" and 4 other options in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525287444174,
+      "content": "Who can host?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1525287430420,
+      "content": "Daniel voted for \"5/12\" and 1 other option in the poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525287304710,
+      "content": "Lisa created a poll: What day do you prefer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1525287076596,
+      "content": "HAHAHA 3 months later errrr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1518057514164,
+      "content": "Daniel named the group AH/A\u00ce\u0098/AI Golden Family Dinner.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1518057362930,
+      "content": "Lisa: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1518056634696,
+      "content": "It'd be a good time since most of Golden will be there",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Irene Park"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1518056614736,
+      "content": "Hey, do y'all want to do something to commemorate Philip at the dinner?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516654326065,
+      "content": "Make a poll of available dates ? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516653821692,
+      "content": "Thurs thru the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516646555037,
+      "content": "when are yall free :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516486860122,
+      "content": "So how about this for fam dinner?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516486854976,
+      "content": "Manny sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q/photos/27046765_10210596311559245_46277921_o_10210596311559245.jpg",
+          "creation_timestamp": 1516486854
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irene Park"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516252490929,
+      "content": "Cheeseburgers sounds good",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Phillip Do"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irene Park"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516252473639,
+      "content": "Are you kidding tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516252440969,
+      "content": "So cheese burgers or kbbq?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251784282,
+      "content": "I'm kidding lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251760810,
+      "content": "You see here's the thing, the more we put it off then the less active Goldens there will be. SO then eventually it'll just be us and then we can just do a fam dinner and pay for ourselves :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Allison Lau"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Manny Deleon"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phillip Do",
+      "timestamp_ms": 1516251591838,
+      "content": "That is a great idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251578038,
+      "content": "Idk I'm pretty free this quarter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251560341,
+      "content": "Or we can put it off one more term :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Phillip Do"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Juliana Tam"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nhi Mai"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251519511,
+      "content": "Loco Moco or cheese burgers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251510991,
+      "content": "Which?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phillip Do",
+      "timestamp_ms": 1516251499780,
+      "content": "Easy simple and cheereaaaapppp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251493828,
+      "content": "Loco Moco",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phillip Do",
+      "timestamp_ms": 1516251473172,
+      "content": "Cheeseburgers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251380502,
+      "content": "Kimchi fried rice",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Juliana Tam"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251372924,
+      "content": "Just hella rice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1516251342314,
+      "content": "easy/good in bulk heh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Nhi Mai"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliana Tam",
+      "timestamp_ms": 1516251322162,
+      "content": "let's make rice LOL",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Lisa Promprasert"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251247990,
+      "content": "I thought zeta did burgers and hot dogs lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516251225089,
+      "content": "LOL that\u00e2\u0080\u0099s what zeta term did",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251220890,
+      "content": "Lol jk jk I'm teasing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251206375,
+      "content": "So what I'm hearing is homemade kbbq",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251132961,
+      "content": "But either way it come out of our pockets lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251118351,
+      "content": "Or catered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Ung",
+      "timestamp_ms": 1516251112844,
+      "content": "It has to be homemade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251104641,
+      "content": "So what I'm hearing is K-BBQ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516251093876,
+      "content": "Kay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516251032312,
+      "content": "Francis \u00f0\u009f\u0098\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nhi Mai",
+      "timestamp_ms": 1516251020107,
+      "content": "Omg... WHO BROUGHT IT UP AGAIN",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251018953,
+      "content": "In*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251013401,
+      "content": "I'm the fam^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251006933,
+      "content": "Then plan accordingly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516251001790,
+      "content": "Whoever wants to come. I think usually we make a fb group event thingy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516250983379,
+      "content": "The whole fam?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Manny Deleon",
+      "timestamp_ms": 1516250980536,
+      "content": "You got it \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250963364,
+      "content": "And then my term put it off \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Manny Deleon"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516250949656,
+      "content": "Mostly because Kristin and I kept putting it off",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Manny Deleon"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516250937925,
+      "content": "Kristin Chingburanakit added Allison Lau.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Allison Lau"
+        }
+      ]
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516250914741,
+      "content": "So yes usually there is a tradition where the newest Goldens set up a dinner (catering or cooking) for the family BUT I thought that tradition died",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Kristin Chingburanakit"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250901073,
+      "content": "Idk who else I'm missing :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250892792,
+      "content": "Lisa Promprasert added Manny Deleon and 2 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Manny Deleon"
+        },
+        {
+          "name": "Phillip Do"
+        },
+        {
+          "name": "Christine Nguyen"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516250874080,
+      "content": "Thought we could\u00e2\u0080\u0099ve gotten away with it LOL",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Lisa Promprasert"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516250851781,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1516250850738,
+      "content": "@Kristin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250849041,
+      "content": "Eta theta iota ;3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1516250847962,
+      "content": "Nooooo he brought it upppp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250829620,
+      "content": "But my big said that we need to arrange a dinner for our fam ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250815243,
+      "content": "Wait idk what I'm suppose to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lisa Promprasert",
+      "timestamp_ms": 1516250805293,
+      "content": "Lisa created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "AH/A\u00ce\u0098/AI Golden Family Dinner",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AHATHAIGoldenFamilyDinner_bAlSofC-8Q"
+}

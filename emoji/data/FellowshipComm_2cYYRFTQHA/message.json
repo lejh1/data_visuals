@@ -1,0 +1,949 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Ho"
+    },
+    {
+      "name": "Melanie Young"
+    },
+    {
+      "name": "Juliane Ignacio"
+    },
+    {
+      "name": "Kristine Dayrit"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494353558482,
+      "content": "WOW LOL\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1494349602328,
+      "content": "HAHA YOOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1494349529760,
+      "content": "Jessica sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/13178114_1034553026627684_1125082285_n_1034553023294351.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1494349503442,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1494349217901,
+      "content": "Yeah fellowshippp\nBest committee everrrr \u00f0\u009f\u0092\u009c\u00f0\u009f\u0092\u009c\u00f0\u009f\u0092\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1494349157422,
+      "content": "Wow i found our chat \u00f0\u009f\u0098\u008d\u00f0\u009f\u0092\u009e\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480316182974,
+      "content": "anytime \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480315691570,
+      "content": "Ty Kristine! :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480315677775,
+      "content": "Jessica: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480315663092,
+      "content": "committee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480315659241,
+      "content": "LMAO ya can prob ask grace directly or main chat. cause technically everyone else has to go to banquet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480315586888,
+      "content": "Ooh okie same LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480315580527,
+      "content": "nope o:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480315575878,
+      "content": "Do you know when they are?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480315544773,
+      "content": "yeah ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1480315516078,
+      "content": "Ooh wait are banquet committee meetings that we gotta go to now? :0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480312451050,
+      "content": "YAAAS \u00f0\u009f\u0099\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312440369,
+      "content": "BEST COMMITTEE EVER",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312431913,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312431112,
+      "content": "WOO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312429267,
+      "content": "\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480312424238,
+      "content": "It was nice being in ur committee guyss \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480312413562,
+      "content": "Ayy ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312406625,
+      "content": "Yaaassss co",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312386585,
+      "content": "^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312385769,
+      "content": "and no bc everyone moves to banquet comm now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312377950,
+      "content": "OH oki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312376270,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312375662,
+      "content": "N",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1480312364571,
+      "content": "Meeting tmrw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312230297,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1480312229444,
+      "content": "We are lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1480312184883,
+      "content": "Oh no sorry i though u guys did ill do it rn \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312143558,
+      "content": "juliane did ya send in the newsletter? bc paola is asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1480312135652,
+      "content": "hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479771792519,
+      "content": "Kkayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479769700424,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1479769406660,
+      "content": "so we can all study ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479769401690,
+      "content": "Melanie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1479769392665,
+      "content": "we're going to cancel the meetig today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1479769386393,
+      "content": "hey yall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479716860639,
+      "content": "Yaaas Julianne!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479710504099,
+      "content": "I'm happy now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479710476464,
+      "content": "Update update",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/15174624_1057283274369435_98596706_n_1057283274369435.jpg",
+          "creation_timestamp": 1479710475
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479710100850,
+      "content": "I want my name first ...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479710053715,
+      "content": "Update: I added our names lol",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/15134449_1057281281036301_2084898286_n_1057281281036301.jpg",
+          "creation_timestamp": 1479710052
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479709254930,
+      "content": "Yaas juliane \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479709048096,
+      "content": "thats hella cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479709034364,
+      "content": "Is this good enough? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479709029298,
+      "content": "Juliane sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/15182541_1057276224370140_1971561289_o_1057276224370140.jpg",
+          "creation_timestamp": 1479709029
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479697165092,
+      "content": "Melanie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479695801049,
+      "content": "The pho one haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479695794060,
+      "content": "And then I know there was a photo from the first pledge one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479695779833,
+      "content": "Ooh good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479694330375,
+      "content": "We can use some photos from the pledge photoshoot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479694306367,
+      "content": "I have one from a pledge planned one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479694277377,
+      "content": "Mhmm, pledge planned ones only or any fellowships?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479694243459,
+      "content": "Like pics from fellowships",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479693875398,
+      "content": "Yaaas go committee \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479693852554,
+      "content": "downn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479693850898,
+      "content": "Cause it looks pretty easy LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479693842782,
+      "content": "Do y'all wanna make a pic collage like this for newsletter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1479693826410,
+      "content": "Jessica sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/15152305_1348389355173356_819488463_o_1348389355173356.jpg",
+          "creation_timestamp": 1479693825
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1479166527902,
+      "content": "5!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1479165332346,
+      "content": "5 right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479165089107,
+      "content": "Mkkay Kristine what time will we be having our meeting? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165052370,
+      "content": "Kristine will be running it today \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479165045120,
+      "content": "Yes!! Don't be late \u00f0\u009f\u0099\u0084\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1479165005825,
+      "content": "Are we having a meeting today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478629744918,
+      "content": "yup :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478629633140,
+      "content": "Oh mkkay for sure just wondering lol thank you! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478629597334,
+      "content": "ill ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478629595066,
+      "content": "i already aubmitted it ti anna \u00f0\u009f\u0098\u00b1 so it depends on her lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478629554605,
+      "content": "is it tonight lol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478629541160,
+      "content": "when is it again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478629456072,
+      "content": "Hi! When is the Roasting Waters fellowship going to be up? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478566721493,
+      "content": "LMFAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1478566714245,
+      "content": "Where u all at \u00f0\u009f\u0098\u00a5 Justin said hes impatient lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478566707893,
+      "content": "WHERE IS EVERYONE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478566685511,
+      "content": "\u00f0\u009f\u0098\u00a8\u00f0\u009f\u0098\u00a8\u00f0\u009f\u0098\u00a8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478566664661,
+      "content": ".................",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1478544454401,
+      "content": "Jessica: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1478543602475,
+      "content": "I will be on time this time! \u00f0\u009f\u0098\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1478543447056,
+      "content": "Melanie: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1478539150256,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478538742841,
+      "content": "Hello hello! Just reminding everyone that we do have committee meeting today at 5 at the tents (if it randomly rains we will move to somewhere else)! Please let us know in advance if you can't make it. Also please please try to be on time\u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1477960447391,
+      "content": "Alright see you guys at the meeting later then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1477960440504,
+      "content": "Got to the social science LOL SO CLOSE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1477960403502,
+      "content": "Oh forreal LOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477960368459,
+      "content": "Go back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477960364382,
+      "content": "No one showed up on time LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477960357591,
+      "content": "It's canceled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1477960350056,
+      "content": "Almost there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477957829076,
+      "content": "Hi meeting at 5:30 at tents \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1477345221143,
+      "content": "Kkay!!! \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477345193737,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47228652_1134377793403144_2401272101584502784_n_144885055685761.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477345183937,
+      "content": "5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1477345169958,
+      "content": "What time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477345097913,
+      "content": "Let us know if you cant make it! It is not a big deal if you cant just let us know beforehand <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1477345062830,
+      "content": "Hey guys! So we are still going to have a short meeting today but due to the rain we are gonna meet in the Phoenix Grill :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476864278039,
+      "content": "i cry. ok thanks justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476864233112,
+      "content": "It's okay! There will be plenty more fellowships!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476864223346,
+      "content": "They had it up first \u00f3\u00be\u008c\u00b9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476864172817,
+      "content": "NOOO \u00f3\u00be\u008d\u0085 but pledges cant attend the other one bc the time is right before Pledge meetings and they have spots open for pledges...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476864131636,
+      "content": "Yea so there was actually 2 of the same fellowships so they took ours down lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476864063709,
+      "content": "Melanie sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/14803280_1256242027730544_1831187794_o_1256242027730544.jpg",
+          "creation_timestamp": 1476864063
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476864062721,
+      "content": "Melanie sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/14725183_1256242021063878_1389387476_o_1256242021063878.jpg",
+          "creation_timestamp": 1476864062
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476864057547,
+      "content": "FVPs!!! I was signed up to chair the half off milkshake monday event but it says the event does not exist anymore on the website \u00f3\u00be\u008c\u00a3 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476463307367,
+      "content": "Juliane sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1476463254547,
+      "content": "Jessica sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10734298_1578471195721664_463747023_n_1578471192388331.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476462961182,
+      "content": "Kristine sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476462710278,
+      "content": "Alright so Monday at 5 at the tents \u00f3\u00be\u008c\u00b5 we will be discussing our 100% fellowship and hopefully we plan something so we can bring it to the meeting!!! See you guys Monday!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476427790530,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1476427605536,
+      "content": "Fine with me too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476419279326,
+      "content": "Mkkay \u00f3\u00be\u00ae\u0097\u00f0\u009f\u008f\u00bd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476419212234,
+      "content": "tents is fine :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476419109600,
+      "content": "*at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476419105649,
+      "content": "Im good with Monday at 5 \u00f3\u00be\u008c\u00b5 Where atv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476418790863,
+      "content": "okie woowoo same ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476418727502,
+      "content": "5pm monday sounds like a good time. Is everyone okay with that??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476418686836,
+      "content": "I'm free after 5! We can meet up before Pledge meeting if it works with everyones schedule :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476418628956,
+      "content": "yuhhh. wait okay what time are you all free this upcoming monday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476418591854,
+      "content": "We have lots to talk about :) no slacking in fellowship comm!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476418529329,
+      "content": "yo! We should get together when everyone is free ^^ a 30-45 minute meeting will be good. When are you all free? :3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476250069655,
+      "content": "Thanks! Me and Kristine will talk about it later tonight to discuss plans! So excited to have you on board \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476250034169,
+      "content": "Sorry for late reply! heres my schedule :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melanie Young",
+      "timestamp_ms": 1476250026865,
+      "content": "Melanie sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/14620028_1248979921790088_915731169_n_1248979921790088.jpg",
+          "creation_timestamp": 1476250026
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476249570301,
+      "content": "Juliane sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/14686465_1022729827824780_743026254_n_1022729827824780.jpg",
+          "creation_timestamp": 1476249569
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1476249485182,
+      "content": "Here's my schedule!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1476249481152,
+      "content": "Jessica sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/FellowshipComm_2cYYRFTQHA/photos/14614251_1309623899049902_1608467513_o_1309623899049902.jpg",
+          "creation_timestamp": 1476249480
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessica Ho",
+      "timestamp_ms": 1476249392719,
+      "content": "Ooh just saw this now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476247667421,
+      "content": "Yes!! Or any club meeting or anything like that! Just so we can make a time slot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Juliane Ignacio",
+      "timestamp_ms": 1476247198263,
+      "content": "Like our school schedule?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476242011959,
+      "content": "Can I get your guy's schedules btw so we can have our committee meeting!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1476241929360,
+      "content": "You sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47270791_937342239796388_4222599360510164992_n_167788116751808.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476241927934,
+      "content": "Kristine named the group Fellowship Comm \u00e2\u009c\u00a8.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476241912892,
+      "content": "Kristine sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476241905735,
+      "content": "Kristine changed the chat colors.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristine Dayrit",
+      "timestamp_ms": 1476241888877,
+      "content": "HIII guys!! Just making this group chat for the time being. Justin and I will keep you updated here. ALSO... welcome to da fellowship committee!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fellowship Comm \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FellowshipComm_2cYYRFTQHA"
+}

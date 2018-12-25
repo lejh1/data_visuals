@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Peter V. Nguyen"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481088442887,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Peter V. Nguyen",
+      "timestamp_ms": 1481088376982,
+      "content": "LOL I don't know how to photoshop.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481080626329,
+      "content": "I want a shoutout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1481080623043,
+      "content": "Photoshop a fuccboi line pic pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1475909802314,
+      "content": "Say hi to your new Facebook friend, Peter.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Peter V. Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PeterVNguyen_ThElmDbiFg"
+}

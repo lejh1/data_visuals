@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Bismarck Chiang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527370097746,
+      "content": "And yea I did \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527370091373,
+      "content": "Oh damn that's okay I guess I lost them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527369770434,
+      "content": "Did you check Michelle's car?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527369752510,
+      "content": ":'(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527369736007,
+      "content": "I'm sorry Justin, I didn't find them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527369276604,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527368287436,
+      "content": "I will check again!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527368211155,
+      "content": "Idk lol I think at your place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527366562765,
+      "content": "When was the last time you saw them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bismarck Chiang",
+      "timestamp_ms": 1527366546801,
+      "content": "Hey Justin, I have not seen the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1527363301191,
+      "content": "Hey bis did I leave my headphones at your plave? They are Bluetooth beats",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1521428804591,
+      "content": "Say hi to your new Facebook friend, Bismarck.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bismarck Chiang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BismarckChiang_3VWQSETWPQ"
+}

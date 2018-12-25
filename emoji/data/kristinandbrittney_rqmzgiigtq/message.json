@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Brittney Bayardo"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brittney Bayardo",
+      "timestamp_ms": 1491587122045,
+      "content": "Okey ty so much!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491585765017,
+      "content": "That's okay!!! Alan should message you soon cause he forgot to sign up for a booth lol I'm just gonna let you guys work together on this one cause he has a good idea for your booth :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittney Bayardo",
+      "timestamp_ms": 1491555354962,
+      "content": "Hi helllooo, y'all can just assign me an idea LOL sorry I haven't had time to reply!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491552893225,
+      "content": "Hi friend!! We were just wondering what your idea was for your NYSD Booth :)?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Brittney",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandBrittney_RQmZgIIgTQ"
+}

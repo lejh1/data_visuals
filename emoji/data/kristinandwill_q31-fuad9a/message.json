@@ -1,0 +1,172 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Will XuXu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483325401084,
+      "content": "LOL jk if yall want no pressur",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483325397673,
+      "content": "Do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483325396481,
+      "content": "Will: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483323795628,
+      "content": "LOL just leave all your stuff in my apartment nbd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1483323775190,
+      "content": "LOL they do\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483323761408,
+      "content": "Shh they don't know that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483323727496,
+      "content": "Lmao she's not even allowed to move into the dorms yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483323687132,
+      "content": "Just say your going to Irvine for half a week HAHA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483323535847,
+      "content": "If you don't tell your parents I'll ditch work \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1483323514856,
+      "content": "LOL smh will\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483321237414,
+      "content": "HAHAHA okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483321224426,
+      "content": "You don't have to let them know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1483321198992,
+      "content": "My parents won't let \u00f0\u009f\u0098\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1483321188194,
+      "content": "I thought I replied on here LOL woops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483321163192,
+      "content": "Kristin?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483320994146,
+      "content": "Nahhh I can't go \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483320705889,
+      "content": "So yall wanna go or nah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483153076196,
+      "content": "I did not get fired yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483153070248,
+      "content": "YES LOL SURPRISINGLY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483153007701,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483153005472,
+      "content": "You still work for parking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1483152484844,
+      "content": "I have work \u00f0\u009f\u0098\u00ad but if I can get out I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483152037875,
+      "content": "Thu-sat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1483152021110,
+      "content": "When? O:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Will XuXu",
+      "timestamp_ms": 1483151761637,
+      "content": "Hey would you two be down to go up to norcal to  visit Jenn?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kristin and Will",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KristinandWill_q31-fuad9A"
+}

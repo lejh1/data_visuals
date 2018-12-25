@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Abigail Yang"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1495619208766,
+      "content": "Say hi to your new Facebook friend, Abigail.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abigail Yang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AbigailYang_qo5InJ2q9Q"
+}

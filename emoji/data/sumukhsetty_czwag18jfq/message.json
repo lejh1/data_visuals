@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sumukh Setty"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534052860076,
+      "content": "Say hi to your new Facebook friend, Sumukh.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sumukh Setty",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SumukhSetty_cZWag18JfQ"
+}

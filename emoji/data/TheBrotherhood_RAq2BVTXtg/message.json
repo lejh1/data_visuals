@@ -1,0 +1,1795 @@
+{
+  "participants": [
+    {
+      "name": "Helen Tran"
+    },
+    {
+      "name": "Bea Ordo"
+    },
+    {
+      "name": "Grace Zhu"
+    },
+    {
+      "name": "Brian Lee"
+    },
+    {
+      "name": "Kevin Kuang"
+    },
+    {
+      "name": "Amberly Thai"
+    },
+    {
+      "name": "Lawrance Huynh"
+    },
+    {
+      "name": "Marcus Wu"
+    },
+    {
+      "name": "Paola Chavez"
+    },
+    {
+      "name": "Jacky Zhang"
+    },
+    {
+      "name": "Grace Nacho-dip"
+    },
+    {
+      "name": "Kevin Loc"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Aaron Buzon"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1479856362953,
+      "content": "Same ^ yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1479856204049,
+      "content": "I stayed 4-6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479856145616,
+      "content": "but seriously though pleas send me the hours you stayed in for cause its kinda werid if i put 7 when you have a pledge meeting at that time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479855655468,
+      "content": "Not anymore cya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479855461005,
+      "content": "lol cause alpha zeta best class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479855442362,
+      "content": "Someone help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479855438755,
+      "content": "Why did I get removed in my own alpha eta class group chat\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479854750105,
+      "content": "FYI those that went to my study hours yesterday I'm gonna put down 6:45 for study hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479772879971,
+      "content": "2109",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1479772799134,
+      "content": "Where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479698027032,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697748286,
+      "content": "Lawrance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697738250,
+      "content": "7 please Lawrence and I are here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479697661057,
+      "content": "7:30 plz!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697643086,
+      "content": "can you start it at 7 \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479697631912,
+      "content": "I'm getting my stuff tooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479697623833,
+      "content": "Or 7:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479697618019,
+      "content": "Don't worry I'm starting it at 7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479697480043,
+      "content": "I'm getting my stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479697473580,
+      "content": "I'm coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697183449,
+      "content": "where are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697165977,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697161764,
+      "content": "Im with tina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697124865,
+      "content": "I don't see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697112894,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697108964,
+      "content": "I'm at the food court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479697103742,
+      "content": "Lawrence are you here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697085694,
+      "content": "Jacky*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479697074485,
+      "content": "Wya jacku",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479695732282,
+      "content": "6:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1479695689409,
+      "content": "When does the service end?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479695363515,
+      "content": "Damn too many people gonna move it to student center/food court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479695274756,
+      "content": "Right after the service",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479695088067,
+      "content": "Might go. Depends on what time \u00f0\u009f\u0098\u0090",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1479694957500,
+      "content": "im going!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479694729325,
+      "content": "Where do you live LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479694631132,
+      "content": "And at my apartment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479694623013,
+      "content": "Cause I'll move it earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479694616907,
+      "content": "Anyone else going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1479670480604,
+      "content": "Coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479667688960,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479667350906,
+      "content": "Wait so you're doing study hours at 8pm today right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479607486697,
+      "content": "Fug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479607140293,
+      "content": "Oh okie Imma go where n wat rm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479606960839,
+      "content": "I'm still down to host though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479606947087,
+      "content": "But no one told me they would come so idk if anyone still needs them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479606929100,
+      "content": "There is study hours today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1479606444424,
+      "content": "Wait so no study hrs today right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479605358654,
+      "content": "Okay then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479605346690,
+      "content": "like i can do 3 this next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479605338441,
+      "content": "oh no i'm caught up with hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479605317817,
+      "content": "You want the strike?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479605306054,
+      "content": "Bruh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479605286580,
+      "content": "i'll just go tomorrow then \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479605271745,
+      "content": "oh jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479605133265,
+      "content": "Cause no one asked for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479605120541,
+      "content": "Okay, I'm not there too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479604832705,
+      "content": "i'll be there at 6 btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479604826970,
+      "content": "tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479604769110,
+      "content": "4-5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479604759740,
+      "content": "oh i meant the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479604747742,
+      "content": "Gateway 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1479604715547,
+      "content": "FML nvm, I'll attend the one tomorrow ! SORRY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479604701358,
+      "content": "what time were your study hours hosted yesterday again LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1479603650617,
+      "content": "I'll be coming at 6!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479593965505,
+      "content": "So ehhh study hours today \u00f0\u009f\u0098\u0080 for this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531885933,
+      "content": "Shoutout to Poo-do's booty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531475809,
+      "content": "Fuckin serenade my Brian!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531377760,
+      "content": "Shout out to Kloc and Justin's break dance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531261463,
+      "content": "Shoutout to Grace Zhu's fallin skills",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531213149,
+      "content": "Shoutout to Grace Diep dance moves!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531169462,
+      "content": "Shout out to Helen for those sweet jams",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479531143209,
+      "content": "Show out to David's intro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517995493,
+      "content": "At gateway 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517975353,
+      "content": "So I'm hosting some Sunday 8-10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1479517970283,
+      "content": "Yeah its 1 hour for week 9 and 1 hour for week 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517954834,
+      "content": "Also according to Jenny you still need hours for thanksgiving week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1479517922755,
+      "content": "Bless u cult leader",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517908678,
+      "content": "It's at gateway room 8 again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1479517889433,
+      "content": "Lol jk ty!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1479517883016,
+      "content": "Naptime after retreat^^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517860691,
+      "content": "I'm hosting more study hours Saturday 5-7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479517837524,
+      "content": "Okay since y'all dying and gotta get ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479514216846,
+      "content": "There is a door facing the front entrance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479514194491,
+      "content": "It's all the way in the back of gate way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479513722499,
+      "content": "Where's room 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479513255204,
+      "content": "If y'all still need hours I can host some over the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479513240233,
+      "content": "Hey can someone message your p bros",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1479513211920,
+      "content": "Imma be a bit late gonna get fries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479513160384,
+      "content": "\"And for Friday Gateway room 8 from 4-6\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479513123029,
+      "content": "Where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479512098648,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479512078122,
+      "content": "Is there study hours today? \u00e2\u0098\u00ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479417962300,
+      "content": "food is important \u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479417956859,
+      "content": "As alway, my tradition is that I might be late to my own study hours \u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342271315,
+      "content": "And now I'm muting this chat \u00f0\u009f\u0098\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479342266303,
+      "content": "All hail Cult leader\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479342217413,
+      "content": "Bea sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/47229525_2005265586223352_6880641164148473856_n_657501784333079.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1479342206824,
+      "content": "Lawrance sent a sticker.",
+      "sticker": {
+        "uri": "messages/stickers_used/10935999_1435020653455558_1042904462_n_1435020633455560.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342196366,
+      "content": "Just tell me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342193742,
+      "content": "I will stay longer if you need more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342180917,
+      "content": "For this week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bea Ordo",
+      "timestamp_ms": 1479342174206,
+      "content": "Life saver \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1479342170250,
+      "content": "Incredible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342170017,
+      "content": "Lol nah like literally 7 people dropped their study hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Zhu",
+      "timestamp_ms": 1479342125047,
+      "content": "wow so nice ty :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1479342092040,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342055207,
+      "content": "And for Friday Gateway room 8 from 4-6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479342022518,
+      "content": "Tomorrow I'm gonna be at Langson study room 396 from 3-5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479341952328,
+      "content": "Okay so I'm hosting 2 study hours just for this week cause there is a lot of people canceling this week cause of service",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479341848699,
+      "content": "Cult Leader Jacky added Grace Zhu.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Grace Zhu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Marcus Wu",
+      "timestamp_ms": 1479109360556,
+      "content": "Enjoy*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479104602537,
+      "content": "Good luck, enjoy hell week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479103608794,
+      "content": "Also I'm doing at in room 8 4-6 on Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479103532141,
+      "content": "Cause they got nicer hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1479103516806,
+      "content": "FYI I'm changing my location to gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478667082570,
+      "content": "Its over 9000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666306398,
+      "content": "It's official",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478666291540,
+      "content": "You sent a photo from GIPHY.",
+      "photos": [
+        {
+          "uri": "messages/inbox/TheBrotherhood_RAq2BVTXtg/photos/13695811_10153628667092539_1910023754_n_295977060797325.gif",
+          "creation_timestamp": 1478666291
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666222544,
+      "content": "Lend me your power",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666216505,
+      "content": "Give me you spirit pledges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666203813,
+      "content": "Fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478666200395,
+      "content": "Brian sent a photo from Tenor GIF Keyboard.",
+      "photos": [
+        {
+          "uri": "messages/inbox/TheBrotherhood_RAq2BVTXtg/photos/13872443_10210255412400065_1061778823_n_10207408325195598.gif",
+          "creation_timestamp": 1478666200
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478666180432,
+      "content": "Peas get degrees tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666085959,
+      "content": "Okay \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478666073551,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666054013,
+      "content": "I think Ima just say to the brotherhood and then y'all can just stand up and repeat that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478666031104,
+      "content": "Thanks Lawrance, also idk what to say tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lawrance Huynh",
+      "timestamp_ms": 1478634783945,
+      "content": "They won't be crossing off until the next pledge meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478634760466,
+      "content": "But anyone know if I'm still one the interview sheet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Nacho-dip",
+      "timestamp_ms": 1478547296090,
+      "content": "yess dats cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478545531226,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478545526113,
+      "content": "\"Peas get degrees\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478544990029,
+      "content": "We will figure it out by tonight or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478544266077,
+      "content": "Our chant can just be STUDDDYYY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478544002001,
+      "content": "Don't steal from other people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478543995511,
+      "content": "At least be original when it comes to this cult stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478543980502,
+      "content": "Stop no illuminati triangles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478543811032,
+      "content": "LOLOL or c j for cult-leader jacky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1478543762980,
+      "content": "Make it an illuminati triangle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478543759180,
+      "content": "Omgah can we make one ^^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1478543742807,
+      "content": "Do we have a hand signal too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478543722854,
+      "content": "Amberly low key hates y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478543713804,
+      "content": "You said that not me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478543034991,
+      "content": "AHHAHA were an embarrassment to the brotherhood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478543008138,
+      "content": "Also I'mma see if I can get a study room for today if you guys want hours over interviews",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542976719,
+      "content": "Just say to the brotherhood okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542967556,
+      "content": "Please don't do weird shit like making a chant or call out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478542733989,
+      "content": "Omgah Brian you nub",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478542684716,
+      "content": "I'm not affiliated with this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542675416,
+      "content": "Don't call me cult leader Jacky though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542667066,
+      "content": "I will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478542661879,
+      "content": "Tho*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478542657451,
+      "content": "Shout us out at GBM to ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478542605773,
+      "content": "Woah woah cult leader Jacky pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542372503,
+      "content": "She is the disappointment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542358763,
+      "content": "I didn't say that bruh, Helen is the mess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478542353485,
+      "content": "you're a mess jacky ._>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478542338886,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1478542338023,
+      "content": "what the fuck? this is a cult now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478542321262,
+      "content": "FYI according to Jenny and Adina there is no study hours Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478305062674,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aaron Buzon",
+      "timestamp_ms": 1478304887951,
+      "content": "Langson!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478304865403,
+      "content": "R we in gateway or langson oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478304054180,
+      "content": "Cult Leader Jacky added you and Grace Nacho-dip.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Grace Nacho-dip"
+        },
+        {
+          "name": "Justin Le"
+        }
+      ]
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478303992231,
+      "content": "Helen set the nickname for Jacky Zhang to Cult Leader Jacky.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478303919919,
+      "content": "Nobody likes wasabi peas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478303915410,
+      "content": "Its only wasabi peas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478303910986,
+      "content": "Dont come its a trap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478303896898,
+      "content": "And free snacks in the room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478303889221,
+      "content": "That is all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478303886303,
+      "content": "We need two hours per week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1478302662028,
+      "content": "What is the belief of the cult",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478302532982,
+      "content": "Thats what a cult leader would say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478302522538,
+      "content": "Just to know who is there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478302515227,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478302505538,
+      "content": "Are photos like for recruitment or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478302105779,
+      "content": "Helen sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/TheBrotherhood_RAq2BVTXtg/photos/14923091_10207526514102949_1683353230_o_10207526514102949.jpg",
+          "creation_timestamp": 1478302105
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478301781656,
+      "content": "Helen do a group pic of people in study room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478297364738,
+      "content": "Ehh so Ima be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Loc",
+      "timestamp_ms": 1478289340577,
+      "content": "I can't \u00f0\u009f\u0098\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1478289024532,
+      "content": "I yam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478288451952,
+      "content": "Me but imma be late too",
+      "type": "Generic"
+    },
+    {
+      "timestamp_ms": 1478288429450,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aaron Buzon",
+      "timestamp_ms": 1478288423556,
+      "content": "I am, might be a bit late tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478288394976,
+      "content": "So anyone going today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478242884543,
+      "content": "That is all hope to see y'all there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478242874884,
+      "content": "Oh shit I forgot so study hours at 382",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478121771304,
+      "content": "But remember Tuesday when I will do shout outs hopefully",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478121331095,
+      "content": "But keeping it at a solid 4-6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478121318853,
+      "content": "If you want me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478120984594,
+      "content": "Wait will u be having extended study hrs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1478120975040,
+      "content": "But we didn't get a shoutout tho\u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478117575281,
+      "content": "Who is going on Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478117566397,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u0094\u00a5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1478117559881,
+      "content": "Shoutout to the brotherhood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477703215939,
+      "content": "What?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477702912062,
+      "content": "Someone tell Kevin K too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477702908779,
+      "content": "Helen named the group The Brotherhood.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paola Chavez",
+      "timestamp_ms": 1477702890322,
+      "content": "BYE!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477702888278,
+      "content": "BYE!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477702887325,
+      "content": "BYE!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477699373906,
+      "content": "FYI my phone is dying so see ya in like 5:15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698798950,
+      "content": "But if you have to go please put down your name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698777365,
+      "content": "@everyone If you can stay for a bit please wait till I get back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477698755127,
+      "content": "maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698725574,
+      "content": "Then don't leave me \u00f0\u009f\u0098\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477698501719,
+      "content": "but i like you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698136533,
+      "content": "if you don't vibe well in APO or you don't like it don't force yourself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698057214,
+      "content": "But seriously though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698033476,
+      "content": "Oh shit Wah go ahead if you don't like me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477698031271,
+      "content": "no brotherhood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477698027711,
+      "content": "duhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477698026301,
+      "content": "cuz ure not here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477698020971,
+      "content": "33 pledges cuz we're all gonna dp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477698001762,
+      "content": "@Amberly what do you mean?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697965162,
+      "content": "33?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697955471,
+      "content": "That is fuckin brotherhood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697915203,
+      "content": "Bruh who is down to pay like tuition money to fly to your friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477697857847,
+      "content": "u can get ur 33 now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477697836326,
+      "content": "Where's the brotherhood...we should all just dp smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477697814049,
+      "content": "smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477697810932,
+      "content": "your nor cal friends are more important than us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697802251,
+      "content": "Thanks that is all that matters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477697800264,
+      "content": "wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697794084,
+      "content": "Yeah, sorry I'm with my nor cal friends. But you came for me right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477697730327,
+      "content": "fake like u cuz u aint here either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477697713118,
+      "content": "You're not even studying with us tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697698875,
+      "content": "Not studying with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697694548,
+      "content": "The other pledge fake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697689228,
+      "content": "Y'all good ass kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697658821,
+      "content": "See fuckin slay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697650917,
+      "content": "Cute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477697649543,
+      "content": "Damn were cute af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477697644530,
+      "content": "Helen sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/TheBrotherhood_RAq2BVTXtg/photos/14894636_10207467689672375_490072463_o_10207467689672375.jpg",
+          "creation_timestamp": 1477697643
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697628809,
+      "content": "Y'all fake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697623418,
+      "content": "Come on nine of y'all came last week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477697596082,
+      "content": "wow no trust smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697586000,
+      "content": "Cause there might be more people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697576881,
+      "content": "Send that group pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477697417032,
+      "content": "Thanks for caring about us Jacky!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697360145,
+      "content": "Seriously I feel so blessed that I didn't fail anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697281727,
+      "content": "Be happy with the hour but study cause I don't want you to fail your classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697254768,
+      "content": "But seriously though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697159930,
+      "content": "Yeah no prob",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477697151162,
+      "content": "ty for making this chat tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477697144712,
+      "content": "and then we have this chat to show her too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697144537,
+      "content": "You want the hour or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477697127624,
+      "content": "smh jacky ._>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697050257,
+      "content": "33 pledges",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697039757,
+      "content": "Told Jenny about you trying to get your hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477697027400,
+      "content": "Gg it's gonna be 33 after this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477696974205,
+      "content": "thats y theres that apo website tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696952032,
+      "content": "Well I need to make sure I spelled your names right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696934008,
+      "content": "Smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477696925920,
+      "content": "Gg dont come jacky we're not even here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696910223,
+      "content": "jacky gonna get rekt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696900035,
+      "content": "oooh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477696892096,
+      "content": "....i think amberlys gonna win",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696884566,
+      "content": "I swear Ima get there and fuckin drop kick all y'all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696869709,
+      "content": "Fuckin fight me too Amberly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696795979,
+      "content": "Hours*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477696795292,
+      "content": "i can always get my hrs next wk too tho!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696787397,
+      "content": "Be happy I'm extending my goes too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477696780841,
+      "content": "^^^ theres more people here man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696779303,
+      "content": "LOOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696759785,
+      "content": "Fuckin fight me Brian",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696745287,
+      "content": "too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696740272,
+      "content": "im gonna snitch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696734364,
+      "content": "If not then she gonna get a strike",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696712859,
+      "content": "Well she needs her hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696695983,
+      "content": "Wow fake pledges smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477696695045,
+      "content": "Amberlys gonna snitch on you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amberly Thai",
+      "timestamp_ms": 1477696670106,
+      "content": "says helen tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helen Tran",
+      "timestamp_ms": 1477696549796,
+      "content": "Dw we gotchu!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696530736,
+      "content": "Y'all better not say anything about this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696483443,
+      "content": "But study please, trust it's gonna be hard later on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696449456,
+      "content": "I trust",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Lee",
+      "timestamp_ms": 1477696443091,
+      "content": "Dw everyone's here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696437561,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696436199,
+      "content": "But will still give y'all hours if I make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696427521,
+      "content": "FYI I will be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jacky Zhang",
+      "timestamp_ms": 1477696415198,
+      "content": "Jacky created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "The Brotherhood",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/TheBrotherhood_RAq2BVTXtg"
+}

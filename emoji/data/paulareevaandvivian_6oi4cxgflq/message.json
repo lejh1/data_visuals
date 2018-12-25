@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Paula Hernandez"
+    },
+    {
+      "name": "Reeva Reyes"
+    },
+    {
+      "name": "Justin Le"
+    },
+    {
+      "name": "Vivian Sweha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1494874475554,
+      "content": "for sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1494874373599,
+      "content": "I'll bring them to GBM!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1494835686023,
+      "content": "You can drop it off to me before GBM for the credit lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494832173153,
+      "content": "I'll just be late to class lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494828492245,
+      "content": "I have class at 1\u00f0\u009f\u0098\u0094 is there a way i could drop it off earlier or after 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494828401562,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vivian Sweha",
+      "timestamp_ms": 1494827510584,
+      "content": "THANKS PAULA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Reeva Reyes",
+      "timestamp_ms": 1494827482671,
+      "content": "Yayay ty Paula ^.^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paula Hernandez",
+      "timestamp_ms": 1494827185410,
+      "content": "You all can take the place of the 3 open spots in the pledges so please bring drinks to the tents at 1 or let me know the time you can meet up before this week's GBM",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paula, Reeva and Vivian",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/PaulaReevaandVivian_6Oi4cxgFlQ"
+}

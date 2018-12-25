@@ -1,0 +1,892 @@
+{
+  "participants": [
+    {
+      "name": "Alan Perez"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496109756808,
+      "content": "Yea it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1496085052653,
+      "content": "Is that alright? You still have more than 20 hours done as of now with the correction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1496083552008,
+      "content": "Ooo what ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1496049150119,
+      "content": "hey Justin, there was an error where you were mistakenly given 4 extra hours for NYSD, this has been corrected on the website. apologies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494637073747,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1494635661077,
+      "content": "Ok you've been added",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494635506734,
+      "content": "Yes please!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1494635377619,
+      "content": "Yes there is. Would you like to be added?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1494634655907,
+      "content": "Is there still room to help out with the talent show sales?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492805000056,
+      "content": "Cool. Thanks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492804975584,
+      "content": "Yea I do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492804968156,
+      "content": "Anything should be fine. Two would be good I think. You have the colored pencils right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492804647110,
+      "content": "Do you have preferences for coloring pages or should I just buy whatever?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492800979262,
+      "content": "Ohhhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800757098,
+      "content": "\"That's so new age. I dropped by Franco's place already to grab my posterboard and markers\". Sent like exactly an hour ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800711158,
+      "content": "No I dropped by to get it i have it here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492800698382,
+      "content": "Uh I have all the poster boards but I couldn't find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800698039,
+      "content": "And get some of the decorated drawings around it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800680224,
+      "content": "I'm gonna print it out and paste it on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492800642592,
+      "content": "Uh did you write on it already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800618198,
+      "content": "It's like what happens in your body when you're stressed but real simplified",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492800592342,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492800582875,
+      "content": "The Science of Stress?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492800558203,
+      "content": "I couldn't understand your poster board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492797137101,
+      "content": "That's so new age. I dropped by Franco's place already to grab my posterboard and markers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492797027613,
+      "content": "Yup!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492796848579,
+      "content": "Ok cool. Are we going to do the bracelet making with us?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796827491,
+      "content": "And I'll bring the coloring books too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796815607,
+      "content": "I'll just have a table set up for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796801204,
+      "content": "So if anything ou can just bring it with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796793936,
+      "content": "Oh so booth leaders are just bringing their own stuff to the club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492796732533,
+      "content": "Sorry I meant like you, Gina, and maybe booth leaders. I still need to transport my posterboard to the club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796653443,
+      "content": "Noo just me! I'm just gonna leave some flyers and scissors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796639197,
+      "content": "Everyone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492796628516,
+      "content": "Is everyone just dropping stuff off at the tents?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796138670,
+      "content": "This gives me an excuse to skip class lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796127408,
+      "content": "I'll drop off the stuff (flyers) around 11:30 then go to Walmart/Joanna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796072674,
+      "content": "I shall do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492796059316,
+      "content": "Uh yea okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492795675732,
+      "content": "I kinda underestimated how many kids were gonna be coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492795646608,
+      "content": "Do you think you could swing by the joanns and grab some adult coloring books? There's a Joanns next to the Wal-Mart down the street from the district",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492795524984,
+      "content": "And no not yet my schedule has been delayed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492795512649,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492795496362,
+      "content": "Hey, did you already leave to buy more supplies?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492793392202,
+      "content": "Hey, can you leave my poster board at Francis's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492560824461,
+      "content": "I need to see what we need",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492560818659,
+      "content": "Can you bring out a the signs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492560805965,
+      "content": "I'm on my way rn with poster paper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492560784368,
+      "content": "You got anything more to do? Otherwise I think we're just gonna draw more characters on the cardboard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486836114,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486834586,
+      "content": "Okies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492486828824,
+      "content": "The website lied to me fam swearsies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486816712,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492486814203,
+      "content": "No ur fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486813128,
+      "content": "Oh god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486811580,
+      "content": "Now I'm doubting myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486804668,
+      "content": "Unless I didn't click submit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486796540,
+      "content": "I'm pretty sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492486789827,
+      "content": "Oh I did already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492486780531,
+      "content": "Don't forget to fill out the event log real quick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492367493709,
+      "content": "Alan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492367180121,
+      "content": "Plus some for popcorn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492367174850,
+      "content": "Yea I took a bunch already from the inventory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492367121743,
+      "content": "Have y'all already bought the goodie bags? There's approximately 80 in the inventory",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492365779756,
+      "content": "I am outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492365651490,
+      "content": "I'll pull up outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492365647517,
+      "content": "I am on my way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492365361723,
+      "content": "Yeah, let me know when you get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492365075579,
+      "content": "Alan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492365065979,
+      "content": "Still meeting at \n11?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492319449585,
+      "content": "Okay! Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492319445484,
+      "content": "Lol do you need to go to Albertsons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492319431151,
+      "content": "You could drop it at Albertsons at like 11 and I'll meet you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492319316041,
+      "content": "Tomorrow morning! Give me a time! I'll drive over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492319015111,
+      "content": "Well do you wanna do 8t tonight or tomorrow? I think tomorrow morning will be better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492315694967,
+      "content": "Oh no class tomorrow Lolol nvm I'm free still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492313051060,
+      "content": "I can drop it off to you anytime before 12. I don't have class so just tell me the best time and place. Preferably at your apartment cause I don't wanna walk onto campus cause I'll driving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492312863758,
+      "content": "I'm at dc practice. I meant 12 noon tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492312222734,
+      "content": "You're home right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492312215973,
+      "content": "Hm okay I can drop it off at your apartment before 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492312202413,
+      "content": "Oooo I didn't know you needed it back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492312078938,
+      "content": "Hey, when can I get Ginas apartment key from you? i need it before 12. Sorry it's last minute. Tell me what's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492230469019,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492230466046,
+      "content": "Oh right I forgot that's a thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492230429419,
+      "content": "hey Justin if you could post the event log for setup day 1 at any point that would good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492033574354,
+      "content": "Alan: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033252692,
+      "content": "just find some coloring sheets online and i can print a bunch!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033232738,
+      "content": "oh yea teach me that lol i didnt know that was a thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492033149714,
+      "content": "ok, definitely. If you want to print for free I can teach you how to do it at Langson's 1st floor color printer because that's the only one  we can do it on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033061736,
+      "content": "i was gonna use it to print the flyers also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033052929,
+      "content": "i might be able to print at Norte for free? idk how it works tho so i need to look into it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033014856,
+      "content": "we are spending 150 ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033008380,
+      "content": "last NYSD spent 700",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492033003230,
+      "content": "my expenses is so cheap that galcia will let me buy anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492032986823,
+      "content": "its okay lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1492032984101,
+      "content": "we can def just print some out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1492032834935,
+      "content": "sorry for not getting back to you in time btw, I was unable to get to the information that I said I needed. If necessary, I'm fine with paying out of pocket for the coloring sheets, or just printing some out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491938802019,
+      "content": "Let me check to see how many I have and I'll let you know hopefully in a few hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491938608085,
+      "content": "do you want me add coloring sheets to the expenses btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491930275529,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491930087978,
+      "content": "scissors, markers, construction paper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491929965357,
+      "content": "Which ones exactly do y'all need again? Sorry, DCs making my brain all squishy so I can't remember too many things atm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929918762,
+      "content": "pls <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929915784,
+      "content": "we were wondering if you can get them for us and deliver them lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929900243,
+      "content": "so gina cant get the materials from the inventory anymore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1491929869426,
+      "content": "I've got service til 11, then service again from 3-4, then an IC home at 5:30ish. What's up, y'all need something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929598666,
+      "content": "whats yout schedule for today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1491929592175,
+      "content": "HELLLO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489017093121,
+      "content": "Thanks you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1489016220525,
+      "content": "Yeah its on there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489016201933,
+      "content": "Ooo okay ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1489016178938,
+      "content": "Yes, its open until this Friday. It's on the official page, lemme checktosee if Monica added it to the pinned post",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489015560337,
+      "content": "If so, where do I find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489015552941,
+      "content": "Just wondering, SPC apps are still open?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1489015540075,
+      "content": "HELLO THERE",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486070306522,
+      "content": "just wondering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1486070134036,
+      "content": "Hmm. That's a good question. Not sure atm,  why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069460056,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069459441,
+      "content": "what major is liza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1486069456346,
+      "content": "hello there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479410804491,
+      "content": "Yes I am currently in between Langson and gateway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479410778386,
+      "content": "You on your way? My last one finished early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479410007134,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479409831717,
+      "content": "Courtyard next to the park down the stairs from Langson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479409750619,
+      "content": "Where do we meet? !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479349645425,
+      "content": "Yup!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479349495447,
+      "content": "thanks, maybe Ill see ya there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479348850822,
+      "content": "8:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479348824490,
+      "content": "uh lemme check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479348817170,
+      "content": "i shall do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479348720904,
+      "content": "cool, ponder your answers and everything. what time does your showcase practice start tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479348309696,
+      "content": "Hey I signed up for an interview with you tomorrow at 11:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479250378042,
+      "content": "Ill sign up for Sunday then! Lemme just see if I can make it LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479250309504,
+      "content": "yar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479250293433,
+      "content": "You're doing interviews Sunday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479250078474,
+      "content": "sure. just lemme know when you would prefer to meet or if you can't make it in person, I'm sure we could figure something out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479249907290,
+      "content": "Hahaha thanks for being nice Alan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479249881766,
+      "content": "cmon dawg im trying to be understanding of your plight as a very busy boy and you're telling me \"nah it's all my fault\". quit being too nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479249307307,
+      "content": "Nah it's fine! It's my fault for not scheduling it earlier. At this point it's on me!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479249260953,
+      "content": "I mean I can work with you too, I don't want you to have to go through that much of an inconvenience just for me, it's not like my interview is even that important tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479248755044,
+      "content": "I'll find time for you don't worry! I just need to see how much hw I get done today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479244651044,
+      "content": "What time works for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1479243410269,
+      "content": "I will! I saw it last night but if I remember correctly none of the times worked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alan Perez",
+      "timestamp_ms": 1479236734371,
+      "content": "hey, sign up for an interview with me",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alan Perez",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AlanPerez_QfLYhg94kw"
+}

@@ -1,0 +1,553 @@
+{
+  "participants": [
+    {
+      "name": "Anika Hussain"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1510201988736,
+      "content": "you can text me and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1510201983328,
+      "content": "9492930531",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1510201976563,
+      "content": "texting is usually better for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510201936299,
+      "content": "I forgot to ask lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510201932102,
+      "content": "Is texting or fb messaging better btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510201920721,
+      "content": "That's good!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1510188758154,
+      "content": "shoot sorry i had my notifications off! it's going pretty good i didn't procrastinate on my work for once!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510087836898,
+      "content": "How's week 6 going for ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1510087829460,
+      "content": "Hellllooo mentee how are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509684198051,
+      "content": "Nice good job!!\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509680023260,
+      "content": "i think i got them all besides one part of a problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509680006699,
+      "content": "it actually wasn't bad!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509671753261,
+      "content": "How was your midterm!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509417812079,
+      "content": "Oh god rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509417797977,
+      "content": "i would be if i wasn't in this awful class rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509417751462,
+      "content": "You better be studying mentee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509147464013,
+      "content": "Of course mentee!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509141460992,
+      "content": "ok i will thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509139677634,
+      "content": "You could also just look on the engineering website for professors research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509139656953,
+      "content": "Brian Demsky is my actual professor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509139645763,
+      "content": "I think some are grad students and some are professors/assistant professors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509139558260,
+      "content": "wait i think these people are grad students",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509139310303,
+      "content": "it's for LIFE we're planning an event where some faculty talk about stuff to the people in ESC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509139253321,
+      "content": "Yup! What's this for tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509139066690,
+      "content": "omg thanks justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509137722266,
+      "content": "And then I might be able to give you my friend's email and he might be able to help cause he was the one plan the event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509137680964,
+      "content": "So they might be willing to present again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509137669924,
+      "content": "So we recently had a research networking day and those are the professors that participated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509137617158,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/AnikaHussain_2XqS3GPNkQ/photos/22883735_460734900988206_1075352183_o_460734900988206.jpg",
+          "creation_timestamp": 1509137616
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509137087248,
+      "content": "In a faculty meeting? Hmm lemme look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509134456184,
+      "content": "hey do you know any cool engineering professors who'd wanna talk in some faculty meeting about their research or something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509067831993,
+      "content": "i'm here too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509067824929,
+      "content": "I'm here! Lemme know when you get here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509067071332,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509066844303,
+      "content": "I'll meet you in front of cha! I'll be there in 15min ish!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509053969238,
+      "content": "okay nice!! yea rest for now \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509053664729,
+      "content": "for this week yea! i have physics next thursday which ill deal with later\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509053622360,
+      "content": "did you finish all your midterms :)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509053613808,
+      "content": "awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509053599069,
+      "content": "sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509053582693,
+      "content": "6:30ish ! yay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1509053492621,
+      "content": "yep! at 6-ish right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1509047394206,
+      "content": "Hi mentee!!! Still on for tonight??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508780232134,
+      "content": "That's okay! Just thought I should let you know just in case \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508777824023,
+      "content": "i have class tonight:(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508721662199,
+      "content": "Hi mentee! there's a neat workshop happening tomorrow if you're interested \u00f0\u009f\u0098\u008a only if you're free of course!",
+      "share": {
+        "link": "https://www.facebook.com/events/465766697138893/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508460068492,
+      "content": "Yes see you then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508460045533,
+      "content": "hahaha it's all good! see you then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508460030521,
+      "content": "Oh yea it's next Thursday \u00f0\u009f\u0098\u0082 my bad lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508460006450,
+      "content": "oh shoot i thought we were doing next thurs!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508457473964,
+      "content": "Hi mentee! Still up for boba tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508347187876,
+      "content": "Okay lets go cha for now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508343862188,
+      "content": "ya sounds good. and i really don't care whatever's easiest for you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508343381700,
+      "content": "Okay! So 6:30ish? We can get cha or I can drive us to a better boba place \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508343286471,
+      "content": "ok awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508343276245,
+      "content": "I have class til 6:30! So after that then I'm down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508343226898,
+      "content": "would next thursday after 6 work for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508343216163,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508343184984,
+      "content": "So did you wanna reschedule our boba hangout \u00f0\u009f\u0099\u0082?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508343170032,
+      "content": "Awww mentee\u00f0\u009f\u0098\u00ad it's okay!! Let me know if I can help in any way!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508343093301,
+      "content": "sorry i'm actually a mess cuz i have midterms this week\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508342066874,
+      "content": "If you're too busy we can always reschedule too :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508342048866,
+      "content": "\u00f0\u009f\u0098\u0082 sounds good to me!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508340508980,
+      "content": "wait omg my class is actually at 6:30 do you want to do boba at like 4 instead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508286288501,
+      "content": "Okay awesome!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508285935516,
+      "content": "ya that sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508285916575,
+      "content": "Okay! So wanna do cha around 6pm tomorrow? I understand that you're busy so it's completely up to you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508285526512,
+      "content": "actually boba sounds better because i have to go to a LIFE meeting afterwards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508285172714,
+      "content": "Unless you wanna just get boba or something that works too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508285162464,
+      "content": "Wanna do somewhere in utc? You choose! It'll be my treat!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508282599556,
+      "content": "Yes sorry! where should we meet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508282461598,
+      "content": "Hi mentee! Are we still meeting up Wednesday \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508110583768,
+      "content": "Okay!! I'm down to get some dinner around that time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508109229462,
+      "content": "i'm available after 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508108947728,
+      "content": "I'm free after 4! What about you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508108702298,
+      "content": "ya Wednesday works! what time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508108222547,
+      "content": "Ahh shoot okay. How about Wednesday night? We can grab some dinner!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508107727569,
+      "content": "tuesday's and thursday's aren't good for me because i have class all day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508107188650,
+      "content": "Oooohh yea I understand it's okay sometimes you can't help it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508107170520,
+      "content": "Oh man what about Thursday? Or Tuesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508106848816,
+      "content": "it sucks because my schedule conflicts with most club meetings so idk how i'm supposed to keep up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508106829034,
+      "content": "i had class tuesday til 8:(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508106816848,
+      "content": "i can do friday after 12?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508106710317,
+      "content": "Also why didn't you go to any of the EMF events!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508106698701,
+      "content": "Ah I have class all day Wednesday \u00f0\u009f\u0098\u0082 any other time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anika Hussain",
+      "timestamp_ms": 1508098852008,
+      "content": "Hey Justin! I'm free Wednesday after 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508055017300,
+      "content": "HI!!! I'm your mentor for EMF! I'm a third year Computer Engineer \u00f0\u009f\u0098\u0084 are you free anytime this week so we can meet/hangout?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1508052394044,
+      "content": "Say hi to your new Facebook friend, Anika.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anika Hussain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnikaHussain_2XqS3GPNkQ"
+}

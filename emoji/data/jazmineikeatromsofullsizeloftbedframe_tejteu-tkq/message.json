@@ -1,0 +1,496 @@
+{
+  "participants": [
+    {
+      "name": "Jazmine Guilin Hurtado"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506203654445,
+      "content": "I'm outside",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506202515882,
+      "content": "Okay I'll be there in 10 min!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506202497551,
+      "content": "Its 631 stanford court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506202490882,
+      "content": "Hi im here now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506200373553,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506200257225,
+      "content": "Perfect thanks!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506200246659,
+      "content": "I can wait til you're there ! Just lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506200216966,
+      "content": "My roommate is at my apartment but im running a lil behind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506200167194,
+      "content": "I'm getting ready to leave rn. Is now a good time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506200159122,
+      "content": "Whichever is easier!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506200147246,
+      "content": "Did u want cash or is venmo ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506200140896,
+      "content": "Hi!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506200120032,
+      "content": "Hi justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506189925002,
+      "content": "You: \u00f3\u00b0\u0080\u0080",
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506185712002,
+      "content": "I think 2pm should be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506185663532,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506177264889,
+      "content": "Good morning! When can I take the bed to you? No rush just wanted a estimated time so I can plan ahead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506038804970,
+      "content": "Okay just lemme know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037987518,
+      "content": "I still havent confirmed the time yet but most likely in the afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037964924,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037833722,
+      "content": "So Saturday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037830863,
+      "content": "Okay awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037820765,
+      "content": "Lol yes please!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037808598,
+      "content": "With that being said would you still want to buy it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506037798199,
+      "content": "Okay well before you %100 confirm I need to tell you that I just broke a screw so you'll be missing one. It's not an important one tho so it'll be fine to build without it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037450431,
+      "content": "I lost my phone there for a second",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037442013,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506037440004,
+      "content": "Ill take it!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506036934868,
+      "content": "Hey when can you let me know? I'm getting a lot of offers and I'm not sure what to tell them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506021592105,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506021590917,
+      "content": "Thats fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506021513659,
+      "content": "I'm not I'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506021492989,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506021491570,
+      "content": "Youre not selling the mattress by any chance are youV",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506021477727,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506019350137,
+      "content": "Alright let me know as soon as possible! Thanks!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506019181842,
+      "content": "It should be fine tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506019181721,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506019176723,
+      "content": "The ladder sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506018308660,
+      "content": "What do you mean move it around? Can I explain anything further? lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506018271431,
+      "content": "It should be fine tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506018267677,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506018258581,
+      "content": "Let me just see what my roommate says cuz she thinks you cant really move it around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506018199691,
+      "content": "So does this mean you are confirming you'll buy it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506018169481,
+      "content": "Np!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506018137409,
+      "content": "Ok thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506017188777,
+      "content": "You can also put it on either side by just flipping the railing with a gap in it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1506017169038,
+      "content": "Yes! You can choose to screw in the ladder or not (I didn't screw it in)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506017133986,
+      "content": "Can the ladder be moved?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1506017124529,
+      "content": "Hi justin! I have one more question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505975411996,
+      "content": "Thanks \u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505975404514,
+      "content": "Ok ill let you know sometime tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505975370501,
+      "content": "Just let me know what time Saturday and it should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505975356277,
+      "content": "Yup np!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505975261213,
+      "content": "Im back home right now but ill be in irvine on saturday if youre able to drop it off then!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505975222131,
+      "content": "You live close so I can drop it off to you for free. When would you want it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505975200590,
+      "content": "Okay awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505975088273,
+      "content": "That should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974992758,
+      "content": "I'm 5'4\" and I can walk under it perfectly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974976056,
+      "content": "How tall are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974900103,
+      "content": "Can u walk underneath it comfortably?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974885799,
+      "content": "But",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974884609,
+      "content": "I can probably find it online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974874324,
+      "content": "Actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974808638,
+      "content": "And yea lemme find a tape measurer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974801370,
+      "content": "No I don't sorry lol but I can deliver it to you for free if you want?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974686404,
+      "content": "Thatd be great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974669766,
+      "content": "I can find a tape measurer if you want the dimensions?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974668708,
+      "content": "By any chance did you live in stanford? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974641089,
+      "content": "It doesn't really take up that much space! I had a really small room myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974449016,
+      "content": "The room ill be moving into is somewhat small and my roommate is worried itll take up a lot of space in the room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974414118,
+      "content": "Space in what regards?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505974409047,
+      "content": "Yea no problem!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974368120,
+      "content": "Does it take up a lot of space?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505974367574,
+      "content": "Ok great, im interested but i have some questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1505973283165,
+      "content": "Hi! Yes it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505971239130,
+      "content": "Hi! Is the bed frame still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505971239024,
+      "content": "Jazmine changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jazmine Guilin Hurtado",
+      "timestamp_ms": 1505971237794,
+      "content": "Jazmine named the group Jazmine \u00c2\u00b7 IKEA TROMSO Full Size Loft Bed Frame.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jazmine \u00c2\u00b7 IKEA TROMSO Full Size Loft Bed Frame",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JazmineIKEATROMSOFullSizeLoftBedFrame_TEJtEU-TkQ"
+}

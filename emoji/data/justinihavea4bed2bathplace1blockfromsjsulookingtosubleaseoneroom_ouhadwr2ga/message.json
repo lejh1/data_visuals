@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Yosias Hailu"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525905247020,
+      "content": "hm okay I will get back to you with this offer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yosias Hailu",
+      "timestamp_ms": 1525905155852,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yosias Hailu",
+      "timestamp_ms": 1525903156406,
+      "content": "Sublease from end of May to end of August",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yosias Hailu",
+      "timestamp_ms": 1525903141848,
+      "content": "Double is 800",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525902890194,
+      "content": "Okay and how much is the double? and what are the dates you'll be subleasing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yosias Hailu",
+      "timestamp_ms": 1525902749054,
+      "content": "Yes but it\u00e2\u0080\u0099s 1600 for a single",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525902377423,
+      "content": "Hi! I am interested in the single room! Is this offer still available and if so can I have some more information in regards to price and dates of availability?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1525902376761,
+      "content": "You named the group Justin \u00c2\u00b7 I have a 4 bed 2 bath place 1 block from SJSU, looking to sublease one room.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Justin \u00c2\u00b7 I have a 4 bed 2 bath place 1 block from SJSU, looking to sublease one room.",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JustinIhavea4bed2bathplace1blockfromSJSUlookingtosubleaseoneroom_OuHADwr2GA"
+}

@@ -1,0 +1,175 @@
+{
+  "participants": [
+    {
+      "name": "Caitlin Audrey"
+    },
+    {
+      "name": "Kristin Chingburanakit"
+    },
+    {
+      "name": "Francis Angeles"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669513129,
+      "content": "Francis we here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523669270305,
+      "content": "Kristin looks so happy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669263319,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669261308,
+      "content": "Coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669259172,
+      "content": "You sent a photo.",
+      "photos": [
+        {
+          "uri": "messages/inbox/CaitlinKristinandFrancis_ENikZ9Di8w/photos/30703961_534935120234850_2195197839850602496_n_534935106901518.jpg",
+          "creation_timestamp": 1523669258
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523669250041,
+      "content": "LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1523669243812,
+      "content": "He\u00e2\u0080\u0099s currently sitting on me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669243051,
+      "content": "I hope she's done soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669237900,
+      "content": "And showering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523669230376,
+      "content": "Okay! Waiting on Kristin she's putting on makeup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523669191647,
+      "content": "Here at Kristin's!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523668221496,
+      "content": "Okay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523667921132,
+      "content": "20*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523667918003,
+      "content": "I'll be there in 29",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523667896477,
+      "content": "Omw!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523667520973,
+      "content": "I'm walking over to her house rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Francis Angeles",
+      "timestamp_ms": 1523667500701,
+      "content": "Pick me up last",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1523666825030,
+      "content": "Kristin sent a location.",
+      "share": {
+        "link": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=33.648216307533%2C+-117.8370588593&FORM=FBKPL1&mkt=en-US"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kristin Chingburanakit",
+      "timestamp_ms": 1523666814927,
+      "content": "Yep!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523666807460,
+      "content": "Okie!! That's in Berkeley right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523666795449,
+      "content": "im on campus rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1523666791633,
+      "content": "ill just go to @Kristin Chingburanakit 's place!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523666637583,
+      "content": "I'm gonna head out at 6!\n\nJustin, where do you live lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Caitlin Audrey",
+      "timestamp_ms": 1523666637202,
+      "content": "Caitlin created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Caitlin, Kristin and Francis",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/CaitlinKristinandFrancis_ENikZ9Di8w"
+}

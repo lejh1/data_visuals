@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Ally Dalman"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534961400819,
+      "content": "Np!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534961271938,
+      "content": "Thanks!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534961256531,
+      "content": "Ohhh okay I\u00e2\u0080\u0099ll just do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534961170638,
+      "content": "And I didnt even know how to scan it so I took a picture and sent that in and it was fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534961155551,
+      "content": "I filled it out on excel except for the signatures, printed it out, signed it and then sent it to HR",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534961135210,
+      "content": "I was super confused too when I first saw it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534961122135,
+      "content": "Okay I\u00e2\u0080\u0099m like super confused on how to fill it out haha are you suppose to fill it out in excel then print it then scan it to HR? Or print it then fill it out then scan it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534961080301,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534960893524,
+      "content": "Did you have to fill out the paper time sheet for your last week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ally Dalman",
+      "timestamp_ms": 1534960871619,
+      "content": "Sure what\u00e2\u0080\u0099s up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534956941602,
+      "content": "Hello! Can you help me with something haha?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1534956921976,
+      "content": "You waved at Ally!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1533940771945,
+      "content": "Say hi to your new Facebook friend, Ally.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ally Dalman",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AllyDalman_Z2wr4K-yFQ"
+}

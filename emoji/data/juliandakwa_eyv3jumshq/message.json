@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Julian Dakwa"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julian Dakwa",
+      "timestamp_ms": 1478206717890,
+      "content": "Abel and Danny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julian Dakwa",
+      "timestamp_ms": 1478206705576,
+      "content": "I remember now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Julian Dakwa",
+      "timestamp_ms": 1478206665842,
+      "content": "lol no idea who you're talking about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1478202861258,
+      "content": "hey man what are the names of the two twins that are computer engineers?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Julian Dakwa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JulianDakwa_EYV3jUMShQ"
+}

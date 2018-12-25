@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Brian Ligh"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1473014848501,
+      "content": "Thanks. Likewise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justin Le",
+      "timestamp_ms": 1472972578362,
+      "content": "Hey man! Looking forward to being housemates. I know I kinda already said this but oh well.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brian Ligh",
+      "timestamp_ms": 1472954565685,
+      "content": "Say hi to your new Facebook friend, Brian.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brian Ligh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BrianLigh_vkjOc6NpAQ"
+}

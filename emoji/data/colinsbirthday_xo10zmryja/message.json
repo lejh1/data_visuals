@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Brany Yourk"
+    },
+    {
+      "name": "Rosalio Cruz"
+    },
+    {
+      "name": "Michelle Tanaka"
+    },
+    {
+      "name": "Adam Ycneda"
+    },
+    {
+      "name": "Justin Le"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494343926809,
+      "content": "ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1494343918725,
+      "content": "like sometime next week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494343900493,
+      "content": "after mothers day?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1494343894073,
+      "content": "*after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494343879370,
+      "content": "acter?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rosalio Cruz",
+      "timestamp_ms": 1494343862140,
+      "content": "He wants to get sushi acter I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494342925440,
+      "content": "Adam changed the chat colors.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494342899206,
+      "content": "Hey guys! Colin's birthday is gonna be on mothers day so do you wanna celebrate on saturday or sometime earlier? Im free after friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ycneda",
+      "timestamp_ms": 1494342834303,
+      "content": "Adam named the group Colin's Birthday.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Colin's Birthday",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ColinsBirthday_xo10ZmrYJA"
+}
